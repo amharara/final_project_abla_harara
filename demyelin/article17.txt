@@ -1,0 +1,2344 @@
+Mol Neurobiol
+DOI 10.1007/s12035-015-9355-3
+
+Pathophysiological Roles of Cyclooxygenases
+and Prostaglandins in the Central Nervous System
+
+Tatsurou Yagami 1 & Hiromi Koma 1 & Yasuhiro Yamamoto 1
+
+Received: 8 January 2015 /Accepted: 7 July 2015
+# Springer Science+Business Media New York 2015
+
+Abstract Cyclooxygenases (COXs) oxidize arachidonic acid
+to prostaglandin (PG) G2 and H2 followed by PG synthases
+that generates PGs and thromboxane (TX) A2. COXs are di-
+vided into COX-1 and COX-2. In the central nervous system,
+COX-1 is constitutively expressed in neurons, astrocytes, and
+microglial cells. COX-2 is upregulated in these cells under
+pathophysiological conditions. In hippocampal long-term po-
+tentiation, COX-2, PGE synthase, and PGE2 are induced in
+post-synaptic neurons. PGE2 acts pre-synaptic EP2 receptor,
+generates cAMP, stimulates protein kinase A, modulates
+voltage-dependent calcium channel, facilitates glutamatergic
+synaptic transmission, and potentiates long-term plasticity.
+PGD2, PGE2, and PGI2 exhibit neuroprotective effects via
+Gs-coupled DP1, EP2/EP4, and IP receptors, respectively.
+COX-2, PGD2, PGE2, PGF2α, and TXA2 are elevated in
+stroke. COX-2 inhibitors exhibit neuroprotective effects
+in vivo and in vitro models of stroke, Alzheimer’s disease,
+Parkinson’s disease, multiple sclerosis, amyotrophic lateral
+sclerosis, epilepsy, and schizophrenia, suggesting neurotoxic-
+ities of COX products. PGE2, PGF2α, and TXA2 can contrib-
+ute to the neurodegeneration via EP1, FP, and TP receptors,
+respectively, which are coupled with Gq, stimulate phospho-
+lipase C and cleave phosphatidylinositol diphosphate to pro-
+duce inositol triphosphate and diacylglycerol. Inositol triphos-
+phate binds to inositol triphosphate receptor in endoplasmic
+reticulum, releases calcium, and results in increasing intracel-
+lular calcium concentrations. Diacylglycerol activates
+
+calcium-dependent protein kinases. PGE2 disrupts Ca2+ ho-
+meostasis by impairing Na+-Ca2+ exchange via EP1, resulting
+in the excess Ca2+ accumulation. Neither PGE2, PGF2α, nor
+TXA2 causes neuronal cell death by itself, suggesting that they
+might enhance the ischemia-induced neurodegeneration.
+Alternatively, PGE2 is non-enzymatically dehydrated to a
+cyclopentenone PGA2, which induces neuronal cell death.
+Although PGD2 induces neuronal apoptosis after a lag time,
+neither DP1 nor DP2 is involved in the neurotoxicity. As well
+as PGE2, PGD2 is non-enzymatically dehydrated to a
+cyclopentenone 15-deoxy-Δ12,14-PGJ2, which induces neuro-
+nal apoptosis without a lag time. However, neurotoxicities of
+these cyclopentenones are independent of their receptors. The
+COX-2 inhibitor inhibits both the anchorage-dependent and
+anchorage-independent growth of glioma cell lines regardless
+of COX-2 expression, suggesting that some COX-2-
+independent mechanisms underlie the antineoplastic effect of
+the inhibitor. PGE2 attenuates this antineoplastic effect, sug-
+gesting that the predominant mechanism is COX-dependent.
+COX-2 or EP1 inhibitors show anti-neoplastic effects. Thus,
+our review presents evidences for pathophysiological roles of
+cyclooxygenases and prostaglandins in the central nervous
+system.
+
+Keywords Cyclooxygenase . Prostaglandin . Thromboxane .
+Cyclopentenone . Long-term potentiation . Stroke .
+Alzheimer’s disease
+
+* Tatsurou Yagami
+
+yagami@himeji-du.ac.jp
+
+1 Division of Physiology, Faculty of Pharmaceutical Sciences, Himeji
+
+Dokkyo University, 2-1-7, kami-ohno, Himeji, Hyogo 670-8524,
+Japan
+
+Abbreviations
+AA
+Aβ
+AC
+AD
+
+Arachidonic acid
+Amyloid β protein
+Adenylate cyclase
+Alzheimer’s disease
+
+AIDS
+ALS
+AMPA
+
+Acquired immunodeficiency syndrome
+Amyotrophic lateral sclerosis
+Amino-3-hydroxy-5-methyl-4-
+isoxazolepropionic acid
+Bipolar disorder
+
+BD
+CaMK II Calcium/calmodulin-dependent protein kinase II
+CJD
+CNS
+COX
+CRTH2
+
+Creutzfeldt-Jakob disease
+Central nervous system
+Cyclooxygenase
+Chemoattractant receptor homologous
+molecule expressed on Th2 cells
+Cerebrospinal fluid
+Cytosolic PGE synthase
+Cytosolic phospholipase A2
+15-deoxy-Δ12,14-PGJ2
+Receptors for PGD2
+Receptors for PGE2
+Endoplasmic reticulum
+Receptors for PGF2α
+
+CSF
+cPGES
+cPLA2
+15d-PGJ2
+DP
+EP
+ER
+FP
+H-PGDS Hematopoietic PGD synthase
+6-OHDA 6-Hydroxydopamine
+IP
+L-VDCC L-type voltage-dependent calcium channel
+L-PGDS
+LTP
+L-VDCC L-type voltage-dependent Ca2+ channel
+MAPK
+MCA
+mPGES Membrane-associated perinuclear PGE synthase
+MPTP
+MS
+NMDA
+NSAIDs
+MPTP
+MS
+PD
+PG
+PPARγ
+PLA2
+PLC
+PKC
+PKA
+sPLA2
+SNpc
+TP
+TXA2
+WT
+
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+Multiple sclerosis
+N-methyl-D-aspartate
+Nonsteroidal anti-inflammatory drugs
+1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+Multiple sclerosis
+Parkinson’s disease
+Prostaglandin
+Peroxysome proliferators-activated receptor γ
+Phospholipase A2
+Phospholipase C
+Calcium-dependent protein kinase
+cAMP-dependent protein kinase
+Secreted phospholipase A2
+Substantia nigra pars compacta
+Receptors for TXA2
+Thromboxane A2
+Wild type
+
+Receptors for PGI2
+
+Lipocalin-type PGD synthase
+Long-term potentiation
+
+Mitogen-activated protein kinase
+Middle cerebral artery
+
+Background
+
+Cyclooxygenases (COXs) catalyze the rate-limiting step in the
+formation of prostaglandins (PGs) from arachidonic acid
+
+Mol Neurobiol
+
+Fig. 1 Arachidonic acids cascade. PLA2 liberates phospholipids and
+generates AA. AA is metabolized to PGG2 and PGH2 by COX. PGH2
+is metabolized to PGD2, PGF2, PGE2, PGI2, and TXA2 by each PG
+synthase, respectively. Receptors for conventional PGs are coupled with
+Gs, Gi, and Gq, which stimulates AC, inhibits the enzyme, and activates
+PLCβ1, respectively. Gs-coupled receptors exhibit neuroprotectivity via
+PKA, whereas Gq-coupled receptors do neurotoxicity via Ca2+ and PKC.
+PGD2 are non-enzymatically metabolized to PGJ2, Δ12-PGJ2, and 15d-
+PGJ2. 15d-PGJ2 acts as a neuroprotectant via its nuclear receptor PPARγ
+and as a neurotoxicant via inhibiting proteasome
+
+(AA) (Fig. 1). COXs are monotopic membrane proteins,
+whose membrane-binding domain consists of a series of am-
+phipathic α helices with several hydrophobic amino acids
+exposed to an intracellular membrane monolayer. COXs are
+classified into three isoforms: a constitutive form, COX-1, a
+mitogen-inducible form, COX-2, and a variant of COX-1,
+COX-3 [1, 2]. The human COX-1 consists of 599 amino acids
+(calculated molecular mass [Mr]=68,686). The gene of COX-
+1 maps to chromosome 9q32-q33.3 (Table 1). In the central
+nervous system (CNS), COX-1 is expressed intensely in mi-
+croglia as well as in hippocampal and cerebral cortical neurons
+[3]. Although COX-3 mRNA is abundant in the cerebral cor-
+tex, its enzymatic activity has not yet been reported. The hu-
+man COX-2 consists of 604 amino acids (calculated molecu-
+lar mass [Mr]=68,996). The gene of COX-2 maps to chromo-
+some 1q25.2-q25.3 (Table 1). Unlike in most tissues,
+Binducible^ COX-2 is also constitutively expressed in several
+brain regions such as the cerebral cortex, hippocampus, and
+amygdala [4]. The COX-2 gene is expressed throughout the
+forebrain, with higher levels in the cerebral cortex and hippo-
+campus in discrete populations of neurons, but not in glia [4].
+COX-1 and COX-2 are localized at membranes of endoplas-
+mic reticulum (ER) and microsome. Within neurons, COX-2
+immunoreactivity is localized to post-synaptic sites and den-
+dritic spines [5]. COXs form PGG2 and PGH2, which can be
+metabolized by PG/TX synthases to five primary bioactive
+prostainoids (Fig. 1): PGE2, PGF2α, PGD2, PGI2 (prostacy-
+clin), and thromboxane A2 (TXA2). These prostanoids bind to
+G protein-coupled receptors designated EP (receptors for
+PGE2), FP, DP, IP, and TP, respectively, that differ in their
+
+Mol Neurobiol
+
+Table 1 Molecular profiles,
+localization, and
+pathophysiological expression of
+brain COX
+
+COX-1
+
+COX-2
+
+Length
+Molecular mass
+Chromosome
+Subcellular location
+Constitutive localization
+Induction
+LTP
+Stroke
+AD
+PD
+MS
+ALS
+Epilepsy
+SCZ
+BD
+CJD
+AIDS
+Neoplasm
+
+599 (1-12: signal peptide)
+68,686
+9q32-q33.3
+Membrane (ER, microsome)
+Neuron, astrocyte, microglia
+
+Up (microglia)
+
+Up (microglia)
+Up
+Up (glioma)
+
+604 (1-17: signal peptide)
+68,996
+1q25.2-25.3
+Membrane (ER, microsome)
+Glutamatergic neuron (CTX, HPC, AMG) [4]
+Neuron, astrocyte, microglia
+Up (post-synaptic spine)
+Up (neuron)
+Up (neuron)
+Up (neuron, microglia)
+Up (oligodendrocyte, microglia)
+Up (microglia)
+Up (astrocyte)
+Up (frontal CTX)
+Up (prefrontal CTX)
+
+Up (glioma, meningiomas)
+
+This Table 1 illustrates molecular profiles of COXs in the brain. COXs are expressed in neurons, astrocytes,
+oligodendrocytes, and microglial cells in physiological conditions and neurological diseases
+CTX cerebral cortex, HPC hippocampus, AMG amygdala, LTP long-term potentiation, AD Alzheimer’s disease,
+PD Parkinson’s disease, MS multiple sclerosis, ALS amyotrophic lateral sclerosis, SCZ schizophrenia, BD bipolar
+disease, CJD Creutzfeldt-Jakob disease, AIDS acquired immunodeficiency syndrome
+
+effects on cAMP and/or phosphoinositol turnover and intra-
+cellular Ca2+ mobilization [6]. Eicosanoids are divided into
+two groups according to their mechanism of action: the con-
+ventional prostanoids (e.g., PGD2 and PGE2) and the
+cyclopentenone-type PGs (e.g., PGJ2 and PGA2.)
+
+Pathophysiological Roles of COX in the CNS
+
+In the CNS, COX-2 is constitutively expressed in hippocam-
+pal and cortical glutamatergic neurons (Table 1), where it has a
+pivotal role in long-term synaptic plasticity [5] and in the
+neurovascular coupling during functional hyperemia [7].
+COX-2 is upregulated and plays pathophysiological roles in
+long-term potentiation (LTP), stroke, Alzheimer’s disease
+(AD), Parkinson’s disease (PD), multiple sclerosis (MS),
+amyotrophic lateral sclerosis (ALS), epilepsy, schizophrenia
+(SCH), bipolar disorder (BD), Creutzfeldt-Jakob disease
+(CJD), acquired immunodeficiency syndrome (AIDS), and
+neoplasm.
+
+Long-Term Potentiation
+
+LTP has been proposed as one of mechanisms for memory
+formation. It is associated with amino-3-hydroxy-5-methyl-
+4-isoxazole propionic acid (AMPA) receptors activation and
+
+Fig. 2 Physiological roles of COX and PGE2 on the synaptic plasticity.
+Calcium plays a well-defined role in the biochemical transduction of
+signals from the synapse to the nucleus. In response to synaptic activity
+and neurotransmitter release, extracellular calcium flows into the post-
+synaptic cell through synaptic and extrasynaptic ligand-gated and volt-
+age-dependent calcium channels. Major routes of entry with well-
+established effects on nuclear gene expression are the NMDA receptor
+(NMDAR). Calcium-permeable AMPA receptors (AMPAR) may play a
+role at developing synapses or after the induction of synaptic plasticity.
+Calcium signals can also be amplified by calcium-induced release of
+calcium from intracellular stores, triggered by activation of inositol tri-
+phosphate receptors (IP3R). Calcium at the mouth of the channel, in the
+cytoplasm, or within the nucleus can signal to activity-dependent tran-
+scription factors. Alterations in calcium influx into the post-synaptic cell
+during development or as a result of mutation modulate the induction of
+gene expression in response to neuronal activity. ER denotes endoplasmic
+reticulum
+
+release of AA [8]. Influx of calcium ions through N-methyl-D-
+aspartate (NMDA) receptors into post-synaptic spine triggers
+biochemical processes associated with LTP, which is believed
+to underlie memory formation in the CNS including the hip-
+pocampus and amygdala (Fig. 2). The increased calcium con-
+centration in the spine activates key enzymes such as calcium/
+calmodulin-dependent protein kinase II (CaMK II) [9] and
+mitogen-activated protein kinases (MAPK) [10]. AMPA re-
+ceptors are activated by phosphorylation by CaMKII,
+resulting in an increase of Ca2+ entry into post-synaptic neu-
+rons. As shown in Table 1, expression of COX-2 is up-
+regulated at the post-synaptic spine by a high-frequency stim-
+ulation that is associated with LTP induction [4]. Selective
+COX-2 inhibitors significantly reduce post-synaptic mem-
+brane excitability, back-propagating dendritic action
+potential-associated Ca2+ influx, and LTP induction in hippo-
+campal dentate granule neurons, whereas a COX-1 inhibitor is
+ineffective. All of these actions were effectively reversed by
+exogenous application of PGE2 but not of PGD2 or PGF2α
+[11]. Thus, COX-2-produced PGE2 in post-synapse potenti-
+ates LTP via pre-synaptic EP2-PKA pathway.
+
+Stroke
+
+Ischemic and hemorrhagic strokes are associated with severe
+functional disability and high mortality. About 5.5 million
+people die from an ischemic stroke, rapidly progressing cere-
+bral edema that compromises arterial inflow, culminating in
+further ischemic damage [12]. Hemorrhagic stroke, while less
+prevalent than ischemic stroke, is a devastating injury that
+accounts for 15 % of strokes annually in the USA [13]. CNS
+injury is often exacerbated, in part due to the robust
+neuroinflammtory responses to extravasated blood and blood
+products. Ischemia induces the elevated intracellular calcium,
+excessive extracellular glutamate, free radicals, and inflamma-
+tion, resulting in neurologic malfunctions and neuronal cell
+death. As shown in Fig. 3, arachidonate cascade is involved
+in the stroke [8]. Stroke has been studied in numerous animal
+species. Mice and rats are the most commonly used species,
+with a growing use of larger species, such as rabbits and even
+nonhuman primates. The use of diverse experimental models
+is useful for experimental studies on ischemia. Ischemia is
+induced by several methods including craniotomy, arterial
+embolism, and occlusion of three or four cervical vessels
+[19]. Occlusion of the middle cerebral artery (MCA) is the
+most commonly used surgical method of producing stroke.
+By first damaging subcortical structures and then damaging
+cortical structures,
+this occlusion mimics human
+striatocapsular infarcts in terms of size and the structures af-
+fected [20]. A photochemically induced thrombotic MCA-
+occluded rat is established as one of animal model for stroke
+[21]. MCA occlusion up-regulates COX-2 in the brain of pa-
+tients [22] and in vivo models [23] (Table 1). The cortical
+
+Mol Neurobiol
+
+Fig. 3 Arachidonate cascade in dementia. Mammalian sPLA2s generate
+ROS, open L-VDCC, incorporates Ca2+ into neurons, and induces
+neuronal apoptosis. The elevated level of intracellular calcium
+concentration activates Ca2+-dependent enzymes such as cPLA2 and
+PKC. Among COX products, PGD2, PGJ2, Δ12-PGJ2, and 15d-PGJ2
+induces neuronal apoptosis. PGD2 can be transported extracellulary via
+PGD2 transporter. A transient recruitment of cPLA2 to the NADPH
+oxidase complex in plasma membrane [14], possibly because of a
+relationship between the C2 domain of cPLA2 and the PX domain of
+p47phox [15]. The role of cPLA2 in the Aβ-induced alteration of
+mitochondrial dysfunction and apoptotic cell death [16]. Activation of
+cPLA2 and release of AA may also lead to activation of the
+sphingomyelinase-ceramide pathway, which in turn is involved in the
+neurotoxic effects of Aβ [17]. As sphingomyelin is an important compo-
+nent of the neural cell plasma membrane, the ability for Aβ to activate the
+cPLA2/AA and sphingomyelinase pathways may offer an important ex-
+planation for the cytotoxic effects of Aβ on synaptic impairment and
+neuronal apoptosis [17]. Recent studies show an increase in
+sphingomyelinase and acid ceramidase in the AD brain, suggesting that
+deregulation of the sphingolipid metabolism is a part of AD pathology
+[18]. Although these studies suggest a relationship between PLA2 and
+other membrane lipids, more studies are needed to investigate how these
+changes lead to the alteration of membrane physical properties and mem-
+brane dynamics
+
+secreted phospholipase A2 (sPLA2) is also induced in re-
+sponse to focal cerebral ischemia [24–27]. sPLA2 activity is
+elevated in the cortex, in which the ischemic core and the
+penumbra coexist [24]. sPLA2-IB [24, 28] and sPLA2-IIA
+[24, 29] induce neuronal apoptosis via L-type voltage-depen-
+dent Ca2+ channel (L-VDCC) (Fig. 3).
+
+In COX-1-deficient mice, resting cerebral blood flow is de-
+creased [30], and brain ischemia/reperfusion injury is increased
+[31]. In COX-2 deficient mice, susceptibility to ischemic injury
+and NMDA neurotoxicity is reduced [31]. In the primary cul-
+ture, neurons of homozygous COX-2 gene disrupted mice are
+resistant to hypoxia compared to those of heterozygotes [32].
+Overexpression of COX-2 exacerbates neuronal cell death un-
+der both normoxia and hypoxia. After hypoxia, neuronal cell
+death is exacerbated by PGE2, PGD2, or PGF2α, but not by
+iloprost, a stable analog of PGI2. COX-2 is induced robustly
+in neuronal cell bodies and dendrites in peri-infarct regions
+during the acute phase of focal ischemic injury [33]. The
+COX-2 selective inhibitor, NS-398, reduces infarct size
+
+Mol Neurobiol
+
+following focal ischemia [23]. Another COX-2 selective inhib-
+itor, S-2474, rescues cortical neurons from undergoing sPLA2-
+IIA-induced apoptosis [34]. COX-2 selective antagonists de-
+crease the anoxia-induced neuronal cell death [32]. Thus,
+COX-2 contributes to the neuronal cell death in ischemic stroke.
+
+Alzheimer’s Disease
+
+AD is characterized clinically by progressive dementia and
+pathologically by cortical atrophy, neuronal loss, neurofibril-
+lary tangles, senile plaques, and deposits of amyloid β protein
+(Aβ) in the various regions of brain such as the cerebral cortex
+and hippocampus [35] (Fig. 3). Aggregated deposits of Aβ are
+generally assumed to have a causative role in neurodegenera-
+tion and development of AD. Aβ is a 39- to 43-amino-acid
+hydrophobic peptide and causes neuronal cell death in prima-
+ry cultures [36]. Aβ-induced neuronal cell death is typified by
+several characteristic features of apoptosis, such as formation
+of cell surface blebs, chromatin condensation, and DNA frag-
+mentation [37]. COX-1 is expressed in microglia surrounding
+amyloid plaques in the AD brain [38] (Table 1). Neuronal
+COX-2 is up-regulated in the CA1–CA4 subdivisions of the
+hippocampal pyramidal layer of AD patients [39]. COX-2 is
+also induced in neurons of transgenic mouse models for AD
+[40] and Aβ-treated SH-SY5Y neuroblastoma cells [39].
+COX-3 is expressed in AD and in the primary culture of hu-
+man neural cells treated with IL-1β and Aβ42, suggesting
+ancillary roles in membrane-based COX signaling or when
+basal levels of COX-1 or COX-2 expression persist [41].
+
+Nonsteroidal anti-inflammatory drugs (NSAIDs) reduce the
+risk of developing AD [42]. A 6-month, double-blind, placebo-
+controlled study with indomethacin seems to protect AD pa-
+tients from cognitive decline [43] and reduced levels of Aβ in
+the hippocampus and cortex in a transgenic mouse model of AD
+[44]. Aspirin is also associated with a reduced risk of AD in
+humans [45]. The beneficial actions of NSAIDs have been
+linked to their ability inhibit inducible COX-2 at sites of inflam-
+mation and their side effects (e.g., gastric damage) to inhibition
+of constitutive COX-1. COX-2 selective inhibitors, e.g., S-2474,
+prevent cerebral cortical neurons from undergoing Aβ-induced
+apoptosis [46]. The most recent trial of COX-2 inhibitors,
+rofecoxive and naproxen, found no slowing of cognitive decline
+in patients with mild to moderate AD over 12 months [40]. If
+AD patients are optimally treated with COX-2 inhibitors, these
+inhibitors can become useful therapeutic drugs for AD.
+
+Parkinson’s Disease
+
+PD is a neurodegenerative disease characterized by disabling
+motor abnormalities, which include tremor, muscle stiffness,
+paucity of voluntary movements, and postural instability [47].
+Its main neuropathological feature is the loss of the
+nigrostriatal dopamine containing neurons, whose cell bodies
+
+are in the substantia nigra pars compacta (SNpc) and nerve
+terminals in the striatum. The main neurotoxin models to
+study PD are based on the administration of a neurotoxin as
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) or 6-
+hydroxydopamine (6-OHDA). COX-2 expression is induced
+specifically within SNpc dopaminergic neurons in post-
+mortem PD specimens and in the MPTP mouse model of
+PD during the destruction of the nigrostriatal pathway [48].
+The elevation of COX-2 occurs through a JNK/c-Jun-depen-
+dent mechanism after MPTP administration (Table 1).
+Inhibition of COX-2 by acetylsalicylic acid and salicylate pro-
+vided neuroprotection in the MPTP model [49]. MPTP-
+induced neurodegeneration is significantly protected in
+COX-2-deficient mice [48, 50], suggesting therapeutic poten-
+tial of COX-2 inhibitors for PD.
+
+Multiple Sclerosis and Amyotrophic Lateral Sclerosis
+
+MS is a chronic demyelinating disease of the CNS leading to
+permanent cognitive and motor disabilities and characterized
+by inflammation, demyelination, oligodendrocyte loss, and
+axonal pathology [51]. COX-2 protein expression is also in-
+creased in regions of active demyelination (Table 1) and co-
+expressed mostly with markers of macrophages/microglia
+[52], oligodendrocytes [53], and apoptosis [53]. In
+cuprizone-induced demyelination, oligodendrocyte apoptosis
+and a concomitant increase in the gene expression of COX-2
+precede histological demyelination. COX-2 were expressed
+by oligodendrocytes, suggesting a causative role for the
+COX-2 pathway in the initiation of oligodendrocytes death
+and demyelination. COX-2 gene deletion or chronic treatment
+with the COX-2 selective inhibitor celecoxib reduced
+cuprizone-induced oligodendrocytes apoptosis, the degree of
+demyelination, and motor dysfunction [54].
+
+ALS is a devastating neurodegenerative disease with the
+progressive loss of motor neurons in ventral spinal cord and
+motor cortex [55]. COX-2 is increased in activated microglial
+cells/macrophages of the dorsolateral white matter of ALS
+spinal cord [56] (Table 1). The strong upregulation of COX-
+2 mRNA in ALS [57] is in accord with studies in the super-
+oxide dismutase transgenic mouse model in which COX-2 up-
+regulation occurs [58]. Celecoxib treatment significantly de-
+layed the onset of weakness and weight loss and prolonged
+survival by 25 %. Spinal cords of celecoxib-treated ALS mice
+showed significant preservation of spinal neurons and dimin-
+ished astrogliosis and microglial activation [59]. The up-
+regulation of COX-2 in macrophages/microglia and oligoden-
+drocytes can contribute to motor dysfunction.
+
+Epilepsy
+
+Epilepsy is a chronic neurological disorder characterized by
+recurrent seizures and is frequently associated with
+
+hippocampal neuronal loss, synaptic reorganization, and me-
+sial temporal sclerosis [60]. The aberrant regulation of glial
+functions can elicit seizures and promote epileptogenesis [61].
+Glial abnormalities, including chronically activated astrocytes
+and microglia, glial scars, and various gliomas, are likely to
+form epileptic foci in the brain. COX-2 immunoreactivity in
+temporal lobe epilepsy patient material in the absence of hip-
+pocampal sclerosis is restricted to a few neurons of the hippo-
+campus (Table 1). In the presence of hippocampal sclerosis,
+on the other hand, astrocytic COX-2 immunoreactivity in the
+CA1 subfield is significantly induced with a concomitant in-
+crease in the steady-state level of COX-2 mRNA [62].
+
+Blocking the seizure-induced increase in COX-2 function
+with selective inhibitors such as rofecoxib reduces neuronal
+death, suggesting neuroprotective effect of COX-2 inhibitors
+[63]. A combination of pretreatment and post-treatment with
+the non-selective COX inhibitor naproxen is neuroprotective
+in an NMDA excitotoxicity model [64]. Even when neuropro-
+tection is observed after COX-2 inhibition, selective COX-2
+inhibitors do not prevent epileptogenesis or reduce the fre-
+quency of spontaneous seizures in animal models of epilepsy
+[65]. Although the COX-2 signaling cascade can be disease-
+modifying, it is not required for epilepsy development [65].
+Similarly, other studies demonstrate that inhibition of COX-2
+with celecoxib after kainite-induced seizures provided no sig-
+nificant improvement in neuronal damage or seizure activity
+[66]. NS-398, a selective COX-2 inhibitor, administered re-
+peatedly after kainate-induced seizures reduces hippocampal
+cell death, and this effect was mimicked in COX-2 knockout
+mice [67]. NS-398 can significantly reduce the size of an
+NMDA-induced neocortical lesion [68]. Furthermore, the le-
+sion produced by NMDA in COX-2 knockout mice is signif-
+icantly smaller than that in wild-type mice. Astrocytic COX-2
+appears to be associated with hippocampal neuronal loss in
+epilepsy rather than epilepsy development.
+
+Schizophrenia
+
+Schizophrenia is a chronic and often debilitating illness that
+affects approximately 1 % of the world’s population [69].
+Cognitive deficits are a core feature of schizophrenia, involv-
+ing abnormalities across the domains of memory, attention,
+perception, and speed of processing. This disorder is consid-
+ered to be the result of the interaction between multiple genetic
+factors and environmental vulnerability. Genetic variation in
+COX-2 is possibly involved in schizophrenia [70]. Protein and
+mRNA levels of cPLA2, sPLA2, and COX are significantly
+elevated in the post-mortem frontal cortex from schizophrenia
+patients [71]. Protein and mRNA levels of COX-2 are signif-
+icantly changed in schizophrenia as compared to controls
+(Table 1). On the other hand, those of COX-1, mPGES,
+cPGES, and 5-, 12-, 15-lipoxygenase are not significantly
+different between groups. A therapeutic effect of celecoxib
+
+Mol Neurobiol
+
+have been reported in a prospective, randomized, double-
+blind study of the COX-2 inhibitor celecoxib as an add-on to
+risperidone in acute exacerbation of schizophrenia [72]. Two
+meta-analyses have been published on this topic showing that
+the use of COX-2 inhibitors in schizophrenia shows beneficial
+effects [73], especially in early stages of the disease or in first
+manifestations [74]. Since COX-2 inhibitors exhibit therapeu-
+tic potential for schizophrenia, further studies are required to
+clear how the up-regulation of COX-2 is involved in the path-
+ogenesis of schizophrenia.
+
+Bipolar Disorder
+
+BD is characterized by recurring cycles of depressive and
+manic symptoms or hypomanic symptoms. These symptoms
+can be improved by mood stabilizers including lithium. In
+post-mortem BD compared with control, COX-2 and
+mPGES are significantly elevated in prefrontal cortex, while
+levels of COX-1 and cPGES are reduced [75]. Aspirin given
+to men undergoing coronary angiography reduces depression
+and anxiety [76]. Celecoxib shows significant positive effects
+as adjunctive therapy in BD patients experiencing depressive
+or mixed episodes, and in depressed patients [77]. In the brain,
+mood stabilizers reduce mRNA and protein of COX-2 and
+activity of COX, but not those of COX-1 [78]. These thera-
+peutic drugs also decrease concentration of PGE2. Thanks to
+therapeutic potential of COX-2 inhibitors for BD, clinical tri-
+als with aspirin in BD currently are underway.
+
+Creutzfeldt-Jakob Disease and Acquired
+Immunodeficiency Syndrome
+
+Coexpression of CD68 (phagocytic macrophages and
+microglial cells) in COX-1-expressing cells is found in areas
+of severe tissue damage and also around vacuoles in post-
+mortem brains from patients with CJD [79]. In sporadic CJD
+patients, high CSF levels of PGE2 were associated with short
+survival [80], indicating that the inflammatory response is
+correlated with the clinical outcome of the disease. Activated
+COX-1-expressing microglia in CJD patients could account
+for increased production of PGE2 and cytokines and might
+contribute to the complex process of neurodegeneration.
+Elevated levels of PGE2, PGF2α, and TXB2 have been found
+in the cerebrospinal fluid (CSF) of patient with HIV-
+associated dementia and have been linked with the severity
+of cognitive impairment. Because COX-1 mRNA is up-
+regulated approximately twofold in HIV demented compared
+with the non-demented patients, whereas COX-2 mRNA ex-
+pression is unchanged, the increase in the PG levels is likely to
+be selectively mediated by COX-1 [81]. In contrast to other
+neurological diseases, COX-1 is up-regulated in CJD and
+AIDS, but COX-2 is not altered. It has not been sufficiently
+clarified how COX-1 is involved in the two diseases.
+
+Mol Neurobiol
+
+Neoplasm
+
+Cancerous tumors in the brain can be divided into primary
+tumors and metastasis tumors. The formers are originated in
+the brain, and the latters are spread from other tissues besides
+brain. Gliomas and other neuroepithelial tumors make up
+49 % of primary brain tumors, and meningiomas are the sec-
+ond most common primary brain tumor (27 %) [82]. Gliomas
+are classified as astrocytomas, oligodendrogliomas, and
+oligoastrocytomas on the basis of the phenotypical resem-
+blance of tumor cells to normal glia (astrocytes or oligoden-
+drocytes, or a combination of both). Gliomas and meningio-
+mas are also found to overexpress COX compared with nor-
+mal brain tissue (Table 1). Overexpression of both COX-1 and
+COX-2 enzymes is documented in human gliomas. In astro-
+cytic gliomas, COX-1 is predominantly expressed in
+macrophages/microglial cells of the tumor mass, whereas
+COX-2 expression is mostly found in tumor cells and in single
+macrophages/microglial cells in perinecrotic areas [83].
+Expression of COX-1 is higher in tumor cells of those patients
+whose tumors have Bupgraded^ to a more malignant pheno-
+type. The lower the COX-1 labeling score is, the longer both
+survival and the time to tumor progression are [83]. COX-2
+expression is also correlated with the pathological grade [84].
+NS-398 reduces the proliferation of monolayer cell cultures,
+as well as the growth of spheroids and tumor cell migration,
+but not inhibit the tumor invasion in the coculture spheroid
+system. The eicosanoid-related process is involved in menin-
+gioma pathogenesis. Expression of COX-2 in meningiomas is
+associated with cell proliferation or tumor grade. COX-2 ex-
+pression is significantly stronger in the grade II meningiomas
+than in grade I tumors [85]. Among the clinicopathologic
+factors, age and COX-2 status are prognostic in progression-
+free survival. Patients with moderate or strong COX-2 expres-
+sion have worse outcome than those with negative or weak
+COX-2 expression after controlling for potential confounders.
+The molecular biomarker COX-2 has prognostic significance
+in intracranial grades I–II meningiomas [85]. Thus, inhibitors
+of both COX-1 and COX-2 possess therapeutic potential for
+primary brain tumors. Since the oral administration of COX-1
+inhibitor results in side effects on the gastrointestinal system,
+the intravenous administration of COX inhibitors are expected
+to beneficial effects for primary brain tumors.
+
+Prostaglandins
+
+PGH2 can be metabolized by various PG synthases to potent
+biological PGs (Fig. 1). Earlier, it appeared that when cells
+expressed large amounts of COX-2, the PGH2 formed could
+be saturating for the PG synthase enzymes resulting in the
+formation of proportionately larger amounts of PGE2 [86].
+In addition to the cytosolic PGE synthase (cPGES), there is
+
+an inducible microsomal or membrane-associated perinuclear
+PGE synthase (mPGES) regulated, for instance, by proinflam-
+matory cytokines and glucocorticoids. While the cytosolic
+PGE synthase is principally coupled with COX-1, this induc-
+ible mPGES appears coupled with COX-2 [87]. PGE2 is fur-
+ther dehydrated to produce PGA2 [88].
+
+Prostaglandin E2
+
+PGE2 is produced from PGH2 by three enzymes: mPGES-1,
+mPGES-2, and cPGES (Fig. 1). While the constitutive cPGES
+is principally coupled with COX-1 [89], the inducible
+mPGES-1 is coupled with COX-2 [90]. In contrast to
+mPGES-1 and cPGES, mPGES-2 exhibits no isoform-
+specific preference for PGE2 production [91]. mPGES-1 is
+expressed in cortical and hippocampal neurons [92]. COX-2
+and mPGES-1 are co-localized with PSD-95, a marker of
+dendritic spines, and support a role for activity-dependent
+COX-2/mPGES-1 production of PGE2 in synaptic plasticity
+[93] (Table 2). mPGES-1 is induced in neurons and microglia
+following transient forebrain ischemia in mice [94]. mPGES-1
+is significantly elevated in neurons, microglia, and endothelial
+cells of AD middle frontal gyrus. Although mPGES-1 is con-
+sistently present in astrocytes of control tissue, it is present in
+only some astrocytes of AD tissue [95].
+
+PGE2 is a major product downstream of COX-2 enzymatic
+activity and activates four distinct G-protein coupled recep-
+tors, EP1–EP4 (Fig. 1). EP1 couples to Gq and simulates
+phospholipase C (PLC). PLC cleaves phosphatidylinositol di-
+phosphate (PIP2) to produce inositol triphosphate (IP3) and
+diacylglycerol (DG). IP3 binds to IP3 receptor in the ER, re-
+leases calcium from ER, and results in increased intracellular
+calcium concentrations. DG activates calcium-dependent pro-
+tein kinases (PKCs). EP2 and EP4 are coupled with Gs, stim-
+ulate adenylate cyclase (AC), and increase the intracellular
+cAMP. EP3 is coupled with Gi, inhibits AC, and suppresses
+the cAMP formation. PGE2 regulates membrane excitability
+and long-term synaptic plasticity in hippocampal perforant
+path-dentate gyrus synapses [11] (Table 2). An EP2 agonist
+mimics the PGE2 effect, whereas EP1 or EP3 agonist fails to
+enhance the synaptic transmission both in hippocampal slices
+and primary cultured neurons (Fig. 2). Both EP2 and EP4 are
+associated with the Gs-cAMP-cAMP-dependent protein ki-
+nases (PKA) pathway and are expressed in pre-synaptic ter-
+minals [96]. Transiently silencing the EP2 gene eliminates the
+PGE2-enhanced miniature synaptic activity, while inhibiting
+the EP4 fails to prevent the PGE2-induced effect. The efficacy
+of PGE2 in modulation of synaptic activity is dependent on the
+activation of pre-synaptic EP2 [93]. PGE2 is produced at and
+released from the postsynaptic site and acts as a retrograde
+messenger in excitatory synaptic transmission via a pre-
+synaptic EP2 [97]. Suppressing the EP2 gene results in an
+
+Table 2 Pathophysiological
+function of PGES, PGE2, and EP
+in the CNS
+
+PGES
+
+Up: mPGES1 (HPC)
+Up: mPGES1
+
+PGE2
+
+Up
+Up
+
+Up: mPGES1
+
+Up: mPGES1
+Up: mPGES1
+Up: mPGES1
+Up: mPGES1
+
+Up (CSF) down (CTX)
+Up
+Up (CSF)
+Up (SC)
+
+Up (plasma)
+Up (CSF)
+Up (CSF)
+Up (plasma)
+
+LTP
+Stroke
+
+AD
+PD
+MS
+ALS
+Epilepsy
+SCZ
+CJD
+AIDS
+Neoplasm
+
+Mol Neurobiol
+
+EP
+
+EP2 (pre-synapse)
+EP1, EP3: neurotoxic EP2, EP4:
+
+neuroprotective
+
+EP2, EP4: neuroprotective
+
+EP2: protective (oligodendrocyte)
+EP2, EP3: neuroprotective
+EP2 antagonists: anti-epilepsy
+
+PGES, PGE2, and EP are induced in the brain, CSF, and plasma of patients with neurological diseases
+HPC hippocampus, LTP long-term potentiation, AD Alzheimer’s disease, PD Parkinson’s disease, MS multiple
+sclerosis, ALS amyotrophic lateral sclerosis, SCZ schizophrenia, CJD Creutzfeldt-Jakob disease, AIDS acquired
+immunodeficiency syndrome, CSF cerebrospinal fluid, SC spinal cord
+
+abolishment of LTP in the visual cortex [97]. COX-2-derived
+PGE2 in the facilitation of glutamatergic synaptic transmission
+and LTP is mainly mediated via the EP2. Further studies are
+required to clear how LTP is induced by the EP2-cAMP-PKA
+pathway.
+
+The level of PGE2 is elevated in the post-ischemic brain
+[98]. PGE2 exhibits opposite effects as a neurotoxican [99]
+and a neuroprotectant [100]. EP1 disrupts Ca2+ homeostasis
+by impairing Na+-Ca2+ exchange, a key mechanism by which
+neurons cope with excess Ca2+ accumulation after excitotoxic
+insults (Fig. 4). Pharmacological inhibition or gene inactiva-
+tion of EP1 ameliorates brain injury induced by excitotoxicity,
+oxygen glucose deprivation, and MCA occlusion [99].
+Although PGE2 have not yet been reported to induce neuronal
+cell death by itself, its non-enzymatic metabolite, PGA2, alone
+exhibits neurotoxicity [102].
+
+Fig. 4 Neurotoxic and neuroprotective effects of PGE2 via EP1 and EP2/
+EP4. PGE2 disrupts Ca2+ homeostasis by impairing NCX (Na+-Ca2+
+exchange) via EP1. Phosphorylation of L-VDCC by PKA enhances L-
+type Ca2+ currents by increasing the opening probability of individual
+channels [101]
+
+EP2 is abundantly expressed in the cerebral cortex, stria-
+tum, and hippocampus [103]. EP2 mediates neuroprotection
+in a cAMP-dependent manner [94]. In the transient focal is-
+chemia model, mPGES-1 and COX-2 are co-localized in the
+infarct region of the cortex (Table 2). NS-398 reduces not only
+ischemic PGE2 production but also ischemic injuries in WT
+mice, but not in mPGES-1 KO mice, which show less dys-
+function than WT mice. Genetic deletion of EP2 significantly
+increases cerebral infarction in cerebral cortex and subcortical
+structures after the MCA occlusion-reperfusion. A selective
+EP4 agonist reduces infarct volume and ameliorates long-
+term behavioral deficits after ischemia [104]. EP4 is expressed
+in neurons and markedly induced in endothelial cells after
+ischemia-reperfusion. Conditional genetic inactivation of neu-
+ronal EP4 worsens stroke outcome, consistent with an endog-
+enous protective role of neuronal EP4 signaling in vivo.
+Endothelial deletion of EP4 also worsens stroke injury and
+decreases cerebral reperfusion. An EP4 agonist increases
+levels of activated eNOS in cerebral microvessels, whereas
+the effect is abolished by conditional deletion of endothelial
+EP4. A selective EP3 agonist, ONO-AE-248, significantly
+increases infarct size in the MCA occlusion model [105].
+Pre-treatment with ONO-AE-248 exacerbates the acute
+excitotoxicity of NMDA. Conversely, genetic deletion of
+EP3 protects neurons against the toxicity of NMDA, suggest-
+ing that PGE2 can contribute to the neurotoxicity of COX via
+EP3.
+
+PGE2 is increased in the CSF of living AD patients [106],
+whereas PGE2 synthesis is reduced in the post-mortem cere-
+bral cortexes of AD patients [107]. Among three PGES en-
+zymes, only mPGES-1 is induced, and its expression is asso-
+ciated with Aβ plaques in the cerebral cortex in human AD
+patients and in a transgenic AD model. Deletion of mPGES-1
+
+Mol Neurobiol
+
+reduces the accumulation of microglia around senile plaques
+and attenuates learning impairments in the AD model [108].
+Aβ generates ROS [36] and causes neuronal apoptosis [109].
+PGE2 rescues neurons from the toxicity of Aβ [110]. Agonists
+for EP2 and EP4 prevent neurons from undergoing the Aβ-
+induced ROS generation and neuronal cell death, while those
+for EP1 and EP3 are not [111]. The PKA inhibitor significant-
+ly attenuates the neuroprotection by an EP2 agonist, but not
+that by an EP4 agonist, indicating that PGE2 can protect neu-
+rons against Aβ toxicity by the EP2-cAMP-PKA pathway
+(Fig. 4). Activation of microglia is a double-edged sword,
+since it is neuroprotective by phagocytosing Aβ and neuro-
+toxic by activating innate immunity that causes paracrine
+damage to neurons. Ablation of EP2 in microglia enhances
+the phagocytosis of Aβ without paracrine neurotoxicity [112].
+Moreover, amyloid plaques are reduced in EP1-deleted AD
+mice. Aβ-induced toxicity and Ca2+ response are also reduced
+in EP1−/− neurons compared to control neurons in vitro
+[113].
+
+PGE2 of SN is higher in PD than those in AD or control
+[114]. Microglial EP2 contributed to α-synuclein aggregation
+and associated neurotoxicity as well as microglial activation.
+In the MPTP model of PD, ventral midbrain PGE2 is princi-
+pally originated from COX-1 without any change in COX-1
+expression. The elevated level of PGE2 is ascribed to the ex-
+pression of COX-2 during MPTP-induced neurodegeneration
+[48].
+
+In the CSF of MS patients, PGE2, PGI2, PGF2α, and PGD2
+are increased [115]. In cuprizone-induced demyelination, oli-
+godendrocyte apoptosis and a concomitant increase in the
+gene expression of COX-2 and PGE2-EP2 precede histologi-
+cal demyelination. COX-2 gene deletion, chronic treatment
+with the COX-2 selective inhibitor celecoxib, or with the
+EP2 antagonist reduces cuprizone-induced oligodendrocyte
+apoptosis, the degree of demyelination, and motor dysfunc-
+tion. Since COX-2 and EP2 are also expressed in oligoden-
+drocytes, the pathway of COX-2-PGE2-EP2 protects oligo-
+dendrocyte from apoptosis [54].
+
+Celecoxib markedly inhibits production of PGE2 in the
+spinal cords of ALS mice [59]. PGE2 stimulates glutamate
+release from astrocytes. In ventral spinal cord, EP2 and EP3
+are dominantly expressed in neurons and astrocytes. Although
+EP2 and EP3 are coupled with opposite G proteins, Gs and Gi,
+respectively, activation of the two receptors individually or in
+combination also from chronic glutamate toxicity [116]. The
+neuroprotection of EP2 is mimicked by application of
+forskolin and blocked by inhibition of PKA. Those of EP3 is
+blocked by pertussis toxin, suggesting that its protective effect
+is dependent on Gi-coupled heterotrimeric signaling. Taken
+together, these data demonstrate an unexpected neuroprotec-
+tive effect mediated by PGE2, in which activation of its EP2
+and EP3 protected motor neurons from chronic glutamate
+toxicity.
+
+PGE2 mainly functions as a promoter of epileptogenesis
+[117]. EP2 antagonists reduced seizure severity and neuronal
+injury following seizures [118]. mPGES-1 is induced in the
+venous endothelia of the brain following an injection of
+kainate [119]. The finding that the activity of mPGES-1 is
+tightly coupled to that of COX-2 supports the importance of
+PGE2 function under epileptic conditions [90]. EP1 modulates
+native kainate receptors [120]. Global ablation of the EP1
+gene has no effect on seizure threshold after kainate injection,
+but reduces hippocampal neurodegeneration and a blunted
+inflammatory response. EP1 activation potentiates
+heteromeric but not homomeric kainate receptors via PKC
+(Fig. 4). Plasma level of PGE2 is elevated in schizophrenia
+[121], whereas CSF levels of PGE2 are increased in variant
+CJD [122] and AIDS with dementia [81].
+
+Plasma PGE2 is increased in patients with malignant brain
+tumors (glioblastomas, anaplastic astrocytoma, malignant me-
+ningioma, and medulloblastoma) and decreased after surgical
+removal of both malignant and benign brain tumors. The an-
+tineoplastic effect of COX-2 inhibitor is attenuated by PGE2,
+suggesting the predominant mechanism is dependent on
+PGE2. The EP1 antagonists inhibit the growth of glioma cell
+lines in vitro and slow tumor growth in vivo, which is assessed
+using glioma xenografts on SCID mice [123]. Thus, PGE2
+facilitates LTP via presynaptic EP2. EP2 is involved in pro-
+tective effects of PGE2 on neurological diseases such as
+stroke, AD, MS, and ALS. PGE2 promotes epileptogenesis
+and EP2 antagonists possess therapeutic potential for epilepsy.
+Another Gs-coupled EP4 also exhibits neuroprotective effects
+in the model of stroke and AD. On the other hand, PGE2
+exacerbates neurodegeneration in stroke via EP1 and EP3.
+
+Prostaglandin F2
+
+PGF2 is synthesized via three pathways from PGE2, PGD2, or
+PGH2 by PGE 9-ketoreductase, PGD 11-ketoreductase, or
+PGH 9-,11-endoperoxide reductase, respectively (Fig. 1)
+[124]. FP are coupled to Gq [125] and expressed in astrocytes
+but not neurons [126]. PGF2α did not affect neuronal survival
+directly in the neuron-rich culture [24]. However, astrocytic
+PGF2α is increased in the in vivo model of ischemia [127] and
+exhibits neurotoxicity [128]. After MCA occlusion/reperfu-
+sion, the FP−/− mice had less neurological deficit and smaller
+infarct volumes than those of the wild type (WT) mice. The
+post-treatment of mice subjected to MCA occlusion with the
+FP agonist increases neurological deficit and infarct size in
+WT mice, but not in the latanoprost-treated FP−/− mice. It is
+increased in patients with epilepsy, meningitis, or following
+cerebrovascular accidents or neurosurgical removals of brain
+tissue [129]. The intracisternal administration of PGF2α after
+kainate treatment reduced the seizure score and mortality
+[130]. PGF2α is increased in ischemia and epilepsy and
+
+exhibits neurotoxic effects via FP, which is coupled to Gq
+similarly to EP1.
+
+Prostaglandin I2
+
+PGI2 is produced from PGH2 by PGI synthase, a member of
+the P450 superfamily [131]. PGI2 is a potent vasodilator and
+has an antithrombotic effect. Plasma levels of PGI2 are signif-
+icantly higher among stroke patients than control [132]. PGI2
+is useful for ischemic neuronal damage because it improves
+cerebral circulation [133]. The downstream of PGI2 receptors
+is the signaling pathway of Gs, AC, cAMP, and PKA (Fig. 1).
+In terms of ligand specificity, two distinct types of PGI2 re-
+ceptors, IP1 and IP2, are expressed in the brain [134]. IP1 is
+expressed in the peripheral nervous system such as the nucleus
+of the solitary tract. On the other hand, IP2 is expressed in the
+CNS, e.g., the hippocampus, cerebral cortex, thalamus, stria-
+tum, and septum. The CNS-specific PGI2 receptor is
+expressed mainly in neurons, but not in glial cells. IP receptor
+ligands prevent the death of hippocampal neurons in vitro and
+protect CA1 pyramidal neurons against ischemic damage
+in vivo [135]. PGI2 is increased in ischemia and exhibits neu-
+roprotective effects via IP2, which is coupled to Gs similarly
+to EP2 and EP4.
+
+Thromboxane A2
+
+The TXA2 receptor (TP) is coupled with Gq and activates
+PLC (Fig. 1) [136]. TP consists of two splicing variants,
+TPα and TPβ. TPα mRNA is dominantly expressed in the
+brain and vascular endothelial cells [137]. Although TP recep-
+tor is expressed on neurons in the CNS [138], identified roles
+of TXA2 in neurons have been limited to cell protection
+against neurotoxicity [139]. TXA2 promotes neurite out-
+growth in cortical neurons via MAPK activation [140].
+TXA2 is induced in many CNS disorders including stroke
+[141], epilepsy [142], and spinal cord injuries [143]. A vascu-
+lar component is a major cellular source of TXA2 in CNS
+pathology because CNS lesions are characterized by the pres-
+ence of neovascularization and accumulation of abundant
+numbers of platelets. However, brain tissue also expresses
+TXA2, and activated glial cells can increase TXA2 release in
+response to ischemic conditions [144]. An elevated level of
+TXA2 has been found in the post-mortem brains of AD pa-
+tients [145] and in the urine of patients with probable AD
+[146]. TXA2 is suggested to be involved in the extrapyramidal
+motor dysfunction of patients with AD [147]. Patients with
+post-stroke dementia more often show increased throm-
+boxane biosynthesis than non-demented stroke patients
+[148]. In the brain, TXA2 receptors are expressed in both
+neuronal cells and glial cells [138]. Neuronal cell death
+
+Mol Neurobiol
+
+has not yet been induced by TXA2 in vitro [102] and
+in vivo [147] models. However, TP blockers improved
+the Aβ-induced extrapyramidal motor dysfunction [147],
+suggesting therapeutic potentials of TP blockers for AD
+as well as stroke.
+
+Prostaglandin D2
+
+PGD synthase exists in both lipocalin-type (L-PGDS) and
+hematopoietic (H-PGDS) forms [149]. As shown in Table 3,
+L-PGDS mRNA is localized mainly in the leptomeninges,
+choroid plexus, and oligodendrocytes [150]. On the other
+hand, L-PGDS mRNA has also been reported to be abundant-
+ly expressed in the thalamus, brainstem, cerebellum, spinal
+cord, and telencephalic regions [151]. The lipocalin type is a
+major constituent of the human CSF, representing 3 % of total
+CSF protein [152]. H-PGDS mRNA is expressed in early
+post-natal development in microglial cells and in the cerebel-
+lum [153]. H-PGDS mRNA has also been reported to be
+highly expressed in the cerebellum, modestly throughout the
+gray and white matter, and moderately in the hippocampal
+pyramidal neuronal layer.
+
+PGD2 elicits its downstream effects by activating two G
+protein-coupled receptors, the DP1 [154] and DP2,
+chemoattractant receptor-homologous molecule expressed
+on Th2 cells (CRTH2) receptor [155, 156]. DP1 and DP2
+activate and inhibit AC via Gs and Gi, respectively (Fig. 1).
+By northern blotting, mRNA of DP1 is detected in ileum, but
+not in the brain [154]. Oida et al. reported that DP1 is detected
+in the leptomeninges by in situ hybridization, but neither in the
+brain parenchymal neurons nor glial cells [157] (Table 3). L-
+PGDS and DP1 are detected by northern blotting in the
+leptomeninges, whereas they are not by RT-PCR in the brain
+parenchyma [158]. By northern blotting, mRNA of DP2 are
+highly expressed in the peripheral tissues including small in-
+testine, and lowly in the brain [159]. In contrast, Liang et al.
+reported that DP1 and DP2 were detected by in situ hybridi-
+zation in the hippocampus, cerebral cortex, and thalamus
+[151]. PGD2 have been reported to mediate neuroprotection
+via DP1 in cultured hippocampal neurons, organotypic slices
+[151], and DP1 knockout (DP1−/−) mice [160]. However, it
+should be noted that neither the protein expression of DP1 nor
+pharmacological effects of DP1 blockers was described in the
+two reports [151, 160]. An autoradiographical study with
+[3H]PGD2 indicates that PGD2-binding proteins are restricted
+to the gray matter [161]. High densities are present in the
+cerebral cortex, preoptic area, amygdala, hypothalamic nuclei,
+thalamic nuclei, hippocampus, pineal body, and cerebellar
+cortex. However, there was little specific binding sites of
+[3H]PGD2 in the plasma membrane of cerebral cortices
+[102], confirming the report of Oida et al. [157].
+
+Mol Neurobiol
+
+Table 3
+
+Expression of PGDS and DP in the brain
+
+Tissues
+
+Urade [150]
+
+Oida [157]
+
+Gerashcenko [158]
+
+Mohri [153]
+
+Liang [151]
+
+CTX
+HPC
+THL
+BS
+CBL
+SC
+Neuron
+Glia
+MG
+ODC
+LM
+CP
+PC
+WM
+GM
+
+H-PGDS
+
+H-PGDS
+H-PGDS
+
+DP1, DP2
+H-PGDS, L-PGDS, DP1, DP2
+L-PGDS, DP1, DP2
+L-PGDS, DP1
+H-PGDS, L-PGDS, DP1, DP2
+L-PGDS
+H-PGDS DP2 (pyramidal)
+
+n.d. DP1
+n.d. DP1
+
+H-PGDS
+
+H-PGDS
+
+DP1
+
+L-PGDS DP1
+
+H-PGDS
+
+L-PGDS, DP1
+
+L-PGDS
+L-PGDS
+L-PGDS
+
+n.d. L-PGDS DP1
+
+L-PGDS H-PGDS
+L-PGDS
+
+Yagami [102]
+
+n.d. DP
+
+PGDS and DP are expressed in various regions of brain
+CTX cerebral cortex, HPC hippocampus, THL thalamus, BS brainstem, CBL cerebellum, SC spinal cord, BS brainstem, THL thalamus, LM
+leptomeninges, CP choroid plexus, PC parenchyma, WM white matter, GM gray matter, MG microglia, d oligodendrocyte, n.d. not detected
+
+PGD2 is produced in the brain by L-PGDS and circulated
+in the CSF as a sleep hormone [162]. It stimulates DP1 recep-
+tors on leptomeningeal cells of the basal forebrain to release
+adenosine as a paracrine signaling molecule to promote sleep.
+Adenosine activates adenosine A2a receptor-expressing sleep-
+active neurons in the basal forebrain and the ventrolateral
+preoptic area. Sleep-promoting neurons in the ventrolateral
+preoptic area send inhibitory signals to suppress the histamin-
+ergic neurons in the tuberomammillary nucleus, which con-
+tribute to arousal through histamine H1 receptors.
+
+PGD2 is increased significantly in the post-mortem cerebral
+cortex of AD patients [145] and the animal model for stroke,
+gerbil brain during reperfusion after bilateral common carotid
+artery occlusion [163]. In the presence of glutamate, a DP2
+agonist exhibits neurotoxicity in cultured hippocampal neu-
+rons and organotypic slices [151]. PGD2 alone causes neuro-
+nal cell death via apoptosis without glutamate in the cerebral
+cortex [24, 25, 46, 102, 164]. PGD2 cleaves PARP, activates
+caspase-3, and accumulates ubiquitinated proteins [164].
+However, the neurotoxicity of PGD2 is not mediated by its
+receptors as described below. First, blockers for DP1 and DP2
+did not rescue neuron from the PGD2-induced activation of
+caspase-3, the accumulation of ubiquitinated proteins, and ap-
+optosis [102, 164]. Second, little mRNA of the PGD2 receptor
+is observed in the rat [165, 166] and human [167] cerebral
+cortex. Third, few binding sites of [3H]PGD2 were detected
+in plasma membranes from cortices of rat and human [102,
+168]. Fourth, the extent of specific [3H]PGD2 in total binding
+is very low (30–40 %), although binding sites of PGD2 have
+been reported in synaptosomes of rat [165] and human brains
+
+[168]. Fifth, the ED50 value (8.2 μM) of PGD2 is much higher
+than the affinity for PGD2 receptor (dissociation constant
+(KD)=28 nM) [165]. Sixth, PGD2 required a latent time to
+cause apoptosis.
+
+The bifunctional aspects of COX-2 in epileptogenesis can
+also be explained by the diversity of PGs. For instance, PGD2
+can exhibit anticonvulsive functions. H-PGDS-knockout mice
+or PGD2 receptor DP1-knockout mice shows more severe
+seizures after pentylenetetrazol treatment than wild-type mice,
+whereas deficiencies of L-PGDS or DP2 do not alter seizure
+severity [64]. Examination of the effects of stimulation of DP1
+in this model demonstrates a protective effect of DP1 (Fig. 2;
+[169]). Post-natal lumbar spinal cord organotypic slices were
+stimulated with the glutamate reuptake inhibitor D,L-threo-
+hydroxyaspartate and the DP1 agonist BW245C. The DP1
+activation in this model results in significant protection of
+motor neurons. Thus, similar neuroprotective effects to those
+in hippocampal slices were obtained in this chronic model of
+glutamate toxicity by the EP2, EP3, and DP1. The neuropro-
+tective effects of PGD2 and PGE2 receptors on neuronal sur-
+vival therefore present an interesting paradox, in which the
+inhibition of COX-2 activity and decreased prostaglandin pro-
+duction are protective; however, the activation of selected
+PGE2 or PGD2 receptors is also protective. This neuroprotec-
+tion occurs at physiologic concentrations in the low to high
+nanomolar range, close to the known binding affinities of
+these receptors. PGE2 and PGD2 individually do not mediate
+the toxic effects of COX-2 via their receptors in these models
+of excitotoxic neuronal injury, suggesting neurotoxic mecha-
+nisms independent of EP and DP.
+
+Cyclopentenone Prostaglandins
+
+Eicosanoids are divided into two groups according to their
+prostaglandin mechanism of action: the conventional PGs,
+e.g., PGD2 and PGE2, and the cyclopentenone-type PGs,
+e.g., PGA2 and 15-deoxy-△12,14-PGJ2 (15d-PGJ2). 15d-PGJ2
+exhibits neuroprotective effects at lower concentrations and
+neurotoxic effects at higher concentrations [170]. There are
+two receptors for 15d-PGJ2, a membrane receptor,
+chemoattractant receptor homologous molecule expressed on
+Th2 cells (CRTH2) [171] and a nuclear receptor, peroxysome
+proliferators-activated receptor γ (PPARγ) [172, 173].
+PPAR-γ agonists reduces lipopolysaccharide and interferon
+γ-induced neuronal cell death in the cerebellum [174], indi-
+cating the involvement of PPAR-γ in neuroprotection.
+Activation of PPAR-γ protects the brain from cerebral ische-
+mia [175] and Aβ-dependent neurodegeneration [176]
+
+In spite of the absence of DPs, PGD2 induces neuronal
+apoptosis with a time lag [102, 164]. During the time lag,
+PGD2 is non-enzymatically dehydrated to produce PGJ2,
+△12-PGJ2, and 15d-PGJ2 [102, 177]. Among PGD2 metabo-
+lites, 15d-PGJ2 causes neuronal cell death most potently with-
+out the time lag [102]. Since 15d-PGJ2 cleaves PARP, acti-
+vates caspase-3, and accumulates ubiquitinated proteins and
+induces neuronal apoptosis as well as PGD2, the neurotoxicity
+of PGD2 is mediated through its bioactive cyclopentenone
+metabolites [102, 164, 178]. However, blockers for PPAR-γ
+[102] and DP2 (unpublished data) did not rescue neuron from
+the 15d-PGJ2-induced apoptosis. Thus, 15d-PGJ2 causes neu-
+ronal cell death independently of the two receptors.
+
+15d-PGJ2 inhibits proteasome activity [179] and
+deubiquitination [180]. By covalently binding to cysteine thiol
+groups in proteins through Michael addition, 15d-PGJ2 also
+provoke changes in protein tertiary structure [181] that could
+impede protein degradation and lead to protein accumulation.
+All of these effects on the ubiquitin-proteasome pathway and
+its substrates induced by 15d-PGJ2 will have a devastating
+impact on proteasome activity bringing about the build-up of
+pro-apoptotic and detrimental proteins, such as p53 and Ub
+proteins [182]. Thus, 15d-PGJ2 mediates the neurotoxicity of
+PGD2 and induces neuronal apoptosis via the suppression of
+proteasome activity.
+
+Conclusion
+
+In contrast to peripheral tissues, COX-2 is constitutively
+expressed in the CNS and plays important physiological roles
+in memory and learning. COX-2 is upregulated in hippocam-
+pal and cortical glutamatergic neurons, where it has a pivotal
+role in synaptic activity, long-term synaptic plasticity, and in
+the neurovascular coupling during functional hyperemia.
+Inhibition of COX-2 reduces post-synaptic membrane
+
+Mol Neurobiol
+
+excitability, back-propagating dendritic action potential-
+associated Ca2+ influx, and LTP induction in the hippocam-
+pus. PGE2 released from post-synapse acts pre-synaptic EP2
+retrogradely, suggesting that PKA modulates pre-synaptic
+Ca2+ concentration via phosphorylation of N- and P/Q-
+calcium channels.
+
+COX-2 plays important pathological roles in neurological
+diseases such as stroke, AD, PD, MS, ALS, epilepsy, schizo-
+phrenia, BD, CJD, and neoplasm. Neuronal COX-2 is up-
+regulated in the brain of stroke, AD, PD, BD, and CJD pa-
+tients, whereas micoglial one is in PD, MS, and ALS.
+Oligodendrocytic COX-2 is induced in MS, whereas astrocyt-
+ic one is in epilepsy. On the other hand, microglial COX-1 is
+up-regulated in the brain of AD and CJD patients. Both COX-
+1 and COX-2 are induced in primary tumors and correlated
+with their pathological grade. PGE2 is elevated in the plasma
+of patients with brain tumors. PGE2 attenuates the anticancer
+effect of COX-2 inhibitor, and EP1 antagonists inhibit the
+growth of glioma, suggesting the pathway of COX-2-PGE2
+is involved in the tumorigenesis in the brain.
+
+COX-2 inhibitors exhibit neuroprotective effects in vivo
+and in vitro models of stroke, AD, PD, MS, ALS, and epilep-
+sy. COX-2 inhibitors show beneficial effects in schizophrenia,
+suggesting neurodegenerative effects of COX-2 products.
+Neurotoxic COX-2 products share the common pathway via
+Gq-coupled receptors. mPGES1 is up-regulated in stroke, AD,
+PD, MS, ALS, epilepsy, and schizophrenia. Parenchymal
+PGE2 is elevated in stroke, AD, and PD, whereas CSF PGE2
+is in MS, ALS, CJD, and AIDS. PGE2 disrupts Ca2+ homeo-
+stasis by impairing Na+-Ca2+ exchange via EP1, resulting in
+the excess Ca2+ accumulation and neurodegeneration.
+Alternatively, PGE2 is non-enzymatically dehydrated to a
+cyclopentenone PGA2, which induces neuronal cell death. It
+should be noted that the sole neurotoxicity of PGE2, PGF2α, or
+TXA2 has not yet been reported, although the three PGs can
+exacerbate neurological diseases. In contrast to Gq-coupled
+receptors, Gs-coupled receptors such as DP1, EP2/EP4, and
+IP are involved in neuroprotection via PKA activation.
+However, further studies are required to clear how Gi-
+coupled EP3 mediates neuroprotection.
+
+Although PGD2 induces neuronal apoptosis, neither DP1
+nor DP2 is involved in the neurotoxicity. As well as PGE2,
+PGD2 is non-enzymatically dehydrated to a cyclopentenone
+15d-PGJ2, which induces neuronal cell death. However, neu-
+rotoxicities of these cyclopentenones are independent of their
+receptors. There is a discrepancy in the hippocampal expres-
+sion of DP1. As shown in Table 3, mRNA of DP1 is predom-
+inantly expressed in the leptomeninges [157, 158]. Liang et al.
+reported that mRNA of DP1 was detected in the cerebral cor-
+tex,
+thalamus, brainstem, and cerebellum besides
+leptomeninges [151]. In the primary culture of rat hippocam-
+pal neurons, DP1 has been reported to mediate the neuropro-
+tection of PGD2 [151]. In contrast, mRNA of DP1 has not
+
+Mol Neurobiol
+
+been detected in parenchymal neurons [157, 158]. No specific
+binding site of [3H]PGD2 is detected in neuronal plasma mem-
+branes of the cerebral cortex [102], supporting the idea that
+DP1 is not expressed in parenchymal neurons including hip-
+pocampal pyramidal neurons. To prove the neuroprotective
+effect of PGD2 via DP1, it is required to detect the protein of
+DP1 and blocking effects of DP1 antagonists in hippocampal
+neurons.
+
+Arrestin has been known as agonist-mediated desensitiza-
+tion. Arrestin-dependent signaling pathway has been sug-
+gested to be involved in PGs-elicited suppression of pro-
+inflammatory factors production in brain microglia [183].
+Recent studies are shedding light on the G protein-
+independent signalings as novel COX-PG pathways.
+
+Conflict of Interest The authors have declared that no competing in-
+terests exist.
+
+References
+
+1. Feng L, Sun W, Xia Y, Tang WW, Chanmugam P, Soyoola E,
+Wilson CB, Hwang D (1993) Cloning two isoforms of rat cyclo-
+oxygenase: differential regulation of their expression. Arch
+Biochem Biophys 307(2):361–368
+
+2. Chandrasekharan NV, Dai H, Roos KL, Evanson NK, Tomsik J,
+Elton TS, Simmons DL (2002) COX-3, a cyclooxygenase-1 var-
+iant inhibited by acetaminophen and other analgesic/antipyretic
+drugs: cloning, structure, and expression. Proc Natl Acad Sci U
+S A 99(21):13926–13931. doi:10.1073/pnas.162468699
+
+3. Deininger MH, Schluesener HJ (1999) Cyclooxygenases-1 and -2
+are differentially localized to microglia and endothelium in rat
+EAE and glioma. J Neuroimmunol 95(1–2):202–208
+
+4. Yamagata K, Andreasson KI, Kaufmann WE, Barnes CA, Worley
+PF (1993) Expression of a mitogen-inducible cyclooxygenase in
+brain neurons: regulation by synaptic activity and glucocorticoids.
+Neuron 11(2):371–386
+
+5. Kaufmann WE, Worley PF, Pegg J, Bremer M, Isakson P (1996)
+COX-2, a synaptically induced enzyme, is expressed by excitatory
+neurons at postsynaptic sites in rat cerebral cortex. Proc Natl Acad
+Sci U S A 93(6):2317–2321
+
+6. Yagami T (2006) Cerebral arachidonate cascade in dementia:
+Al zhe im er ’s di s ea se a nd v a sc u la r d e m e nt i a. C ur r
+Neuropharmacol 4(1):87–100
+
+7. Niwa K, Araki E, Morham SG, Ross ME, Iadecola C (2000)
+Cyclooxygenase-2 contributes to functional hyperemia in
+whisker-barrel cortex. J Neurosci Off J Soc Neurosci 20(2):763–
+770
+
+8. Yagami T, Yamamoto Y, Koma H (2014) The role of secretory
+phospholipase A(2) in the central nervous system and neurologi-
+cal diseases. Mol Neurobiol 49(2):863–876. doi:10.1007/s12035-
+013-8565-9
+
+9. Malinow R, Schulman H, Tsien RW (1989) Inhibition of postsyn-
+aptic PKC or CaMKII blocks induction but not expression of LTP.
+Science 245(4920):862–866
+
+10. English JD, Sweatt JD (1997) A requirement for the mitogen-
+activated protein kinase cascade in hippocampal long term poten-
+tiation. J Biol Chem 272(31):19103–19106
+
+11. Chen C, Magee JC, Bazan NG (2002) Cyclooxygenase-2 regu-
+lates prostaglandin E2 signaling in hippocampal long-term synap-
+tic plasticity. J Neurophysiol 87(6):2851–2857
+
+12. Berrouschot J, Sterker M, Bettin S, Koster J, Schneider D (1998)
+Mortality of space-occupying (‘malignant’) middle cerebral artery
+infarction under conservative intensive care. Intensive Care Med
+24 (6):620–623
+
+13. Sacco S, Marini C, Toni D, Olivieri L, Carolei A (2009) Incidence
+and 10-year survival of intracerebral hemorrhage in a population-
+based registry. Stroke; a journal of cerebral circulation 40(2):394–
+399. doi:10.1161/STROKEAHA.108.523209
+
+14. Shmelzer Z, Haddad N, Admon E, Pessach I, Leto TL, Eitan-
+Hazan Z, Hershfinkel M, Levy R (2003) Unique targeting of cy-
+tosolic phospholipase A2 to plasma membranes mediated by the
+NADPH oxidase in phagocytes. J Cell Biol 162(4):683–692. doi:
+10.1083/jcb.200211056
+
+15. Shmelzer Z, Karter M, Eisenstein M, Leto TL, Hadad N, Ben-
+Menahem D, Gitler D, Banani S et al (2008) Cytosolic phospho-
+lipase A2alpha is targeted to the p47phox-PX domain of the as-
+sembled NADPH oxidase via a novel binding site in its C2 do-
+main. J Biol Chem 283(46):31898–31908. doi:10.1074/jbc.
+M804674200
+
+16. Kriem B, Sponne I, Fifre A, Malaplate-Armand C, Lozac’h-Pillot
+K, Koziel V, Yen-Potin FT, Bihain B et al (2005) Cytosolic phos-
+pholipase A2 mediates neuronal apoptosis induced by soluble
+oligomers of the amyloid-beta peptide. FASEB J 19(1):85–87.
+doi:10.1096/fj.04-1807fje
+
+17. Malaplate-Armand C, Florent-Bechard S, Youssef I, Koziel V,
+Sponne I, Kriem B, Leininger-Muller B, Olivier JL et al (2006)
+Soluble oligomers of amyloid-beta peptide induce neuronal apo-
+ptosis by activating a cPLA2-dependent sphingomyelinase-cer-
+amide pathway. Neurobiol Dis 23(1):178–189. doi:10.1016/j.
+nbd.2006.02.010
+
+18. He X, Huang Y, Li B, Gong CX, Schuchman EH (2010)
+Deregulation of sphingolipid metabolism in Alzheimer’s disease.
+Neurobiol Aging 31(3):398–408. doi:10.1016/j.neurobiolaging.
+2008.05.010
+
+19. Casals JB, Pieri NC, Feitosa ML, Ercolin AC, Roballo KC,
+Barreto RS, Bressan FF, Martins DS et al (2011) The use of animal
+models for stroke research: a review. Comp Med 61(4):305–313
+20. Rossmeisl JH, Jr., Rohleder JJ, Pickett JP, Duncan R, Herring IP
+(2007) Presumed and confirmed striatocapsular brain infarctions
+in six dogs. Vet Ophthalmol 10(1):23–36. doi:10.1111/j.1463-
+5224.2007.00487.x
+
+21. Umemura K, Nakashima M (1993) A new model of middle cere-
+bral artery thrombosis in rats. Yakubutsu Seishin Kodo=Jpn J
+Psychiatr Treat 13(1):9–17
+
+22. Sairanen T, Ristimaki A, Karjalainen-Lindsberg ML, Paetau A,
+Kaste M, Lindsberg PJ (1998) Cyclooxygenase-2 is induced glob-
+ally in infarcted human brain. Ann Neurol 43(6):738–747. doi:10.
+1002/ana.410430608
+
+23. Nogawa S, Zhang F, Ross ME, Iadecola C (1997) Cyclo-
+oxygenase-2 gene expression in neurons contributes to ischemic
+brain damage. J Neurosci Off J Soc Neurosci 17(8):2746–2755
+
+24. Yagami T, Ueda K, Asakura K, Hata S, Kuroda T, Sakaeda T,
+Takasu N, Tanaka K et al (2002) Human group IIA secretory
+phospholipase A2 induces neuronal cell death via apoptosis.
+Mol Pharmacol 61(1):114–126
+
+25. Yagami T, Ueda K, Asakura K, Hayasaki-Kajiwara Y, Nakazato
+H, Sakaeda T, Hata S, Kuroda T et al (2002) Group IB secretory
+phospholipase A2 induces neuronal cell death via apoptosis. J
+Neurochem 81(3):449–461
+
+26. Yagami T, Ueda K, Asakura K, Hata S, Kuroda T, Sakaeda T,
+Kishino J, Sakaguchi G et al (2002) Group IB secretory phospho-
+lipase A(2)induces cell death in the cultured cortical neurons: a
+
+possible involvement of its binding sites. Brain Res 949(1–2):
+197–201
+
+27. Lin TN, Wang Q, Simonyi A, Chen JJ, Cheung WM, He YY, Xu
+J, Sun AY et al (2004) Induction of secretory phospholipase A2 in
+reactive astrocytes in response to transient focal cerebral ischemia
+in the rat brain. J Neurochem 90(3):637–645
+
+28. Yagami T, Ueda K, Asakura K, Sakaeda T, Hata S, Kuroda T,
+Sakaguchi G, Itoh N et al (2003) Porcine pancreatic group IB
+secretory phospholipase A2 potentiates Ca2+ influx through L-
+type voltage-sensitive Ca2+ channels. Brain Res 960(1–2):71–80
+29. Yagami T, Ueda K, Asakura K, Nakazato H, Hata S, Kuroda T,
+Sakaeda T, Sakaguchi G et al (2003) Human group IIA secretory
+phospholipase A2 potentiates Ca2+ influx through L-type volt-
+age-sensitive Ca2+ channels in cultured rat cortical neurons. J
+Neurochem 85(3):749–758
+
+31.
+
+30. Niwa K, Haensel C, Ross ME, Iadecola C (2001)
+Cyclooxygenase-1 participates in selected vasodilator responses
+of the cerebral circulation. Circ Res 88(6):600–608
+Iadecola C, Sugimoto K, Niwa K, Kazama K, Ross ME (2001)
+Increased susceptibility to ischemic brain injury in
+cyclooxygenase-1-deficient mice. J Cereb Blood Flow Metab
+Off J Int Soc Cereb Blood Flow Metab 21(12):1436–1441. doi:
+10.1097/00004647-200112000-00008
+
+32. Li W, Wu S, Hickey RW, Rose ME, Chen J, Graham SH (2008)
+Neuronal cyclooxygenase-2 activity and prostaglandins PGE2,
+PGD2, and PGF2 alpha exacerbate hypoxic neuronal injury in
+neuron-enriched primary culture. Neurochem Res 33(3):490–499
+33. Tomimoto H, Shibata M, Ihara M, Akiguchi I, Ohtani R, Budka H
+(2002) A comparative study on the expression of cyclooxygenase
+and 5-lipoxygenase during cerebral ischemia in humans. Acta
+Neuropathol 104(6):601–607. doi:10.1007/s00401-002-0590-0
+
+34. Yagami T, Ueda K, Hata S, Kuroda T, Itoh N, Sakaguchi G,
+Okamura N, Sakaeda T et al (2005) S-2474, a novel nonsteroidal
+anti-inflammatory drug, rescues cortical neurons from human
+group IIA secretory phospholipase A(2)-induced apoptosis.
+Neuropharmacology 49(2):174–184. doi:10.1016/j.neuropharm.
+2005.02.011
+
+35. Selkoe DJ (1991) The molecular pathology of Alzheimer’s dis-
+
+ease. Neuron 6(4):487–498
+
+36. Ueda K, Shinohara S, Yagami T, Asakura K, Kawasaki K (1997)
+Amyloid beta protein potentiates Ca2+ influx through L-type volt-
+age-sensitive Ca2+ channels: a possible involvement of free rad-
+icals. J Neurochem 68(1):265–271
+
+37. Ueda K, Yagami T, Kageyama H, Kawasaki K (1996) Protein
+kinase inhibitor attenuates apoptotic cell death induced by amy-
+loid beta protein in culture of the rat cerebral cortex. Neurosci Lett
+203(3):175–178
+
+38. Yermakova AV, Rollins J, Callahan LM, Rogers J, O’Banion MK
+(1999) Cyclooxygenase-1 in human Alzheimer and control brain:
+quantitative analysis of expression by microglia and CA3 hippo-
+campal neurons. J Neuropathol Exp Neurol 58(11):1135–1146
+
+39. Pasinetti GM, Aisen PS (1998) Cyclooxygenase-2 expression is
+increased in frontal cortex of Alzheimer’s disease brain.
+Neuroscience 87(2):319–324
+
+40. Hwang DY, Chae KR, Kang TS, Hwang JH, Lim CH, Kang HK,
+Goo JS, Lee MR et al (2002) Alterations in behavior, amyloid
+beta-42, caspase-3, and Cox-2 in mutant PS2 transgenic mouse
+model of Alzheimer’s disease. FASEB J 16(8):805–813. doi:10.
+1096/fj.01-0732com
+
+41. Cui JG, Kuroda H, Chandrasekharan NV, Pelaez RP, Simmons
+DL, Bazan NG, Lukiw WJ (2004) Cyclooxygenase-3 gene ex-
+pression in Alzheimer hippocampus and in stressed human neural
+cells. Neurochem Res 29(9):1731–1737
+
+42. Launer L (2003) Nonsteroidal anti-inflammatory drug use and the
+risk for Alzheimer’s disease: dissecting the epidemiological evi-
+dence. Drugs 63(8):731–739
+
+Mol Neurobiol
+
+43. Rogers J, Kirby LC, Hempelman SR, Berry DL, McGeer PL,
+Kaszniak AW, Zalinski J, Cofield M et al (1993) Clinical trial of
+indomethacin in Alzheimer’s disease. Neurology 43(8):1609–
+1611
+
+44. Sung S, Yang H, Uryu K, Lee EB, Zhao L, Shineman D,
+Trojanowski JQ, Lee VM et al (2004) Modulation of nuclear
+factor-kappa B activity by indomethacin influences A beta levels
+but not A beta precursor protein metabolism in a model of
+Alzheimer’s disease. Am J Pathol 165(6):2197–2206
+
+45. Szekely CA, Green RC, Breitner JC, Ostbye T, Beiser AS,
+Corrada MM, Dodge HH, Ganguli M et al (2008) No advantage
+of A beta 42-lowering NSAIDs for prevention of Alzheimer de-
+mentia in six pooled cohort studies. Neurology 70(24):2291–
+2298. doi:10.1212/01.wnl.0000313933.17796.f6
+
+46. Yagami T, Ueda K, Asakura K, Sakaeda T, Kuroda T, Hata S,
+Kambayashi Y, Fujimoto M (2001) Effects of S-2474, a novel
+nonsteroidal anti-inflammatory drug, on amyloid beta protein-
+induced neuronal cell death. Br J Pharmacol 134(3):673–681.
+doi:10.1038/sj.bjp.0704261
+
+47. Teismann P (2012) COX-2 in the neurodegenerative process of
+Parkinson’s disease. Biofactors 38(6):395–397. doi:10.1002/biof.
+1035
+
+48. Teismann P, Tieu K, Choi DK, Wu DC, Naini A, Hunot S, Vila M,
+Jackson-Lewis Vet al (2003) Cyclooxygenase-2 is instrumental in
+Parkinson’s disease neurodegeneration. Proc Natl Acad Sci U S A
+100(9):5473–5478. doi:10.1073/pnas.0837397100
+
+49. Teismann P, Ferger B (2001) Inhibition of the cyclooxygenase
+isoenzymes COX-1 and COX-2 provide neuroprotection in the
+MPTP-mouse model of Parkinson’s disease. Synapse 39(2):167–
+174. doi:10.1002/1098-2396(200102)39:2<167::AID-SYN8>3.0.
+CO;2-U
+
+50. Feng ZH, Wang TG, Li DD, Fung P, Wilson BC, Liu B, Ali SF,
+Langenbach R et al (2002) Cyclooxygenase-2-deficient mice are
+resistant to 1-methyl-4-phenyl1, 2, 3, 6-tetrahydropyridine-
+induced damage of dopaminergic neurons in the substantia nigra.
+Neurosci Lett 329(3):354–358
+
+51. Prat A, Antel J (2005) Pathogenesis of multiple sclerosis. Curr
+
+Opin Neurol 18(3):225–230
+
+52. Rose JW, Hill KE, Watt HE, Carlson NG (2004) Inflammatory cell
+expression of cyclooxygenase-2 in the multiple sclerosis lesion. J
+Neuroimmunol 149(1–2):40–49. doi:10.1016/j.jneuroim.2003.12.
+021
+
+53. Carlson NG, Hill KE, Tsunoda I, Fujinami RS, Rose JW (2006)
+The pathologic role for COX-2 in apoptotic oligodendrocytes in
+virus induced demyelinating disease: implications for multiple
+sclerosis. J Neuroimmunol 174(1–2):21–31. doi:10.1016/j.
+jneuroim.2006.01.008
+
+54. Palumbo S, Toscano CD, Parente L, Weigert R, Bosetti F (2012)
+The cyclooxygenase-2 pathway via the PGE(2) EP2 receptor con-
+tributes to oligodendrocytes apoptosis in cuprizone-induced de-
+myelination. J Neurochem 121(3):418–427. doi:10.1111/j.1471-
+4159.2011.07363.x
+
+55. Liang X, Wu L, Wang Q, Hand T, Bilak M, McCullough L,
+Andreasson K (2007) Function of COX-2 and prostaglandins in
+neurological disease. J Mol Neurosci 33(1):94–99
+
+56. Yiangou Y, Facer P, Durrenberger P, Chessell IP, Naylor A,
+Bountra C, Banati RR, Anand P (2006) COX-2, CB2 and
+P2X7-immunoreactivities are increased in activated microglial
+cells/macrophages of multiple sclerosis and amyotrophic lateral
+sclerosis spinal cord. BMC Neurol 6:12. doi:10.1186/1471-
+2377-6-12
+
+57. Yasojima K, Tourtellotte WW, McGeer EG, McGeer PL (2001)
+Marked increase in cyclooxygenase-2 in ALS spinal cord: impli-
+cations for therapy. Neurology 57(6):952–956
+
+58. Almer G, Guegan C, Teismann P, Naini A, Rosoklija G, Hays AP,
+Chen C, Przedborski S (2001) Increased expression of the pro-
+
+Mol Neurobiol
+
+inflammatory enzyme cyclooxygenase-2 in amyotrophic lateral
+sclerosis. Ann Neurol 49(2):176–185
+
+59. Drachman DB, Frank K, Dykes-Hoberg M, Teismann P, Almer G,
+Przedborski S, Rothstein JD (2002) Cyclooxygenase 2 inhibition
+protects motor neurons and prolongs survival in a transgenic
+mouse model of ALS. Ann Neurol 52(6):771–778. doi:10.1002/
+ana.10374
+
+60. Sharma AK, Reams RY, Jordan WH, Miller MA, Thacker HL,
+Snyder PW (2007) Mesial temporal lobe epilepsy: pathogenesis,
+induced rodent models and lesions. Toxicol Pathol 35(7):984–
+999. doi:10.1080/01926230701748305
+
+61. Wetherington J, Serrano G, Dingledine R (2008) Astrocytes in the
+epileptic brain. Neuron 58(2):168–178. doi:10.1016/j.neuron.
+2008.04.002
+
+62. Desjardins P, Sauvageau A, Bouthillier A, Navarro D, Hazell AS,
+Rose C, Butterworth RF (2003) Induction of astrocytic
+cyclooxygenase-2 in epileptic patients with hippocampal sclero-
+sis. Neurochem Int 42(4):299–303
+
+63. Kunz T, Oliw EH (2001) Nimesulide aggravates kainic acid-
+
+induced seizures in the rat. Pharmacol Toxicol 88(5):271–276
+
+64. Silakova JM, Hewett JA, Hewett SJ (2004) Naproxen reduces
+excitotoxic neurodegeneration in vivo with an extended therapeu-
+tic window. J Pharmacol Exp Ther 309(3):1060–1066. doi:10.
+1124/jpet.103.063867
+
+65. Holtman L, van Vliet EA, van Schaik R, Queiroz CM, Aronica E,
+Gorter JA (2009) Effects of SC58236, a selective COX-2 inhibi-
+tor, on epileptogenesis and spontaneous seizures in a rat model for
+temporal lobe epilepsy. Epilepsy Res 84(1):56–66. doi:10.1016/j.
+eplepsyres.2008.12.006
+
+66. Gobbo OL, O’Mara SM (2004) Post-treatment, but not pre-treat-
+ment, with the selective cyclooxygenase-2 inhibitor celecoxib
+markedly enhances functional recovery from kainic acid-induced
+neurodegeneration. Neuroscience 125(2):317–327. doi:10.1016/j.
+neuroscience.2004.01.045
+
+67. Takemiya T, Suzuki K, Sugiura H, Yasuda S, Yamagata K,
+Kawakami Y, Maru E (2003) Inducible brain COX-2 facilitates
+the recurrence of hippocampal seizures in mouse rapid kindling.
+Prostaglandins Other Lipid Mediat 71(3–4):205–216
+
+68. Manabe Y, Anrather J, Kawano T, Niwa K, Zhou P, Ross ME,
+Iadecola C (2004) Prostanoids, not reactive oxygen species, me-
+diate COX-2-dependent neurotoxicity. Ann Neurol 55(5):668–
+675. doi:10.1002/ana.20078
+
+69. Schultz SK, Andreasen NC (1999) Schizophrenia. Lancet
+
+353(9162):1425–1430
+
+70. Wei J, Hemmings GP (2004) A study of a genetic association
+between the PTGS2/PLA2G4A locus and schizophrenia.
+Prostaglandins Leukot Essent Fat Acids 70(4):413–415. doi:10.
+1016/j.plefa.2003.12.018
+
+71. Rao JS, Kim HW, Harry GJ, Rapoport SI, Reese EA (2013)
+Increased neuroinflammatory and arachidonic acid cascade
+markers, and reduced synaptic proteins, in the postmortem frontal
+cortex from schizophrenia patients. Schizophr Res 147(1):24–31.
+doi:10.1016/j.schres.2013.02.017
+
+72. Muller N, Myint AM, Krause D, Weidinger E, Schwarz MJ (2013)
+Anti-inflammatory treatment in schizophrenia. Prog Neuro-
+Psychopharmacol Biol Psychiatry 42:146–153. doi:10.1016/j.
+pnpbp.2012.11.008
+
+73. Sommer IE, de Witte L, Begemann M, Kahn RS (2012)
+Nonsteroidal anti-inflammatory drugs in schizophrenia: ready
+for practice or a good start? A meta-analysis. J Clin Psychiatry
+73(4):414–419. doi:10.4088/JCP.10r06823
+
+74. Nitta M, Kishimoto T, Muller N, Weiser M, Davidson M, Kane
+JM, Correll CU (2013) Adjunctive use of nonsteroidal anti-
+inflammatory drugs for schizophrenia: a meta-analytic investiga-
+tion of randomized controlled trials. Schizophr Bull 39(6):1230–
+1241. doi:10.1093/schbul/sbt070
+
+75. Kim HW, Rapoport SI, Rao JS (2011) Altered arachidonic acid
+cascade enzymes in postmortem brain from bipolar disorder
+patients. Mol Psychiatry 16(4):419–428
+
+76. Ketterer MW, Brymer J, Rhoads K, Kraft P, Lovallo WR (1996) Is
+aspirin, as used for antithrombosis, an emotion-modulating agent?
+J Psychosom Res 40(1):53–58
+
+77. Nery FG, Monkul ES, Hatch JP, Fonseca M, Zunta-Soares GB,
+Frey BN, Bowden CL, Soares JC (2008) Celecoxib as an adjunct
+in the treatment of depressive or mixed episodes of bipolar disor-
+der: a double-blind, randomized, placebo-controlled study. Hum
+Psychopharmacol 23(2):87–94. doi:10.1002/hup.912
+
+78. Rapoport SI (2014) Lithium and the other mood stabilizers effec-
+tive in bipolar disorder target the rat brain arachidonic acid cas-
+cade. ACS Chem Neurosci 5(6):459–467. doi:10.1021/
+cn500058v
+
+79. Deininger MH, Bekure-Nemariam K, Trautmann K, Morgalla M,
+Meyermann R, Schluesener HJ (2003) Cyclooxygenase-1 and −2
+in brains of patients who died with sporadic Creutzfeldt-Jakob
+disease. J Mol Neurosci 20(1):25–30. doi:10.1385/JMN:20:1:25
+80. Minghetti L, Pocchiari M (2007) Cyclooxygenase-2, prostaglan-
+din E2, and microglial activation in prion diseases. Int Rev
+Neurobiol 82:265–275. doi:10.1016/S0074-7742(07)82014-9
+
+81. Griffin DE, Wesselingh SL, McArthur JC (1994) Elevated central
+nervous system prostaglandins in human immunodeficiency
+virus-associated dementia. Ann Neurol 35(5):592–597. doi:10.
+1002/ana.410350513
+
+82. Wrensch M, Minn Y, Chew T, Bondy M, Berger MS (2002)
+Epidemiology of primary brain tumors: current concepts and re-
+view of the literature. Neuro-Oncology 4(4):278–299
+
+83. Deininger MH, Meyermann R, Trautmann K, Morgalla M,
+Duffner F, Grote EH, Wickboldt J, Schluesener HJ (2000)
+Cyclooxygenase (COX)-1 expressing macrophages/microglial
+cells and COX-2 expressing astrocytes accumulate during
+oligodendroglioma progression. Brain Res 885(1):111–116
+Joki T, Heese O, Nikas DC, Bello L, Zhang J, Kraeft SK, Seyfried
+NT, Abe T et al (2000) Expression of cyclooxygenase 2 (COX-2)
+in human glioma and in vitro inhibition by a specific COX-2
+inhibitor, NS-398. Cancer Res 60(17):4926–4931
+
+84.
+
+85. Kang HC, Kim IH, Park CI, Park SH (2014) Immunohistochemical
+analysis of cyclooxygenase-2 and brain fatty acid binding protein
+expression in grades I-II meningiomas: correlation with tumor grade
+and clinical outcome after radiotherapy. Neuropathol Off J Jpn Soc
+Neuropathol 34(5):446–454. doi:10.1111/neup.12128
+
+86. Mitchell JA, Warner TD (1999) Cyclo-oxygenase-2: pharmacolo-
+gy, physiology, biochemistry and relevance to NSAID therapy. Br
+J Pharmacol 128(6):1121–1132. doi:10.1038/sj.bjp.0702897
+
+87. Murakami M, Kambe T, Shimbara S, Kudo I (1999) Functional
+coup ling between v arious p hos pho lipas e A2 s and
+cyclooxygenases in immediate and delayed prostanoid biosynthet-
+ic pathways. J Biol Chem 274(5):3103–3115
+
+88. Ohno K, Fujiwara M, Fukushima M, Narumiya S (1986)
+Metabolic dehydration of prostaglandin E2 and cellular uptake
+of the dehydration product: correlation with prostaglandin E2-
+induced growth inhibition. Biochem Biophys Res Commun
+139(2):808–815
+
+89. Tanioka T, Nakatani Y, Semmyo N, Murakami M, Kudo I (2000)
+Molecular identification of cytosolic prostaglandin E2 synthase
+that is functionally coupled with cyclooxygenase-1 in immediate
+prostaglandin E2 biosynthesis. J Biol Chem 275(42):32775–
+32782. doi:10.1074/jbc.M003504200
+
+90. Murakami M, Naraba H, Tanioka T, Semmyo N, Nakatani Y,
+Kojima F, Ikeda T, Fueki M et al (2000) Regulation of prostaglan-
+din E2 biosynthesis by inducible membrane-associated prosta-
+glandin E2 synthase that acts in concert with cyclooxygenase-2.
+J Biol Chem 275(42):32783–32792. doi:10.1074/jbc.
+M003505200
+
+91. Murakami M, Nakashima K, Kamei D, Masuda S, Ishikawa Y,
+Ishii T, Ohmiya Y, Watanabe K et al (2003) Cellular prostaglandin
+E2 production by membrane-bound prostaglandin E synthase-2
+via both cyclooxygenases-1 and -2. J Biol Chem 278(39):
+37937–37947. doi:10.1074/jbc.M305108200
+
+92. Vazquez-Tello A, Fan L, Hou X, Joyal JS, Mancini JA, Quiniou C,
+Clyman RI, Gobeil F Jr et al (2004) Intracellular-specific
+colocalization of prostaglandin E2 synthases and cyclooxygenases
+in the brain. Am J Physiol Regul Integr Comp Physiol 287(5):
+R1155–R1163. doi:10.1152/ajpregu.00077.2004
+
+93. Sang N, Zhang J, Marcheselli V, Bazan NG, Chen C (2005)
+Postsynaptically synthesized prostaglandin E2 (PGE2) modulates
+hippocampal synaptic transmission via a presynaptic PGE2 EP2
+receptor. J Neurosci Off J Soc Neurosci 25(43):9858–9870. doi:
+10.1523/JNEUROSCI.2392-05.2005
+Ikeda-Matsuo Y, Hirayama Y, Ota A, Uematsu S, Akira S, Sasaki
+Y (2010) Microsomal prostaglandin E synthase-1 and
+cyclooxygenase-2 are both required for ischaemic excitotoxicity.
+Br J Pharmacol 159(5):1174–1186. doi:10.1111/j.1476-5381.
+2009.00595.x
+
+94.
+
+95. Chaudhry UA, Zhuang H, Crain BJ, Dore S (2008) Elevated mi-
+crosomal prostaglandin-E synthase-1 in Alzheimer’s disease.
+Alzheimers Dement J Alzheimers Assoc 4(1):6–13. doi:10.1016/
+j.jalz.2007.10.015
+
+96. Zhu P, Genc A, Zhang X, Zhang J, Bazan NG, Chen C (2005)
+Heterogeneous expression and regulation of hippocampal prosta-
+glandin E2 receptors. J Neurosci Res 81(6):817–826. doi:10.1002/
+jnr.20597
+
+97. Akaneya Y, Tsumoto T (2006) Bidirectional trafficking of prosta-
+glandin E2 receptors involved in long-term potentiation in visual
+cortex. J Neurosci Off J Soc Neurosci 26(40):10209–10221. doi:
+10.1523/JNEUROSCI.3028-06.2006
+
+98. Yokota C, Kaji T, Kuge Y, Inoue H, Tamaki N, Minematsu K
+(2004) Temporal and topographic profiles of cyclooxygenase-2
+expression during 24 h of focal brain ishemia in rats. Neurosci
+Lett 357(3):219–222. doi:10.1016/j.neulet.2003.12.109
+
+99. Kawano T, Anrather J, Zhou P, Park L, Wang G, Frys KA, Kunz
+A, Cho S et al (2006) Prostaglandin E2 EP1 receptors: down-
+stream effectors of COX-2 neurotoxicity. Nat Med 12(2):225–
+229. doi:10.1038/nm1362
+
+100. Akaike A, Kaneko S, Tamura Y, Nakata N, Shiomi H, Ushikubi F,
+Narumiya S (1994) Prostaglandin E2 protects cultured cortical
+neurons against N-methyl-D-aspartate receptor-mediated gluta-
+mate cytotoxicity. Brain Res 663(2):237–243
+
+101. Hell JW, Yokoyama CT, Wong ST, Warner C, Snutch TP, Catterall
+WA (1993) Differential phosphorylation of two size forms of the
+neuronal class C L-type calcium channel alpha 1 subunit. J Biol
+Chem 268(26):19451–19457
+
+102. Yagami T, Ueda K, Asakura K, Takasu N, Sakaeda T, Itoh N,
+Sakaguchi G, Kishino J, Nakazato H, Katsuyama Y, Nagasaki T,
+Okamura N, Hori Y, Hanasaki K, Arimura A, Fujimoto M (2003)
+Novel binding sites of 15-deoxy-Delta12,14-prostaglandin J2 in
+plasma membranes from primary rat cortical neurons. Exp Cell
+Res 291(1):212–227
+
+103. McCullough L, Wu L, Haughey N, Liang X, Hand T, Wang Q,
+Breyer RM, Andreasson K (2004) Neuroprotective function of the
+PGE2 EP2 receptor in cerebral ischemia. J Neurosci Off J Soc
+Neurosci 24(1):257–268. doi:10.1523/JNEUROSCI.4485-03.
+2004
+
+104. Liang X, Lin L, Woodling NS, Wang Q, Anacker C, Pan T,
+Merchant M, Andreasson K (2011) Signaling via the prostaglan-
+din E(2) receptor EP4 exerts neuronal and vascular protection in a
+mouse model of cerebral ischemia. J Clin Invest 121(11):4362–
+4371. doi:10.1172/JCI46279
+
+105. Ahmad M, Ahmad AS, Zhuang H, Maruyama T, Narumiya S,
+Dore S (2007) Stimulation of prostaglandin E2-EP3 receptors
+
+Mol Neurobiol
+
+exacerbates stroke and excitotoxic injury. J Neuroimmunol
+184(1–2):172–179. doi:10.1016/j.jneuroim.2006.12.012
+
+106. Montine TJ, Sidell KR, Crews BC, Markesbery WR, Marnett LJ,
+Roberts LJ 2nd, Morrow JD (1999) Elevated CSF prostaglandin
+E2 levels in patients with probable AD. Neurology 53(7):1495–
+1498
+
+107. Wong PT, McGeer PL, McGeer EG (1992) Decreased prostaglan-
+din synthesis in postmortem cerebral cortex from patients with
+Alzheimer’s disease. Neurochem Int 21(2):197–202
+
+108. Akitake Y, Nakatani Y, Kamei D, Hosokawa M, Akatsu H,
+Uematsu S, Akira S, Kudo I et al (2013) Microsomal prostaglan-
+din E synthase-1 is induced in Alzheimer’s disease and its deletion
+mitigates Alzheimer’s disease-like pathology in a mouse model. J
+Neurosci Res 91(7):909–919. doi:10.1002/jnr.23217
+
+109. Forloni G, Chiesa R, Smiroldo S, Verga L, Salmona M, Tagliavini
+F, Angeretti N (1993) Apoptosis mediated neurotoxicity induced
+by chronic application of beta amyloid fragment 25-35.
+Neuroreport 4(5):523–526
+
+110. Yagami T, Nakazato H, Ueda K, Asakura K, Kuroda T, Hata S,
+Sakaeda T, Sakaguchi G et al (2003) Prostaglandin E2 rescues
+cortical neurons from amyloid beta protein-induced apoptosis.
+Brain Res 959(2):328–335
+
+111. Echeverria V, Clerman A, Dore S (2005) Stimulation of PGE
+receptors EP2 and EP4 protects cultured neurons against oxidative
+stress and cell death following beta-amyloid exposure. Eur J
+Neurosci 22(9):2199–2206. doi:10.1111/j.1460-9568.2005.
+04427.x
+
+112. Shie FS, Breyer RM, Montine TJ (2005) Microglia lacking E
+prostanoid receptor subtype 2 have enhanced Abeta phagocytosis
+yet lack Abeta-activated neurotoxicity. Am J Pathol 166(4):1163–
+1172
+
+113. Zhen G, Kim YT, Li RC, Yocum J, Kapoor N, Langer J,
+Dobrowolski P, Maruyama T et al (2012) PGE2 EP1 receptor
+exacerbated neurotoxicity in a mouse model of cerebral ischemia
+and Alzheimer’s disease. Neurobiol Aging 33(9):2215–2219. doi:
+10.1016/j.neurobiolaging.2011.09.017
+
+114. Mattammal MB, Strong R, Lakshmi VM, Chung HD, Stephenson
+AH (1995) Prostaglandin H synthetase-mediated metabolism of
+dopamine: implication for Parkinson’s disease. J Neurochem
+64(4):1645–1654
+
+115. Dore-Duffy P, Ho SY, Donovan C (1991) Cerebrospinal fluid ei-
+cosanoid levels: endogenous PGD2 and LTC4 synthesis by
+antigen-presenting cells that migrate to the central nervous system.
+Neurology 41(2 Pt 1):322–324
+
+116. Bilak M, Wu L, Wang Q, Haughey N, Conant K, St Hillaire C,
+Andreasson K (2004) PGE2 receptors rescue motor neurons in a
+model of amyotrophic lateral sclerosis. Ann Neurol 56(2):240–
+248. doi:10.1002/ana.20179
+
+117. Oliveira MS, Furian AF, Royes LF, Fighera MR, Fiorenza NG,
+Castelli M, Machado P, Bohrer D et al (2008) Cyclooxygenase-2/
+PGE2 pathway facilitates pentylenetetrazol-induced seizures.
+Epilepsy Res 79(1):14–21. doi:10.1016/j.eplepsyres.2007.12.008
+Jiang J, Quan Y, Ganesh T, Pouliot WA, Dudek FE, Dingledine R
+(2013) Inhibition of the prostaglandin receptor EP2 following sta-
+tus epilepticus reduces delayed mortality and brain inflammation.
+Proc Natl Acad Sci U S A 110(9):3591–3596. doi:10.1073/pnas.
+1218498110
+
+118.
+
+119. Takemiya T, Matsumura K, Sugiura H, Maehara M, Yasuda S,
+Uematsu S, Akira S, Yamagata K (2010) Endothelial microsomal
+prostaglandin E synthase-1 exacerbates neuronal loss induced by
+kainate. J Neurosci Res 88(2):381–390. doi:10.1002/jnr.22195
+
+120. Rojas A, Gueorguieva P, Lelutiu N, Quan Y, Shaw R, Dingledine
+R (2014) The prostaglandin EP1 receptor potentiates kainate re-
+ceptor activation via a protein kinase C pathway and exacerbates
+status epilepticus. Neurobiol Dis 70:74–89. doi:10.1016/j.nbd.
+2014.06.004
+
+Mol Neurobiol
+
+121. Kaiya H, Uematsu M, Ofuji M, Nishida A, Takeuchi K, Nozaki M,
+Idaka E (1989) Elevated plasma prostaglandin E2 levels in schizo-
+phrenia. J Neural Transm 77(1):39–46
+
+122. Minghetti L, Cardone F, Greco A, Puopolo M, Levi G, Green AJ,
+Knight R, Pocchiari M (2002) Increased CSF levels of prostaglan-
+din E(2) in variant Creutzfeldt-Jakob disease. Neurology 58(1):
+127–129
+
+123. Matsuo M, Yoshida N, Zaitsu M, Ishii K, Hamasaki Y (2004)
+Inhibition of human glioma cell growth by a PHS-2 inhibitor,
+NS398, and a prostaglandin E receptor subtype EP1-selective an-
+tagonist, SC51089. J Neuro-Oncol 66(3):285–292
+
+124. Watanabe K (2002) Prostaglandin F synthase. Prostaglandins
+
+125.
+
+Other Lipid Mediat 68–69:401–407
+Ito S, Sakamoto K, Mochizuki-Oda N, Ezashi T, Miwa K, Okuda-
+Ashitaka E, Shevchenko VI, Kiso Y et al (1994) Prostaglandin F2
+alpha receptor is coupled to Gq in cDNA-transfected Chinese
+hamster ovary cells. Biochem Biophys Res Commun 200(2):
+756–762
+
+126. Kitanaka J, Hasimoto H, Sugimoto Y, Negishi M, Aino H, Gotoh
+M, Ichikawa A, Baba A (1994) Cloning and expression of a
+cDNA for rat prostaglandin F2 alpha receptor. Prostaglandins
+48(1):31–41
+
+127. Ogawa H, Sasaki T, Kassell NF, Nakagomi T, Lehman RM,
+Hongo K (1987) Immunohistochemical demonstration of increase
+in prostaglandin F2-alpha after recirculation in global ischemic rat
+brains. Acta Neuropathol 75(1):62–68
+
+128. Saleem S, Ahmad AS, Maruyama T, Narumiya S, Dore S (2009)
+PGF(2alpha) FP receptor contributes to brain damage following
+transient focal brain ischemia. Neurotox Res 15(1):62–70. doi:10.
+1007/s12640-009-9007-3
+
+129. Wolfe LS, Mamer OA (1975) Measurement of prostaglandin
+F2alpha levels in human cerebrospinal fluid in normal and patho-
+logical conditions. Prostaglandins 9(2):183–192
+
+130. Chung JI, Kim AY, Lee SH, Baik EJ (2013) Seizure susceptibility
+in immature brain due to lack of COX-2-induced PGF2alpha. Exp
+Neurol 249:95–103. doi:10.1016/j.expneurol.2013.08.014
+
+131. Hara S, Miyata A, Yokoyama C, Inoue H, Brugger R, Lottspeich
+F, Ullrich V, Tanabe T (1994) Isolation and molecular cloning of
+prostacyclin synthase from bovine endothelial cells. J Biol Chem
+269(31):19897–19903
+
+132. Sanchez-Moreno C, Dashe JF, Scott T, Thaler D, Folstein MF,
+Martin A (2004) Decreased levels of plasma vitamin C and in-
+creased concentrations of inflammatory and oxidative stress
+markers after stroke. Stroke J Cereb Circ 35(1):163–168. doi:10.
+1161/01.STR.0000105391.62306.2E
+
+133. Gryglewski RJ (1979) Prostacyclin as a circulatory hormone.
+
+Biochem Pharmacol 28(21):3161–3166
+
+134. Takechi H, Matsumura K, Watanabe Y, Kato K, Noyori R, Suzuki
+M, Watanabe Y (1996) A novel subtype of the prostacyclin recep-
+tor expressed in the central nervous system. J Biol Chem 271(10):
+5901–5906
+
+135. Satoh T, Ishikawa Y, Kataoka Y, Cui Y, Yanase H, Kato K,
+Watanabe Y, Nakadate K et al (1999) CNS-specific prostacyclin
+ligands as neuronal survival-promoting factors in the brain. Eur J
+Neurosci 11(9):3115–3124
+
+136. Hirata M, Hayashi Y, Ushikubi F, Yokota Y, Kageyama R,
+Nakanishi S, Narumiya S (1991) Cloning and expression of
+cDNA for a human thromboxane A2 receptor. Nature
+349(6310):617–620. doi:10.1038/349617a0
+
+137. Miggin SM, Kinsella BT (1998) Expression and tissue distribution
+of the mRNAs encoding the human thromboxane A2 receptor
+(TP) alpha and beta isoforms. Biochim Biophys Acta 1425(3):
+543–559
+
+138. Gao H, Peng B, Welch WJ, Wilcox CS (1997) Central thrombox-
+ane receptors: mRNA expression and mediation of pressor re-
+sponses. Am J Physiol 272(5 Pt 2):R1493–R1500
+
+139. Cazevieille C, Muller A, Meynier F, Dutrait N, Bonne C (1994)
+Protection by prostaglandins from glutamate toxicity in cortical
+neurons. Neurochem Int 24(4):395–398
+
+140. Sumimoto S, Muramatsu R, Yamashita T (2014) Thromboxane
+A2 stimulates neurite outgrowth in cerebral cortical neurons via
+mitogen activated protein kinase signaling. Brain Res. doi:10.
+1016/j.brainres.2014.07.048
+
+141. Fagan SC, Castellani D, Gengo FM (1986) Prostanoid concentra-
+tions in human CSF following acute ischaemic brain infarction.
+Clin Exp Pharmacol Physiol 13(8):629–632
+
+142. Steinhauer HB, Anhut H, Hertting G (1979) The synthesis of
+prostaglandins and thromboxane in the mouse brain in vivo.
+Influence of drug induced convulsions, hypoxia and the anticon-
+vulsants trimethadione and diazepam. Naunyn Schmiedeberg’s
+Arch Pharmacol 310(1):53–58
+
+143. Hsu CY, Halushka PV, Hogan EL, Banik NL, Lee WA, Perot PL Jr
+(1985) Alteration of thromboxane and prostacyclin levels in ex-
+perimental spinal cord injury. Neurology 35(7):1003–1009
+
+144. Giulian D, Corpuz M, Richmond B, Wendt E, Hall ER (1996)
+Activated microglia are the principal glial source of thromboxane
+in the central nervous system. Neurochem Int 29(1):65–76
+Iwamoto N, Kobayashi K, Kosaka K (1989) The formation of
+prostaglandins in the postmortem cerebral cortex of Alzheimer-
+type dementia patients. J Neurol 236(2):80–84
+
+145.
+
+146. Tuppo EE, Forman LJ, Spur BW, Chan-Ting RE, Chopra A,
+Cavalieri TA (2001) Sign of lipid peroxidation as measured in
+the urine of patients with probable Alzheimer’s disease. Brain
+Res Bull 54(5):565–568
+
+147. Yagami T, Takahara Y, Ishibashi C, Sakaguchi G, Itoh N, Ueda K,
+Nakazato H, Okamura N et al (2004) Amyloid beta protein im-
+pairs motor function via thromboxane A2 in the rat striatum.
+Neurobiol Dis 16(3):481–489. doi:10.1016/j.nbd.2004.04.013
+van Kooten F, Ciabattoni G, Koudstaal PJ, Grobbee DE, Kluft C,
+Patrono C (1999) Increased thromboxane biosynthesis is associat-
+ed with poststroke dementia. Stroke J Cereb Circ 30(8):1542–
+1547
+
+148.
+
+149. Urade Y, Eguchi N (2002) Lipocalin-type and hematopoietic pros-
+taglandin D synthases as a novel example of functional conver-
+gence. Prostaglandins Other Lipid Mediat 68–69:375–382
+
+150. Urade Y, Kitahama K, Ohishi H, Kaneko T, Mizuno N, Hayaishi
+O (1993) Dominant expression of mRNA for prostaglandin D
+synthase in leptomeninges, choroid plexus, and oligodendrocytes
+of the adult rat brain. Proc Natl Acad Sci U S A 90(19):9070–9074
+151. Liang X, Wu L, Hand T, Andreasson K (2005) Prostaglandin D2
+mediates neuronal protection via the DP1 receptor. J Neurochem
+92(3):477–486. doi:10.1111/j.1471-4159.2004.02870.x
+
+152. Xu S, Venge P (2000) Lipocalins as biochemical markers of dis-
+
+ease. Biochim Biophys Acta 1482(1–2):298–307
+
+153. Mohri I, Eguchi N, Suzuki K, Urade Y, Taniike M (2003)
+Hematopoietic prostaglandin D synthase is expressed in microglia
+in the developing postnatal mouse brain. Glia 42(3):263–274. doi:
+10.1002/glia.10183
+
+154. Hirata M, Kakizuka A, Aizawa M, Ushikubi F, Narumiya S (1994)
+Molecular characterization of a mouse prostaglandin D receptor
+and functional expression of the cloned gene. Proc Natl Acad Sci
+U S A 91(23):11192–11196
+
+155. Abe H, Takeshita T, Nagata K, Arita T, Endo Y, Fujita T,
+Takayama H, Kubo M et al (1999) Molecular cloning, chromo-
+some mapping and characterization of the mouse CRTH2 gene, a
+putative member of the leukocyte chemoattractant receptor fami-
+ly. Gene 227(1):71–77
+
+156. Hirai H, Tanaka K, Yoshie O, Ogawa K, Kenmotsu K, Takamori
+Y, Ichimasa M, Sugamura K et al (2001) Prostaglandin D2 selec-
+tively induces chemotaxis in T helper type 2 cells, eosinophils, and
+basophils via seven-transmembrane receptor CRTH2. J Exp Med
+193(2):255–261
+
+157. Oida H, Hirata M, Sugimoto Y, Ushikubi F, Ohishi H, Mizuno N,
+Ichikawa A, Narumiya S (1997) Expression of messenger RNA
+for the prostaglandin D receptor in the leptomeninges of the mouse
+brain. FEBS Lett 417(1):53–56
+
+158. Gerashchenko D, Beuckmann CT, Kanaoka Y, Eguchi N, Gordon
+WC, Urade Y, Bazan NG, Hayaishi O (1998) Dominant expres-
+sion of rat prostanoid DP receptor mRNA in leptomeninges, inner
+segments of photoreceptor cells, iris epithelium, and ciliary pro-
+cesses. J Neurochem 71(3):937–945
+
+159. Sawyer N, Cauchon E, Chateauneuf A, Cruz RP, Nicholson DW,
+Metters KM, O’Neill GP, Gervais FG (2002) Molecular pharma-
+cology of the human prostaglandin D2 receptor, CRTH2. Br J
+Pharmacol 137(8):1163–1172. doi:10.1038/sj.bjp.0704973
+
+160. Saleem S, Zhuang H, de Brum-Fernandes AJ, Maruyama T,
+Narumiya S, Dore S (2007) PGD(2) DP1 receptor protects brain
+from ischemia-reperfusion injury. Eur J Neurosci 26(1):73–78.
+doi:10.1111/j.1460-9568.2007.05627.x
+
+161. Yamashita A, Watanabe Y, Hayaishi O (1983) Autoradiographic
+localization of a binding protein(s) specific for prostaglandin D2 in
+rat brain. Proc Natl Acad Sci U S A 80(19):6114–6118
+
+162. Huang ZL, Urade Y, Hayaishi O (2007) Prostaglandins and aden-
+osine in the regulation of sleep and wakefulness. Curr Opin
+Pharmacol 7(1):33–38. doi:10.1016/j.coph.2006.09.004
+
+163. Gaudet RJ, Alam I, Levine L (1980) Accumulation of cyclooxy-
+genase products of arachidonic acid metabolism in gerbil brain
+during reperfusion after bilateral common carotid artery occlusion.
+J Neurochem 35(3):653–658
+
+164. Liu H, Li W, Rose ME, Pascoe JL, Miller TM, Ahmad M, Poloyac
+SM, Hickey RW et al (2013) Prostaglandin D2 toxicity in primary
+neurons is mediated through its bioactive cyclopentenone metab-
+olites. Neurotoxicology 39:35–44. doi:10.1016/j.neuro.2013.08.
+001
+
+165. Shimizu T, Yamashita A, Hayaishi O (1982) Specific binding of
+prostaglandin D2 to rat brain synaptic membrane. Occurrence,
+properties, and distribution. J Biol Chem 257(22):13570–13575
+166. Wright DH, Nantel F, Metters KM, Ford-Hutchinson AW (1999)
+A novel biological role for prostaglandin D2 is suggested by dis-
+tribution studies of the rat DP prostanoid receptor. Eur J
+Pharmacol 377(1):101–115
+
+167. Boie Y, Sawyer N, Slipetz DM, Metters KM, Abramovitz M
+(1995) Molecular cloning and characterization of the human pros-
+tanoid DP receptor. J Biol Chem 270(32):18910–18916
+
+168. Watanabe Y, Tokumoto H, Yamashita A, Narumiya S, Mizuno N,
+Hayaishi O (1985) Specific bindings of prostaglandin D2, E2 and
+F2 alpha in postmortem human brain. Brain Res 342(1):110–116
+169. Wu L, Wang Q, Liang X, Andreasson K (2007) Divergent effects
+of prostaglandin receptor signaling on neuronal survival. Neurosci
+Lett 421(3):253–258
+
+170. Koh SH, Jung B, Song CW, Kim Y, Kim YS, Kim SH (2005) 15-
+Deoxy-delta12,14-prostaglandin J2, a neuroprotectant or a
+neurotoxicant? Toxicology 216(2–3):232–243. doi:10.1016/j.tox.
+2005.08.015
+
+171. Hata AN, Zent R, Breyer MD, Breyer RM (2003) Expression and
+molecular pharmacology of the mouse CRTH2 receptor. J
+
+Mol Neurobiol
+
+Pharmacol Exp Ther 306(2):463–470. doi:10.1124/jpet.103.
+050955
+
+172. Forman BM, Tontonoz P, Chen J, Brun RP, Spiegelman BM,
+Evans RM (1995) 15-Deoxy-delta 12, 14-prostaglandin J2 is a
+ligand for the adipocyte determination factor PPAR gamma. Cell
+83(5):803–812
+
+173. Kliewer SA, Lenhard JM, Willson TM, Patel I, Morris DC,
+Lehmann JM (1995) A prostaglandin J2 metabolite binds perox-
+isome proliferator-activated receptor gamma and promotes adipo-
+cyte differentiation. Cell 83(5):813–819
+
+174. Heneka MT, Klockgether T, Feinstein DL (2000) Peroxisome
+proliferator-activated receptor-gamma ligands reduce neuronal in-
+ducible nitric oxide synthase expression and cell death in vivo. J
+Neurosci Off J Soc Neurosci 20(18):6862–6867
+
+175. Sundararajan S, Gamboa JL, Victor NA, Wanderi EW, Lust WD,
+Landreth GE (2005) Peroxisome proliferator-activated receptor-
+gamma ligands reduce inflammation and infarction size in tran-
+sient focal ischemia. Neuroscience 130(3):685–696
+Inestrosa NC, Godoy JA, Quintanilla RA, Koenig CS, Bronfman
+M (2005) Peroxisome proliferator-activated receptor gamma is
+expressed in hippocampal neurons and its activation prevents
+beta-amyloid neurodegeneration: role of Wnt signaling. Exp Cell
+Res 304(1):91–104
+
+176.
+
+177. Fitzpatrick FA, Wynalda MA (1983) Albumin-catalyzed metabo-
+lism of prostaglandin D2. Identification of products formed
+in vitro. J Biol Chem 258(19):11713–11718
+
+178. Rohn TT, Wong SM, Cotman CW, Cribbs DH (2001) 15-deoxy-
+delta12,14-prostaglandin J2, a specific ligand for peroxisome
+proliferator-activated receptor-gamma, induces neuronal apopto-
+sis. Neuroreport 12(4):839–843
+
+179. Shibata T, Yamada T, Kondo M, Tanahashi N, Tanaka K,
+Nakamura H, Masutani H, Yodoi J et al (2003) An endogenous
+electrophile that modulates the regulatory mechanism of protein
+turnover: inhibitory effects of 15-deoxy-Delta 12,14-prostaglan-
+din J2 on proteasome. Biochemistry 42(47):13960–13968. doi:
+10.1021/bi035215a
+
+180. Mullally JE, Moos PJ, Edes K, Fitzpatrick FA (2001)
+Cyclopentenone prostaglandins of the J series inhibit the ubiqui-
+tin isopeptidase activity of the proteasome pathway. J Biol Chem
+276(32):30366–30373. doi:10.1074/jbc.M102198200
+Ishii T, Uchida K (2004) Induction of reversible cysteine-targeted
+protein oxidation by an endogenous electrophile 15-deoxy-del-
+ta12,14-prostaglandin J2. Chem Res Toxicol 17(10):1313–1322.
+doi:10.1021/tx049860+
+
+181.
+
+182. Uchida K, Shibata T (2008) 15-Deoxy-Delta(12,14)-prostaglan-
+din J2: an electrophilic trigger of cellular responses. Chem Res
+Toxicol 21(1):138–144. doi:10.1021/tx700177j
+
+183. Blanchard HC, Taha AY, Rapoport SI, Yuan ZX (2015) Low-dose
+aspirin (acetylsalicylate) prevents increases in brain PGE2, 15-epi-
+lipoxin A4 and 8-isoprostane concentrations in 9 month-old HIV-1
+transgenic rats, a model for HIV-1 associated neurocognitive dis-
+orders. Prostaglandins Leukot Essent Fat Acids 96:25–30. doi:10.
+1016/j.plefa.2015.01.002
+
+

@@ -1,0 +1,931 @@
+Neurosci Bull    August 1, 2015, 31(4): 435–444. http://www.neurosci.cn
+DOI: 10.1007/s12264-015-1545-5
+
+435
+
+·Review·
+
+Role of   autophagy in the pathogenesis of multiple sclerosis
+Peizhou Liang1,2, Weidong Le2
+1Institute of Neuroscience, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200031, 
+China
+2Center for Translational Research on Neurological Diseases, the First Afﬁ liated Hospital, Dalian Medical University, Dalian 
+116011, China
+Corresponding author: Weidong Le. E-mail: wdle@sibs.ac.cn
+
+© Shanghai Institutes for Biological Sciences, CAS and Springer-Verlag Berlin Heidelberg 2015
+
+Autophagy plays an important role in maintaining the cellular homeostasis. One of its functions is to degrade 
+unnecessary organelles and proteins for energy recycling or amino-acids for cell survival. Ablation of 
+autophagy leads to neurodegeneration. Multiple sclerosis (MS), a permanent neurological impairment typical 
+of chronic inflammatory demyelinating disorder, is an auto-immune disease of the central nervous system 
+(CNS). Autophagy is tightly linked to the innate and adaptive immune systems during the autoimmune process, 
+and several studies have shown that autophagy directly participates in the progress of MS or experimental 
+autoimmune encephalomyelitis (EAE, a mouse model of MS). Dysfunction of mitochondria that intensively 
+inﬂ uences the autophagy pathway is one of the important factors in the pathogenesis of MS. Autophagy-related 
+gene (ATG) 5 and immune-related GTPase M (IRGM) 1 are increased, while ATG16L2 is decreased, in T-cells 
+in EAE and active relapsing-remitting MS brains. Administration of rapamycin, an inhibitor of mammalian target 
+of rapamycin (  mTOR), ameliorates  relapsing-remitting EAE. Inﬂ ammation and oxidative stress are increased 
+in MS lesions and EAE, but Lamp2 and the LC3-II/LC3-I ratio are decreased. Furthermore, autophagy in 
+various glial cells plays important roles in regulating neuro-inﬂ ammation in the CNS, implying potential roles in 
+MS. In this review, we discuss the role of autophagy in the peripheral immune system and the CNS in neuro-
+inﬂ ammation associated with the pathogenesis of MS. 
+
+Keywords: autophagy; multiple sclerosis; neuro-inﬂ ammation
+
+Introduction
+
+Autophagy, a lysosome-dependent degradation pathway, 
+contributes to maintaining cellular homeostasis. Clearance 
+of  long-lived  proteins,  unnecessary  organelles,  and 
+aggregate-prone proteins is mainly executed by autophagy 
+for recycling cellular materials[1]. There are three subtypes 
+of  autophagy,  macroautophagy,  chaperone-mediated 
+autophagy (CMA), and mitophagy. Macroautophagy is the 
+major type for selective degradation of protein aggregates 
+or misfolded proteins. The ubiquitin-labeled proteins are 
+recognized by autophagy receptors, such as p62, neighbor 
+of BRCA1 gene 1 (NBR1), and NIP3-like protein X (NIX), 
+
+to form autophagosomes that then fuse with lysosomes 
+for degradation. Many autophagy-related genes function 
+during this process, such as Unc51-like kinase (ULK1) 
+and autophagy-related gene (ATG) 5. Mammalian target 
+of rapamycin (mTOR) represses autophagy by regulating 
+ULK1 phosphorylation, while AMPK activates this process. 
+CMA mediates the degradation of large molecular-weight 
+proteins containing the KFERQ motif recognized by heat 
+shock cognate protein of 70 kDa (HSC70). The substrate is 
+then escorted to lysosome-associated membrane protein 
+2  (LAMP2A)  for  lysosomal  degradation.  Mitophagy  is 
+responsible for the degradation of damaged mitochondria. 
+Parkin and PINK1 play critical roles in this process[2]. More 
+
+436
+
+Neurosci Bull     August 1, 2015, 31(4): 435–444
+
+attention has been paid to autophagy in the pathogenesis of 
+neurodegenerative diseases, such as Alzheimer’s disease 
+(AD)[3], Parkinson’s disease (PD)[4] and amyotrophic lateral 
+sclerosis (ALS)[5]. 
+
+M u l t i p l e   s c l e r o s i s   ( M S )   i s   a   n o n - i n h e r i t e d 
+neurodegenerative disease characterized by the involvement 
+of innate and adaptive immunity. MS occurs mainly in 
+young adults and its incidence in females is two to three 
+times higher than that in males. About 85% of MS patients 
+show relapse-remission before irreversible progression. 
+It is widely accepted that MS is an auto-immune disease 
+caused by autoreactive T-cells that target the myelin sheath 
+in the central nervous system (CNS)[6, 7]. These myelin 
+sheath-targeting T-cells infiltrate the CNS via breakdown 
+of the blood brain barrier, attack the myelin sheath, and 
+initiate chronic inflammatory responses, leading to the 
+loss of axons and neurons. The fact that adoptive transfer 
+of  activated  myelin-specific  CD4+ T-cells  can  induce 
+experimental  autoimmune  encephalomyelitis  (EAE) 
+demonstrates that auto-immunity is indispensable in the 
+pathogenesis of MS[8]. Genome-wide association studies 
+have shown that immunologically-relevant genes, especially 
+T-helper-cell  differentiation  genes,  are  significantly 
+overrepresented in the pathogenesis of MS[9]. However, 
+it is still unclear what exactly causes the disease. One of 
+the initiators of MS is antigen from virus or bacteria that is 
+similar to the myelin basic protein peptide[10, 11]. The auto-
+immunity hypothesis is now being challenged since the 
+ﬁ nding that, like many other neurodegenerative disorders, 
+gray matter lesions and brain atrophy are detectable before 
+MS onset[12, 13]. So the initiators of MS still need further 
+investigation. An  important  factor  in  MS  development 
+is  neuro-inflammation,  which  is  also  one  of  the  main 
+characteristics of MS (chronic inflammation, infiltration of 
+peripheral immune cells, demyelination, transected axons, 
+and gliosis). The frail neurons die when they are exposed 
+to the inﬂ ammatory environment. Pro-inﬂ ammatory factors 
+such as IL17 impair the differentiation of oligodendrocyte 
+progenitor cells (OPCs) in MS[14].
+
+Autophagy is tightly linked with auto-immune diseases, 
+including  MS[15-17].  The  extracellular  matrix  molecule 
+fibronectin aggregates in chronically demyelinating MS 
+and the relapsig phase of EAE; it may be resistant to 
+degradation  and  affect  the  remyelination  process[18]. 
+Soluble oligomers have been detected in the brain and 
+
+cerebral spinal ﬂ uid of MS patients[19]. Meanwhile, oxidized 
+protein  aggregates  increase  in  EAE,  probably  due  to 
+the  reduced  autophagy  level[20].  Moreover,  autophagy 
+intensively regulates inﬂ ammation in various diseases. To 
+unravel the potential role of autophagy in the pathogenesis 
+of MS, we highlight its possible importance in both the 
+generation of auto-reactive lymphocytes and the regulation 
+of neuro-inflammation. Differential cell-type specificity of 
+autophagy in the peripheral immune system and the CNS  
+might modulate the onset and progression of MS (Fig. 1).
+
+Autophagy and Mitochondria in MS
+
+Mitochondria play important roles in general and selective 
+autophagic  flux,  including  mitophagy.  Dysfunction  of 
+mitochondria during stress is one of the important factors 
+involved in the pathogenesis of MS and EAE. Autophagy 
+maintains the architecture of mitochondria, restores their 
+function, and prevents their dysfunction, which are critical 
+for cell survival and the pathogenesis of MS[21-23]. In MS, 
+the decreased expression of cytochrome c oxidase subunit 
+5b may impair the function of mitochondria[24]. Dysfunction 
+of mitochondria produces reactive oxygen species (ROS), 
+which  contribute  to  demyelination  and  axonal  loss[25]. 
+Autophagy clears depolarized mitochondria to reduce the 
+excessive production of ROS by increasing BECN1 or 
+regulating ATG4 activity[26, 27], which is protective in MS.
+
+Autophagy and MS in the Peripheral Immune System
+Mutual Regulation of Autophagy and Inﬂ ammation
+The connections between autophagy and inﬂ ammation are 
+complex. Each regulates the other by different mechanisms. 
+Pattern-recognition receptors for pathogen recognition, 
+such as toll-like receptors (TLRs) and NOD-like receptors 
+(NLRs) can elicit autophagy for pathogen clearance[28]. 
+However, autophagy negatively regulates inflammation to 
+prevent the harmful amplification of inflammatory factors. 
+For  instance, ATG9  suppresses  the  stimulator  of  IFN 
+genes protein (STING) in type-I IFN signaling to reduce 
+the  inflammatory  response[29].  Blockade  of  autophagy 
+leads to the activation of inflammasomes which control 
+the proteolytic processing and secretion of IL -1β and IL-18 
+under inﬂ ammatory stress[30, 31]. Also, ablation of autophagy-
+related 16-like 1 (ATG16L1) increases the production of 
+
+Peizhou Liang, et al.    Role of   autophagy in the pathogenesis of multiple sclerosis
+
+437
+
+Fig. 1.  Autophagy in the pathogenesis of multiple sclerosis. A: Autophagy is indispensable for antigen presentation in antigen presenting 
+cells (APC, e.g. thymic epithelial cells, microglia). B: In MS patients and EAE mice, ATG5 and IRGM1 increase in T-cells to enhance 
+their survival. Downregulation of ATG16L2 may perturb the homeostasis of T-cells. C: Rapamycin, the inhibitor of mTOR that 
+represses autophagy, regulates inflammation and benefits EAE. D: Drd1 in microglia or macrophages activated by dopamine 
+triggers autophagy to inhibit inﬂ ammasome activation during neuro-inﬂ ammation. E: ROS and NO produced by microglia and 
+astrocytes in neuro-inﬂ ammation regulate autophagy in various cell types, including astrocytes. F: In MS patients, NGF increases 
+in cerebrospinal ﬂ uid and represses autophagy in neurons to prevent cell death. G: Pro-inﬂ ammatory factors, such as IL-1β, TNF, 
+and IFNγ, can induce autophagy in macrophages or microglia. H: Cell debris or protein aggresomes in MS or EAE are removed 
+by microglia or macrophages through phagocytosis or autophagy. OPCs may also clear cellular debris and protein aggresomes 
+by endocytosis and autophagy. I: Autophagy is necessary to maintain the architecture and restore the function of mitochondria in 
+astrocytes during neuro-inﬂ ammation. Depolarized mitochondria are also removed by autophagy.
+
+IL-1β and IL-18 in the mouse model of Crohn’s disease[32]. 
+Moreover, infection of ATG5-deﬁ cient myeloid cells with M. 
+tuberculosis increases the expression of IL-17, a potent 
+mediator in autoimmunity[33]. In primary effective T-cells, 
+p62 serves as a receptor for autophagic degradation of 
+ubiquitinated BCL10 during TCR activation to protect cells 
+
+from excessively activated NF-κB pathway[34].
+
+Inflammatory factors in turn regulate the progress of 
+autophagy. The T-helper 1 (Th1) cell cytokine IFNγ  induces 
+autophagy in macrophages to suppress the survival of 
+mycobacteria[35]. Another  pro-inflammatory  factor, Tnf, 
+also induces autophagy in monocytes/macrophages[36]. 
+
+438
+
+Neurosci Bull     August 1, 2015, 31(4): 435–444
+
+However, the Th2 cell cytokines IL-4 and IL-13 ablate  
+autophagy in macrophages[36]. 
+Autoreactive T-Cell Regulation by Autophagy
+Besides  innate  immunity,  autophagy  also  participates 
+intensively in shaping the adaptive immune system. Th1 
+cells are crucial at the early stage of MS pathogenesis, and 
+Th17 cells are indispensable in the later stage. Autophagy 
+is necessary for the generation of autoreactive T-cells. It 
+participates in multiple functions of the adaptive immune 
+system, such as antigen presentation and maintenance of 
+the homeostasis of T-cells.
+
+Autophagy  mediates  antigen-presentation  during 
+the  generation  of  autoreactive  T-cells. Autophagy 
+enhances antigen-presentation to CD4+ T-cells via major 
+histocompatibility complex class II molecules[37, 38]. In thymic 
+epithelial cells, autophagy contributes to the positive and 
+negative control of the T-cell repertoire, playing a critical 
+role in the elimination of self-reactive T-cells and exotic 
+pathogens. Mice thymi with ATG5 ablation show inﬁ ltration 
+of  autoreactive  CD4+ T-cells  into  multiple  organs  and 
+induce  autoimmune  colitis  similar  to  Crohn’s  disease-
+related phenotypes[38]. Atg7 ablation in dendritic cells (DCs), 
+the  most  potent  antigen-presenting  cells,  ameliorates 
+EAE. Blockade of autophagy in DCs by chloroquine also 
+delays the onset or reduces the severity of EAE[39]. DCs 
+from patients with Crohn’s disease with ATG16L1 and 
+NOD2 variants are defective in antigen presentation[40]. The 
+presentation of citrullinated peptides by DCs, macrophages, 
+and thymic DCs is blocked by inhibition of autophagy with 
+3-methyladenine[41]. 
+
+Autophagy regulates the homeostasis, proliferation, 
+differentiation, maturation, and apoptosis of T-cells. It also 
+maintains the calcium flux and the pro-survival process 
+and counteracts pro-apoptotic action to maintain T-cell 
+homeostasis[42-45]. Cyt1 induces autophagosome formation 
+when it binds to CD46, which may function in maintaining 
+the homeostasis of T-cells during adaptive immunity[46]. 
+Moreover, the expression of ATG16 L2 in T-cells is reduced, 
+and this is likely to perturb the homeostasis of T-cells in 
+MS[47]. ATG5 plays important roles in T-cell survival and 
+controls the proliferation, differentiation and maturation 
+of CD4/8+ T-cells and B-cells[48-50]. mTOR-deficient T-cells 
+fail to differentiate into T-helper cells, Th1, Th2, and Th17 
+effector cells[51, 52]. ATG5 is signiﬁ cantly elevated in T-cells 
+
+in MS lesions and EAE mice compared to controls. The 
+increase of autophagy in T-cells may promote their survival, 
+contributing to the pathogenesis of MS[53]. Immune-related 
+GTPase M1 is highly expressed in MS lesions in the CNS 
+and EAE models, and contributes to the pathogenesis 
+of MS by increasing the survival of autoreactive CD4+ 
+T-cells[17]. Rapamycin, an inhibitor of mTOR, ameliorates 
+the  relapsing-remitting  EAE  (RR-EAE)  in  SJL/j  mice 
+by increasing the Treg cell population[54]. However, the 
+contributions of autophagy in different T-cell populations 
+to cell death depend on the context. Upon activation of 
+autophagy, Th2 cells undergo growth factor-withdrawal-
+mediated cell death[55]. The induction of autophagy through 
+binding of HIV-1 envelope glycoproteins to CXC chemokine 
+receptor 4 of CD4+ T-cells is necessary for apoptosis[56]. 
+FADD or casp8 in T-cells limits autophagy and protects 
+against cell necrosis and inﬂ ammation[57, 58]. Alteration of the 
+proportions of different T-cell groups affects the immune 
+response[59]. 
+
+Pathological Role of Autophagy in MS
+Autophagy and Neuro-inﬂ ammation
+CNS autophagy is linked with serious neurodegenerative 
+diseases. Deﬁ ciency of basal autophagy in neurons leads 
+to  protein  aggregation  and  finally  neurodegenerative 
+diseases[60, 61]. Neuro-inﬂ ammation is one of the important 
+factors that cause neurodegenerative diseases, especially 
+MS. Autophagy and neuro-inflammation regulate each 
+other to affect the progression of various diseases in the 
+CNS.
+
+Neuro-inflammation  is  negatively  regulated  by 
+autophagy  to  avoid  its  harm  to  the  CNS.  Microglia, 
+resident immune cells in the CNS, play important roles 
+in the initiation and sustenance of neuro-inflammation 
+to  clear  pathogens.  They  produce  pro-inflammatory 
+factors and neurotoxic factors including ROS and nitric 
+oxide (NO). Subsequently-activated astrocytes further 
+amplify the inflammatory response to produce more pro-
+inflammatory factors, chemokines, and NO, which have 
+toxic effects on primary neurons[7, 62]. However, autophagy 
+plays an essential role in maintaining neuro-inflammation 
+at  a  harmless  level. Activation  of  Drd1  by  dopamine 
+inhibits NOD-LRR-containing pyrin domain 3 (NLRP3) 
+inflammasome activation through autophagic degradation 
+
+Peizhou Liang, et al.    Role of   autophagy in the pathogenesis of multiple sclerosis
+
+439
+
+of NLRP3 via the E3 ubiquitin ligase MARCH7[63]. The 
+dopamine system also regulates lymphocyte activity in 
+lupus and MS, suggesting an important role of dopamine in 
+the regulation of peripheral or CNS inﬁ ltrated lymphocytes 
+during the pathogenesis of MS[64, 65]. In addition, inhibition 
+of neuro-inﬂ ammation by autophagy has great beneﬁ ts on 
+ischemia[66]. Autophagy may be a stress response to the 
+negative feedback regulation of neuro-inﬂ ammation. In the 
+chronic LPS model, pro-inﬂ ammatory factor IL-1β in cortex 
+is positively correlated with the autophagy markers Beclin-1 
+and LC3-II and inversely correlated with p62[67]. 
+
+Autophagy  can  be  deleterious  depending  on  the 
+disease. Activation of the autophagic pathway in ischemia 
+leads to the death of astrocytes and neurons, which can be 
+rescued by autophagy inhibitors[68, 69]. Meanwhile, blockade 
+of microglial autophagy in permanent middle cerebral artery 
+occlusion by autophagy inhibitors reduces the severity 
+of the disease[70]. Thus, autophagy in different diseases 
+and cell types in the CNS seems to function differently. 
+Autophagic cell death is still under debate and needs 
+further investigation[71].
+Autophagy in Glial Cells
+Until  recently,  most  studies  on  autophagy  in  the  CNS 
+focused on neurons, with less on glial cells. The activation 
+of glial cells plays important roles in neuro-inflammation, 
+and these cells are indispensable for the development of 
+MS[7]. MS progression occurs between glial activation and 
+gliosis. Autophagy in various glial cells may play a role in 
+responding to stress in MS. Therefore, it is urgent to study 
+the effect of glial autophagy on neurological diseases, 
+including MS.
+
+Microglia are the first line of defense in the CNS, 
+monitoring  exotic  and  intrinsic  pathogens.  During 
+demyelination,  cell  debris  is  mainly  phagocytized  by 
+microglia  or  microphages,  a  process  that  requires 
+autophagy-related genes[72]. Impairment of autophagy in 
+microglia may hinder debris clearance, leading to damaged 
+remyelination  and  augmentation  of  persistent  neuro-
+inflammation. The rapid activation of microglia produces 
+pro-inﬂ ammatory cytokines and free radicals, and acts as 
+the major antigen-presenting cell[73, 74]. Pro-inflammatory 
+factors such as IL-1β can trigger microglial autophagy, 
+suggesting links between autophagy and inflammation 
+activation[75].  mTOR  plays  a  pivotal  role  in  autophagy 
+suppression and promotes inﬂ ammation in microglia, and 
+
+rapamycin may have a beneficial effect in the treatment 
+of MS[76]. mTOR inhibitors reduce neuro-inflammation by 
+inhibiting microglial activation or viability, decreasing pro-
+inﬂ ammatory cytokines[77]. Simian immunodeﬁ ciency virus-
+infected microglia attenuate the survival of neurons by 
+inhibiting neuronal autophagy[78], which implicates a cell-
+cell type regulation of autophagy in the CNS. However, 
+microglial autophagy in middle cerebral artery occlusion 
+makes the disease worse[70]. It is possible that the role of 
+microglial autophagy depends on the disease.
+
+Astrocytes  are  the  primary  supportive  elements 
+for  neuronal  structure  and  neurotrophy,  comprising 
+~50% of cells in the adult mammalian brain. Autophagy 
+is  necessary  for  the  differentiation  and  maturation 
+of  astrocytes[79],  and  can  be  initiated  in  inflammatory 
+stress and may be important in the development of MS. 
+During pro-inflammatory stimuli, autophagy is induced 
+to maintain mitochondrial networks[22]. Impairment of the 
+autophagy pathway by ablation of Atg7 in astrocytes in 
+the inflammatory environment amplifies the response to 
+produce more neurotoxic factors such as ROS, which 
+induces astrocytic cell death[22, 80]. mTOR in the astrocyte 
+may play a protective role in ischemia via its downstream 
+kinase S6K1[81]. mTOR can also regulate the stability of 
+iNOS mRNA in astrocytes, reducing the neurotoxic effect 
+of NO which impairs autophagy by disrupting the BECN1 
+complex and activates mTORC1[82-84]. 
+
+OPCs  are  indispensable  during  oligodendrocyte 
+differentiation and myelin remyelination; they are activated 
+for remyelination in MS lesions[85, 86]. They also play an 
+important role in MS pathogenesis by modulating immune 
+activity in the CNS. Act1 deletion in OPCs blocks the IL-17 
+pathway, attenuating neuro-inflammation and increasing 
+OPC  maturation[14].  OPCs  can  also  clear  β-amyloid 
+peptides  by  triggering  endocytosis  and  autophagy[87], 
+implying an autophagic role of OPCs in MS. However, the 
+exact functions of OPCs in MS need further investigation, 
+including  those  of  autophagy  and  its  differentiation, 
+nutritional support, debris clearance, and inflammation 
+regulation.
+R o l e s   o f   A u t o p h a g y   i n   M S - A s s o c i a t e d 
+Demyelination and Remyelination
+Autophagy  is  closely  linked  to  demyelination  and 
+remyelination.  It  plays  potential  roles  in  improving 
+
+440
+
+Neurosci Bull     August 1, 2015, 31(4): 435–444
+
+Schwann cell remyelination in demyelinating peripheral 
+neuropathies[88]. Rapamycin, a potent autophagy inducer, 
+improves  myelination,  leading  to  enhanced  neuronal 
+survival in tuberous sclerosis[89]. Meanwhile, in Long–Evans 
+shaker rats, an increased autophagy level increases the 
+number of myelinated axons and myelin sheath thickness 
+during dysmyelination and demyelination, which implies 
+that the autophagy pathway is a direct target for therapy 
+for  demyelination[90].  Furthermore,  high  mobility  group 
+box chromosomal protein 1 (HMGB1), which promotes 
+autophagy, is elevated in MS and EAE[91]. However, the 
+progression of MS and EAE involves many cell types. 
+Different cell types in the lesion site might show different 
+patterns  of  autophagy.  In  MS,  especially  in  the  acute 
+phase, nerve growth factor (NGF) is dramatically increased 
+in  the  cerebrospinal  fluid[92].  NGF  inhibits  autophagy 
+and cell death of neurons through the p75 neurotrophin 
+receptor,  suggesting  a  protective  role  in  MS[93].  In  MS 
+lesions,  Lamp2  expression  is  reduced[94],  implying  an 
+impairment of autophagy. The mTOR signaling pathway 
+that inhibits autophagy restores the regrowth of axons in 
+the CNS, which is important for remyelination in MS[95, 96]. 
+Moreover, in acute and chronic EAE, protein aggresomes 
+in the spinal cord and a reduced LC3-II/LC3-I ratio suggest 
+that the protein turnover mechanism through autophagy 
+is impaired[20]. In fact, the mechanism of autophagy in 
+the pathogenesis of MS in the CNS is still superficially 
+understood. Autophagy in different stages of the disease 
+and  different  cell  types  needs  further  investigation  to 
+determine the causal relationship between autophagy and 
+MS.
+
+Conclusive Remarks
+
+So  far,  little  is  known  about  the  exact  mechanism  of 
+autophagy in MS. It is still controversial whether autophagy 
+leads  to  cell  death  in  MS  or  is  a  rescue  mechanism 
+activated  as  part  of  an  endogenous  neuroprotective 
+response, since autophagy plays opposite functions in 
+inflammation and cell survival, depending on the context. 
+Drugs modifying the immune system and remyelination 
+have been used to help with relapse management, reduce 
+the degree of disability, and improve the quality of life[97, 98]. 
+The effects of rapamycin and chloroquine in the therapy of 
+EAE shed light on the autophagy pathway as a potential 
+
+target for drug development. The inhibition of autophagy 
+in mesenchymal stem cells provides a novel strategy to 
+improve therapeutic effects by enhancing the suppression 
+of CD4+ T-cells[99]. In order to develop effective and more 
+speciﬁ c therapeutic strategies, we need to fully understand 
+the  complex  interplay  between  autophagy  and  MS  in 
+different cell types.
+
+ACKNOWLEDGEMENTS
+
+This review was supported by a grant from the National Natural 
+Science Foundation of China (814300 21 and 81370470), China 
+Postdoctoral  Science  Foundation  (2014M551465)  and  the 
+Collaborative Innovation Center for Brain Science.
+
+Received date: 2015-05-20; Accepted date: 2015-07-05
+
+REFERENCES
+
+[1]  Rubinsztein DC. The roles of intracellular protein-degradation 
+pathways in neurodegeneration. Nature 2006, 443: 780–786.
+[2]  Nixon  RA. The  role  of  autophagy  in  neurodegenerative 
+
+disease. Nat Med 2013, 19: 983–997.
+
+[3]  Nixon  RA,  Wegiel  J,  Kumar A,  Yu  WH,  Peterhoff  C, 
+Cataldo A, et al. Extensive involvement of autophagy in 
+Alzheimer disease: an immuno-electron microscopy study. J 
+Neuropathol Exp Neurol 2005, 64: 113–122.
+
+[4]  Lynch-Day MA, Mao K, Wang K, Zhao M, Klionsky DJ. The 
+role of autophagy in Parkinson's disease. Cold Spring Harb 
+Perspect Med 2012, 2: a009357.
+
+[5]  Song  CY,  Guo  JF,  Liu  Y,  Tang  BS. Autophagy  and  its 
+comprehensive impact on ALS. Int J Neurosci 2012, 122: 
+695–703.
+
+[6]  Steinman L. Multiple sclerosis: a two-stage disease. Nat 
+
+Immunol 2001, 2: 762–764.
+
+[7]  Glass CK, Saijo K, Winner B, Marchetto MC, Gage FH. 
+Mechanisms underlying inﬂ ammation in neurodegeneration. 
+Cell 2010, 140: 918–934.
+
+[8]  Ben-Nun A, Wekerle H, Cohen IR. The rapid isolation of 
+clonable antigen-specific T lymphocyte lines capable of 
+mediating autoimmune encephalomyelitis. Eur J Immunol 
+1981, 11: 195–199.
+International Multiple Sclerosis Genetics C, Wellcome Trust 
+Case Control C, Sawcer S, Hellenthal G, Pirinen M, Spencer 
+CC, et al. Genetic risk and a primary role for cell-mediated 
+immune mechanisms in multiple sclerosis. Nature 2011, 476: 
+214–219.
+
+[9] 
+
+[10]  Sospedra M, Martin R. Immunology of multiple sclerosis. 
+
+Annu Rev Immunol 2005, 23: 683–747.
+
+[11]  Fujinami RS, Oldstone MB. Amino acid homology between 
+
+Peizhou Liang, et al.    Role of   autophagy in the pathogenesis of multiple sclerosis
+
+441
+
+the encephalitogenic site of myelin basic protein and virus: 
+mechanism for autoimmunity. Science 1985, 230: 1043–
+1045.
+
+[12]  Stys PK, Zamponi GW, van Minnen J, Geurts JJ. Will the real 
+multiple sclerosis please stand up? Nat Rev Neurosci 2012, 
+13: 507–514.
+
+[13]  Ellwardt  E,  Zipp  F.  Molecular  mechanisms  linking 
+neuroinﬂ ammation and neurodegeneration in MS. Exp Neurol 
+2014, 262 Pt A: 8–17.
+
+[14]  Kang Z, Wang C, Zepp J, Wu L, Sun K, Zhao J, et al. Act1 
+mediates IL-17-induced EAE pathogenesis selectively in 
+NG2(+) glial cells. Nat Neurosci 2013, 16: 1401–1408.
+
+[15]  Wellcome Trust Case Control C. Genome-wide association 
+study of 14,000 cases of seven common diseases and 3,000 
+shared controls. Nature 2007, 447: 661–678.
+
+[16]  Zhou XJ, Lu XL, Lv JC, Yang HZ, Qin LX, Zhao MH, et al. 
+Genetic association of PRDM1-ATG5 intergenic region and 
+autophagy with systemic lupus erythematosus in a Chinese 
+population. Ann Rheum Dis 2011, 70: 1330–1337.
+
+[17]  Xu  H,  Wu  ZY,  Fang  F,  Guo  L,  Chen  D,  Chen  JX,  et  al. 
+Genetic deﬁ ciency of Irgm1 (LRG-47) suppresses induction 
+of experimental autoimmune encephalomyelitis by promoting 
+apoptosis of activated CD4+ T cells. FASEB J 2010, 24: 
+1583–1592.
+
+[18]  Stoffels JM, de Jonge JC, Stancic M, Nomden A, van Strien 
+ME, Ma D, et al. Fibronectin aggregation in multiple sclerosis 
+lesions impairs remyelination. Brain 2013, 136: 116–131.
+
+[19]  David MA, Tayebi M. Detection of protein aggregates in 
+brain and cerebrospinal ﬂ uid derived from multiple sclerosis 
+patients. Front Neurol 2014, 5: 251.
+
+[20]  Dasgupta A, Zheng J, Perrone-Bizzozero NI, Bizzozero OA. 
+Increased carbonylation, protein aggregation and apoptosis 
+in the spinal cord of mice with experimental autoimmune 
+encephalomyelitis. ASN Neuro 2013, 5: e00111.
+
+[21]  Kalman  B,  Laitinen  K,  Komoly  S.  The  involvement  of 
+mitochondria in the pathogenesis of multiple sclerosis. J 
+Neuroimmunol 2007, 188: 1–12.
+
+[22]  Motori E, Puyal J, Toni N, Ghanem A, Angeloni C, Malaguti 
+M,  et  al.  Inflammation-induced  alteration  of  astrocyte 
+mitochondrial dynamics requires autophagy for mitochondrial 
+network maintenance. Cell Metab 2013, 18: 844–859.
+
+[23]  Lu Q, Zhang J, Allison R, Gay H, Yang WX, Bhowmick NA, 
+et al. Identiﬁ cation of extracellular delta-catenin accumulation 
+for prostate cancer detection. Prostate 2009, 69: 411–418.
+
+[24]  Broadwater L, Pandit A, Clements R, Azzam S, Vadnal J, 
+Sulak M, et al. Analysis of the mitochondrial proteome in 
+multiple sclerosis cortex. Biochim Biophys Acta 2011, 1812: 
+630–641.
+
+[25]  van Horssen J, Witte ME, Schreibelt G, de Vries HE. Radical 
+changes in multiple sclerosis pathogenesis. Biochim Biophys 
+
+Acta 2011, 1812: 141–150.
+
+[26]  Chen Y, Gibson SB. Is mitochondrial generation of reactive 
+oxygen species a trigger for autophagy? Autophagy 2008, 4: 
+246–248.
+
+[27]  Chen Y, McMillan-Ward E, Kong J, Israels SJ, Gibson SB. 
+Oxidative stress induces autophagic cell death independent 
+of apoptosis in transformed and cancer cells. Cell Death 
+Differ 2008, 15: 171–182.
+
+[28]  Saitoh T, Akira S. Regulation of innate immune responses by 
+
+autophagy-related proteins. J Cell Biol 2010, 189: 925–935.
+
+[29]  Saitoh T, Fujita N, Hayashi T, Takahara K, Satoh T, Lee H, 
+et al. Atg9a controls dsDNA-driven dynamic translocation of 
+STING and the innate immune response. Proc Natl Acad Sci 
+U S A 2009, 106: 20842–20846.
+
+[30]  Deretic  V,  Saitoh  T, Akira  S. Autophagy  in  infection, 
+inflammation and immunity. Nat Rev Immunol 2013, 13: 
+722–737.
+
+[31]  Shi CS, Shenderov K, Huang NN, Kabat J, Abu-Asab M, 
+Fitzgerald KA, et al. Activation of autophagy by inﬂ ammatory 
+signals limits IL-1beta production by targeting ubiquitinated 
+inﬂ ammasomes for destruction. Nat Immunol 2012, 13: 255–
+263.
+
+[32]  Saitoh T, Fujita N, Jang MH, Uematsu S, Yang BG, Satoh 
+T, et al. Loss of the autophagy protein Atg16L1 enhances 
+endotoxin-induced IL-1beta production. Nature 2008, 456: 
+264–268.
+
+[33]  Castillo EF, Dekonenko A, Arko-Mensah J, Mandell MA, 
+Dupont  N,  Jiang  S,  et  al. Autophagy  protects  against 
+active tuberculosis by suppressing bacterial burden and 
+inﬂ ammation. Proc Natl Acad Sci U S A 2012, 109: E3168–
+3176.
+
+[34]  Paul S, Kashyap AK, Jia W, He YW, Schaefer BC. Selective 
+autophagy of the adaptor protein Bcl10 modulates T cell 
+receptor activation of NF-kappaB. Immunity 2012, 36: 947–
+958.
+
+[35]  Gutierrez MG, Master SS, Singh SB, Taylor GA, Colombo 
+MI, Deretic V. Autophagy is a defense mechanism inhibiting 
+BCG and Mycobacterium tuberculosis survival in infected 
+macrophages. Cell 2004, 119: 753–766.
+
+[36]  Harris J, Keane J. How tumour necrosis factor blockers 
+interfere with tuberculosis immunity. Clin Exp Immunol 2010, 
+161: 1–9.
+
+[37]  Paludan C, Schmid D, Landthaler M, Vockerodt M, Kube D, 
+Tuschl T, et al. Endogenous MHC class II processing of a 
+viral nuclear antigen after autophagy. Science 2005, 307: 
+593–596.
+
+[38]  Nedjic J, Aichinger M, Emmerich J, Mizushima N, Klein L. 
+Autophagy in thymic epithelium shapes the T-cell repertoire 
+and is essential for tolerance. Nature 2008, 455: 396–400.
+
+[39]  Bhattacharya A,  Parillon  X,  Zeng  S,  Han  S,  Eissa  NT. 
+
+442
+
+Neurosci Bull     August 1, 2015, 31(4): 435–444
+
+Deficiency of autophagy in dendritic cells protects against 
+experimental autoimmune encephalomyelitis. J Biol Chem 
+2014, 289: 26525–26532.
+
+[40]  Cooney R, Baker J, Brain O, Danis B, Pichulik T, Allan P, et 
+al. NOD2 stimulation induces autophagy in dendritic cells 
+inﬂ uencing bacterial handling and antigen presentation. Nat 
+Med 2010, 16: 90–97.
+
+[41]  Ireland JM, Unanue ER. Autophagy in antigen-presenting 
+cells results in presentation of citrullinated peptides to CD4 T 
+cells. J Exp Med 2011, 208: 2625–2632.
+
+[42]  Jia  W,  Pua  HH,  Li  QJ,  He  YW. Autophagy  regulates 
+endoplasmic reticulum homeostasis and calcium mobilization 
+in T lymphocytes. J Immunol 2011, 186: 1564–1574.
+
+[43]  Lee JS, Li Q, Lee JY, Lee SH, Jeong JH, Lee HR, et al. FLIP-
+mediated autophagy regulation in cell death control. Nat Cell 
+Biol 2009, 11: 1355–1362.
+
+[44]  He MX, He YW. A role for c-FLIP(L) in the regulation of 
+apoptosis, autophagy, and necroptosis in T lymphocytes. Cell 
+Death Differ 2013, 20: 188–197.
+
+[45]  Hubbard VM, Valdor R, Patel B, Singh R, Cuervo AM, Macian 
+F. Macroautophagy regulates energy metabolism during 
+effector T cell activation. J Immunol 2010, 185: 7349–7357.
+
+[46]  Ni Choileain S, Astier AL. CD46 plasticity and its inﬂ ammatory 
+bias in multiple sclerosis. Arch Immunol Ther Exp (Warsz) 
+2011, 59: 49–59.
+
+[47]  Yin L, Liu J, Dong H, Xu E, Qiao Y, Wang L, et al. Autophagy-
+related gene16L2, a potential serum biomarker of multiple 
+sclerosis evaluated by bead-based proteomic technology. 
+Neurosci Lett 2014, 562: 34–38.
+
+[48]  Miller BC, Zhao Z, Stephenson LM, Cadwell K, Pua HH, Lee 
+HK, et al. The autophagy gene ATG5 plays an essential role 
+in B lymphocyte development. Autophagy 2008, 4: 309–314.
+
+[49]  Pua HH, He YW. Maintaining T lymphocyte homeostasis: 
+
+another duty of autophagy. Autophagy 2007, 3: 266–267.
+
+[50]  Pua HH, Dzhagalov I, Chuck M, Mizushima N, He YW. A 
+critical role for the autophagy gene Atg5 in T cell survival and 
+proliferation. J Exp Med 2007, 204: 25–31.
+
+[51]  Delgoffe GM, Kole TP, Zheng Y, Zarek PE, Matthews KL, 
+Xiao  B,  et  al. The  mTOR  kinase  differentially  regulates 
+effector and regulatory T cell lineage commitment. Immunity 
+2009, 30: 832–844.
+
+regulatory T cells modulation. J Neuroimmunol 2010, 220: 
+52–63.
+
+[55]  Li C, Capan E, Zhao Y, Zhao J, Stolz D, Watkins SC, et al. 
+Autophagy is induced in CD4+ T cells and important for the 
+growth factor-withdrawal cell death. J Immunol 2006, 177: 
+5163–5168.
+
+[56]  Espert L, Denizot M, Grimaldi M, Robert-Hebmann V, Gay B, 
+Varbanov M, et al. Autophagy is involved in T cell death after 
+binding of HIV-1 envelope proteins to CXCR4. J Clin Invest 
+2006, 116: 2161–2172.
+
+[57]  Bell BD, Leverrier S, Weist BM, Newton RH, Arechiga AF, 
+Luhrs KA, et al. FADD and caspase-8 control the outcome of 
+autophagic signaling in proliferating T cells. Proc Natl Acad 
+Sci U S A 2008, 105: 16677–16682.
+
+[58]  Yu  L, Alva A,  Su  H,  Dutt  P,  Freundt  E,  Welsh  S,  et  al. 
+Regulation of an ATG7-beclin 1 program of autophagic cell 
+death by caspase-8. Science 2004, 304: 1500–1502.
+
+[59]  Oreja-Guevara C, Ramos-Cejudo J, Aroeira LS, Chamorro 
+B, Diez-Tejedor E. TH1/TH2 Cytokine profile in relapsing-
+remitting multiple sclerosis patients treated with Glatiramer 
+acetate or Natalizumab. BMC Neurol 2012, 12: 95.
+
+[60]  Komatsu M, Waguri S, Chiba T, Murata S, Iwata J, Tanida 
+I, et al. Loss of autophagy in the central nervous system 
+causes neurodegeneration in mice. Nature 2006, 441: 880–
+884.
+
+[61]  Hara T, Nakamura K, Matsui M, Yamamoto A, Nakahara Y, 
+Suzuki-Migishima R, et al. Suppression of basal autophagy 
+in neural cells causes neurodegenerative disease in mice. 
+Nature 2006, 441: 885–889.
+
+[62]  Saijo K, Winner B, Carson CT, Collier JG, Boyer L, Rosenfeld 
+MG,  et  al. A  Nurr1/CoREST  pathway  in  microglia  and 
+astrocytes protects dopaminergic neurons from inﬂ ammation-
+induced death. Cell 2009, 137: 47–59.
+
+[63]  Yan Y,  Jiang  W,  Liu  L,  Wang  X,  Ding  C, Tian  Z,  et  al. 
+Dopamine controls systemic inﬂ ammation through inhibition 
+of NLRP3 inﬂ ammasome. Cell 2015, 160: 62–73.
+
+[64]  Besser MJ, Ganor Y, Levite M. Dopamine by itself activates 
+either D2, D3 or D1/D5 dopaminergic receptors in normal 
+human T-cells and triggers the selective secretion of either IL-
+10, TNFalpha or both. J Neuroimmunol 2005, 169: 161–171.
+
+[65]  Pacheco R, Contreras F, Zouali M. The dopaminergic system 
+
+[52]  Chi H. Regulation and function of mTOR signalling in T cell 
+
+in autoimmune diseases. Front Immunol 2014, 5: 117.
+
+fate decisions. Nat Rev Immunol 2012, 12: 325–338.
+
+[53]  Alirezaei  M,  Fox  HS,  Flynn  CT,  Moore  CS,  Hebb AL, 
+Frausto RF, et al. Elevated ATG5 expression in autoimmune 
+demyelination and multiple sclerosis. Autophagy 2009, 5: 
+152–158.
+
+[54]  Esposito M, Ruffini F, Bellone M, Gagliani N, Battaglia M, 
+Martino G, et al. Rapamycin inhibits relapsing experimental 
+autoimmune  encephalomyelitis  by  both  effector  and 
+
+[66]  Zhou X, Zhou J, Li X, Guo C, Fang T, Chen Z. GSK-3beta 
+inhibitors suppressed neuroinflammation in rat cortex by 
+activating  autophagy  in  ischemic  brain  injury.  Biochem 
+Biophys Res Commun 2011, 411: 271–275.
+
+[67]  Francois A, Terro F, Quellard N, Fernandez B, Chassaing D, 
+Janet T, et al. Impairment of autophagy in the central nervous 
+system  during  lipopolysaccharide-induced  inflammatory 
+stress in mice. Mol Brain 2014, 7: 56.
+
+Peizhou Liang, et al.    Role of   autophagy in the pathogenesis of multiple sclerosis
+
+443
+
+[68]  Qin AP,  Liu  CF,  Qin YY,  Hong  LZ,  Xu  M, Yang  L,  et  al. 
+Autophagy was activated in injured astrocytes and mildly 
+decreased  cell  survival  following  glucose  and  oxygen 
+deprivation and focal cerebral ischemia. Autophagy 2010, 6: 
+738–753.
+
+[69]  Wang JY, Xia Q, Chu KT, Pan J, Sun LN, Zeng B, et al. 
+Severe  global  cerebral  ischemia-induced  programmed 
+necrosis of hippocampal CA1 neurons in rat is prevented 
+by 3-methyladenine: a widely used inhibitor of autophagy. J 
+Neuropathol Exp Neurol 2011, 70: 314–322.
+
+[70]  Yang Z, Zhong L, Zhong S, Xian R, Yuan B. Hypoxia induces 
+microglia autophagy and neural inﬂ ammation injury in focal 
+cerebral ischemia model. Exp Mol Pathol 2015, 98: 219–224.
+[71]  Ghavami S, Shojaei S, Yeganeh B, Ande SR, Jangamreddy 
+JR, Mehrpour M, et al. Autophagy and apoptosis dysfunction 
+in neurodegenerative disorders. Prog Neurobiol 2014, 112: 
+24–49.
+
+[72]  Sanjuan MA, Dillon CP, Tait SW, Moshiach S, Dorsey F, 
+Connell S, et al. Toll-like receptor signalling in macrophages 
+links the autophagy pathway to phagocytosis. Nature 2007, 
+450: 1253–1257.
+
+[73]  Benveniste EN. Role of macrophages/microglia in multiple 
+sclerosis and experimental allergic encephalomyelitis. J Mol 
+Med (Berl) 1997, 75: 165–173.
+
+[74]  Chastain EM, Duncan DS, Rodgers JM, Miller SD. The role 
+of antigen presenting cells in multiple sclerosis. Biochim 
+Biophys Acta 2011, 1812: 265–274.
+
+[75]  Francois A, Terro F, Janet T, Rioux Bilan A, Paccalin M, 
+Page G. Involvement of interleukin-1beta in the autophagic 
+process of microglia: relevance to Alzheimer's disease. J 
+Neuroinﬂ ammation 2013, 10: 151.
+
+[76]  Dello Russo C, Lisi L, Feinstein DL, Navarra P. mTOR kinase, 
+a key player in the regulation of glial functions: relevance for 
+the therapy of multiple sclerosis. Glia 2013, 61: 301–311.
+
+[77]  Dello Russo C, Lisi L, Tringali G, Navarra P. Involvement of 
+mTOR kinase in cytokine-dependent microglial activation and 
+cell proliferation. Biochem Pharmacol 2009, 78: 1242–1251.
+
+[78]  Alirezaei M, Kiosses WB, Flynn CT, Brady NR, Fox HS. 
+Disruption  of  neuronal  autophagy  by  infected  microglia 
+results in neurodegeneration. PLoS One 2008, 3: e2906.
+
+[79]  Wang S, Li B, Qiao H, Lv X, Liang Q, Shi Z, et al. Autophagy-
+related gene Atg5 is essential for astrocyte differentiation in 
+the developing mouse cortex. EMBO Rep 2014, 15: 1053–
+1061.
+
+[80]  Lee SJ, Cho KS, Koh JY. Oxidative injury triggers autophagy 
+in astrocytes: the role of endogenous zinc. Glia 2009, 57: 
+1351–1361.
+
+[81]  Pastor MD, Garcia-Yebenes I, Fradejas N, Perez-Ortiz JM, 
+Mora-Lee S, Tranque P, et al. mTOR/S6 kinase pathway 
+contributes to astrocyte survival during ischemia. J Biol Chem 
+
+2009, 284: 22067–22078.
+
+[82]  Cross AH, Manning PT, Keeling RM, Schmidt RE, Misko TP. 
+Peroxynitrite formation within the central nervous system in 
+active multiple sclerosis. J Neuroimmunol 1998, 88: 45–56.
+
+[83]  Lisi L, Navarra P, Feinstein DL, Dello Russo C. The mTOR 
+kinase inhibitor rapamycin decreases iNOS mRNA stability in 
+astrocytes. J Neuroinﬂ ammation 2011, 8: 1.
+
+[84]  Sarkar S, Korolchuk VI, Renna M, Imarisio S, Fleming A, 
+Williams A, et al. Complex inhibitory effects of nitric oxide on 
+autophagy. Mol Cell 2011, 43: 19–32.
+
+[85]  Chang A, Nishiyama A, Peterson J, Prineas J, Trapp BD. 
+NG2-positive oligodendrocyte progenitor cells in adult human 
+brain and multiple sclerosis lesions. J Neurosci 2000, 20: 
+6404–6412.
+
+[86]  Wolswijk  G.  Oligodendrocyte  precursor  cells  in  the 
+demyelinated multiple sclerosis spinal cord. Brain 2002, 125: 
+338–349.
+
+[87]  Li W, Tang Y, Fan Z, Meng Y, Yang G, Luo J, et al. Autophagy 
+is involved in oligodendroglial precursor-mediated clearance 
+of amyloid peptide. Mol Neurodegener 2013, 8: 27.
+
+[88]  Rangaraju S, Verrier JD, Madorsky I, Nicks J, Dunn WA, Jr., 
+Notterpek L. Rapamycin activates autophagy and improves 
+myelination in explant cultures from neuropathic mice. J 
+Neurosci 2010, 30: 11388–11397.
+
+[89]  Meikle L, Pollizzi K, Egnor A, Kramvis I, Lane H, Sahin M, et 
+al. Response of a neuronal model of tuberous sclerosis to 
+mammalian target of rapamycin (mTOR) inhibitors: effects 
+on mTORC1 and Akt signaling lead to improved survival and 
+function. J Neurosci 2008, 28: 5422–5432.
+
+[90]  Smith  CM,  Mayer  JA,  Duncan  ID. Autophagy  promotes 
+oligodendrocyte  survival  and  function  following 
+dysmyelination in a long-lived myelin mutant. J Neurosci 
+2013, 33: 8088–8100.
+
+[91]  Andersson A, Covacu R, Sunnemark D, Danilov AI, Dal 
+Bianco A,  Khademi  M,  et  al.  Pivotal  advance:  HMGB1 
+expression in active lesions of human and experimental 
+multiple sclerosis. J Leukoc Biol 2008, 84: 1248–1255.
+
+[92]  Laudiero LB, Aloe L, Levi-Montalcini R, Buttinelli C, Schilter 
+D, Gillessen S, et al. Multiple sclerosis patients express 
+increased levels of beta-nerve growth factor in cerebrospinal 
+ﬂ uid. Neurosci Lett 1992, 147: 9–12.
+
+[93]  Florez-McClure  ML,  Linseman  DA,  Chu  CT,  Barker  PA, 
+Bouchard RJ, Le SS, et al. The p75 neurotrophin receptor 
+can  induce  autophagy  and  death  of  cerebellar  Purkinje 
+neurons. J Neurosci 2004, 24: 4498–4509.
+
+[94]  Lindberg RL, De Groot CJ, Certa U, Ravid R, Hoffmann 
+F,  Kappos  L,  et  al.  Multiple  sclerosis  as  a  generalized 
+CNS disease--comparative microarray analysis of normal 
+appearing white matter and lesions in secondary progressive 
+MS. J Neuroimmunol 2004, 152: 154–167.
+
+444
+
+Neurosci Bull     August 1, 2015, 31(4): 435–444
+
+[95]  Kim SR, Chen X, Oo TF, Kareva T, Yarygina O, Wang C, 
+et al. Dopaminergic pathway reconstruction by Akt/Rheb-
+induced axon regeneration. Ann Neurol 2011, 70: 110–120.
+
+[96]  Park KK, Liu K, Hu Y, Smith PD, Wang C, Cai B,  et  al. 
+Promoting axon regeneration in the adult CNS by modulation 
+of the PTEN/mTOR pathway. Science 2008, 322: 963–966.
+
+[97]  Tullman MJ. A review of current and emerging therapeutic 
+strategies in multiple sclerosis. Am J Manag Care 2013, 19: 
+
+S21–27.
+
+[98]  Zhang Y, Guo TB, Lu H. Promoting remyelination for the 
+treatment of multiple sclerosis: opportunities and challenges. 
+Neurosci Bull 2013, 29: 144–154.
+
+[99]  Dang S, Xu H, Xu C, Cai W, Li Q, Cheng Y, et al. Autophagy 
+regulates the therapeutic potential of mesenchymal stem 
+cells  in  experimental  autoimmune  encephalomyelitis. 
+Autophagy 2014, 10: 1301–1315.
+
+

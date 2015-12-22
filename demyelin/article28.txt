@@ -1,0 +1,3767 @@
+ARTICLE
+Received 21 Jan 2015 | Accepted 31 Jul 2015 | Published 15 Sep 2015
+
+DOI: 10.1038/ncomms9244
+
+OPEN
+
+dNP2 is a blood–brain barrier-permeable peptide
+enabling ctCTLA-4 protein delivery to ameliorate
+experimental autoimmune encephalomyelitis
+Sangho Lim1,2,*, Won-Ju Kim1,2,*, Yeon-Ho Kim1,2, Sohee Lee3,4, Ja-Hyun Koo1,2, Jung-Ah Lee1,2, Heeseok Yoon1,2,
+Do-Hyun Kim1,2, Hong-Jai Park1,2, Hye-Mi Kim5, Hong-Gyun Lee1,2, Ji Yun Kim1,2, Jae-Ung Lee1,2, Jae Hun Shin6,
+Lark Kyun Kim6, Junsang Doh7, Hongtae Kim3,8, Sang-Kyou Lee9, Alfred L.M. Bothwell6, Minah Suh3,4,8,10
+& Je-Min Choi1,2,3
+
+Central nervous system (CNS)-inﬁltrating effector T cells play critical
+roles in the
+development and progression of multiple sclerosis (MS). However, current drugs for MS are
+very limited due to the difﬁculty of delivering drugs into the CNS. Here we identify a
+cell-permeable peptide, dNP2, which efﬁciently delivers proteins into mouse and human
+T cells, as well as various tissues. Moreover, it enters the brain tissue and resident cells
+through blood vessels by penetrating the tightly organized blood–brain barrier. The
+dNP2-conjugated cytoplasmic domain of cytotoxic T-lymphocyte antigen 4 (dNP2-ctCTLA-4)
+negatively regulates activated T cells and shows inhibitory effects on experimental
+autoimmune encephalomyelitis in both preventive and therapeutic mouse models, resulting in
+the reduction of demyelination and CNS-inﬁltrating T helper 1 and T helper 17 cells. Thus,
+this study demonstrates that dNP2 is a blood–brain barrier-permeable peptide and
+dNP2-ctCTLA-4 could be an effective agent for treating CNS inﬂammatory diseases
+such as MS.
+
+1 Department of Life Science, College of Natural Sciences, Hanyang University, Seoul 133-791, Republic of Korea. 2 Research Institute for Natural Sciences,
+Hanyang University, Seoul 133-791, Republic of Korea. 3 Center for Neuroscience Imaging Research (CNIR), Institute for Basic Science (IBS), Suwon 440-746,
+Republic of Korea. 4 Samsung Advanced Institute for Health Sciences & Technology (SAIHST), Seoul 135-710, Republic of Korea. 5 Division of Integrative
+Bioscience and Biotechnology, Pohang University of Science and Technology, Pohang 790-784, Republic of Korea. 6 Department of Immunobiology, Yale
+University School of Medicine, New Haven, Connecticut 06520, USA. 7 Department of Mechanical Engineering, School of Interdisciplinary Bioscience and
+Bioengineering, Pohang University of Science and Technology, Pohang 790-784, Republic of Korea. 8 Department of Biological Science, Sungkyunkwan
+University, Suwon 440-746, Republic of Korea. 9 Department of Biotechnology, Yonsei University, Seoul 120-749, Republic of Korea. 10 Department of
+Biomedical Engineering, Sungkyunkwan University, Suwon 440-746, Republic of Korea. * These authors contributed equally to this work. Correspondence and
+requests for materials should be addressed to J.-M.C. (email: jeminchoi@hanyang.ac.kr.).
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+1
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms9244
+
+Multiple sclerosis is a human autoimmune disease caused
+
+by the induction of inﬂammation in the central nervous
+system (CNS) by myelin-speciﬁc T cells that cross
+the protective environment of the blood–brain barrier (BBB)1.
+The mouse model
+experimental
+autoimmune encephalomyelitis (EAE), induced by interferon-g
+(IFN-g) or interleukin-17A (IL-17A) expressing T helper 1 (Th1)
+or T helper 17 (Th17) cells following MOG35–55 immunization,
+has been intensively studied2,3. Th1 and Th17 cells inﬁltrate the
+CNS, including the brain and spinal cord, and in high levels of
+these cells induce inﬂammation and nerve cell apoptosis3,4.
+
+of multiple
+
+sclerosis,
+
+Although these effector cells could be potent
+
+therapeutic
+targets, the BBB and the blood–spinal cord barrier (BSCB) greatly
+restrict the delivery of therapeutic biomolecules into the CNS5,6.
+Various
+strategies have been developed to overcome the
+restrictions on drug delivery imposed by the BBB/BSCB7.
+Opening the barrier by stimulating tight
+junctions in the
+BBB/BSCB, through the use of biological, chemical or physical
+stimuli, has been the most widely used method of drug delivery.
+For example, Cereport, a synthetic peptide that can disrupt
+tight junctions, has been widely studied for BBB permeability and
+therapeutic approaches8,9. The use of high-intensity-focused
+ultrasound has also been investigated to physically enhance
+drug delivery into the CNS for therapeutic purposes10. Another
+strategy uses
+via
+adsorptive-mediated transcytosis of barrier cells. For instance,
+the most well-known CPP, TAT, was fused with the anti-
+apoptotic protein B-cell
+lymphoma-extra large (Bcl-xl) and
+delivered to the murine brain as a treatment for ischaemic
+brain injury11,12. Other CPPs, such as SynB1/3, have also been
+used to deliver drugs across
+the BBB. SynB1-conjugated
+doxorubicin or penicillin and SynB3-conjugated dalargin exhibit
+signiﬁcantly increased brain uptake13–15.
+
+cell-permeable peptides
+
+cationic
+
+(CPP)
+
+However, because all of the above methods originate from
+synthetic chemicals or other organisms and may have long-term
+toxicity or other side effects, which limit their clinical applications
+in humans, further improvements are needed to obtain a safe,
+efﬁcient system for drug delivery into the CNS. In the current
+study, we identiﬁed and optimized a human-derived CNS-
+permeable CPP and applied it to an EAE model via conjugation
+with the cytoplasmic domain of cytotoxic T-lymphocyte antigen
+4 (ctCTLA-4) to control autoimmune effector T-cell responses in
+the CNS.
+
+signals
+
+CTLA-4 is an immune regulatory receptor expressed on the
+surface of T cells and interacts with the B7 molecules expressed
+on antigen-presenting cells, thereby competing with CD28 and
+to T cells16–19. The Ctla-4
+transmitting negative
+gene consists of four exons, which encode the leader sequence
+(exon 1), the extracellular ligand-binding domain (exon 2), the
+transmembrane region (exon 3) and the cytoplasmic tail (exon 4).
+Alternative splicing of the Ctla-4 gene results in the expression
+of various CTLA-4 isoforms,
+including full-length CTLA-4,
+soluble CTLA-4,
+ligand-independent CTLA-4 (liCTLA-4) and
+exon 1/4 CTLA-4 (1/4CTLA-4)20. The importance of liCTLA-4,
+which lacks the ligand-binding domain,
+in negative immune
+regulation was demonstrated in murine T cells21. In primary
+the liCTLA-4 protein inhibits T-cell activation by
+T cells,
+dephosphorylating the T-cell receptor
+(TcR) z-chain. These
+studies revealed that
+the cytoplasmic tail of CTLA-4 could
+deliver negative signals without B7 binding to the extracellular
+ligand-binding domain. We
+also previously reported that
+intracellular delivery of a recombinant CTLA-4 cytoplasmic
+domain (ctCTLA-4) efﬁciently inhibited phosphorylation of the
+TcR z-chain and mitogen-activated protein kinase, resulting in
+amelioration of allergic airway inﬂammation and autoimmune
+arthritis in experimental animal models22,23.
+
+Here we initially identify a novel CPP, dNP2, from the human
+novel LZAP-binding protein (NLBP). This peptide exhibits
+potent protein delivery efﬁciency in primary mouse and human
+T cells in vitro and even in brain tissue, as determined in vivo
+using live multi-photon confocal microscopy. We then purify
+recombinant dNP2-conjugated ctCTLA-4 protein, which displays
+a signiﬁcant suppressive effect on the activated T cell responses,
+and we further elucidate its preventive and therapeutic effects on
+MOG35–55-induced autoimmune encephalomyelitis in mice.
+
+their
+
+and NP2
+
+intracellular
+
+(414–424; KKDKKDERRRK)
+
+Results
+Identiﬁcation and optimization of a dNP2. To identify a novel
+human origin CPP, we performed homology searches against
+the human proteome database using previously reported CPP
+sequence information. We identiﬁed candidate CPP sequences
+from the human NLBP, which consists of 794 amino acids and
+contains two functional regions: residues 1–212, which are
+required for E3 UFM-1 ligase activity, and residues 121–250,
+which are involved in CDK5RAP3-binding activity24,25. On the
+basis of BLAST homology analysis, two candidate sequences,
+which are highly conserved among various species, were selected:
+NP1
+(444–454;
+KIKKVKKKGRK; Fig. 1a, Supplementary Fig. 1). To examine
+the intracellular protein delivery activity of these CPP candidates,
+we initially constructed plasmids expressing enhanced green
+ﬂuorescent proteins (EGFPs), including NP1-EGFP, NP2-EGFP,
+and EGFP without a CPP, and then puriﬁed the resulting
+proteins (Supplementary Fig. 2), as previously described26. These
+proteins were examined by incubation with cultured cells to
+determine
+transduction efﬁciency. Flow
+cytometric analysis demonstrated that signiﬁcant transduction
+of the NP1-EGFP and NP2-EGFP proteins into Jurkat T cells
+occurred in both concentration- and time-dependent manners
+(Fig. 1b and Supplementary Fig. 3). We then determined whether
+the tandem repeats of NP1 or NP2 (dNP1 or dNP2) or a
+combination of the two candidates (NP1-2 or NP2-1) exhibit
+higher delivery efﬁciencies
+forms.
+Interestingly, only dNP2-EGFP exhibited dramatically enhanced
+delivery efﬁciency; dNP1, NP1-2 and NP2-1 did not exhibit any
+signiﬁcant enhancement of intracellular transduction efﬁciency
+compared with the monomeric form (Fig. 1c, Supplementary
+Fig. 4). The cell-penetrating ability of dNP2 was at least twofold
+greater than that of TAT or R9 (Fig. 1d), which are well-known
+CPPs with numerous applications27–29. In addition, dNP2-EGFP
+exhibited efﬁcient
+localization into both the
+cytoplasm and the nucleus (Fig. 1e). To obtain a clearer
+analysis of nuclear localization, we used a brighter ﬂuorescent
+protein, dTomato. Substantial
+intracellular dNP2-dTomato
+ﬂuorescent signal was detected within 30 min and was clearly
+localized in the nucleus after 2–6 h (Fig. 1f). Although
+intracellular delivery of dTAT-EGFP and dHph-1-EGFP was
+also signiﬁcantly increased compared with their monomeric
+forms, dNP2-EGFP exhibited substantially higher efﬁciency
+than the other tested proteins (Supplementary Fig. 5a). The
+enhancement of protein delivery efﬁciency of dNP2 compared
+with NP2 was more signiﬁcant than the protein delivery efﬁciency
+ratio of dTAT/TAT or dHph-1/Hph-1 (Supplementary Fig. 5b).
+Next, we intraperitoneally injected 5 mg of
+the dTomato,
+TAT-dTomato or dNP2-dTomato proteins into mice. After 2 h,
+signiﬁcant dTomato ﬂuorescence was observed in the various
+tissues,
+of
+dNP2-dTomato-injected mice and the intensity was brighter
+and clearer than that of TAT-dTomato (Fig. 1g). On higher
+magniﬁcation ( 200), dTomato ﬂuorescence was co-localized
+with nucleus in stained cells in the tissues and we conﬁrmed the
+
+than their monomeric
+
+intestine, heart
+
+and spleen,
+
+intracellular
+
+such as
+
+liver,
+
+2
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms9244
+
+a
+
+Involved in CDK5RAP3
+
+binding
+121–250
+
+1–212
+
+Required for E3 UFM-1
+
+ligase activity
+
+KIKKVKKKGRK
+
+444–454 N6-acetyllysine
+NP2
+
+571
+
+458 Phosphoserine
+
+794
+
+NP1
+414–424
+
+KKDKKDERRRK
+
+b
+
+I
+
+F
+M
+
+30
+
+20
+
+10
+
+EGFP
+
+PBS
+NP1-EGFP
+
+NP2-EGFP
+
+EGFP
+
+PBS
+NP1-EGFP
+***
+***
+
+NP2-EGFP
+***
+
+* *
+* *
+
+**
+
+**
+
+30
+
+20
+
+I
+
+F
+M
+
+10
+
+*
+
+*
+
+5
+
+*
+
+*
+
+2
+
+0 0.5 1
+
+Concentration (µM)
+
+0
+
+1 2 3
+
+6
+
+Time (h)
+
+ARTICLE
+
+d
+
+100
+
+**
+
+***
+
+I
+
+F
+M
+
+80
+
+60
+
+40
+
+20
+
+0
+
+PBS
+
+N.S
+
+PBS
+
+E GFP
+dNP1-E GFP
+dNP2-E GFP
+NP2-E GFP
+NP1-E GFP
+
+Hph-1-E GFP
+E GFP
+
+TAT-E GFP
+
+R9-E GFP
+dNP2-E GFP
+
+c
+
+I
+
+F
+M
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+**
+
+12
+
+e
+
+0
+0
+1
+×
+
+0
+3
+6
+×
+
+g
+
+S
+B
+P
+
+o
+t
+a
+m
+o
+T
+d
+
+o
+t
+a
+m
+o
+T
+d
+-
+T
+A
+T
+
+o
+t
+a
+m
+o
+T
+d
+-
+2
+P
+N
+d
+
+o
+t
+a
+m
+o
+T
+d
+-
+2
+P
+N
+d
+
+0
+0
+2
+×
+
+EGFP
+
+NP1-EGFP
+
+NP2-EGFP dNP2-EGFP
+
+30 min
+
+2 h
+
+6 h
+
+f
+
+t
+
+o
+a
+m
+o
+T
+d
+
+o
+
+t
+
+a
+m
+o
+T
+d
+-
+2
+P
+N
+d
+
+Liver
+
+Intestine
+
+Heart
+
+Spleen
+
+h
+
+)
+
+%
+
+(
+ 
+y
+t
+i
+l
+i
+
+i
+
+b
+a
+v
+ 
+l
+l
+
+e
+C
+
+i
+
+ 
+
+1
+–
+l
+m
+U
+m
+ 
+y
+t
+i
+v
+i
+t
+c
+a
+ 
+e
+m
+y
+z
+n
+E
+
+120
+
+90
+
+60
+50
+
+30
+
+0
+
+12
+
+9
+
+6
+
+3
+
+0
+
+*
+
+PBS
+TAT-EGFP
+dTAT-EGFP
+
+NP2-EGFP
+dNP2-EGFP
+
+0 10 30 50
+
+100
+Concentration (µM)
+
+PBS
+
+dNP2-dTomato
+
+ 
+
+1
+–
+l
+m
+U
+m
+ 
+y
+t
+i
+v
+i
+t
+c
+a
+ 
+e
+m
+y
+z
+n
+E
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+AST
+
+ALT
+
+Figure 1 | Identiﬁcation and optimization of a human-derived cell-permeable peptide, dNP2. (a) The NP1 and NP2 sequences are located in a central
+domain of human NLBP. (b) Jurkat T cells were incubated with various concentrations (0.5–5 mM) of EGFP, NP1- and NP2-EGFP for 2 h and various time
+periods (0.5–12 h) with 5 mM protein. Intracellular ﬂuorescence was analysed by ﬂow cytometry and is represented as mean ﬂuorescence intensity (MFI) of
+the cells. (c) Jurkat T cells were incubated with 5 mM EGFP, NP1-, dNP1-, NP2-, dNP2-EGFP or PBS for 2 h and the data were analysed as described above.
+(d) Jurkat T cells were incubated with 5 mM EGFP, Hph-1-, TAT-, R9-, dNP2-EGFP or PBS for 2 h and the data were analysed described above. (e) HeLa cells
+were visualized after a 2 h incubation with EGFP, NP1- NP2 or dNP2-EGFP (20 mM) using a DeltaVision system at  100 (Scale bar, 100 mm) or  500
+(Scale bar, 20 mm) magniﬁcation. (f) The nuclear localization of the dNP2-dTomato in HeLa cells was observed after a 30 min, 2 or 6 h incubation with the
+proteins using a confocal microscope at  400 (Scale bar, 20 mm) magniﬁcation. (g) Five milligrams dTomato, TAT- or dNP2-dTomato was
+intraperitoneally injected into 7-week-old female C57BL/6 mice. At 2 h after injection, the tissues were harvested and prepared as frozen slides. The nuclei
+were stained with Hoechst and ﬂuorescence was observed via ﬂuorescence microscopy. Yellow boxes in the images indicate magniﬁed region ( 100;
+Scale bar, 200 mm,  200; Scale bar, 100 mm). (h) HeLa cells were incubated with various concentrations (10, 30, 50 or 100 mM) of TAT-, dTAT-, NP2-,
+dNP2-EGFP or PBS for 24 h. Cell viability was analysed by water-soluble tetrazolium-8 based cell counting kit-8 (CCK-8). (i) Alanine aminotransferase
+(ALT) activity and aspartate aminotransferase (AST) activity in serum of every other day injected mice by 5 mg kg  1 dNP2-dTomato, dNP2-ctCTLA-4 or
+PBS for 14 days were measured using an ALT/AST activity assay kit. Values are mean±s.e.m. and *Po0.05; **Po0.01; ***Po0.001; Student’s t-test.
+
+in vivo intracellular protein delivery efﬁciency of dNP2 with
+dNP2-EGFP in the liver ( 400; Supplementary Fig. 6). As the
+delivery efﬁciency of CPP, in general, correlates with cytotoxicity,
+we performed water-soluble tetrazolium-8 assay to evaluate the
+in vitro cytotoxicity of the proteins. We found no signiﬁcant
+toxicity when using up to 100 mM of dNP2-EGFP protein on
+
+incubation in HeLa cells while dTAT-EGFP showed B70% cell
+viability at 100 mM (Fig. 1h). To further determine the in vivo
+toxicity, 5 mg kg  1 dNP2-dTomato protein was repetitively
+injected intraperitoneally into mice every other day for 14 days.
+The mice were then evaluated for signs of in vivo toxicity. There
+were no signiﬁcant changes in alanine transaminase and aspartate
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+3
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms9244
+
+transaminase activity in the serum (Fig. 1i), weight, sizes of the
+spleen, liver and brain, or apoptotic cells and activated T cells
+(Supplementary Fig. 7). These results suggest that dNP2 from
+human NLBP is a potent novel CPP that can deliver functional
+macromolecules, such as proteins, into cells both in vitro and
+in vivo without signiﬁcant toxicity.
+
+Efﬁcient protein delivery by dNP2 into primary T cells.
+Although most CPPs have been evaluated in various cancer cell
+lines in vitro, their penetrating efﬁciency is generally much lower in
+primary cells, which severely limits the clinical applications of
+CPPs in humans30. Next, we further examined the delivery
+efﬁciency of dNP2 in primary mouse splenocytes and human
+peripheral blood mononuclear cells (PBMCs). Mouse splenocytes
+treated with 5 mM dNP2-EGFP displayed 62.4% EGFP-positive
+cells, while the cells treated with TAT-EGFP or EGFP alone
+showed 16.6 and 2.59% EGFP-positive cells, respectively, thereby
+demonstrating the superior intracellular protein delivery efﬁciency
+of dNP2 in mouse splenocytes (Fig. 2a,b). Similar results were
+observed in human PBMCs (Fig. 2c,d), suggesting that dNP2 leads
+to very efﬁcient delivery of proteins in primary hematopoietic cells,
+while TAT is much less efﬁcient. Interestingly, both the TAT- and
+dNP2-EGFP proteins were delivered more
+efﬁciently into
+phagocytic cells such as macrophages and dendritic cells than
+into lymphocytes, while dNP2 still showed signiﬁcantly better
+delivery efﬁciency in CD4 T cells than did the other controls
+(Fig. 2e,f). To compare and visualize the efﬁciencies of dNP2 and
+TAT in primary T cells, we performed live-cell imaging using
+magnetic-activated cell sorting-puriﬁed total CD4 T cells from
+C57BL/6 mice. Whereas the ﬂuorescence intensities of T cells
+treated with 1 mM EGFP and TAT-EGFP remained near basal
+levels throughout the 2 h imaging period, the average ﬂuorescence
+intensities of dNP2-EGFP-treated T cells increased linearly and
+reached a plateau within 30 min (Fig. 2g,h), suggesting that dNP2,
+but not TAT, is suitable for efﬁcient functional protein delivery
+into primary T cells.
+
+Intracellular delivery mechanisms of dNP2. To determine
+the intracellular delivery mechanisms, we initially examined the
+delivery efﬁciency of
+the dNP2-EGPF protein at different
+including 4, 25 and 37 °C (Fig. 3a). The
+temperatures,
+intracellular delivery efﬁciencies decreased at lower temperatures,
+suggesting that delivery may possibly be mediated by energy-
+dependent mechanisms. We then examined whether the delivery
+mechanism involves interactions with cell membrane molecules
+such as glycosaminoglycans, as in the case of the other CPPs31,32.
+Heparin, a competitive inhibitor of heparan sulphate on the cell
+surface, treatment signiﬁcantly inhibited the delivery efﬁciency
+of dNP2 (Fig. 3b), suggesting a requirement for interaction
+with glycosaminoglycans. Next, we analysed delivery efﬁciency
+of dNP2-dTomato protein in mouse CD4 T cells with various
+endocytosis
+(clathrin-
+mediated endocytosis inhibitor)33, Amiloride (macropinocytosis
+inhibitor)34
+lipid
+raft-mediated endocytosis inhibitor)35, to determine their effect
+on intracellular delivery. The intracellular delivery efﬁciency
+of the dNP2-dTomato protein was signiﬁcantly decreased only by
+MbCD treatment (Fig. 3c–e), suggesting that a lipid raft-mediated
+endocytosis pathway is one of
+the major mechanisms of
+intracellular delivery. Because the delivery mechanism of TAT
+peptide has been reported to also involve clathrin-mediated
+endocytosis and macropinocytosis33, we hypothesized that
+peptides and proteins might have different intracellular delivery
+mechanisms. When mouse splenocytes were incubated with 5 mM
+TAT- or dNP2-TAMRA peptide with or without chlorpromazine,
+
+including chlorpromazine
+
+cyclodextrin (MbCD,
+
+and methyl-beta
+
+inhibitors,
+
+amiloride or MbCD, the intracellular delivery efﬁciencies on
+CD4-positive cells of both the TAT- and dNP2-TAMRA peptides
+were signiﬁcantly inhibited by all of the inhibitors, suggesting that
+the dNP2 peptide alone seems to use multiple endocytosis
+pathways (Fig. 3f–h). In addition, equivalent pattern was found in
+total splenocytes (Supplementary Fig. 8). Finally we conﬁrmed
+and visualized intracellular delivery efﬁciency of dNP2-dTomato
+protein in HeLa cells was signiﬁcantly inhibited by MbCD
+treatment (Fig. 3i). Collectively, our results demonstrate that the
+intracellular delivery mechanism of dNP2 is identical to that
+reported for other CPPs, and utilizes various endocytosis
+pathways depends on cargos,
+including lipid raft-mediated
+endocytosis following heparan sulphate interaction.
+
+dNP2 delivers cargo proteins into the CNS in vivo. The high
+protein-delivery efﬁciency of dNP2 in primary T cells, which
+are generally the most difﬁcult of cells to transfect, prompted
+us to investigate the membrane-penetrating efﬁciency of dNP2
+in brain. To visualize the CNS-permeable ability of dNP2, we
+performed real-time in vivo multi-photon confocal imaging of
+mouse brains after intravenous injection of 2.5 mg dTomato,
+TAT-dTomato, Hph-1-dTomato or dNP2-dTomato proteins.
+Although each injection allowed the successful visualization of the
+vasculature of the intact mouse brain via red ﬂuorescence after
+40 min, the red ﬂuorescence signal diffused out of the vasculature
+and into cellular structures only in animals injected with dNP2-
+dTomato (Fig. 4a). In the case of TAT- and Hph-1-dTomato
+injections, signiﬁcant diffusion into cellular structures was not
+observed; however, the diffusion of dNP2-dTomato ﬂuorescence
+out of blood vessels increased in a time-dependent manner up to
+120 min after injection (Fig. 4b). Using frozen brain tissue sections,
+staining
+the
+dNP2-dTomato protein signal was
+signiﬁcantly co-localized
+with neurons (Neuronal Nuclei (NeuN)-positive cells), astrocytes
+(Glial ﬁbrillary acidic protein (GFAP)-positive cells) and microglial
+cells (Ionized calcium binding adaptor molecule 1 (Iba-1)-positive
+cells), suggesting that the dNP2-dTomato protein was successfully
+delivered into brain cells through the blood vessels (Fig. 4c).
+Next, we conﬁrmed the intracellular delivery efﬁciency of dNP2-
+dTomato in the brain and spinal cord tissues in MOG33–55-
+immunized inﬂammatory EAE mice. The dNP2-dTomato signal
+was signiﬁcantly detected in the inﬂammatory brain and spinal
+cord tissues (Fig. 4d), and was also co-localized with CD4-positive
+cells in the brain (Fig. 4e), suggesting that dNP2 can deliver a
+protein into inﬁltrating T cells in the brain. These results suggest
+that dNP2 can deliver functional proteins into the brain and spinal
+cord tissues and into resident or migratory cells; thereby suggesting
+its valuable application potency in CNS inﬂammatory diseases.
+
+cell-type markers
+
+revealed that
+
+for
+
+various
+
+examined the
+
+intracellular delivery efﬁciency of
+
+dNP2-ctCTLA-4 signiﬁcantly ameliorates EAE. Using this
+potent CNS-permeable peptide, dNP2, we generated a DNA con-
+struct of dNP2 conjugated to the cytoplasmic domain of CTLA-4, a
+negative regulator of T-cell co-stimulation16,17, and puriﬁed
+recombinant protein, as previously described22,23 (Fig. 5a). We
+ﬁrst
+the
+recombinant ctCTLA-4 protein in primary mouse CD4 T cells
+(Fig. 5b). dNP2-ctCTLA-4 exhibited potent intracellular protein
+delivery compared with Hph-1-ctCTLA-4 at a concentration of
+1 mM. Next, we found that dNP2-ctCTLA-4 treatment inhibited IL-
+2 secretion in splenocytes activated by anti-CD3 and anti-CD28
+antibodies, while it had no effect on phorbol 12-myristate 13-acetate
+and ionomycin stimulation (Fig. 5c). This suggests that the target of
+dNP2-ctCTLA-4 could be proximal TcR signaling molecules. In
+addition,
+in activated
+reduced by dNP2-ctCTLA-4
+splenocytes were
+
+IFN-g and IL-17A expression levels
+
+signiﬁcantly
+
+4
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms9244
+
+a
+
+C
+S
+S
+
+c
+
+C
+S
+S
+
+600
+
+400
+
+200
+
+0
+
+600
+
+400
+
+200
+
+0
+
+PBS
+
+EGFP
+
+TAT-EGFP
+
+dNP2-EGFP
+
+Mouse splenocytes
+
+0.265%
+
+2.59%
+
+16.6%
+
+62.4%
+
+100
+
+101
+
+102
+
+103
+
+104
+
+100
+
+101
+
+102
+
+103
+
+104 100
+
+101
+
+102
+
+103 104 100
+
+101
+
+102
+
+103
+
+104
+
+Green fluorescence
+
+Human PBMCs
+
+PBS
+
+EGFP
+
+TAT-EGFP
+
+dNP2-EGFP
+
+0.438%
+
+0.679%
+
+1.78%
+
+47.8%
+
+b
+
+I
+
+F
+M
+
+200
+
+150
+
+100
+
+50
+
+0
+
+d
+
+I
+
+F
+M
+
+80
+60
+
+40
+20
+
+0
+
+100
+
+101
+
+102
+
+103
+
+104
+
+100 101
+
+102
+
+103
+
+104 100
+
+101
+Green fluorescence
+
+102
+
+103 104100
+
+101
+
+102
+
+103
+
+104
+
+ARTICLE
+
+**
+
+PBS
+
+dNP2-E GFP
+TAT-E GFP
+E GFP
+
+**
+
+PBS
+
+dNP2-E GFP
+TAT-E GFP
+E GFP
+
+e
+
+I
+
+F
+M
+ 
+e
+v
+i
+t
+a
+e
+R
+
+l
+
+EGFP
+TAT-EGFP
+dNP2-EGFP
+
+***
+
+Mouse spleen
+**
+***
+
+**
+
+**
+
+***
+
+***
+
+***
+
+CD4 T cell
+
+B cell
+
+Macrophage
+
+DC
+
+6
+
+4
+
+2
+
+0
+
+f
+
+EGFP
+TAT-EGFP
+dNP2-EGFP
+
+**
+
+I
+
+F
+M
+ 
+e
+v
+i
+t
+a
+e
+R
+
+l
+
+15
+
+10
+
+5
+
+0
+
+Human PBMCs
+
+**
+***
+
+***
+
+***
+
+***
+
+**
+
+***
+
+CD4 T cell
+
+B cell
+
+DC
+
+Macrophage
+h
+
+Average intensity
+
+0’ 00’’
+
+10’ 00’’
+
+20’ 00’’
+
+30’ 00’’
+
+40’ 00’’
+
+50’ 00’’
+
+60’ 00’’
+
+g
+
+P
+F
+G
+E
+
+-
+T
+A
+T
+
+P
+F
+G
+E
+
+-
+2
+P
+N
+d
+
+P
+F
+G
+E
+
+dNP2-EGFP
+TAT-EGFP
+EGFP
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+100
+50
+Time (min)
+
+150
+
+Figure 2 | Protein delivery efﬁciency of dNP2 in primary mouse and human immune cells. (a,b) Mouse primary splenocytes were isolated from 6-week-
+old female C57BL/6 mice and the cells were incubated with 5 mM EGFP, TAT- and dNP2-EGFP for 2 h. Intracellular ﬂuorescence was analysed by ﬂow
+cytometry and the data are represented as dot plots or mean ﬂuorescence intensity (MFI) of the cells. (c,d) Human PBMCs were isolated from healthy
+donor blood and the cells were incubated with 5 mM EGFP, TAT-, dNP2-EGFP for 2 h. The data were analysed as described above. (e) Total splenocytes
+were incubated with 1 mM EGFP, TAT-, and dNP2-EGFP for 2 h. Cells were gated using markers speciﬁc for CD4 T cells (CD4þ ), B cells (CD19þ ),
+macrophages (CD11cloCD11bhiF480þ ) and DCs (CD11chiMHCIIhi). The EGFP signal in each cell population was then analysed by ﬂow cytometric analysis.
+The relative MFI value was normalization to PBS treated cells. The red line indicates relative MFI of PBS-treated cells. (f) Total PBMCs were incubated with
+1 mM EGFP, TAT-, and dNP2-EGFP for 2 h. Cells were gated with markers speciﬁc for CD4 T cells (CD4þ ), B cells (CD19þ ), macrophages (CD11bþ ) and
+DCs (CD11cþ ) and the data were then analysed as described above. (g) Time-lapse images of mouse CD4 T cells incubated with 1 mM EGFP, TAT- and
+dNP2-EGFP were acquired for 2 h (Scale bar, 15 mm) and (h) the average ﬂuorescence intensities of 10 cells from each sample were calculated and plotted.
+Values are mean±s.e.m. and **Po0.01; ***Po0.001; Student’s t-test.
+
+(Fig. 5d). Next, to assess the inhibitory effects of dNP2-ctCTLA-4 in
+a mouse model of multiple sclerosis, we used C57BL/6 mice
+immunized with the MOG35–55 peptide and treated with pertussis
+toxin, a standard EAE model. We began intraperitoneal treatment
+with 25 mg dNP2-ctCTLA-4 on day 7 and continued treating the
+mice every other day. The clinical scores of the mice treated with
+dNP2-ctCTLA-4 protein were signiﬁcantly lower than those of that
+treated with dNP2-EGFP or phosphate-buffered saline (PBS;
+
+Fig. 5e). Then we performed histological analysis of the spinal
+cord tissue with Luxol fast blue (LFB) and hematoxylin and eosin
+staining to determine neuronal damage, such as demyelination and
+tissue inﬂammation levels. The histological analysis of the spinal
+cord tissue from dNP2-ctCTLA-4-treated mice showed reduced
+cellular inﬁltration and demyelination compared with the other
+group (Fig. 5f,g). This
+symptoms
+correlated with a reduced proportion and number of inﬁltrated
+
+inhibition of pathological
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+5
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms9244
+
+a
+
+80
+
+60
+
+I
+
+F
+M
+
+40
+
+20
+
+0
+
+TAT-EGFP
+dNP2-EGFP
+
+**
+
+*
+
+37°C
+
+25°C
+
+4°C
+
+37°C
+
+25°C
+
+4°C
+
+b
+
+100
+
+I
+
+F
+M
+
+80
+
+60
+
+40
+
+20
+
+TAT-EGFP
+dNP2-EGFP
+
+***
+
+**
+
+**
+
+0
+
+PBS
+
+PBS
+
++Heparin (10 µg ml–1)
++Heparin (50 µg ml–1)
++Heparin (20 µg ml–1)
+
++Heparin (10 µg ml–1)
++Heparin (50 µg ml–1)
++Heparin (20 µg ml–1)
+
+TAT-dTomato
+dNP2-dTomato
+
+NS
+
+c
+
+800
+
+600
+
+I
+
+F
+M
+
+400
+
+d
+
+I
+
+F
+M
+
+600
+
+400
+
+TAT-dTomato
+dNP2-dTomato
+
+NS
+
+200
+
+NS
+
+200
+
+NS
+
+e
+
+I
+
+F
+M
+
+600
+
+400
+
+200
+
+TAT-dTomato
+dNP2-dTomato
+
+***
+
+NS
+
+0
+
++PBS
++CPZ (10 µM)
++CPZ (30 µM)
+
++PBS
++CPZ (10 µM)
++CPZ (30 µM)
+
+0
+
++PBS
++A m (2 m M)
++A m (1 m M)
++A m (5 m M)
+
++PBS
++A m (2 m M)
++A m (1 m M)
++A m (5 m M)
+
+0
+
++PBS
+
++MβC D (3 m M)
++MβC D (5 m M)
+
++PBS
+
++MβC D (3 m M)
++MβC D (5 m M)
+
+TAT-TAMRA
+dNP2-TAMRA
+
+**
+
+**
+
+*
+
+f
+
+2,000
+
+1,500
+
+I
+
+F
+M
+
+1,000
+
+500
+
+TAT-TAMRA
+dNP2-TAMRA
+
+***
+
+**
+
+**
+*
+
+g
+
+2,000
+
+1,500
+
+I
+
+F
+M
+
+1,000
+
+500
+
+h
+
+2,000
+
+1,500
+
+I
+
+F
+M
+
+1,000
+
+500
+
+TAT-TAMRA
+dNP2-TAMRA
+
+*
+
+***
+
+0
+
++PBS
++CPZ (30 µM)
++CPZ (10 µM)
+
++PBS
++CPZ (10 µM)
++CPZ (30 µM)
+
+0
+
++A m (2 m M)
++A m (1 m M)
++A m (5 m M)
++PBS
+
++A m (2 m M)
++A m (1 m M)
++A m (5 m M)
++PBS
+
+0
+
++PBS
+
++MβC D (3 m M)
++MβC D (5 m M)
+
++PBS
+
++MβC D (3 m M)
++MβC D (5 m M)
+
+dTomato
+
+dNP2-dTomato
+
+dNP2-dTomato
++MβCD (1 mM)
+
+dNP2-dTomato
++MβCD (5 mM)
+
+i
+
+0
+0
+4
+×
+
+Figure 3 | Intracellular delivery mechanisms of dNP2. (a) Splenocytes from 6-week-old female C57BL/6 mice were incubated with 5 mM TAT- or dNP2-
+EGFP at various temperatures (4, 25 or 37 °C) for 2 h. The intracellular EGFP signal of gated CD4 T cells was analysed by ﬂow cytometric analysis and the
+data are represented as mean ﬂuorescence intensity (MFI). (b) The splenocytes were pretreated with 0, 10, 20 or 50 mg ml  1 heparin at 37 °C for 30 min
+and the cells were then further incubated with 5 mM TAT- or dNP2-EGFP at 37 °C for 2 h. The intracellular EGFP protein signal of gated CD4 T cells was
+analysed and the data are represented as described above. (c–h) The splenocytes were pre-treated with the indicated concentrations of chlorpromazine
+(CPZ), amiloride (Am) or methyl-beta cyclodextrin (MbCD) at 37 °C for 30 min and cells were further incubated with (c–e) 5 mM TAT- or dNP2-dTomato
+or (f–h) 5 mM TAMRA-labeled TAT or dNP2 peptide at 37 °C for 1 h. The intracellular dTomato protein signal or TAMRA signal in the CD4 T cells were
+analysed by ﬂow cytometry. (i) HeLa cells were pre-treated with 1–5 mM MbCD or PBS on ice for 10 min and the cells were further incubated with 20 mM
+dTomato or dNP2-dTomato at 37 °C for 1 h. The intracellular localization of the dTomato protein was visualized by ﬂuorescent microscopy ( 400, Scale
+bar, 75 mm). Values are mean±s.e.m. and *Po0.05; **Po0.01; ***Po0.001; Student’s t-test.
+
+IFN-g- and/or IL-17A-producing CD4 T cells in the spinal cord
+(Fig. 5h,i). By contrast, 25 mg ctCTLA-4 conjugated with Hph-1,
+which exhibits less intracellular delivery and brain tissue localization
+
+in vivo compare with dNP2, did not result in a signiﬁcant reduction
+of clinical scores (Fig. 5j). Finally, to examine the therapeutic effects
+of dNP2-ctCTLA-4 in the EAE model, we intraperitoneally injected
+
+6
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms9244
+
+ARTICLE
+
+a
+
+dTomato
+
+dNP2-dTomato
+
+TAT-dTomato
+
+Hph-1-dTomato
+
+w
+e
+v
+ 
+l
+
+i
+
+a
+r
+e
+a
+
+t
+
+l
+ 
+
+D
+3
+
+i
+
+w
+e
+v
+ 
+p
+o
+
+t
+ 
+
+D
+3
+
+i
+
+w
+e
+v
+ 
+p
+o
+
+t
+ 
+
+D
+3
+
+ 
+
+d
+e
+
+i
+f
+i
+
+n
+g
+a
+M
+
+b
+
+o
+t
+a
+m
+o
+T
+d
+
+o
+t
+a
+m
+o
+T
+d
+-
+2
+P
+N
+d
+
+d
+
+20 min
+
+40 min
+
+60 min
+
+80 min
+
+100 min
+
+120 min
+
+dTomato
+
+dNP2-dTomato
+
+dTomato
+
+dNP2-dTomato
+
+i
+
+n × 100
+a
+r
+B
+
+× 100
+
+× 100
+
+× 100
+
+d
+r
+o
+c
+ 
+l
+a
+n
+p
+S
+
+i
+
+× 400
+
+× 400
+
+× 400
+
+× 400
+
+c
+
+N
+u
+e
+N
+
+o
+
+t
+
+a
+m
+o
+T
+d
+-
+2
+P
+N
+d
+
+I
+
+P
+A
+D
+
+d
+e
+g
+r
+e
+M
+
+d
+e
+i
+f
+i
+n
+g
+a
+M
+
+e
+
+4
+D
+C
+
+Neuron
+
+Astrocyte
+
+Microglia
+
+P
+A
+F
+G
+
+o
+
+t
+
+a
+m
+o
+T
+d
+-
+2
+P
+N
+d
+
+I
+
+P
+A
+D
+
+d
+e
+g
+r
+e
+M
+
+d
+e
+i
+f
+i
+n
+g
+a
+M
+
+o
+t
+a
+m
+o
+T
+d
+-
+2
+P
+N
+d
+
+1
+-
+a
+b
+
+l
+
+o
+
+t
+
+a
+m
+o
+T
+d
+-
+2
+P
+N
+d
+
+I
+
+P
+A
+D
+
+d
+e
+g
+r
+e
+M
+
+d
+e
+i
+f
+i
+n
+g
+a
+M
+
+d
+e
+g
+r
+e
+M
+
+Figure 4 | Protein delivery efﬁciency of dNP2 in brain and spinal cord. 2.5 mg dTomato, Hph-1-, TAT-, and dNP2-dTomato proteins were intravenously
+injected into 8-week-old male C57BL/6 mice through the tail vein after anaesthesia for real-time live confocal microscopic analysis. (a) Mouse brains were
+observed at 40 min after injection via multi-photon confocal microscopy using a 3D lateral view and 3D top view or magniﬁed 3D top view (Scale bar,
+100 mm). (b) The ﬂuorescent diffusion of the dNP2-dTomato protein out of blood vessels in the brain was monitored from 20–120 min (Scale bar, 50 mm).
+(c) Co-localization of the dNP2-dTomato (red) signal with ﬂuorescent signals speciﬁc for various cell types, including neurons (NeuN, green), astrocytes
+(GFAP, green), and microglia (Iba-1, green), in frozen sectioned brain tissue following confocal microscopy ( 400, Scale bar, 50 mm) is indicated by white
+arrows. White boxes in the merged images are magniﬁed regions. (d–e) EAE was induced in mice as described in the Materials and Method section, 2.5 mg
+of the dTomato or dNP2-dTomato proteins were subsequently injected intravenously. After 1 h, the brain and spinal cord tissues were harvested and
+prepared as frozen slides. (d) The cellular localization of the dNP2-dTomato protein in the brain or spinal cord tissues was visualized by ﬂuorescence
+microscopy ( 100; Scale bar, 200 mm,  400; Scale bar, 50 mm). (e) The co-localization of the dNP2-dTomato protein with CD4-positive cells (green)
+was analysed by ﬂuorescence microscopy ( 400, Scale bar, 50 mm) and is indicated as white arrows.
+100 mg dNP2-ctCTLA-4 into mice that had already developed the
+disease and whose average clinical
+score was 1 (Fig. 5k).
+Remarkably, dNP2-ctCTLA-4 was able to ameliorate the clinical
+scores of EAE. Collectively, our data suggest that dNP2-ctCTLA-4
+could regulate activated T-cell response in vitro and in vivo and it
+could be used as an immune-modulatory protein to control CNS
+inﬂammatory diseases such as multiple sclerosis.
+
+from the human NLBP protein. dNP2 is a tandem repeated form
+of the NP2 sequence that is highly conserved among various
+species. dNP2 exhibits potent
+intracellular protein delivery
+activity both in vitro and in vivo. We used in vitro and in vivo
+live-cell
+imaging technologies to directly visualize the dNP2-
+meditated internalization of macromolecules, such as proteins
+into T cells or brain cells that are generally regarded to pose huge
+hurdles for drug delivery. Moreover, we generated a dNP2-
+conjugated therapeutic protein, using the cytoplasmic domain of
+CTLA-4, to regulate T-cell responses in an EAE model and
+observed signiﬁcant reductions in disease symptoms in both
+preventive and therapeutic applications.
+
+Discussion
+In the present study, we identiﬁed and optimized a novel CNS-
+permeable cell membrane-penetrating peptide, dNP2, derived
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+7
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+
+a
+
+6x His
+6x His
+Hph-1
+dNP2
+
+dNP2
+HA-tag
+HA-tag
+HA-tag
+
+EGFP
+
+ctCTLA-4
+ctCTLA-4
+ctCTLA-4
+
+6x His
+6x His
+
+30 kDa
+
+10 kDa
+
+b
+
+s
+
+l
+l
+
+e
+c
+ 
+f
+
+o
+
+ 
+
+#
+
+3.0K
+
+2.0K
+
+1.0K
+
+PBS
+dNP2-EGFP
+dNP2-ctCTLA-4
+
+e
+
+e
+r
+o
+c
+s
+ 
+l
+
+a
+c
+n
+
+i
+
+i
+l
+
+c
+ 
+
+n
+a
+e
+M
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+E GFP
+
+dNP2-ctCTLA-4
+Hph-1-ctCTLA-4
+ctCTLA-4
+
+0
+
+100
+
+103
+101
+Anti-rat IgG : PE
+
+102
+
+104
+
+PBS
+ctCTLA-4
+
+Hph-1-ctCTLA-4
+dNP2-ctCTLA-4
+
+*
+(Day)
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+*
+
+PT
+
+PT
++
+
+MOG
+
+Treatment
+
+h
+
+104
+
+9.50%
+
+PBS
+
+dNP2-EGFP
+
+dNP2-ctCTLA-4
+
+4.61%
+
+7.46%
+
+3.65%
+
+4.92%
+
+2.51%
+
+i
+
+s
+
+103
+
+102
+
+A
+7
+1
+-
+L
+I
+
+101
+
+100
+
+19.6%
+
+17.1%
+
+14.8%
+
+100
+
+101
+
+102
+
+103
+
+104
+
+100
+
+101
+
+103 104 100
+
+101
+
+102
+
+103 104
+
+102
+IFN-γ
+
+) 4
+s
+
+l
+l
+
+l
+l
+
+ 
+
+e
+c
+ 
+T
++
+4
+D
+C
+
+ 
+f
+
+ 
+
+o
+#
+
+e
+c
+ 
+
+6
+0
+1
+×
+(
+ 
+
+d
+r
+o
+c
+ 
+l
+
+i
+
+a
+n
+p
+s
+ 
+
+n
+
+i
+
+3
+
+2
+
+1
+
+0
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms9244
+
+c
+
+)
+1
+–
+l
+
+ 
+
+m
+g
+p
+(
+ 
+2
+-
+L
+
+I
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+αCD3/αCD28
+
+***
+
+PMA/lonomycin
+
+1,000
+
+500
+
+NA
+
++ dNP2-E GFP
++ dNP2-ctCTLA-4
++ PBS
+
+0
+
+NA
+
++ dNP2-E GFP
++ dNP2-ctCTLA-4
++ PBS
+
+d
+
+)
+1
+–
+l
+
+ 
+
+m
+g
+p
+(
+ 
+γ
+-
+N
+F
+
+I
+
+800
+
+600
+
+400
+
+200
+
+0
+
+αCD3/αCD28
+
+***
+
+)
+1
+–
+l
+
+ 
+
+m
+g
+p
+(
+ 
+
+A
+7
+1
+-
+L
+
+I
+
+NA
+
++ dNP2-E GFP
++ dNP2-ctCTLA-4
++ PBS
+g
+
+80
+
+60
+
+40
+
+20
+
+0
+
+αCD3/αCD28
+
+***
+
+NA
+
++ dNP2-E GFP
++ dNP2-ctCTLA-4
++ PBS
+
+PBS
+
+dNP2-EGFP dNP2-ctCTLA-4
+
+f
+
+E
+&
+H
++
+B
+F
+L
+
+ 
+
+*
+
+**
+
+*
+
+r
+e
+p
+
+ 
+s
+
+l
+l
+
+e
+c
+ 
+
+d
+e
+
+a
+e
+r
+a
+
+ 
+l
+
+a
+
+t
+
+o
+
+t
+
+t
+
+a
+r
+t
+l
+i
+f
+
+n
+
+i
+ 
+f
+
+o
+
+ 
+
+#
+
+***
+
+PBS
+
+dNP2-ctCTLA-4
+dNP2-E GFP
+
+5,000
+
+4,000
+
+3,000
+
+2,000
+
+1,000
+
+0
+
+*
+
+*
+
+s
+
+l
+l
+
+**
+
+s
+
+l
+l
+
+e
+c
+ 
+T
++
+4
+D
+C
++
+γ
+N
+F
+
+)
+s
+
+l
+l
+
+e
+c
+ 
+
+5
+0
+1
+×
+(
+ 
+
+d
+r
+o
+c
+ 
+l
+
+i
+
+a
+n
+p
+s
+ 
+
+n
+
+i
+
+8
+
+6
+
+4
+
+2
+
+0
+
+e
+c
+ 
+T
++
+4
+D
+C
++
+A
+7
+1
+-
+L
+
+)
+s
+
+l
+l
+
+e
+c
+ 
+
+5
+0
+1
+×
+(
+ 
+
+d
+r
+o
+c
+ 
+l
+
+i
+
+a
+n
+p
+s
+ 
+
+n
+
+i
+
+6
+
+4
+
+2
+
+0
+
+I
+ 
+f
+
+o
+
+ 
+
+#
+
+PBS
+
+dNP2-E GFP
+dNP2-ctCTLA-4
+
+I
+ 
+f
+
+o
+
+ 
+
+#
+
+PBS
+
+dNP2-E GFP
+dNP2-ctCTLA-4
+
+I
+ 
+f
+
+o
+
+ 
+
+#
+
+PBS
+
+dNP2-E GFP
+dNP2-ctCTLA-4
+
+s
+
+l
+l
+
+e
+c
+ 
+T
++
+4
+D
+C
++
+A
+7
+1
+-
+L
++
+γ
+N
+F
+
+I
+
+)
+s
+
+l
+l
+
+e
+c
+ 
+
+5
+0
+1
+×
+(
+ 
+
+d
+r
+o
+c
+ 
+l
+
+i
+
+a
+n
+p
+s
+ 
+
+n
+
+i
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+*
+
+PBS
+
+dNP2-E GFP
+dNP2-ctCTLA-4
+
+j
+
+e
+r
+o
+c
+s
+ 
+l
+
+a
+c
+n
+
+i
+
+i
+l
+
+c
+ 
+
+n
+a
+e
+M
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+PBS
+Hph-1-ctCTLA-4
+dNP2-ctCTLA-4
+
+****
+
+**
+
+**
+
+** **
+
+***
+
+**
+
+**
+
+***
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+k
+
+e
+r
+o
+c
+s
+ 
+l
+
+a
+c
+n
+
+i
+
+i
+l
+
+c
+ 
+
+n
+a
+e
+M
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+(Day)
+
+PBS
+dNP2-EGFP
+dNP2-ctCTLA-4
+
+**
+
+***
+
+***
+
+***
+
+***
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+
+(Day)
+
+PT
+
+PT
++
+MOG
+
+Treatment
+
+PT
+
+PT
++
+MOG
+
+Treatment
+
+Figure 5 | Inhibition of effector T cell functions and amelioration of EAE by dNP2-ctCTLA-4. (a) DNA constructs and puriﬁed proteins. (b) Mouse
+splenocytes were incubated with 1 mM ctCTLA-4, Hph-1-, and dNP2-ctCTLA-4 for 1 h and the intracellular ctCTLA-4 proteins were stained with an
+anti-HA antibody and the signal was ampliﬁed with PE-conjugated anti-rabbit IgG antibody. Intracellular ﬂuorescence was analysed by ﬂow cytometry.
+(c) Splenocytes from 6-week-old female C57BL/6 mice were activated with anti-CD3/CD28 antibody or PMA/ionomycin in the presence of 1 mM PBS,
+dNP2-EGFP or dNP2-ctCTLA-4 for 24 h. The concentration of IL-2 was determined by ELISA assay. (d) The supernatants of anti-CD3/CD28 antibody
+stimulated cells were analysed for IFN-g and IL-17A by ELISA assay. (e–i) EAE was induced in 7-week-old female C57BL/6 mice as described in the
+Methods section. The mice were treated intraperitoneally with PBS or 25 mg dNP2-EGFP or dNP2-ctCTLA-4 on day 7 after MOG immunization and
+subsequently treated every other day (prevention scheme, n¼ 15). (e) The clinical scores were monitored and (f) spinal cord tissues were harvested and
+observed after Luxol fast blue (LFB) and hematoxylin and eosin staining to determine demyelination and tissue inﬂammation levels (Scale bar, 100 mm).
+(g) The number of spinal cord tissue inﬁltrating cells was counted via Image J software. (h) The spinal cord cells were isolated and IL-17A and/or IFN-g
+expressing CD4 T cells were analysed by ﬂow cytometry. (i) Absolute cell numbers in single-cell suspended fractions from the spinal cord were
+counted and multiplied to determine the proportion of total CD4þ , IFNgþ CD4þ , IL-17Aþ CD4þ and IFNgþ IL-17Aþ CD4þ cells. The data are
+represented as bar graphs (n¼ 15). (j) EAE was induced as described above. The mice were intraperitoneally treated with 25 mg Hph-1-, dNP2-ctCTLA-4 or
+PBS every other day from day 7. The clinical scores were monitored every day (n¼ 5). (k) EAE was induced as described above, then the mice were treated
+with 100 mg dNP2-EGFP, dNP2-ctCTLA-4 proteins or PBS every day after the clinical score reached 1 (day 10, n¼ 5). Values are mean±s.e.m. and
+*Po0.05; **Po0.01; ***Po0.001; Student’s t-test.
+
+8
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms9244
+
+ARTICLE
+
+CPPs have been extensively studied as an approach to deliver
+macromolecules into the target cells for the last 25 years, ever
+since the initial elucidation of
+the cell-permeable ability of
+the HIV-1 Tat protein36. A fusion protein consisting of an 11
+amino-acid sequence (TAT) from the Tat protein along with the
+b-galactosidase protein (TAT-b-gal, 120 kDa) was reported to be
+delivered into cells,
+including brain tissue, both in vitro and
+in vivo37. Various previously characterized CPPs,
+including
+Antp38, Pep-1 (ref. 39), VP22 (ref. 40) and polyarginine41, have
+also been shown to deliver effector peptides or proteins into cells.
+CPPs have been widely used to transduce various cargo
+molecules, including proteins, peptides, small interfering RNA
+and plasmid DNA, into cells to manipulate cellular responses42–
+44. Recently, polyarginine-conjugated transcription factors, such
+as Oct4, Sox2, Klf4 and c-Myc, have been used in the generation
+of induced pluripotent stem cells45. Moreover, CPP-conjugated
+molecules have been studied in clinical
+trials. Polyarginine-
+conjugated cyclosporine A was the ﬁrst clinical-tested CPP-
+conjugated molecules in phase II trials for the treatment of
+psoriasis, which was ultimately discontinued in the current46.
+And the TAT-conjugated protein kinase C d inhibitor (KAI-
+9803) has completed phase II clinical trials for the treatment of
+attack patients47. However, no Food and Drug
+heart
+Administration-approved CPP-based drugs are available, yet
+implying that the existing CPPs may have less efﬁciency in
+human or have side effects such as toxicity. Some previous studies
+have attempted to improve the intracellular delivery efﬁciency of
+TAT using a tandem repeated form of TAT-CPP (dTAT)48,49.
+Although dTAT showed much higher delivery efﬁciency than
+TAT, we conﬁrmed that dNP2 exhibits much more potent
+intracellular protein delivery than dTAT in primary T cells
+in vitro, and in various tissues including brain tissue in vivo
+(Supplementary Figs 9 and 10). Moreover, our
+results
+demonstrated that dTAT has more signiﬁcant in vitro toxicity
+than dNP2, suggesting that dNP2 has more advantages over than
+dTAT for the application purposes.
+
+Previously, the delivery of cargo molecules into brain tissue by
+TAT peptide was evaluated by indirect methods, such as b-gal
+enzyme assays37 or secondary antibody-based ampliﬁcation50.
+We, however, visualized the delivered ﬂuorescent protein in the
+brain tissue of live animals; a direct methodology for tracking
+protein in vivo. We found that only dNP2 delivers proteins into
+brain cells, including neurons, astrocytes and microglia, through
+the blood vessels in the brain, while the TAT- and Hph-1-CPP-
+conjugated proteins mostly remained in the blood vessel. From
+this, we can deduce that dNP2 may deliver a protein through
+blood vessels into neurons, astrocytes and microglial cells, which
+have characteristics to enable uptake of dNP2 proteins. Neuronal
+cells essentially have endocytosis activity for the recycling of
+cellular membrane after release of neurotransmitters51 and
+astrocytes and microglial cells are well-characterized phagocytes
+in the CNS, which have phagocytic activity to clear apoptotic
+cells or debris52. In addition, dNP2-dTomato was signiﬁcantly
+co-localized with inﬁltrated CD4 T cells when the brain
+inﬂammation was occurred by MOG35–55
+immunization,
+suggesting that dNP2 can deliver its cargo protein not only into
+the CNS resident cells but also into the inﬁltrated T cells. We also
+observed that dNP2 could deliver a protein with high efﬁciency in
+human PBMCs, while TAT shows marginal efﬁciency suggesting
+that dNP2 may be suitable for clinical purposes in humans.
+
+We also found that among the mixed cell population of
+PBMCs, phagocytic cells, such as macrophages and dendritic
+cells, were more likely than lymphocytes to take up CPP-cargo
+proteins, suggesting that heterogeneity in CPP delivery efﬁciency
+among the various cell types. In addition, we observed that the
+in spleens of dNP2-EGFP-
+green ﬂuorescent signal present
+
+injected mice showed co-localization in mostly F4/80-positive
+macrophage cells and some of CD4-positive cells, while co-
+localization
+observed
+(Supplementary Fig. 11); a ﬁnding that is similar to results
+reported for the in vivo b-gal delivery by TAT that b-gal activity
+was more signiﬁcant in red pulp region37.
+
+in B220-positive
+
+cells were
+
+not
+
+able
+
+to be
+
+to utilize various
+
+The mechanisms of cellular uptake of CPPs that have been
+studied involve lipid raft-mediated endocytosis35, clathrin-mediated
+endocytosis33 and macropinocytosis53 after interaction with heparan
+sulphate on cell surfaces54. We found that dNP2-recombinant
+proteins also utilize lipid raft-mediated endocytosis following
+heparan sulphate interaction, while a short dNP2 peptide alone
+seems
+endocytic pathways.
+In addition, we conﬁrmed that the dNP2-EGFP protein could
+also be more efﬁciently delivered into human umbilical vascular
+endothelial cells (HUVEC cells) than TAT-EGFP (Supplementary
+Fig. 12). This ﬁnding suggests that
+the in vivo intracellular
+localization of
+a ﬂuorescent protein following intravenous
+administration could be mediated by interactions with vascular
+endothelial cells, which might subsequently induce adsorptive-
+mediated transcytosis in the tissues. The luminal endothelial cell
+surfaces of the BBB have an overall negative charge with high
+expression of heparan sulphate proteoglycans55. Consequently,
+possible brain tissue delivery through the BBB could require an
+initial interaction with heparan sulphate proteoglycan to stimulate
+endocytosis by endothelial cells, followed by transport into the inner
+tissue region where astrocytes, neuronal cells and microglial cells
+accumulate. To understand the potent delivery efﬁciency of dNP2,
+we analysed and predicted the three-dimensional (3D) structures of
+dNP2 using I-TASSER, which is widely used online-based
+programme56,57. The predicted 3D-structure of dNP2 possesses
+two separate a-helical regions linked by a potentially ﬂexible hinge
+region, whereas the other CPPs contain only a single, linear a-helical
+region (Supplementary Fig. 13). These structural characteristics may
+enable increased interactions between dNP2 and heparin sulphate
+molecules on cells, such as luminal endothelial cells.
+
+To further conﬁrm the brain tissue localization of dNP2
+proteins are not mediated by circulating lymphocytes, we
+demonstrated the brain imaging studies with recombination
+activating gene 1 knockout (RAG1  /  ) mice, which have no
+mature circulating T or B cells, injected with the dNP2-dTomato
+protein that showed results identical to those of wild-type mice
+(Supplementary Fig. 14). This suggests that the brain tissue
+localization of the dNP2-dTomato protein is not dependent on
+circulating immune cells. Rather, it could be directly absorbed by
+endothelial cells and then subsequently localized into brain tissue.
+We attempted various proteins with different molecular weight to
+evaluate possible size limitations for delivery of proteins into
+brain tissue. We found that chemically conjugated dNP2-human
+serum albumin (65 kDa) or dNP2-b-gal (120 kDa) protein could
+be successfully delivered into brain tissue through blood vessels
+(Supplementary Fig. 15). Consequently, there seems to be no
+strict size limitation on transportation into the brain by dNP2,
+which demonstrate its application potency.
+
+Since
+
+In 1993,
+
+early 1990s, various disease-modifying drugs
+(DMDs), other than corticosteroids, have been used to treat
+multiple sclerosis.
+IFN-b 1b, which can reduce
+pro-inﬂammatory cytokine production from Th1 cells and inhibit
+T cell migration into the CNS, was ﬁrst approved as DMD for
+multiple sclerosis58. GA, a random mixture of polypeptides
+composed of tyrosine, glutamate, alanine and lysine, can interfere
+with antigen presentation to T cells by mimicking myelin basic
+protein59. Natalizumab, a monoclonal antibody drug approved
+for multiple sclerosis in 2004, can bind to a4b1 molecules on
+leukocytes, resulting in inhibition of migration of cells into the
+CNS60. Recently, effective and convenient oral drugs, including
+
+the
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+9
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms9244
+
+Fingolimod (2010), Teriﬂunomide (2012) and dimethyl fumarate
+(2013), were approved. Fingolimod can modulate the sphingosine
+1-phosphate receptor on thymocytes and lymphocytes, and
+can induce a reduction in inﬂammatory cell number in the
+circulation and the CNS61. Teriﬂunomide inhibits the enzyme
+dihydroorotate dehydrogenase, which plays a critical role in de
+novo synthesis of pyrimidine, and has effects on activated and
+proliferating T and B cells62. Dimethyl fumarate has known
+protective properties for neurons and modulatory functions in
+immune
+for multiple
+sclerosis are effective, these drugs have been reported to allow
+relapse occurrence, have adverse effects on cardiac function64,
+induce possible teratogenicity62 and possibly induce progressive
+these
+issues,
+multifocal
+signiﬁcant
+for multiple
+sclerosis patients, due to low efﬁcacy in many patients or
+systemic side effects.
+
+leukoencephalopathy63. Because of
+therapeutic needs
+remain unmet
+
+responses63. Although these DMDs
+
+Abatacept consists of the extracellular domain of CTLA-4 and
+the Fc region of
+immunoglobulin G. It can bind with B7
+molecules on the surface of antigen-presenting cells and inhibit
+T-cell activation by blocking the co-stimulatory signals to T cells
+in multiple sclerosis. However, we focused on the importance of
+the cytoplasmic tail of CTLA-4 in its immune regulatory function,
+which was previously demonstrated in studies that overexpressed
+an exon 2-deleted isoform of CTLA-4 (liCTLA-4) in murine
+T cells21 and through mutation of the ligand-binding motif of
+full-length CTLA-4 (ref. 65), which abolished B7-binding activity.
+In addition, liCTLA-4 overexpression signiﬁcantly inhibited the
+development of type 1 diabetes by regulating T-cell activation and
+proliferation66,67. Our results using the cytoplasmic domain of
+CTLA-4 are in agreement with studies of
+liCTLA-4, which
+exhibits immune regulatory functions in transgenic NOD mice
+independent of B7 binding. We similarly elucidated the function
+of a B7 independent form of CTLA-4 (ctCTLA-4) that encodes
+only a part of exon 4 of the Ctla-4 gene. Other recent studies have
+demonstrated that 1/4CTLA-4, another isoform of CTLA-4 that
+genetically resembles ctCTLA-4, enhances T-cell activation and
+promotes autoimmunity68,69. However, the alternative splicing of
+1/4CTLA-4 induces frame-shifts that produce a completely
+different amino acid sequence than ctCTLA-4 (refs 69,70).
+dNP2-ctCTLA-4 inhibited T-cell
+activation and displayed
+potent therapeutic effects in an autoimmune encephalomyelitis
+model, suggesting that the levels of the CTLA-4 cytoplasmic
+domain in T cells are important for its function. Although dNP2-
+ctCTLA-4 could be delivered into macrophages and dendritic
+cells, there was no signiﬁcant alteration of inﬂammatory cytokine
+production by Toll-like receptor ligand stimulation in those cells,
+while it could successfully inhibit IL-2 or IFN-g production by
+activated CD4 and CD8 T cells (Supplementary Fig. 16).
+This suggests that the inhibitory mechanism on EAE is not
+mediated by suppression of innate immune cells, but rather
+through inhibiting effector T-cell functions. Importantly, our
+in vivo experiments demonstrate that dNP2-ctCTLA-4 treatment
+ameliorated clinical symptoms, even when administration was
+initiated after tail paralysis. This suggests that the inhibition of
+effector T-cell functions by dNP2-ctCTLA-4 could modulate the
+progression of disease symptoms or enhances recovery without
+signiﬁcant in vivo toxicity (Supplementary Fig. 7).
+
+Taken together, our
+
+study clearly demonstrates
+
+that a
+novel and potent CNS-permeable peptide, dNP2, can deliver
+macromolecules, such as proteins, into the brain and spinal cord.
+New therapies based on the use of dNP2 to deliver ctCTLA-4
+into CNS-inﬁltrating T cells could be effective in regulating
+multiple sclerosis. Future studies will focus on optimizing the
+functional sequence of dNP2-ctCTLA-4 to increase its efﬁciency
+and stability.
+
+Methods
+Puriﬁcation of recombinant proteins. CPP-conjugated ﬂuorescent proteins were
+puriﬁed using bacterial systems. Escherichia coli BL21(DE3) Star pLysS were trans-
+formed with pRSET-b plasmids encoding CPP-conjugated ﬂuorescent proteins and
+incubated in 50 ml of Luria-Bertani broth containing ampicillin for 12 h at 37 °C.
+The cultures were then transferred into 500 ml of fresh Luria-Bertani medium and
+incubated at 37 °C for another 1–2 h until the optical density at 600 nm (OD600 nm)
+reached 0.4–0.6, after which 1 mM isopropyl-b-D-thiogalactopyranoside was added.
+The cells were subsequently incubated overnight at 20 °C with shaking at 150 r.p.m.
+(for ﬂuorescent proteins) or for 5 h at 37 °C and 200 r.p.m. (for ctCTLA-4 proteins).
+The cells were then harvested by ultra-centrifugation at 6,000 r.p.m. for 20 min at
+4 °C and resuspended in native lysis buffer (10 mM imidazole, 300 mM NaCl, 50 mM
+NaH2PO4, pH 8.0) or 6 M urea lysis buffer and sonicated using a Vibra-cell
+VCX-130 ultrasonic processor (Sonics and Materials Inc., Newton, CT). The
+supernatants were ﬁltered through 0.45-mm cellulose nitrate syringe ﬁlters. The
+6-His-tagged proteins were puriﬁed via Ni-NTA afﬁnity chromatography (Qiagen)
+and desalted using a PD-10 Sephadex G-25 column (GE Healthcare). To obtain
+highly puriﬁed proteins, an additional ion-exchange protein puriﬁcation step was
+performed using SP Sepharose High Performance (GE Healthcare), followed again
+by desalting on a PD-10 Sephadex G-25 column. Protein concentrations were
+measured using the Bradford assay.
+
+Cell lines and cell culture. Jurkat (human leukaemia cells) cells were purchased
+from the American Type Culture Collection (ATCC) and maintained in Roswell
+Park Memorial Institute (RPMI) 1640 media supplemented with 10% fetal bovine
+serum (FBS) and 1% penicillin/streptomycin antibiotics. HeLa (human cervix
+epithelial carcinoma cells) cells were purchased from the ATCC and cultured in
+Dulbecco’s modiﬁed Eagle’s media with GlutaMAX supplemented with 10% FBS and
+1% penicillin/streptomycin antibiotics. All cells were maintained at 37 °C in a 5%
+CO2 incubator. All of the above reagents were purchased from Thermo Scientiﬁc
+Hyclone.
+
+Mice. Male or female C57BL/6 mice, 6–8 weeks old, were obtained from Orient
+Bio (Daejeon, Korea). The mice were housed and maintained in a speciﬁc
+pathogen-free facility at Hanyang University under controlled conditions with
+constant temperature (21±1 °C), humidity (50±5%), and a 12 h light/dark cycle
+with regular chow and autoclaved water. All animal protocols used in this study
+were approved by the Hanyang Animal Care and Use Committee.
+
+In vitro delivery efﬁciency of dNP2. Jurkat T cells were cultured in 24-well plates
+at 5.0 105 cells per well in RPMI 1640 media. After the cells were seeded, each
+protein was added for the indicated times. Following incubation, the cells were
+harvested and washed three times with PBS. Intracellular ﬂuorescence was analysed
+on a ﬂuorescence-activated cell sorting (FACS) Canto II ﬂow cytometer (BD
+Bioscience), and the data were analysed using FlowJo software (Tree Star, Inc.). The
+spleens from 6-week-old female C57BL/6 mice were placed in 60 15 mm cell
+culture dishes containing 3 ml of PBS. Single-cell suspensions were physically
+generated using a 0.45-mm pore-cell strainer and centrifuged after the addition of
+10 ml fresh PBS. Red blood cells were lysed in Ammonium-Chloride-Potassium
+(ACK) buffer (0.15 M NH4Cl, 10 mM KHCO3, 1 mM EDTA-2Na, pH 7.2). Of all,
+1.0 106 splenocytes per well were seeded and the delivery efﬁciencies of CPP-
+proteins were analysed. The cells were subdivided into various cell types by staining
+with 1/800 diluted anti-mouse CD4-PerCP-Cy5.5 (#45-0042) and anti-mouse
+CD19-PE-Cy7 (#25-0193) or anti-mouse F4/80 PerCP-Cy5.5 (#45-4,801), anti-
+mouse MHCII-PE (#12-5,322-81), anti-mouse CD11b-PE-Cy7 (#25-0112) and
+anti-mouse CD11c-APC (#17-0114) FACS antibodies. The antibodies were pur-
+chased from eBioscience.
+
+In vitro toxicity assay. The viability of the cells was measured via water-soluble
+tetrazolium-8 based cell counting kit-8 (CCK-8, Dojindo). A total of 5.0 103
+HeLa cells were seeded in 96-well plate and then treated with 10, 30, 50 or 100 mM
+TAT-, dTAT-, NP2-, dNP2-EGFP or PBS for 24 h. After incubation, the cells were
+washed with PBS and further incubated with CCK-8 solution for 2 h. The optical
+density values were then analysed by plate reader at 450 nm (Bio-Rad).
+
+Intracellular localization of dNP2. HeLa cells were seeded in six-well plates at
+1.0 106 cells per well in Dulbecco’s modiﬁed Eagle’s media and incubated
+overnight. The HeLa cells were then treated with CPP-EGFPs or -dTomatos
+(20 mM) for 2 h at 37 °C. Following incubation, the medium was exchanged, and
+the cells were washed three times with PBS. The cells were ﬁxed in 4% paraf-
+ormaldehyde and washed three times with PBS. Hoechst 33342 (Invitrogen) was
+also added to stain nuclei, followed by three washes with PBS. Cells were then
+mounted with mounting media (Sigma-Aldrich). The intracellular localization of
+EGFP ﬂuorescence was observed using a DeltaVision imaging system (Applied
+Precision) and the intracellular localization of dTomato ﬂuorescence was observed
+using a confocal microscope (Nikon Instruments Inc.).
+
+10
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms9244
+
+ARTICLE
+
+Isolation of human PBMC and in vitro delivery of dNP2. The protocol described
+here was approved by the Institutional Review Board of Hanyang University.
+Human blood samples were obtained from healthy donors and blood lymphocytes
+were isolated by density centrifugation using Ficoll-Paque PLUS (GE Healthcare).
+The isolated lymphocytes were seeded 1.0 106 cells per well and the delivery
+efﬁciencies of CPP-proteins were analysed. The cells were further stained with
+1/800 diluted anti-human CD4-PE-Cy7 (#25-0049), anti-human CD19-APC
+(#17-0199), anti-human CD11b-PE-Cy7 (#25-0118) or anti-human CD11c-APC
+(#17-0116) FACS antibodies purchased from eBioscience.
+
+Live imaging of primary CD4þ T cells. 6-week-old female C57BL/6 mice were
+euthanized, and CD4þ T cells were isolated from spleens and lymph nodes using a
+CD4þ T cell negative selection kit (StemCell Technologies, INC). Isolated CD4þ
+T cells in RPMI media were seeded on anti-CD44 antibody-coated glass coverslips
+mounted in Chamlide chambers. The protein solution was then added to the
+chamber, and time-lapse imaging was initiated. Differential interference contrast
+(DIC) and GFP images were recorded at 5-min intervals for 2 h. The acquired time-
+lapse images were analysed using MetaMorph or ImageJ software 1.48v.
+
+Delivery mechanisms of dNP2. Isolated splenocytes from 6-week-old female
+C57BL/6 mice were incubated in the presence of CPP proteins or peptides for 1 h at
+various temperatures (4, 25 or 37 °C). The splenocytes or HeLa cells were
+pre-treated with heparin (0, 10, 20 or 50 mg ml  1), MbCD (0, 3, or 5 mM),
+chlorpromazine (0, 10 or 30 mM) or amiloride (0, 1, 2 or 5 mM) for 30 min at 37 °C,
+before being treated with CPP-proteins or -peptides and additionally incubated
+with CPP proteins or peptides for 1 h at 37 °C. All cells were trypsinized (trypsin,
+Thermo Scientiﬁc Hyclone) and washed with FACS buffer (PBS containing 10%
+FBS, 5% sodium azide and 1% EDTA). Heparin, MbCD, chlorpromazine and
+amiloride were purchased from Sigma-Aldrich.
+
+Live imaging using multi-photon microscopy. For in vivo multi-photon imaging
+of the brain, 8-week-old male C57BL/6 mice (23–25 g) were subjected to surgery to
+introduce an observation window in the skull. Animals were anaesthetised via
+isoﬂurane inhalation and maintained at body temperature (37–38 °C) using a
+homoeothermic heating pad system controlled by a rectal probe. Isoﬂurane levels
+were set at 3% to induce anaesthesia and were maintained at 1.5% during cranial
+window surgery or multi-photon imaging. The animals were closely monitored
+throughout the entire procedure to ensure physiological health. All surgical pro-
+cedures were approved by the Institutional Animal Care and Use Committee
+(IACUC) of Sungkyunkwan University. Animals were ﬁxed in a stereotaxic frame
+(David Kopf Instruments, Tujunga, CA), and a round cranial window with a
+diameter of 3 mm was created on the right hemisphere, centred at ML, þ 2.5 mm,
+AP,   1.5 mm. After craniotomy, a customized chamber plate (Narishige Inc.,
+Tokyo, Japan) with a 5-mm observation hole was placed on the opened craniotomy
+area and ﬁxed with dental resin. The cranial window was then ﬁlled with sterilized
+artiﬁcial cerebrospinal ﬂuid (125 mM NaCl, 2.5 mM KCl, 25 mM NaHCO3,
+1.25 mM NaH2PO4, 2 mM CaCl2, 1 mM MgSO4, 10 mM glucose, pH 7.4) and
+covered with a 7-mm coverslip. The cranial window was sealed with cyanoacrylic
+glue, and the animals were then placed in a head-ﬁxing apparatus (MAG-1,
+Narishige Inc.) for multi-photon microscopy (TCS SP8 MP, Leica Microsystems
+CMS GmbH). Excitation was performed using a 900-nm Ti:Sapphire laser
+(Chameleon Vision II, Coherent Inc.), and the emitted ﬂuorescent signal was
+detected on a hybrid detector through a 585/40 band-pass ﬁlter cube. To track the
+delivery of the carrier peptide into the brain tissue, 3D z-stack images were
+obtained with a 20-min time interval for 2 h following the injection of the carrier
+peptide via the tail vein (2.5 mg per animal). The imaged brain size was
+354.29 354.29 mm2 (1024 1024 pixels) and was acquired using a 25 water-
+immersion objective lens (N.A. 0.95). The imaging depth was approximately
+450–500 mm from the brain surface, with a resolution of 1 mm. Following
+acquisition, the images were analysed using LAS AF 3.2.0 (Leica Microsystems
+CMS GmbH) and Imaris 7.7.2 (Bitplane) software.
+
+Immunoﬂuorescence. 6-week-old male C57BL/6 mice were intraperitoneally
+injected with 5 mg of dNP2-dTomato or control CPP-dTomato proteins to analyze
+the systemic delivery efﬁciency of dNP2-dTomato. The mice were killed 2 h after
+injection. The tissues were then harvested, washed with PBS and ﬁxed with 4%
+paraformaldehyde. All harvested tissues were frozen using O.C.T. compound
+(WAKO Chemical). The frozen blocks were cut into 6-mm-thick slices using a
+cryostat (Thermo Scientiﬁc) and examined via ﬂuorescence microscopy (Leica
+Microsystems). For the analysis of brain and spinal cord tissues in EAE-induced
+mice, 1 h after intravenous injection of 2.5 mg dNP2-dTomato, the animals were
+euthanized and perfused transcardially with 15 ml of PBS, followed by 15 ml of 4%
+paraformaldehyde. The brain tissue was removed and washed with PBS. The tissue
+was then post-ﬁxed in 4% paraformaldehyde for 1 h at room temperature and
+cryoprotected in 30% sucrose for 24 h at 4 °C. Brain tissues were frozen
+using O.C.T. compound (WAKO Chemical). The frozen blocks were cut into
+40-mm-thick slices using a cryostat (Thermo Scientiﬁc, Logan, UT). Sections were
+incubated in cold acetone for 30 min at   20 °C and then washed with PBS for
+30 min at room temperature. Washed samples were incubated with
+
+permeabilization buffer (0.5% Triton X-100 in PBS) for 10 min and blocking buffer
+(3% BSA, 0.1% Tween-20) for another 20 min. Primary antibody staining was
+performed overnight using 1/100 diluted anti-mouse CD4-FITC (eBioscience,
+#11-0041), 1/100 diluted anti-mouse GFAP (Millipore, #AB5804), 1/100 diluted
+anti-mouse Iba-1 (WAKO chemical, #019-19741) or 1/100 diluted anti-mouse
+NeuN (Abcam, #104224). Nuclei were stained with Hoechst 33342 dye (Invitrogen)
+or DAPI (Vector Laboratory) following antibody binding. All section samples were
+analysed by confocal microscopy (TCS SP8, Leica Microsystems CMS GmbH).
+
+EAE induction. 7-week-old female C57BL/6 mice were purchased from DBL. The
+protocol described here was approved by the animal experimentation ethics
+committee of Hanyang University. EAE was induced by subcutaneous immuni-
+zation with 100 mg of MOG35–55 peptide (MEVGWYRSPFSRVVHLYRNGK) in
+Freund’s adjuvant emulsion (adjuvant-incomplete Freund and Mycobacterium
+tuberculosis H37Ra at 4 mg per ml, BD Difco). The total subcutaneously injected
+emulsion volume was 200 ml. At 0 h and 48 h after immunization, mice were
+intraperitoneally treated with 200 ng of pertussis toxin (List Biological Laboratories
+Inc.). Animals were scored daily for signs of clinical disease. Each dose of protein
+diluted in 100 ml of PBS or fresh PBS alone was injected intraperitoneally. Mice
+were euthanized at the end of the experiments, and lymphocytes in the CNS were
+isolated by Percoll (GE Healthcare) density-gradient centrifugation. The surface of
+the isolated lymphocytes was stained with 1/800 diluted anti-mouse CD4
+PerCP-Cy5.5 antibody (eBioscience, #45-0042). The lymphocytes were also stained
+with 1/400 diluted anti-mouse IFN-g-FITC (eBioscience, #13-7,311) and 1/100
+diluted IL-17A-APC antibodies (eBioscience, #17-7,177) using the Fixation/Per-
+meabilization concentrate and diluent kit (eBioscience). The cells were analysed
+using a FACSCanto ﬂow cytometer and FlowJo software. For histologic analysis,
+parafﬁn blocks of spinal cord tissues were deparafﬁnized and immersed in Luxol
+fast blue. For combination staining, hematoxylin and eosin was used (Dako). The
+inﬁltrated cells in the white matter region of spinal cord tissues were counted using
+Image J software 1.48v.
+
+In vivo toxicity assays. Three groups of 7-week-old female C57BL/6 mice were
+repetitively injected with PBS, 5 mg per kg of dNP2-dTomato or dNP2-ctCTLA-4,
+respectively, every other day for 14 days. The weight changes of the mice were daily
+monitored. At day 15, the mice were sacriﬁced and the morphologies of the spleen,
+liver and brain were carefully observed. The cytotoxicity of each protein against
+splenocytes and thymocytes was analysed using an Annexin V and 7-AAD staining
+kit (BD bioscience). The percentages of naive CD4 T cells in lymph nodes and
+spleen were analysed with isolated lymphocytes from each tissue after staining with
+1/800 diluted anti-mouse CD4-PerCP-Cy5.5 (#45-0042), anti-mouse CD62L-FITC
+(#11-0621) and anti-mouse CD44-PE (#12-0441) FACS antibodies purchased from
+eBioscience. Liver toxicity of the proteins was analysed using an alanine amino-
+transferase activity assay kit (BioVision) and an aspartate aminotransferase activity
+assay kit (BioVision).
+
+Statistics. The data were analysed using two-tailed Student’s t-tests. P values
+o0.05 were considered signiﬁcant.
+
+References
+1. Trapp, B. D., Ransohoff, R. & Rudick, R. Axonal pathology in multiple sclerosis:
+relationship to neurologic disability. Curr. Opin. Neurol. 12, 295–302 (1999).
+2. Rangachari, M. & Kuchroo, V. K. Using EAE to better understand principles of
+
+immune function and autoimmune pathology. J. Autoimmun. 45, 31–39
+(2013).
+
+3. Goverman, J. Autoimmune T cell responses in the central nervous system. Nat.
+
+Rev. Immunol. 9, 393–407 (2009).
+
+4. Pierson, E., Simmons, S. B., Castelli, L. & Goverman, J. M. Mechanisms
+
+regulating regional localization of inﬂammation during CNS autoimmunity.
+Immunol. Rev. 248, 205–215 (2012).
+
+5. Wingerchuk, D. M. & Carter, J. L. Multiple sclerosis: current and emerging
+disease-modifying therapies and treatment strategies. Mayo Clin. Proc. 89,
+225–240 (2014).
+
+6. Tavazzi, E., Rovaris, M. & La Mantia, L. Drug therapy for multiple sclerosis.
+
+Can. Med. Assoc. J. 186, 833–840 (2014).
+
+7. Chen, Y. & Liu, L. Modern methods for delivery of drugs across the blood-brain
+
+barrier. Adv. Drug Deliv. Rev. 64, 640–665 (2012).
+
+8. Mackic, J. B. et al. Cereport (RMP-7) increases the permeability of human brain
+microvascular endothelial cell monolayers. Pharm. Res. 16, 1360–1365 (1999).
+
+9. Bidanset, D. J. et al. Intravenous infusion of cereport increases uptake and
+efﬁcacy of acyclovir in herpes simplex virus-infected rat brains. Antimicrob.
+Agents Chemother. 45, 2316–2323 (2001).
+
+10. Hynynen, K. Ultrasound for drug and gene delivery to the brain. Adv. Drug
+
+Deliv. Rev. 60, 1209–1217 (2008).
+
+11. Cao, G. et al. In vivo delivery of a Bcl-xL fusion protein containing the TAT
+
+protein transduction domain protects against ischemic brain injury and
+neuronal apoptosis. J. Neurosci. 22, 5423–5431 (2002).
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+11
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+ARTICLE
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms9244
+
+12. Kilic, E., Dietz, G. P., Hermann, D. M. & Bahr, M. Intravenous TAT-Bcl-Xl
+is protective after middle cerebral artery occlusion in mice. Ann. Neurol. 52,
+617–622 (2002).
+
+13. Rousselle, C. et al. New advances in the transport of doxorubicin through the
+blood-brain barrier by a peptide vector-mediated strategy. Mol. Pharmacol. 57,
+679–686 (2000).
+
+14. Rousselle, C., Clair, P., Temsamani, J. & Scherrmann, J. M. Improved brain
+delivery of benzylpenicillin with a peptide-vector-mediated strategy. J. Drug
+Target. 10, 309–315 (2002).
+
+15. Rousselle, C. et al. Improved brain uptake and pharmacological activity of
+
+dalargin using a peptide-vector-mediated strategy. J. Pharmacol. Exp. Ther. 306,
+371–376 (2003).
+
+16. Walunas, T. L. et al. CTLA-4 can function as a negative regulator of T cell
+
+activation. Immunity 1, 405–413 (1994).
+
+17. Krummel, M. F. & Allison, J. P. CD28 and CTLA-4 have opposing effects on
+
+the response of T cells to stimulation. J. Exp. Med. 182, 459–465 (1995).
+
+18. Linsley, P. S. et al. CTLA-4 is a second receptor for the B cell activation antigen
+
+B7. J. Exp. Med. 174, 561–569 (1991).
+
+19. Lee, K. M. et al. Molecular basis of T cell inactivation by CTLA-4. Science 282,
+
+2263–2266 (1998).
+
+20. Valk, E., Rudd, C. E. & Schneider, H. CTLA-4 trafﬁcking and surface
+
+expression. Trends Immunol. 29, 272–279 (2008).
+
+21. Vijayakrishnan, L. et al. An autoimmune disease-associated CTLA-4 splice
+
+variant lacking the B7 binding domain signals negatively in T cells. Immunity
+20, 563–575 (2004).
+
+22. Choi, J. M. et al. Intranasal delivery of the cytoplasmic domain of CTLA-4
+
+using a novel protein transduction domain prevents allergic inﬂammation. Nat.
+Med. 12, 574–579 (2006).
+
+23. Choi, J. M. et al. Transduction of the cytoplasmic domain of CTLA-4 inhibits
+
+TcR-speciﬁc activation signals and prevents collagen-induced arthritis. Proc.
+Natl Acad. Sci. USA 105, 19875–19880 (2008).
+
+24. Kim, C. H. et al. Overexpression of a novel regulator of p120 catenin,
+
+NLBP, promotes lung adenocarcinoma proliferation. Cell Cycle 12, 2443–2453
+(2013).
+
+25. Kwon, J. et al. A novel LZAP-binding protein, NLBP, inhibits cell invasion.
+
+J. Biol. Chem. 285, 12232–12240 (2010).
+
+26. Lim, S., Kim, W. J., Kim, Y. H. & Choi, J. M. Identiﬁcation of a novel cell-
+
+penetrating peptide from human phosphatidate phosphatase LPIN3. Mol. Cells
+34, 577–582 (2012).
+
+27. van den Berg, A. & Dowdy, S. F. Protein transduction domain delivery of
+therapeutic macromolecules. Curr. Opin. Biotechnol. 22, 888–893 (2011).
+
+28. Yan, H. et al. Expression and puriﬁcation of human TAT-p53 fusion protein in
+Pichia pastoris and its inﬂuence on HepG2 cell apoptosis. Biotechnol. Lett. 34,
+1217–1223 (2012).
+
+29. Rothbard, J. B. et al. Conjugation of arginine oligomers to cyclosporin A
+
+facilitates topical delivery and inhibition of inﬂammation. Nat. Med. 6,
+1253–1257 (2000).
+
+30. Simon, M. J., Gao, S., Kang, W. H., Banta, S. & Morrison, 3rd B. TAT-mediated
+
+intracellular protein delivery to primary brain cells is dependent on
+glycosaminoglycan expression. Biotechnol. Bioeng. 104, 10–19 (2009).
+31. Ziegler, A. Thermodynamic studies and binding mechanisms of cell-
+
+penetrating peptides with lipids and glycosaminoglycans. Adv. Drug Deliv. Rev.
+60, 580–597 (2008).
+
+32. Gump, J. M., June, R. K. & Dowdy, S. F. Revised role of glycosaminoglycans in
+
+TAT protein transduction domain-mediated cellular transduction. J. Biol.
+Chem. 285, 1500–1507 (2010).
+
+33. Richard, J. P. et al. Cellular uptake of unconjugated TAT peptide involves
+
+clathrin-dependent endocytosis and heparan sulfate receptors. J. Biol. Chem.
+280, 15300–15306 (2005).
+
+34. West, M. A., Bretscher, M. S. & Watts, C. Distinct endocytotic pathways in
+
+epidermal growth factor-stimulated human carcinoma A431 cells. J. Cell Biol.
+109, 2731–2739 (1989).
+
+35. Kaplan, I. M., Wadia, J. S. & Dowdy, S. F. Cationic TAT peptide transduction
+
+domain enters cells by macropinocytosis. J. Control. Release 102, 247–253
+(2005).
+
+36. Frankel, A. D. & Pabo, C. O. Cellular uptake of the tat protein from human
+
+immunodeﬁciency virus. Cell 55, 1189–1193 (1988).
+
+37. Schwarze, S. R., Ho, A., Vocero-Akbani, A. & Dowdy, S. F. In vivo protein
+
+transduction: delivery of a biologically active protein into the mouse. Science
+285, 1569–1572 (1999).
+
+38. Derossi, D., Joliot, A. H., Chassaing, G. & Prochiantz, A. The third helix
+
+of the Antennapedia homeodomain translocates through biological
+membranes. J. Biol. Chem. 269, 10444–10450 (1994).
+
+39. Morris, M. C., Depollier, J., Mery, J., Heitz, F. & Divita, G. A peptide carrier for
+
+the delivery of biologically active proteins into mammalian cells. Nat.
+Biotechnol. 19, 1173–1176 (2001).
+
+40. Elliott, G. & O’Hare, P. Intercellular trafﬁcking and protein delivery by a
+
+herpesvirus structural protein. Cell 88, 223–233 (1997).
+
+41. Wender, P. A. et al. The design, synthesis, and evaluation of molecules that
+enable or enhance cellular uptake: peptoid molecular transporters. Proc. Natl
+Acad. Sci. USA 97, 13003–13008 (2000).
+
+42. Meade, B. R. & Dowdy, S. F. Exogenous siRNA delivery using peptide
+
+transduction domains/cell penetrating peptides. Adv. Drug Deliv. Rev. 59,
+134–140 (2007).
+
+43. Moschos, S. A. et al. Lung delivery studies using siRNA conjugated to TAT
+
+(48-60) and penetratin reveal peptide induced reduction in gene expression and
+induction of innate immunity. Bioconj. Chem. 18, 1450–1459 (2007).
+
+44. Arthanari, Y., Pluen, A., Rajendran, R., Aojula, H. & Demonacos, C. Delivery of
+therapeutic shRNA and siRNA by Tat fusion peptide targeting BCR-ABL fusion
+gene in Chronic Myeloid Leukemia cells. J. Control. Release 145, 272–280
+(2010).
+
+45. Lee, J. et al. Activation of innate immunity is required for efﬁcient nuclear
+
+reprogramming. Cell 151, 547–558 (2012).
+
+46. Koren, E. & Torchilin, V. P. Cell-penetrating peptides: breaking through to the
+
+other side. Trends Mol. Med. 18, 385–393 (2012).
+
+47. Chen, L. & Harrison, S. D. Cell-penetrating peptides in drug development:
+
+enabling intracellular targets. Biochem. Soc. Trans. 35, 821–825 (2007).
+
+48. Eguchi, A. et al. Efﬁcient siRNA delivery into primary cells by a peptide
+
+transduction domain-dsRNA binding domain fusion protein. Nat. Biotechnol.
+27, 567–571 (2009).
+
+49. Geoghegan, J. C., Gilmore, B. L. & Davidson, B. L. Gene silencing mediated by
+siRNA-binding fusion proteins is attenuated by double-stranded RNA-binding
+domain structure. Mol. Ther. Nucleic Acids 1, e53 (2012).
+
+50. Abudara, V. et al. The connexin43 mimetic peptide Gap19 inhibits
+
+hemichannels without altering gap junctional communication in astrocytes.
+Front. Cell. Neurosci. 8, 306 (2014).
+
+51. Parton, R. G. & Dotti, C. G. Cell biology of neuronal endocytosis. J. Neurosci.
+
+Res. 36, 1–9 (1993).
+
+52. Sokolowski, J. D. & Mandell, J. W. Phagocytic clearance in neurodegeneration.
+
+Am. J. Pathol. 178, 1416–1428 (2011).
+
+53. Wadia, J. S., Stan, R. V. & Dowdy, S. F. Transducible TAT-HA fusogenic
+
+peptide enhances escape of TAT-fusion proteins after lipid raft
+macropinocytosis. Nat. Med. 10, 310–315 (2004).
+
+54. Ziegler, A. & Seelig, J. Interaction of the protein transduction domain of HIV-1
+
+TAT with heparan sulfate: binding mechanism and thermodynamic
+parameters. Biophys. J. 86, 254–263 (2004).
+
+55. Herve, F., Ghinea, N. & Scherrmann, J. M. CNS delivery via adsorptive
+
+transcytosis. AAPS J. 10, 455–472 (2008).
+
+56. Zhang, Y. I-TASSER server for protein 3D structure prediction. BMC
+
+Bioinformatics 9, 40 (2008).
+
+57. Roy, A., Kucukural, A. & Zhang, Y. I-TASSER: a uniﬁed platform for
+
+automated protein structure and function prediction. Nat. Protoc. 5, 725–738
+(2010).
+
+58. Dhib-Jalbut, S. & Marks, S. Interferon-beta mechanisms of action in multiple
+
+sclerosis. Neurology 74(Suppl 1): S17–S24 (2010).
+
+59. Arnon, R. & Aharoni, R. Mechanism of action of glatiramer acetate in multiple
+sclerosis and its potential for the development of new applications. Proc. Natl
+Acad. Sci. USA 101(Suppl 2): 14593–14598 (2004).
+
+60. Steinman, L. Blocking adhesion molecules as therapy for multiple sclerosis:
+
+natalizumab. Nat. Rev. Drug. Discov. 4, 510–518 (2005).
+
+61. Brinkmann, V. et al. The immune modulator FTY720 targets sphingosine
+
+1-phosphate receptors. J. Biol. Chem. 277, 21453–21457 (2002).
+
+62. Kim, W., Zandona, M. E., Kim, S. H. & Kim, H. J. Oral disease-modifying
+
+therapies for multiple sclerosis. J. Clin. Neurol. 11, 9–19 (2015).
+
+63. English, C. & Aloi, J. J. New FDA-approved disease-modifying therapies for
+
+multiple sclerosis. Clin. Ther. 37, 691–715 (2015).
+
+64. Kappos, L. et al. A placebo-controlled trial of oral ﬁngolimod in relapsing
+
+multiple sclerosis. N. Engl. J. Med. 362, 387–401 (2010).
+
+65. Chikuma, S., Abbas, A. K. & Bluestone, J. A. B7-independent inhibition of T
+
+cells by CTLA-4. J. Immunol. 175, 177–181 (2005).
+
+66. Stumpf, M., Zhou, X. & Bluestone, J. A. The B7-independent isoform of
+
+CTLA-4 functions to regulate autoimmune diabetes. J. Immunol. 190, 961–969
+(2013).
+
+67. Araki, M. et al. Genetic evidence that the differential expression of the ligand-
+
+independent isoform of CTLA-4 is the molecular basis of the Idd5.1
+type 1 diabetes region in nonobese diabetic mice. J. Immunol. 183, 5146–5157
+(2009).
+
+68. Liu, S. M. et al. Overexpression of the Ctla-4 isoform lacking exons 2 and 3
+
+causes autoimmunity. J. Immunol. 188, 155–162 (2012).
+
+69. Ichinose, K. et al. Brief report: increased expression of a short splice variant of
+
+CTLA-4 exacerbates lupus in MRL/lpr mice. Arthritis Rheum. 65, 764–769
+(2013).
+
+70. Ueda, H. et al. Association of the T-cell regulatory gene CTLA4 with
+
+susceptibility to autoimmune disease. Nature 423, 506–511 (2003).
+
+12
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms9244
+
+ARTICLE
+
+Acknowledgements
+This work was supported by grants from Basic Science Research Program through
+National Research Foundation of Korea grants (NRF-2013R1A1A2A10060048); the
+Korea Health Technology R&D Project through the Korea Health Industry Development
+Institute (KHIDI) funded by the Ministry of Health & Welfare, Republic of Korea
+(HI14C0234); the Institute of Basic Science (IBS-R015-D1) to J.-M. Choi.
+
+Author contributions
+J.-M.C. conceived and supervised the project, analysed the results, and revised the
+manuscript. S. L. designed and performed most of the experiments, analysed the results,
+and wrote the draft manuscript. W.-J.K. performed the experiments, analysed the results,
+contributed to wrote the draft manuscript, and draw the thumbnail image. Y.-H.K. initiated
+the project and performed the experiments. S. L. and M.S. performed multi-photon brain
+live imaging experiments, analysed the results, and revised the manuscript. J.-H.K. per-
+formed immunostaining experiments and analysed the results. J.-A.L. performed in vitro
+cell type staining experiments and analysed the results. H.Y. analysed the structure mod-
+elling of dNP2 and supported some experiments. D.-H.K. and H.-J.P. performed some
+supporting experiments and analysed the results. H.-M.K. and J.D. performed ﬂuorescence
+microscope live imaging experiments and analysed the results. H.-G.L., J.Y.K., J.-U.L.,
+J.H.S., and L.K.K. provided supportive experiments or advice. H.K. and S.-K.L. discussed
+the results and provided advice. A.L.M.B. discussed the results, provided advice, and revised
+the manuscript. All authors reviewed and edited the manuscript.
+
+Additional information
+Supplementary Information accompanies this paper at http://www.nature.com/
+naturecommunications
+
+Competing ﬁnancial interests: S. L., W.-J.K., Y.-H.K., and J.-M.C. are inventors on a
+patent application describing the use of dNP2 as drug delivery peptide and therapeutic
+use of dNP2-ctCTLA-4 in multiple sclerosis. The remaining authors declare no com-
+peting ﬁnancial interests.
+
+Reprints and permission information is available online at http://npg.nature.com/
+reprintsandpermissions/
+
+How to cite this article: Lim, S. et al. dNP2 is a blood–brain barrier-permeable peptide
+enabling ctCTLA-4 protein delivery to ameliorate experimental autoimmune encepha-
+lomyelitis. Nat. Commun. 6:8244 doi: 10.1038/ncomms9244 (2015).
+
+This work is licensed under a Creative Commons Attribution 4.0
+International License. The images or other third party material in this
+article are included in the article’s Creative Commons license, unless indicated otherwise
+in the credit line; if the material is not included under the Creative Commons license,
+users will need to obtain permission from the license holder to reproduce the material.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+
+NATURE COMMUNICATIONS | 6:8244 | DOI: 10.1038/ncomms9244 | www.nature.com/naturecommunications
+
+13
+
+& 2015 Macmillan Publishers Limited. All rights reserved.
+
+

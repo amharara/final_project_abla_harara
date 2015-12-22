@@ -1,0 +1,1424 @@
+Neurochem Res (2015) 40:2188–2199
+DOI 10.1007/s11064-015-1707-x
+
+O R I G I N A L P A P E R
+
+Inducible Expression of a Truncated Form of Tau in
+Oligodendrocytes Elicits Gait Abnormalities and a Decrease
+in Myelin: Implications for Selective CNS Degenerative Diseases
+
+Patrizia LoPresti1,2
+
+Received: 20 April 2015 / Revised: 14 August 2015 / Accepted: 19 August 2015 / Published online: 22 September 2015
+Ó Springer Science+Business Media New York 2015
+
+The cytoskeleton protein Tau present
+
+Abstract
+in
+oligodendrocytes (OLGs) promotes cellular process out-
+growth and myelination; whereas abnormally hyperphos-
+phorylated Tau has been shown to be present in the most
+debilitating form of multiple sclerosis and in selective
+dementias. This research examined the functional conse-
+quences of expressing a truncated form of Tau in OLGs
+during the second postnatal life. In particular, this truncated
+form of Tau (DTau) retains the Fyn-binding domain but
+lacks the microtubule-binding domain. Similar to hyper-
+phosphorylated Tau, DTau cannot bind the cytoskeleton
+and is missorted. The Cre/loxP recombination system was
+used to generate transgenic (TG) founder lines, which
+contain a Floxed LacZ-STOP cassette to prevent expres-
+sion of enhanced green ﬂuorescence protein (EGFP)–
+DTau. The founder
+lines were then crossed with a
+Tamoxifen (TM)-inducible proteolipid protein (PLP)-de-
+pendent Cre driver line. Myelin PLP is the major myelin
+protein in the central nervous system (CNS). TM was given
+at postnatal day (p) 12 for 3 days, and CNS tissues were
+collected at p22. Only TG mice with both EGFP–DTau and
+Cre manifested an overt phenotype of loss of balance and
+stumbles starting around p18. CNS tissues obtained from
+
+TM-treated EGFP–DTau/Cre double transgenic mice had
+recombined PCR products, GFP, and diminished brain
+myelin. GFP was expressed in OLGs, but not in neurons or
+astrocytes. On the contrary, TM-treated TG mice with only
+one of the two transgenes, i.e., Cre or Tau, did not have
+recombinant PCR products, GFP, diminished myelin, or
+abnormal phenotype. Thus, this inducible model shows for
+the ﬁrst time that a non-microtubule-associated Tau protein
+in OLGs elicits both myelin decrease and gait abnormali-
+ties, similar to the occurrence in selective demyelinating
+and neurodegenerative diseases.
+
+Keywords Cytoskeleton  Myelination 
+Neurodegeneration  Multiple sclerosis
+Abbreviations
+D
+TM
+TG
+OLGs Oligodendrocytes
+Multiple sclerosis
+MS
+
+Truncated
+Tamoxifen
+Transgenic
+
+Electronic supplementary material The online version of this
+article (doi:10.1007/s11064-015-1707-x) contains supplementary
+material, which is available to authorized users.
+
+& Patrizia LoPresti
+lopresti@uic.edu
+
+1 Department of Neurology, Feinberg School of Medicine,
+
+Northwestern University, Chicago, IL 60611, USA
+
+2 Department of Physiology and Biophysics, College of
+Medicine, University of Illinois at Chicago, Chicago,
+IL 60612-7342, USA
+
+Introduction
+
+The cytoskeleton of OLGs implements cellular process
+outgrowth and myelination during postnatal development
+[1–5] as a simple shaped bipolar OLG precursor cell goes
+through extraordinary morphological changes in order to
+extend as many as 50 cellular processes, each wrapping
+distinct axonal segments. Cytoskeletal function is known to
+be regulated by many factors, including the microtubule-
+associated proteins [6]. Among the microtubule-associated
+
+123
+
+Neurochem Res (2015) 40:2188–2199
+
+2189
+
+proteins, Tau present in OLGs was previously shown to have
+a critical role for both cellular process outgrowth and
+myelination [7–11]. From studies done largely in neurons,
+Tau is known to have a role in the regulation of motor-based
+intracellular transport [12–18], which in OLGs plays a
+critical role during myelin formation. Both axons and OLG
+processes stain for Tau [7–11, 19]; however, Tau accumu-
+lates in the somatodendritic compartments of neurons or in
+the soma of OLGs in selective CNS degenerative diseases
+when abnormally phosphorylated and/or mutated Tau
+unable to bind to the cytoskeleton become missorted [20].
+Indeed, Tau is missorted in neurons very early on during
+Alzheimer disease with consequent deleterious microtubule
+severing by spastin, trafﬁc jams, and synapse loss [20–22].
+Tauopathies with an involvement of OLGs were shown in
+selective dementias,
+including progressive supranuclear
+palsy (PSP), corticobasal degeneration, and frontotemporal
+dementia which include Pick’s disease and some cases of
+Alzheimer’s disease [23–29]. Notably, selective tauopathies
+have both myelin and gait anomalies [30, 31]. In particular,
+gait abnormalities have been reported in corticobasal
+degeneration and in some clinical cases of frontotemporal
+lobar degeneration [32–36]. Furthermore, recent studies
+have also determined the presence of hyperphosphorylated
+Tau and/or Tau aggregates in CNS tissue from experimental
+autoimmune encephalitis (EAE), an animal model of
+demyelinating multiple sclerosis (MS) disease [37, 38].
+Noteworthy, hyperphosphorylated Tau was shown in OLGs
+in the most severe form of MS, primary progressive MS
+(PPMS), which manifests gait abnormalities from the very
+onset of the disease [39]. Thus, although PPMS is not
+considered to be a tauopathy for its pathogenesis, hyper-
+phosphorylated, non-microtubule-associated, missorted Tau
+in OLGs might contribute to the progressive, unremitting
+degenerative aspects of MS. However, whether missorted
+Tau in OLGs can initiate gait abnormalities in addition to its
+effects on myelin is unknown. Thus, we developed a model
+with inducible expression of a non-microtubule-associated
+form of Tau protein known for its detrimental effects on
+OLG processes and myelination.
+
+retains
+
+This form of truncated Tau (DTau) lacks the micro-
+the SH3-binding
+tubule-binding domain but
+domain, which is responsible for 90 % of the binding of
+Fyn to Tau [40]. Similar to the abnormally phosphorylated
+Tau present in selective dementias, DTau cannot bind the
+cytoskeleton, and is therefore missorted [11, 20, 41]. Most
+important, the Fyn bound to DTau does not reach the tips of
+axons or of OLG processes and distributes largely in the
+cell body [11, 30, 41, 42].
+
+Here, we present data from a TG mouse line with
+inducible expression of DTau in OLGs. Upon expression of
+DTau during the second postnatal
+the mice had
+decreased brain myelin and an irregular gait characterized
+
+life,
+
+by a loss of balance and stumbles. Thus, this model shows
+for the ﬁrst time that a non-microtubule-associated form of
+Tau protein in OLGs elicits both myelin decrease and gait
+abnormalities, which might be relevant for the unremitting
+aspects of the most aggressive form of MS and other
+selective CNS degenerative diseases and dementias.
+
+Materials and Methods
+
+Generation of Floxed LacZ-STOP/EGFP–DTau
+Founder TG Mice
+
+The cDNA sequence coding for the EGFP-amino-terminal
+Tau fragment ending at 684 was prepared by PCR. Amino-
+terminal Tau fragment (DTau) was prepared using an adult
+mouse Tau cDNA plasmid (from Dr. Gloria Lee, University
+of Iowa) [43, 44] as a template (BioMeans, Inc). LacZ-
+STOP ﬂanked by loxP sites was cloned 50 to EGFP–DTau
+fusion gene construct. The SgrA I/Nar I transgenic fragment
+was puriﬁed for pronuclear microinjection of C57BL/6
+single-cell
+fertilized zygotes using standard techniques
+(BioMeans, Inc.; Transgenic and Targeted Mutagenesis
+Laboratory at Northwestern University). Positive TG foun-
+ders were identiﬁed by screening for the inheritance of the
+transgene using PCR. The TG line was maintained by
+crossing the founder line (LacZ-STOP/EGFP-DTau) with
+wild-type mice. LacZ-STOP /EGFP-DTau mice were iden-
+tiﬁed and bred with PLP:CreERT mice (45, Jackson Lab).
+The resulting litter was genotyped to identify the mice with
+both EGFP-DTau and Cre transgenes. Formal name of
+founder TG mice: B6.Cg-Tg (CMV–EGFP/MAPT) 1Plop.
+Formal name of double TG mice: B6.Cg-Tg (CMV–EGFP/
+MAPT) 1 Plop Tg (Plp1-cre/ERT) 3Pop/Plop.
+
+Ethics Statement
+
+All experimental procedures described in the present work
+were in accordance with Northwestern University Institu-
+tional Animal Care and Use Committee (IACUC) approved
+protocols.
+
+PCR Analysis
+
+To identify Floxed LacZ-STOP/ EGFP–DTau founder TG
+mice, DNA was obtained from TG mice tails using DNeasy
+Tissue Kit from Qiagen (Valencia, CA). Plasmid DNA was
+heated at 95 °C for 5 min, followed by thirty-ﬁve reaction
+cycles (95 °C for 20 s, 60 °C for 30 s, 72 °C for 30 s) and a
+single cycle of 72 °C for 5 min. Two primer pairs were used.
+The primer pair (S1/A1), sense 50-ctgttttgacctccatagaagacac-30
+and antisense 50-tgggaagggcgatcggt-30, speciﬁcally ampliﬁes
+sequences upstream (292 bp) of LacZ; whereas primer pair
+
+123
+
+2190
+
+Neurochem Res (2015) 40:2188–2199
+
+(S2/A2), sense 50-gttggtctggtgtcaaaaagcg-30 and antisense 50-
+cgtccagctcgaccaggat-30, ampliﬁes
+sequences downstream
+(230 bp) of the LacZ region. A negative control with no DNA
+was included in all the PCR assays. By mating the Floxed
+LacZ-STOP/EGFP–DTau TG mice with PLP/CreERT TG
+mice (Jackson Lab), PLP/CreERT: Floxed LacZ-STOP/
+EGFP–DTau TG mice were generated. These TG mice were
+identiﬁed using two primer pairs, i.e., one speciﬁc for the LoxP
+sites upstream of LacZ (S1/A1) (292 bp), and the other one
+speciﬁc for Cre (100 bp, Jackson Lab.). In contrast, to detect
+recombined PCR products (217 bp) upon TM treatment, the
+primer pair (S1/A2), sense 50-ctgttttgacctccatagaagacac-30 and
+antisense 50-cgtccagctcgaccaggat-30, was used in a PCR reac-
+tion with forty reaction cycles and a double amount of Taq.
+
+TM Treatment
+
+A 10-mg/ml TM (Sigma) stock suspension was prepared by
+mixing 10 mg TM with 100 ll of ethanol and 900 ll of
+sterile sunﬂower oil. The solution was brieﬂy heated up to
+bring TM in solution. Fresh solutions were prepared weekly.
+TM (1 mg) was given intraperitoneally to 12-day old TG
+mice of unknown genotype for three consecutive days. TM-
+treated single TG mice provided controls for similarly trea-
+ted double TG mice. Mice were euthanized at p22.
+
+Immunocytochemistry
+
+anesthetized
+
+and
+
+perfused with
+
+Mice were
+4 %
+Paraformaldehyde (PFA). Brains were removed, post-ﬁxed in
+the same ﬁxative, and embedded in parafﬁn. Sagittal sections
+were made at 10 lm for routine pathological examination and
+immunohistochemistry. Selective sections were processed for
+Luxol Fast Blue myelin staining. Slides were analyzed under a
+ﬂuorescence microscope (Olympus, AX70).
+In parallel
+experiments, brains were removed, ﬁxed by immersion in 4 %
+PFA in PBS and cryoprotected sequentially in 10 % sucrose
+followed by 30 % sucrose; each performed overnight at 4 °C.
+Finally, the tissue was embedded in OCT compound (Tissue-
+Tek) and cryostat sections of brains (5 lm thick) were
+mounted on Starfrost/Plus slides. Tissue sections were incu-
+bated with anti-GFP (Genetex GTX20290, Rabbit 1:500) and
+anti-APC (Abcam ab16794, Mouse 5 lg/ml) for 60 min at
+room temperature. Parallel tissue sections were incubated
+with anti-GFP and anti-GFAP (Sigma 9205, Mouse 1:500), or
+with anti-GFP and anti-NeuN (Millipore MAB377, Mouse
+5 lg/ml). Following incubation with primary antibodies,
+slides were then treated with a serum free protein blocking
+solution for 15 min at room temperature, and tissues sections
+were incubated with Goat Anti-Mouse 594 secondary and
+Goat Anti-Rabbit 488 secondary with an antibody titer of
+1:400 (Molecular Probes, Eugene, OR) for 45 min at room
+temperature. Slides were then rinsed and mounted with
+
+123
+
+Faramount Mounting Medium, Aqueous (Dako). Images were
+captured with an Olympus AX 70 ﬂuorescence microscope
+(Northwestern University) or with a Zeiss LSM 710 Confocal
+Microscope (Research Resources Center, University of Illi-
+nois at Chicago).
+
+Western Blot Analysis
+
+CNS tissue was dissolved in a sample buffer (Invitrogen) and
+sonicated for 5-10 min. Proteins were separated using SDS-
+PAGE containing 10 or 4–12 % polyacrylamide and trans-
+ferred to polyvinylidene diﬂuoride membranes. The mem-
+branes were incubated in a blocking buffer consisting of 5 %
+nonfat dry milk in PBS-T (20 mm Tris-HCl, pH 7.4, 140 mm
+NaCl, and 1 % Tween-20) overnight at 4 °C and incubated
+1 h at room temperature in a blocking buffer with primary
+antibodies (for MBP, SMI 94 Mouse monoclonal from
+Covance Antibody Products, Berkley, CA, 1:10,000 dilution;
+for GFP, Rabbit antibody GTX20290 from GeneTex,
+1:10,000 dilution; for GAPDH, Rabbit antibody ab9485
+from Abcam Inc., 1:2500 dilution). The membranes were
+washed for 30 min with four intermediate changes with PBS-
+T and incubated in a blocking buffer with horseradish per-
+oxidase-conjugated donkey anti-Mouse or anti-Rabbit anti-
+body (Cell Signaling Technology) at a dilution of 1:1000 for
+1 h. at room temperature. After several washes with PBS-T,
+proteins were visualized with Thermo Scientiﬁc Pierce ECL
+Western Blotting Substrate according to the manufacturer’s
+instructions (Thermo Scientiﬁc) and visualized with a
+chemiluminescent detection camera from BioRad. MBP
+levels were normalized to the optical density of the GAPDH-
+immunopositive bands. The intensity of the immunopositive
+bands was quantitated by scanning in a MultiImager using
+Quantity One software (Bio-Rad)
+(Resource Center at
+University of Illinois at Chicago; Proteomics Core Research
+Facility, Rush University Medical Center).
+
+Phenotype
+
+The phenotype was recorded using a Sony digital still camera
+(DSC-S980). The mice from three independent experiments
+were videotaped. Loss of balance and falls were recorded and
+expressed per time of walking activity. More than 4 min of
+walking activity was analyzed per affected mouse.
+
+Results
+
+Generation of Floxed LacZ-STOP/EGFP–DTau
+Founder TG Mice
+
+To generate TG mice with inducible expression of
+enhanced green ﬂuorescent protein (EGFP)–DTau, we
+
+Neurochem Res (2015) 40:2188–2199
+
+2191
+
+prepared a cDNA encoding EGFP–DTau protein under the
+regulation of a CMV promoter, with a Floxed LacZ-STOP
+cassette to prevent transcription of EGFP–DTau (Fig. 1a,
+b). An amino-terminal fragment ending at base pair 684
+was ﬁrst prepared by PCR using an adult mouse Tau cDNA
+plasmid (from Dr. Gloria Lee, University of Iowa) as a
+template (Fig. 1a). An SgrA I/Nar I transgenic fragment
+was then puriﬁed for microinjection, and TG mice were
+generated at
+the Transgenic and Targeted Mutagenesis
+Laboratory at Northwestern University by pronuclear
+microinjection of C57BL/6 single-cell fertilized zygotes
+using standard techniques. Floxed LacZ-STOP/EGFP–
+DTau founder TG mice were identiﬁed by PCR using two
+sets of primers upstream (primers S1/A1) and downstream
+(primers S2/A2) of the LacZ cassette (Fig. 1b). These two
+sets of primers (S1/A1 and S2/A2) produced PCR products
+of 292 and 230 bp (Fig. 1b), respectively. To induce
+expression of EGFP–DTau exclusively in OLGs, PLP/
+CreERT: Floxed STOP-LacZ/EGFP–DTau TG mice were
+obtained by crossing Floxed LacZ-STOP/EGFP–DTau
+mice with a TM-inducible Cre driver line that regulates Cre
+under the control of PLP promoter [45, 46]. Myelin PLP is
+the major myelin protein in the CNS. PLP/CreERT: Floxed
+
+LacZ-STOP/EGFP–DTau double TG mice were identiﬁed
+with two primer sets, one speciﬁc for Tau (S1/A1, 292 bp)
+and the other one for Cre (100 bp) (Fig. 2a) transgenes.
+
+Gait Abnormalities and Brain Myelin Decrease
+in TM-Treated EGFP–DTau/Cre Double TG Mice
+
+By crossing Floxed LacZ/DTau TG mice with a TM-in-
+ducible Cre driver line that regulates the recombinase under
+the control of the PLP promoter [45], double TG mouse lines
+with LoxP/Tau and Cre transgenes were obtained, together
+with pups with only one transgene. Experiments were initi-
+ated in 12-day-old offspring mice of unknown genotype with
+TM injections given for 3 days (Fig. 2b). Only TG mice with
+LoxP/Tau and Cre transgenes had an overt phenotype of an
+abnormal gait, which became apparent around p18. The
+abnormal gait was characterized by unsteady walk with loss
+of balance and stumbles (videos in supplementary material).
+At p22, analysis of walking activity of three affected TG
+mice obtained from three independent experiments showed
+that the mice fell every 13 s. (12.8 s ± 4.3 S.E.M., Fig. 2b).
+Figure 2b shows also the time recorded for each mouse at
+p22. Figure 3 shows that a Cre-mediated recombination
+
+a
+
+Amino-terminal ProjecƟon Domain 
+
+Fyn-Binding Site
+
+Carboxy-Terminal Tail 
+
+221-225
+PXXP-moƟf
+
+Microtubule-Binding Domain
+
+Tau, 1290 bp, 430 Aa
+
+228
+
+∆-Tau, 684 bp, 228 Aa
+
+Adult Mouse Tau
+
+1 
+
+Truncated (Δ)Tau
+
+1 
+
+b
+
+Vector
+
+LoxP
+
+CMV
+
+LoxP
+
+EGFP
+
+ΔTau  
+
+LacZ-STOP 
+
+S1/A1
+
+S2/A2
+
+Floxed LacZ-STOP/EGFP- ∆ Tau TG mice
+
+S1/A1 primers
+
+292
+
+230
+
+S2/A2 primers
+
++       +
+
+Fig. 1 Generation of Floxed LacZ-STOP/EGFP–DTau TG mice.
+a The longest adult mouse Tau (1290 bp; 430 Aa) is composed of an
+amino-terminal projection domain with two amino inserts (green
+boxes), an SH-3-binding site (red box), a microtubule-binding domain
+with four repeats (dark blue boxes), and a carboxy-terminal tail.
+Truncated (D) Tau (684 bp) derives from adult mouse Tau, it has the
+amino-terminal projection domain and the SH3 (Fyn)-binding site; it
+lacks the microtubule-binding domain and carboxy-terminal
+tail.
+b CMV-loxP/EGFP–DTau mice express EGFP–DTau after Cre-
+
+mediated removal of a loxP-ﬂanked lacZ STOP cassette. The lacZ
+DNA fragment impedes the transcription of reporter gene EGFP
+(717 bp)–DTau. TG mice were generated at
+the Transgenic and
+Targeted Mutagenesis Laboratory at Northwestern University. TG
+founder mice were identiﬁed by PCR genotyping of tail tips using set
+of primers S1/A1 and S2/A/2 to amplify sequences upstream (292 bp)
+or downstream (230 bp) of the LacZ region, respectively. Formal
+name of founder TG mice: B6.Cg-Tg (CMV–EGFP/MAPT) 1Plop
+
+123
+
+2192
+
+Neurochem Res (2015) 40:2188–2199
+
+a
+PLP/CreERT: Floxed LacZ- STOP/ EGFP- ∆Tau double TG mice
+
+b
+
+Double TG  Mice Have TM-inducible 
+
+overt Phenotype of Loss of Balance and Falls. 
+
+Cre
+
+100
+
+LoxP/Tau
+
+292
+
+p0 
+
+p12
+
+p14
+
+TM
+
+p22
+
+PLP/CreERT: Floxed LacZ- STOP/ EGFP- ∆Tau double TG Mice Have TM-
+inducible  overt  Phenotype of Loss of Balance and Falls StarƟng at  p18.  
+
+Gait Analysis was done at p22. 
+
++     +
+
+ObservaƟon 
+1
+2
+3 
+Mean = 
+SD = 
+SEM = 
+
+Time Sec. 
+385
+254
+468
+369.00
+107.89
+62.29
+
+Falls
+50
+12
+50
+37.33
+21.94
+12.67
+
+Falls/min.  
+7.79
+2.83
+6.41
+5.68
+2.56
+1.48
+
+Sec./Falls
+7.70
+21.17
+9.36
+12.74
+7.34
+4.24
+
+Fig. 2 PLP/CreERT: Floxed LacZ-STOP/ EGFP–DTau double TG
+mice have TM-inducible overt phenotype of loss of balance and falls .
+a Floxed LacZ-STOP /EGFP–DTau TG mice were bred with PLP/
+CreERT mice [45] (Jackson Lab) that regulate Cre under PLP
+promoter upon TM treatment. To identify PLP/CreERT: Floxed
+LacZ-STOP/EGFP–DTau double TG mice, two primer pairs, i.e., one
+speciﬁc for the LoxP sites upstream of LacZ (S1/A1) (292 bp), the
+other one speciﬁc for Cre (100 bp, Jackson Lab.) were used. PCR of
+two double positive [?] TG mice is shown in a. Formal name of
+double TG mice: B6.Cg-Tg (CMV–EGFP/MAPT) 1Plop Tg (Plp1-
+
+cre/ERT) 3Pop/Plop. b shows the timeline of experiments and the
+time recorded for each mouse at p22. Mice were treated with TM at
+p12 for 3 days. Double TG mice (PLP/CreERT: Floxed LacZ-STOP/
+EGFP–DTau) had an overt phenotype of an abnormal gait, which
+became apparent around p18. The abnormal gait was characterized by
+an unsteady walk with stumbles (videos, supplementary material). At
+p22, analysis of walking activity of three affected mice obtained from
+three independent experiments showed that the mice fell every 13 s.
+(12.8 s ± 4.3 S.E.M., Fig. 2b)
+
+results in a deletion of LacZ-STOP (Panel a). Double trans-
+genic with overt phenotype had Cre-mediated recombination
+as judged by PCR analysis using a primer set (S1/A2) that
+ampliﬁes a 3.4-kb region from upstream to downstream of the
+Floxed LacZ-STOP cassette (Fig. 3, Panel a). Representative
+recombined PCR products (217 bp) detected in the cerebel-
+lum genomic DNA obtained from a TG mouse double posi-
+tive for the two transgenes are shown (Fig. 3b). Similar
+results were obtained from the cerebra and spinal cord
+obtained from TG mice double positive for the two transgenes
+(data not shown). Notably, untreated and TM-treated single
+TG mice did not present any phenotype abnormalities and
+recombined PCR products. Finally, recombined PCR prod-
+ucts were not detected in non CNS tissues (liver, heart and
+spleen) obtained from TG mice double positive for the two
+transgenes (data not shown). Furthermore, to determine GFP
+protein expression, CNS tissue samples were blotted for GFP.
+Figure 3c shows that cortex tissue samples obtained from two
+TM-treated EGFP–DTau/Cre double TG mice had GFP-im-
+munopositive bands in the expected molecular weight
+(*60 kDa) (DTau: *30 kDa; EGFP: *30 kDa) (Fig. 3c,
+Lanes 2 and 3), whereas control lacks GFP protein (Fig. 3c,
+Lane 1). Since Belkadi and LoPresti [11] showed that the
+
+expression of DTau in an OLG cell line impaired the myeli-
+nating capacity of these cells when transplanted into an ani-
+mal model of demyelination, we examined the levels of
+myelin. Western blot analysis shows diminished myelin in
+the brain of TM-treated double TG mice (Fig. 3d, lanes c, d,
+and f). In particular, the optical density of myelin basic pro-
+tein (MBP) levels normalized to Glyceraldehyde 3-phosphate
+dehydrogenase (GAPDH) levels showed that experimental
+mice (Fig. 3d, lanes c, d, f, and 2) have 43 % of myelin
+compared with controls (Fig. 3d , lanes a, b, e, and 1).
+(Mean ± S.E.M. 0.16 ± 0.043 n = 3 vs. 0.37 ± 0.038
+n = 3, respectively; p = 0.0194), which represents a 2.3-
+fold reduction. In addition, Luxol fast blue staining conﬁrms
+myelin decrease in the brain of experimental versus control
+mice (Figs. 1, 2; Supplementary material).
+
+Conditional expression of GFP in OLGs of TM-
+treated EGFP–DTau/Cre double TG mice
+
+To assess whether Cre-mediated recombination results in
+the expression of GFP-DTau in the CNS of TG mice
+double positive for DTau and Cre transgenes, CNS tissues
+were observed with a ﬂuorescence microscope to detect
+
+123
+
+Neurochem Res (2015) 40:2188–2199
+
+2193
+
+a
+
+TM-induced Cre-mediated RecombinaƟon
+
+b
+
+Recombined PCR Products in TM-treated Double TG  Mice
+
+LoxP
+
+CMV
+
+LoxP
+
+EGFP
+
+Truncated Tau 
+
+LacZ-STOP
+
+S1 
+
+A2
+
+CMV
+
+EGFP
+
+Truncated Tau 
+
+200 bp 
+
+-        +       - 
+
+c
+
+GFP protein in  TM-treated  Double TG  Mice
+
+d
+
+Decrease of Myelin in TM-treated Double TG  Mice
+
+kDa 
+60
+
+40
+
+GFP
+
+GAPDH
+
+kDa 
+40
+30
+
+GAPDH
+MBP
+
+-         +       +
+1         2     3
+
+ -
+- +   +     -
+a  b c   d     e
+
++ 
+f 
+
+ 
+
+H
+D
+P
+A
+G
+/
+P
+B
+M
+
+.
+
+M
+.
+E
+.
+S
+±
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0
+
+1     2
+
+p = 0.0194 
+n = 3 
+
+Fig. 3 Green-ﬂuorescent proteins expression and myelin decrease in
+TM-treated PLP/CreERT: Floxed LacZ-STOP/ EGFP–DTau double
+TG mice. a shows primer set (S1/A2) used to show Cre-mediated
+recombination; recombined PCR products lack LacZ-STOP. b shows
+representative recombined PCR products from cerebellum tissue
+samples. Recombined PCR products (217 bp) were detected only in
+CNS tissue from TM-treated double TG mouse (?). In contrast,
+untreated (-) and TM-treated single TG (-) mice did not have any
+recombined PCR products. c shows GFP immunoblot obtained from
+brain samples from TM-treated double TG mice (lanes 2 and 3). GFP-
+immunopositive band was detected in the expected molecular weight
+(*60 kDa) (Dtau: *30 kDa; EGFP: *30 kDa) (lane 1, control;
+
+GFP ﬂuorescence. TG mice were treated with TM at p12 for
+3 days; CNS tissue was collected at p22. OCT-frozen CNS
+tissue sections (with no immunostaining) ﬂuoresced bright
+green under blue light excitation. GFP ﬂuorescence was
+detected throughout the CNS in the spinal cord (Fig. 4, Panel
+1), cerebellum (Fig. 4, Panel 2) and cortex (Fig. 4, Panel 3).
+Furthermore, to identify the cell type expressing GFP, par-
+allel sagittal brain tissues sections were incubated with anti-
+GFP and cell-speciﬁc markers. Panel 4a (Fig. 4) identiﬁes
+mature OLGs with an APC (adenomatous polyposis coli)
+(red) OLG speciﬁc marker; Panel 4b (Fig. 4) shows GFP
+(green) immunopositive cells, whereas Panel 4c (Fig. 4)
+displays colocalization (yellow) of GFP with APC. Thus,
+GFP is expressed in OLGs. In contrast, in Fig. 5, Panel 1a
+identiﬁes GFAP (red) immunopositive astrocytes cells; Panel
+1b shows GFP-positive cells (green), whereas Panel 1c dis-
+plays a lack of colocalization (yellow) of GFP with astrocytic
+marker GFAP. In addition, the morphological pattern of
+GFAP immunostaining clearly identiﬁes the CNS region, i.e.,
+the subventricular zone. Finally, in Fig. 6, Panel 1a identiﬁes
+
+lanes 2 and 3, TM-treated double TG mice). d shows MBP
+immunoblot of brain samples from TM-treated double TG mice (c,
+d, and f) and control TM-treated TG mice (a, b, e). The optical density
+of MBP levels normalized to Glyceraldehyde 3-phosphate dehydro-
+genase (GAPDH) levels showed that experimental mice (d, 2) have
+43 % of myelin compared with control values set to 100 % (d, 1)
+(mean ± S.E.M. 0.16 ± 0.043 n = 3 vs. 0.37 ± 0.038 n = 3,
+respectively; p = 0.0194), which represents a 2.3-fold reduction of
+myelin (d, lanes 2 vs. 1). Proteins in Lanes a–d were separated using
+10 % SDS-polyacrylamide gel; proteins in Lanes e–f were separated
+using 4–12 % SDS-polyacrylamide gel
+
+NeuN (red) immunopositive neurons; Panel 1b shows GFP-
+expressing cells (green), whereas Panel 1c displays a lack of
+colocalization (yellow) of GFP with neuronal marker NeuN.
+
+Discussion
+
+We describe a TG mouse line with inducible expression of
+DTau in OLGs, which results in an overt phenotype charac-
+terized by an irregular gait with frequent stumbles. To our
+knowledge this is the ﬁrst report showing that a non-micro-
+tubule associated form of Tau in OLGs initiates abnormal gait.
+Previous studies showed myelin alterations at the time of
+neurodegeneration in aged animals that over express Tau in
+OLGs [47]. However, Belkadi and LoPresti [11] showed, to
+our knowledge for the ﬁrst time, that Tau in OLGs has a role in
+developmental myelination. This study conﬁrms and extends
+previous ﬁndings regarding the role of Tau in OLGs during
+developmental myelination. Noteworthy, it links a malfunc-
+tion of Tau in OLGs with an effect on both myelin and gait.
+
+123
+
+2194
+
+Neurochem Res (2015) 40:2188–2199
+
+1.
+
+Spinal Cord
+
+4.a
+
+APC
+
+2.
+
+Cerebellum
+
+3.
+
+Cortex
+
+4.b
+
+4.c
+
+Fig. 4 Conditional expression of GFP in OLGs of TM-treated
+EGFP–DTau/Cre double TG mice. TG mice were treated with TM
+at p12 for 3 days. CNS tissue was collected at p22. GFP ﬂuorescence
+(with no immunostaining) was detected throughout the CNS in the
+spinal cord (1), cerebellum (2) and cortex (3) (Magniﬁcation:1–3,
+20X. Olympus AX70 ﬂuorescence microscope, Northwestern
+
+University). In the brain, 4a identiﬁes mature OLGs with APC
+(red) OLG speciﬁc marker, 4b shows GFP (green) immunopositive
+cells, and 4c displays colocalization (yellow) of GFP with OLG
+marker APC. Images 4a-c were captured with an Olympus BX51
+ﬂuorescence microscope (Research Resources Center, University of
+Illinois at Chicago. Scale bar, 100 lm)
+
+The microtubule-associated protein Tau promotes cel-
+lular process outgrowth and microtubule stability, regulates
+intracellular transport [16, 17, 48, 49]. In contrast, abnor-
+mally hyperphosphorylated forms of Tau and axonal
+transport defects present in several CNS degenerative dis-
+eases, including Alzheimer disease [50, 51], are common
+features of selective progressive CNS degenerative pro-
+cesses. Recently, tissues from experimental autoimmune
+encephalomyelitis mice [37] and from MS [38, 39] were
+also found to contain abnormally hyperphosphorylated
+Tau. In particular, the most severe form of MS, the PPMS
+variant, had prominent Tau pathology in CNS cells,
+including OLGs. This most severe MS variant is known to
+manifest gait abnormalities from the very onset of the
+disease [39].
+
+The functional consequences of DTau used in these
+studies have been very well established in both neurons and
+OLGs [10, 11, 20, 41, 52]. DTau binds Fyn, since it retains
+
+its SH3-binding domain, but it cannot bind the cytoskele-
+ton, because it
+lacks the microtubule-binding domain.
+Consequently, Fyn bound to DTau is not properly targeted
+to axons or OLG processes [11, 20, 41]. Both abnormally
+hyperphosphorylated Tau and DTau cannot bind the
+microtubules and both forms of Tau are therefore missorted
+[11, 20, 30, 41]. Thus, some functional consequences
+observed in this study as a consequence of DTau might
+then be present in selective dementias as a consequence of
+abnormally hyperphosphorylated Tau in OLGs.
+
+Conditional expression of DTau was obtained by using
+the PLPERT mouse line [45], which has been widely used
+with consistent high-efﬁciency recombination [46, 53, 54].
+It is known that PLP is exclusively expressed in mature
+OLGs; however, adult CNS is known to contain a popu-
+lation of NG2 cells that express PLP [55]. Michalski et al.
+[46] showed that PLP promoter-driven expression occurs in
+NG2 cells and progressively diminishes from 20 to 5
+
+123
+
+Neurochem Res (2015) 40:2188–2199
+
+2195
+
+1.a GFAP
+
+1.b
+
+NeuN
+
+1.c 
+
+Fig. 5 Lack of GFP in the Astrocytes of TM-Treated EGFP–DTau/
+Cre double TG Mice. 1a identiﬁes GFAP (red) immunopositive
+astrocytes cells, 1b shows GFP-positive cells (green) and 1c displays
+lack of colocalization (yellow) of GFP with astrocytic marker GFAP.
+
+Scale bar, 20 lm. Single Z images were captured with a Zeiss LSM
+710 Confocal Microscope (Research Resources Center at
+the
+University of Illinois at Chicago)
+
+percent in early (p4) versus late (p28) postnatal life. Future
+studies will examine the extent of expression of DTau in
+NG2 cells.
+
+Recent studies have indicated that, in addition to its well
+established role as microtubule-associated protein, Tau acts
+also as a scaffolding platform, and in doing so it might
+regulate selective signaling pathways [56, 57]. These
+pathways might then be altered in the presence of a non-
+microtubule-associated form of Tau.
+Indeed the SH3-
+binding domain retained by DTau and responsible for
+binding to Fyn, has been shown in brain cells to bind also
+phosphatidylinositol 3-kinase (PI3 K), phospholipase C
+gamma1 (PLC) and Grb2 [58]. Thus, DTau might also
+affect in vivo signaling pathways other than Fyn, which
+might explain some of the effects observed in the inducible
+mouse model described in these studies. For example, in
+the context of the present study,
+the PI3 K-dependent
+pathway is known to have a role in myelination and cell
+
+proliferation [59, 60], whereas the PLC pathway regulates
+neuron-OLG interactions in the cortex [61]. Furthermore,
+the N-terminal SH3 of Grb2 is known to regulate cell
+proliferation [58]. Thus, the functional consequences of
+expressing DTau may not be exclusively restricted to Fyn
+being missorted, but might also include other selective
+signaling pathways. However, to date only mistargeting of
+Fyn has been shown in vivo in the presence of DTau [11,
+20, 30, 41]. Perhaps as a consequence of a non-micro-
+tubule-associated form of Tau, these additional signaling
+pathways might play a detrimental role in adult CNS.
+Similarly, alpha tubulin has the Fyn-binding domain so
+DTau might interfere as well with some selective functions
+of alpha tubulin. Future studies should then be done to test
+these possibilities.
+
+Previous work done with DTau-transfected cells trans-
+planted in an animal model of demyelination, i.e., myelin-
+deﬁcient rats, showed that DTau-transfected cells failed to
+
+123
+
+2196
+
+1.a NeuN
+
+1.b
+
+1.c
+
+Neurochem Res (2015) 40:2188–2199
+
+Fig. 6 Lack of GFP in the Neurons of TM-Treated EGFP–DTau/Cre
+double TG Mice. 1a identiﬁes NeuN (red) immunopositive neurons;
+1b shows GFP-expressing cells (green); whereas 1c displays a lack of
+colocalization (yellow) of GFP with neuronal marker NeuN. Scale
+
+bar, 50 lm. Single Z images were captured with a Zeiss LSM 710
+Confocal Microscope (Research Resources Center at the University of
+Illinois at Chicago)
+
+form myelin in the brain [11], whereas in this study OLGs
+with inducible expression of DTau formed myelin in the
+brain, although the amount of myelin was reduced com-
+pared with controls. Since myelination is a developmen-
+tally regulated event, the time of DTau expression would
+determine the impact on myelination. Studies of trans-
+plantation primarily determine the ability of DTau-ex-
+pressing cells to start myelination, whereas DTau in TG
+mice might also modulate ongoing myelination.
+
+Healthy OLGs and myelin are essential for healthy
+neurons and axonal integrity, and the interplay between
+myelin and motor function has begun to be understood in
+its complexity [54, 62–65]. Both myelin and gait abnor-
+malities emerge as a result of pathologies along pathways
+involved in the formation and/or integrity of myelin. The
+mouse model presented in this study showed that DTau
+decreased the levels of myelin with a resulting overt phe-
+notype characterized by gait abnormalities. Clark et al.
+[66] showed that gait abnormalities and progressive myelin
+degeneration were found in a new murine model of Peli-
+zaeus–Merzbacher disease with tandem genomic duplica-
+tion of
+In addition,
+Harrington et al. [67] showed that OLG phosphatase and
+tensin homolog (PTEN), which are involved in signaling
+cascade, are required for both myelin and axonal integrity.
+Notably, OLGs are now considered to have a role in the
+pathogenesis of selective motor diseases. Philips et al. [68]
+showed OLG dysfunction in the pathogenesis of amy-
+otrophic lateral sclerosis, a neurodegenerative disease of
+
+the proteolipid protein 1 gene.
+
+motor neurons. Furthermore, it is worth mentioning that
+Tau KO mice suffer from muscle weakness and Parkin-
+sonism [20, 69, 70]. Future studies would then have to
+examine motor activity following deletion of Tau speciﬁ-
+cally in OLGs. Finally, it is known that Tau missorting in
+neurons causes trafﬁc jams [20, 22]; however, whether the
+form of Tau used in these studies causes this same detri-
+mental effect
+in OLGs as well would require further
+studies.
+
+Current in vivo models of MS are not complete models
+of human disease, but rather they model key aspects of it.
+Animal models have improved our understanding and
+treatment of MS, yet they have obvious limits [71, 72]. For
+example, the EAE model has provided important insight
+into the role of and therapeutic strategies aimed at immune-
+mediated demyelination. On the other hand, the models
+using Lysolethicin-
+and Cuprizone-induced localized
+demyelination have provided potential utility for testing
+drugs for the repair of localized loss of myelin [73, 74]. In
+contrast, the model presented in this study might have
+some advantage in the context of selective CNS degener-
+ative diseases which manifest both myelin and gait
+anomalies.
+
+Acknowledgments This work was supported by an Investigator-
+Initiated Research Grant from Teva Neuroscience (USA) (P.L.) and
+by an Independent Medical Grant from EMD Serono/Pﬁzer Inc.
+(P.L.). The author
+thanks Dr. Teepu Siddique (Northwestern
+University) for insightful discussions and generous facilities in the
+Neurogenetics Laboratory;
+and Professor Tibor Valyi-Nagy
+
+123
+
+Neurochem Res (2015) 40:2188–2199
+
+2197
+
+(University of Illinois at Chicago) for insightful discussions. The
+author thanks Teva Pharmaceutical Industries (Israel).
+
+References
+
+1. Wilson R, Brophy PJ (1989) Role for the oligodendrocyte
+
+cytoskeleton in myelination. J Neurosci Res 22:439–444
+
+2. Pfeiffer SE, Warrington AE, Bansal R (1993) The oligodendro-
+cyte and its many cellular processes. Trends Cell Biol 3:191–197
+3. Hardy RJ, Friedrich VL Jr (1996) Progressive remodeling of the
+oligodendrocyte process arbor during myelinogenesis. Dev
+Neurosci 18:243–254
+
+4. Richter-Landsberg C (2008) The cytoskeleton in oligodendro-
+cytes. Microtubule dynamics in health and disease. J Mol Neu-
+rosci 35:55–63
+
+5. Bauer NG, Richter-Landsberg C, Ffrench-Constant C (2009)
+Role of the oligodendroglial cytoskeleton in differentiation and
+myelination. Glia 57:1691–1705. doi:10.1002/glia.20885
+
+6. Drewes G, Ebneth A, Mandelkow EM (1998) MAPs, MARKs
+
+and microtubule dynamics. Trends Biochem Sci 23:307–311
+
+7. LoPresti P, Szuchet S, Papasozomenos SC, Zinkowski RP, Binder
+LI (1995) Functional implications for the microtubule-associated
+protein tau: localization in oligodendrocytes. Proc Natl Acad Sci
+USA 92:10369–10373
+
+8. LoPresti P, Muma NA, De Vries GH (2001) Neu differentiation
+factor regulates tau protein and mRNA in cultured neonatal
+oligodendrocytes. Glia 35:147–155
+
+9. Gorath M, Stahnke T, Mronga T, Goldbaum O, Richter-Lands-
+berg C (2001) Developmental changes of tau protein and mRNA
+in cultured rat brain oligodendrocytes. Glia 36:89–101
+
+10. Klein C, Kramer EM, Cardine AM, Schraven B, Brandt R,
+Trotter J (2002) Process outgrowth of oligodendrocytes is pro-
+moted by interaction of Fyn kinase with the cytoskeletal protein
+tau. J Neurosci 22:698–707
+
+11. Belkadi A, LoPresti P (2008) Truncated Tau with the Fyn-bind-
+ing domain and without the microtubule-binding domain hinders
+the myelinating capacity of an oligodendrocyte cell line. J Neu-
+rochem 107:351–360
+
+12. Hagiwara H, Yorifuji H, Sato-Yoshitake R, Hirokawa N (1994)
+Competition between motor molecules (kinesin and cytoplasmic
+dynein) and ﬁbrous microtubule-associated proteins in binding to
+microtubules. J Biol Chem 269:3581–3589
+
+13. Trinczek B, Ebneth A, Mandelkow EM, Mandelkow E (1999)
+Tau regulates the attachment/detachment but not the speed of
+motors in microtubule-dependent transport of single vesicles and
+organelles. J Cell Sci 112:2355–2367
+
+14. Seitz A, Kojima H, Oiwa K, Mandelkow EM, Song YH, Man-
+delkow E (2002) Single-molecule investigation of the interfer-
+ence between kinesin, tau and MAP2c. EMBO J 21:4896–4905
+15. Terwel D, Dewachter I, Van Leuven F (2002) Axonal transport,
+tau protein, and neurodegeneration in Alzheimer’s disease.
+Neuromolecular Med 2:151–165
+
+16. LaPointe NE, Morﬁni G, Pigino G, Gaisina IN, Kozikowski AP,
+Binder LI, Brady ST (2009) The amino terminus of tau inhibits
+transport:
+kinesin-dependent axonal
+implications for ﬁlament
+toxicity. J Neurosci Res 87:440–451
+
+17. Kanaan NM, Morﬁni GA, LaPointe NE, Pigino GF, Patterson KR,
+Song Y, Andreadis A, Fu Y, Brady ST, Binder LI (2011) Patho-
+genic forms of tau inhibit kinesin-dependent axonal
+transport
+through a mechanism involving activation of axonal phospho-
+transferases. J Neurosci 31:9858–9868. doi:10.1523/JNEUROSCI.
+0560-11.2011
+
+18. Scholz T, Mandelkow E (2014) Transport and diffusion of tau
+protein in neurons. Cell Mol Life Sci 71:3139–3150. doi:10.1007/
+s00018-014-1610-7
+
+19. Binder LI, Frankfurter A, Rebhun LI (1986) Differential local-
+ization of MAP-2 and tau in mammalian neurons in situ. Ann N Y
+Acad Sci 466:145–166
+
+20. Zempel H, Mandelkow E (2014) Lost after translation: missorting
+of Tau protein and consequences for Alzheimer disease. Trends
+Neurosci. doi:10.1016/j.tins.2014.08.004
+
+21. Serrano-Pozo A, Frosch MP, Masliah E, Hyman BT (2011)
+Neuropathological alterations in Alzheimer disease. Cold Spring
+Harb Perspect Med 1:a006189. doi:10.1101/cshperspect.a006189
+22. Zempel H, Luedtke J, Kumar Y, Biernat J, Dawson H, Man-
+delkow E, Mandelkow EM (2013) Amyloid-b oligomers induce
+synaptic damage via Tau-dependent microtubule severing by
+TTLL6 and spastin. EMBO J 32:2920–2937. doi:10.1038/emboj.
+2013.207
+
+23. Bergeron C, Davis A, Lang AE (1998) Corticobasal ganglionic
+degeneration and progressive supranuclear palsy presenting with
+cognitive decline. Brain Pathol 8:355–365
+
+24. Bue´e L, Delacourte A (1999) Comparative biochemistry of tau in
+progressive supranuclear palsy, corticobasal degeneration, FTDP-
+17 and Pick’s disease. Brain Pathol 9:681–693
+
+25. Lee VM, Goedert M, Trojanowski JQ (2001) Neurodegenerative
+
+tauopathies. Annu Rev Neurosci 24:1121–1159
+
+26. Dickson DW, Bergeron C, Chin SS, Duyckaerts C, Horoupian D,
+Ikeda K, Jellinger K, Lantos PL, Lippa CF, Mirra SS, Tabaton M,
+Vonsattel JP, Wakabayashi K, Litvan I (2002) Ofﬁce of rare
+diseases of the national institutes of health. J Neuropathol Exp
+Neurol 61:935–946
+
+27. Hogg M, Grujic ZM, Baker M, Demirci S, Guillozet AL, Sweet
+AP, Herzog LL, Weintraub S, Mesulam MM, LaPointe NE,
+Gamblin TC, Berry RW, Binder LI, de Silva R, Lees A, Espinoza
+M, Davies P, Grover A, Sahara N, Ishizawa T, Dickson D, Yen
+SH, Hutton M, Bigio EH (2003) The L266 V tau mutation is
+associated with frontotemporal dementia and Pick-like 3R and 4R
+tauopathy. Acta Neuropathol 106:323–336
+
+28. Dickson DW, Kouri N, Murray ME, Josephs KA (2011) Neu-
+ropathology of frontotemporal lobar degeneration-tau (FTLD-tau).
+J Mol Neurosci 45:384–389. doi:10.1007/s12031-011-9589-0
+
+29. Goedert M, Ghetti B, Spillantini MG (2012) Frontotemporal
+dementia:
+implications for understanding Alzheimer disease.
+Cold Spring Harb Perspect Med 2:a006254. doi:10.1101/cshper
+spect.a006254
+
+30. Mandelkow EM, Mandelkow E (2012) Biochemistry and cell
+biology of tau protein in neuroﬁbrillary degeneration. Cold Spring
+Harb Perspect Med 2:a006247. doi:10.1101/cshperspect.a006247
+
+31. Spillantini MG, Goedert M (2013) Tau pathology and neurode-
+generation. Lancet Neurol 12:609–622. doi:10.1016/S1474-
+4422(13)70090-5
+
+32. Rossor MN, Tyrrell PJ, Warrington EK, Thompson PD, Marsden
+CD, Lantos P (1999) Progressive frontal gait disturbance with
+atypical Alzheimer’s disease and corticobasal degeneration.
+J Neurol Neurosurg Psychiatry 67:345–352
+
+33. Kovacs GG, Majtenyi K, Spina S, Murrell JR, Gelpi E, Hoft-
+berger R, Fraser G, Crowther RA, Goedert M, Budka H, Ghetti B
+(2008) White matter tauopathy with globular glial inclusions: a
+distinct sporadic frontotemporal
+lobar degeneration. J Neu-
+ropathol Exp Neurol 67:963–975
+
+34. Allali G, Dubois B, Assal F, Lallart E, de Souza LC, Bertoux M,
+Annweiler C, Herrmann FR, Levy R, Beauchet O (2010) Fron-
+totemporal dementia: pathology of gait? Mov Disord 25:723–729
+35. Facheris MF, Maniak S, Scaravilli F, Schu¨le B, Klein C, Pram-
+staller PP (2008) Pure akinesia as initial presentation of PSP: a
+clinicopathological study. Parkinsonism Relat Disord 14:517–519
+
+123
+
+2198
+
+Neurochem Res (2015) 40:2188–2199
+
+36. Espay AJ, Spina S, Houghton DJ, Murrell JR, de Courten-Myers
+GM, Ghetti B, Litvan I (2010). Rapidly progressive atypical
+Parkinsonism associated with frontotemporal lobar degeneration
+and motor neuron disease. J Neurol Neurosurg Psychiatry
+82:751–753
+
+37. Schneider A, Arau´jo GW, Trajkovic K, Herrmann MM, Merkler
+D, Mandelkow EM, Weissert R, Simons M (2004) Hyperphos-
+phorylation and aggregation of tau in experimental autoimmune
+encephalomyelitis. J Biol Chem 279:55833–55839
+
+38. Anderson JM, Hampton DW, Patani R, Pryce G, Crowther RA,
+Reynolds R, Franklin RJ, Giovannoni G, Compston DA, Baker D,
+Spillantini MG, Chandran S (2008) Abnormally phosphorylated
+tau is associated with neuronal and axonal loss in experimental
+autoimmune encephalomyelitis and multiple sclerosis. Brain
+131:1736–1748
+
+39. Anderson JM, Patani R, Reynolds R, Nicholas R, Compston A,
+Spillantini MG, Chandran S (2009) Evidence for abnormal tau
+phosphorylation in early aggressive multiple sclerosis. Acta
+Neuropathol 117:583–589
+
+40. Lee G, Newman ST, Gard DL, Band H, Panchamoorthy G (1998)
+Tau interacts with Src-family non-receptor tyrosine kinases.
+J Cell Sci 111:3167–3177
+
+41. Ittner LM, Ke YD, Delerue F, Bi M, Gladbach A, van Eersel J,
+Wo¨lﬁng H, Chieng BC, Christie MJ, Napier IA, Eckert A,
+Staufenbiel M, Hardeman E, Go¨tz J (2010) Dendritic function of
+tau mediates amyloid-beta toxicity in Alzheimer’s disease mouse
+models. Cell 142:387–397. doi:10.1016/j.cell.2010.06.036
+
+42. Haass C, Mandelkow E (2010) Fyn-tau-amyloid: a toxic triad.
+
+Cell 142:356–358. doi:10.1016/j.cell.2010.07.032
+
+43. Lee G, Cowan N, Kirschner M (1988) The primary structure and
+tau protein from mouse brain. Science
+
+heterogeneity of
+239:285–288
+
+44. Kampers T, Pangalos M, Geerts H, Wiech H, Mandelkow E
+(1999) Assembly of paired helical ﬁlaments from mouse tau:
+implications for the neuroﬁbrillary pathology in transgenic mouse
+models for Alzheimer’s disease. FEBS Lett 451:39–44
+
+45. Doerﬂinger NH, Macklin WB, Popko B (2003) Inducible site-
+
+speciﬁc recombination in myelinating cells. Genesis 35:63–72
+
+46. Michalski JP, Anderson C, Beauvais A, De Repentigny Y,
+Kothary R (2011) The proteolipid protein promoter drives
+expression outside of
+the oligodendrocyte lineage during
+embryonic and early postnatal development. PLoS ONE
+6:e19772. doi:10.1371/journal.pone.0019772
+
+47. Higuchi M, Zhang B, Forman MS, Yoshiyama Y, Trojanowski
+JQ, Lee VM (2005) Axonal degeneration induced by targeted
+expression of mutant human tau in oligodendrocytes of transgenic
+mice that model glial tauopathies. J Neurosci 25:9434–9443
+
+48. Stamer K, Vogel R, Thies E, Mandelkow E, Mandelkow EM
+(2002) Tau blocks trafﬁc of organelles, neuroﬁlaments, and APP
+vesicles in neurons and enhances oxidative stress. J Cell Biol
+156:1051–1063
+
+49. Dixit R, Ross JL, Goldman YE, Holzbaur EL (2008) Differential
+regulation of dynein and kinesin motor proteins by tau. Science
+319:1086–1089
+
+50. Mandelkow EM, Biernat J, Drewes G, Gustke N, Trinczek B,
+Mandelkow E (1995). Tau domains, phosphorylation, and inter-
+actions with microtubules. Neurobiol Aging. 16:355–62; discus-
+sion 362-3
+
+51. Morﬁni GA, Burns M, Binder LI, Kanaan NM, LaPointe N,
+Bosco DA, Brown RH Jr, Brown H, Tiwari A, Hayward L, Edgar
+J, Nave KA, Garberrn J, Atagi Y, Song Y, Pigino G, Brady ST
+(2009) Axonal transport defects in neurodegenerative diseases.
+J Neurosci 29:12776–12786
+
+52. Brandt R, Leger J, Lee G (1995) Interaction of tau with the neural
+plasma membrane mediated by tau amino-terminal projection
+domain. J Cell Biol 13:1327–1340
+
+123
+
+53. Lee Y, Morrison BM, Li Y, Lengacher S, Farah MH, Hoffman
+PN, Liu Y, Tsingalia A, Jin L, Zhang PW, Pellerin L, Magistretti
+PJ, Rothstein JD (2012) Oligodendroglia metabolically support
+axons and contribute to neurodegeneration. Nature 487:443–448.
+doi:10.1038/nature11314
+
+54. Makinodan M, Rosen KM, Ito S, Corfas G (2012) A critical
+period for social experience-dependent oligodendrocyte matura-
+tion and myelination. Science 337:1357–1360. doi:10.1126/sci
+ence.1220845
+
+55. Mallon BS, Shick HE, Kidd GJ, Macklin WB (2002) Proteolipid
+promoter activity distinguishes two populations of NG2-positive
+cells throughout neonatal cortical development. J Neurosci
+22:876–885
+
+56. Williamson R, Scales T, Clark BR, Gibb G, Reynolds CH, Kellie
+S, Bird IN, Varndell IM, Sheppard PW, Everall I, Anderton BH
+(2002) Rapid tyrosine phosphorylation of neuronal proteins
+including tau and focal adhesion kinase in response to amyloid-
+beta peptide exposure: involvement of Src family protein kinases.
+J Neurosci 22:10–20
+
+57. Leugers CJ, Lee G (2010) Tau potentiates nerve growth factor-
+induced mitogen-activated protein kinase signaling and neurite
+initiation without a requirement for microtubule binding. J Biol
+Chem 285:19125–19134
+
+58. Reynolds CH, Garwood CJ, Wray S, Price C, Kellie S, Perera T,
+Zvelebil M, Yang A, Sheppard PW, Varndell IM, Hanger DP,
+Anderton BH (2008) Phosphorylation regulates tau interactions
+with Src homology 3 domains of phosphatidylinositol 3-kinase,
+phospholipase Cgamma1, Grb2, and Src family kinases. J Biol
+Chem 283:18177–18186
+
+59. Flores AI, Narayanan SP, Morse EN, Shick HE, Yin X, Kidd G,
+Avila RL, Kirschner DA, Macklin WB (2008) Constitutively
+active Akt induces enhanced myelination in the CNS. J Neurosci
+28:7174–7183
+
+60. Ebner S, Dunbar M, McKinnon RD (2000) Distinct roles for
+PI3 K in proliferation and survival of oligodendrocyte progenitor
+cells. J Neurosci Res 62:336–345
+
+61. Bagayogo IP, Dreyfus CF (2009) Regulated release of BDNF by
+cortical oligodendrocytes is mediated through metabotropic glu-
+tamate receptors and the PLC pathway. ASN Neuro 1(1):e00001.
+doi:10.1042/AN20090006
+
+62. Liu J, Dietz K, DeLoyht JM, Pedre X, Kelkar D, Kaur J, Vialou
+V, Lobo MK, Dietz DM, Nestler EJ, Dupree J, Casaccia P (2012)
+Impaired adult myelination in the prefrontal cortex of socially
+isolated mice. Nat Neurosci 15:1621–1623. doi:10.1038/nn.3263
+63. Nave KA, Werner HB (2014) Myelination of the nervous system:
+mechanisms and functions. Annu Rev Cell Dev Biol 30:503–533.
+doi:10.1146/annurev-cellbio-100913-013101
+
+64. Dai X, Lercher LD, Clinton PM, Du Y, Livingston DL, Vieira C,
+Yang L, Shen MM, Dreyfus CF (2003) The trophic role of
+oligodendrocytes in the basal forebrain. J Neurosci 23:5846–5853
+65. Nave KA (2010) Myelination and support of axonal integrity by
+
+glia. Nature 468:244–252. doi:10.1038/nature09614
+
+66. Clark K, Sakowski L, Sperle K, Banser L, Landel CP, Bessert DA,
+Skoff RP, Hobson GM (2013) Gait abnormalities and progressive
+myelin degeneration in a new murine model of Pelizaeus–Merz-
+bacher disease with tandem genomic duplication. J Neurosci
+33:11788–11799. doi:10.1523/JNEUROSCI.1336-13.2013
+
+67. Harrington EP, Zhao C, Fancy SP, Kaing S, Franklin RJ, Rowitch
+DH (2010) Oligodendrocyte PTEN is required for myelin and
+axonal
+integrity, not remyelination. Ann Neurol 68:703–716.
+doi:10.1002/ana.22090
+
+68. Philips T, Bento-Abreu A, Nonneman A, Haeck W, Staats K,
+Geelen V, Hersmus N, Ku¨sters B, Van Den Bosch L, Van Damme
+P, Richardson WD, Robberecht W (2013) Oligodendrocyte dys-
+function in the pathogenesis of amyotrophic lateral sclerosis. Brain
+136:471–482. doi:10.1093/brain/aws339
+
+Neurochem Res (2015) 40:2188–2199
+
+2199
+
+69. Ikegami S, Harada A, Hirokawa N (2000) Muscle weakness,
+hyperactivity, and impairment in fear conditioning in tau-deﬁ-
+cient mice. Neurosci Lett 279:129–132
+
+70. Lei P, Ayton S, Finkelstein DI, Spoerri L, Ciccotosto GD, Wright
+DK, Wong BX, Adlard PA, Cherny RA, Lam LQ, Roberts BR,
+Volitakis I, Egan GF, McLean CA, Cappai R, Duce JA, Bush AI
+(2012) Tau deﬁciency induces Parkinsonism with dementia by
+impairing APP-mediated iron export. Nat Med 18:291–295
+
+71. Denic A, Johnson AJ, Bieber AJ, Warrington AE, Rodriguez M,
+Pirko I (2010). The relevance of animal models in multiple
+sclerosis research. Pathophysiology 18:21–29
+
+72. Slavin A, Kelly-Modis L, Labadia M, Ryan K, Brown ML
+(2010). Pathogenic mechanisms and experimental models of
+multiple sclerosis. Autoimmunity 43:504–513
+
+73. Wang Y, Wu C, Caprariello AV, Somoza E, Zhu W, Wang C,
+Miller RH (2009) In vivo quantiﬁcation of myelin changes in the
+vertebrate nervous system. J Neurosci 29:14663–14669. doi:10.
+1523/JNEUROSCI.4082-08.2009
+
+74. Zendedel A, Beyer C, Kipp M. 2013. Cuprizone-induced
+demyelination as a tool to study remyelination and axonal pro-
+tection. J Mol Neurosci 51:567–572
+
+123
+
+

@@ -1,0 +1,2505 @@
+Neuropharmacology xxx (2015) 1e14
+
+Contents lists available at ScienceDirect
+
+Neuropharmacology
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / n e u r o p h a r m
+
+Invited review
+An introduction to the roles of purinergic signalling in
+neurodegeneration, neuroprotection and neuroregeneration
+Geoffrey Burnstock a, b, *
+a Autonomic Neuroscience Centre, University College Medical School, Rowland Hill Street, London NW3 2PF, UK
+b Department of Pharmacology and Therapeutics, The University of Melbourne, Australia
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Purinergic signalling appears to play important roles in neurodegeneration, neuroprotection and neuro-
+regeneration. Initially there is a brief summary of the background of purinergic signalling, including
+release of purines and pyrimidines from neural and non-neural cells and their ectoenzymatic degradation,
+and the current characterisation of P1 (adenosine), and P2X (ion channel) and P2Y (G protein-coupled)
+nucleotide receptor subtypes. There is also coverage of the localization and roles of purinoceptors in
+the healthy central nervous system. The focus is then on the roles of purinergic signalling in trauma,
+ischaemia, stroke and in neurodegenerative diseases, including Alzheimer's, Parkinson's and Huntington's
+diseases, as well as multiple sclerosis and amyotrophic lateral sclerosis. Neuroprotective mechanisms
+involving purinergic signalling are considered and its involvement in neuroregeneration, including the
+role of adult neural stem/progenitor cells.
+
+This article is part of a Special Issue entitled ‘Purines-Neurodegeneration’.
+
+© 2015 Elsevier Ltd. All rights reserved.
+
+Article history:
+Available online xxx
+
+Keywords:
+ATP
+Alzheimer's
+Parkinson's
+MS
+ALS
+Stem cells
+
+Chemical compounds studied in the article:
+Adenosine (PubChem CID: 60961)
+ATP (PubChem CID: 5957)
+b-Amyloid1e42 (PubChem CID: 57339251)
+g-Amino butyric acid (GABA) (PubChem
+CID: 119)
+20- and 30-O-(4-benzoylbenzoyl)-ATP
+(BzATP) (PubChem CID: 115205)
+Brilliant Blue G (BBG) (PubChem CID:
+6328534)
+Diadenosine tetraphosphate (AP4A)
+(PubChem CID: 21706)
+Interleukin 1b (PubChem CID: 123872)
+N-methyl-D-aspartate (NMDA) (PubChem
+CID: 22880)
+Pyridoxalphosphate-6-azophenyl-20,40-
+disulfonic acid (PPADS) (PubChem CID:
+6093163)
+
+Abbreviations: Ab, b-amyloid; AD, Alzheimer's disease; ALS, amyotrophic lateral
+sclerosis; APP, amyloid precursor protein; EAE, experimental autoimmune
+encephalomyelitis; GABA, g-amino butyric acid; BzATP, 20- and 30-O-(4-
+benzoylbenzoyl)-ATP; BBG, Brilliant Blue G; AP4A, diadenosine tetraphosphate;
+ERK, extracellular signal-regulated protein kinase; HD, Huntington's disease; IL,
+interleukin; KO, knockout; NO, nitric oxide; MS, multiple sclerosis; NMDA,
+N-methyl-D-aspartate; 6-OHDA, 6-hydroxydopamine; OPs, oligodendrocyte pro-
+genitor cells; PD, Parkinson's disease; PK, protein kinase; PPADS, pyridox-
+alphosphate-6-azophenyl-20,40-disulfonic acid; SOD1, superoxide dismutase 1;
+Treg, regulatory T cells; TNFa, tumour necrosis factor-a; WT, wild type.
+
+* Autonomic Neuroscience Centre, University College Medical School, Rowland
+Hill Street, London NW3 2PF, UK. Tel.: þ44 20 7830 2948; fax: þ44 20 7830 2949.
+
+E-mail address: g.burnstock@ucl.ac.uk.
+
+1. Introduction
+
+Purinergic signalling, adenosine 50-triphosphate (ATP) acting
+as an extracellular signalling molecule, was proposed in 1972
+(Burnstock, 1972). In 1976 the concept was introduced that ATP is a
+cotransmitter in most if not all nerves in the peripheral and central
+nervous system (CNS) (Burnstock, 1976; see Burnstock, 2014). Two
+families of receptors for purines were recognised in 1978, P1 re-
+ceptors for adenosine and P2 receptors for ATP and adenosine 50-
+diphosphate (ADP) (Burnstock, 1978). In the early 1990s, receptors
+for purines and pyrimidines were cloned and characterised (see
+Ralevic and Burnstock, 1998). Currently it is established that there
+
+http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+0028-3908/© 2015 Elsevier Ltd. All rights reserved.
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+2
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+are four subtypes of the adenosine P1 receptor (A1, A2A, A2B, A3),
+seven subtypes of the P2X ion channel receptor (P2X1-7) and eight
+subtypes of P2Y G protein-coupled receptor (P2Y1, P2Y2, P2Y4, P2Y6,
+P2Y11, P2Y12, P2Y13, P2Y14) (see Burnstock, 2007a). Ectoenzymes
+that hydrolyse ATP and adenosine released from cells have been
+identiﬁed (see Zimmermann, 2000; Yegutkin, 2014) and release of
+purines and pyrimidines from nerves and most non-neuronal cell
+types in response to mechanical stimulation described (see
+Burnstock, 1999; Lazarowski et al., 2011).
+
+The actions of adenosine in the CNS were recognised early (see
+Phillis and Wu, 1981; Williams, 1984; Dunwiddie, 1985; Snyder,
+1985), while consideration of the role(s) of ATP in the CNS
+received more attention later (see Bo and Burnstock, 1994;
+Burnstock, 1996, 2003, 2007b; Gibb and Halliday, 1996; Inoue
+et al., 1996; Abbracchio, 1997; Illes and Zimmermann, 1999;
+Masino and Dunwiddie, 2001; North and Verkhratsky, 2006). In
+particular, fast purinergic synaptic transmission has been clearly
+identiﬁed in the brain (Edwards et al., 1992; Bardoni et al., 1997;
+Nieber et al., 1997; Pankratov et al., 1999, 2002, 2009; Khakh,
+2001; Mori et al., 2001; Robertson et al., 2001). Adenosine is the
+predominant, presynaptic modulator of transmitter release in the
+CNS (see Dunwiddie, 1985). However, ATP can also act presynap-
+tically (Cunha and Ribeiro, 2000). Local network behaviours are
+regulated by the balance between the effects of ATP, adenosine and
+ectonucleotidases on synaptic transmission (Kato et al., 2004;
+Matsuoka and Ohkubo, 2004). Adenosine is produced by ectoen-
+zymatic breakdown of released ATP, but subpopulations of brain
+neurons and/or astrocytes have been claimed to release adenosine
+directly (Wall and Dale, 2007).
+
+There are high concentrations of ATP within the brain, about
+2 mmol/kg in the cortex to 4 mmol/kg in the putamen and hip-
+pocampus (Kogure and Alonso, 1978). Cortex and hippocampus
+synaptic membranes exhibit higher activities of NTPDase1 and
+NTPDase2 than cerebellum and medulla oblongata. Ecto-50-nucle-
+otidase and adenosine deaminase are found in most brain regions
+(Kukulski et al., 2004). There is heterogeneous distribution in the
+CNS of both P2X receptors (Llewellyn-Smith and Burnstock, 1998;
+Loesch and Burnstock, 1998; Kanjhan et al., 1999; Burnstock and
+Knight, 2004; Guo et al., 2008) and P2Y receptors (Moore et al.,
+2000; Moran-Jimenez and Matute, 2000; Burnstock, 2003; Miras-
+Portugal et al., 2007). A recent review discussed the roles of P2X
+receptors in the CNS in health and disease (Burnstock, 2015). P2X2,
+P2X4 and P2X6 receptors often form heteromultimers. P2X1 re-
+ceptors are expressed in some regions of the brain, such as cere-
+bellum, while P2X3 receptors are expressed in the brain stem. P2X7
+receptors are probably largely presynaptic. The dominant adeno-
+sine receptor subtype in the brain is A1, but A2B and A3 receptors
+have also been identiﬁed in some regions of the brain (Latini and
+Pedata, 2001). Nucleotides can act synergistically with growth
+factors to regulate trophic events (Neary et al., 1994; Rathbone
+et al., 1999; Burnstock and Verkhratsky, 2010). Some brain stem
+neurons appear to control autonomic functions via purinoceptors
+(see Burnstock, 2007b).
+
+There is compelling evidence for the role of ATP as a cotrans-
+mitter with classical transmitters in the CNS. ATP is coreleased with
+acetylcholine from cortical synaptosomes and for a smaller number
+ATP is coreleased with noradrenaline (Potter and White, 1980).
+There is corelease of ATP with catecholamines from neurons in the
+locus coeruleus (Poelchen et al., 2001) and hypothalamus (Buller
+et al., 1996; Sperlagh et al., 1998). Corelease of ATP with g-amino
+butyric acid (GABA) occurs in dorsal horn and lateral hypothalamic
+neurons (Jo and Role, 2002). Corelease of ATP with glutamate in the
+hippocampus (Mori et al., 2001) and with dopamine in the CNS
+(Krügel et al., 2003) has also been reported.
+
+Multiple P1 and P2 receptor subtypes are expressed by as-
+trocytes, oligodendrocytes and microglia (see Burnstock and
+Knight, 2004; Verkhratsky et al., 2009). ATP mediates both
+short-term calcium signalling events and long-term prolifera-
+tion, differentiation and death of glia (Cotrina et al., 2000).
+Purinergic receptors have also been identiﬁed on adult neural
+stem cells (Mishra et al., 2006; Ulrich et al., 2012). Purinergic
+signalling is a major means of integrating functional activity
+between neurons, glial and vascular cells in the CNS (see
+Abbracchio and Burnstock, 1998; Fields and Burnstock, 2006;
+Parpura and Zorec, 2010; Matute and Cavaliere, 2011; Verderio
+and Matteoli, 2011).
+
+A discussion of the involvement of purinergic signalling in
+neurodegeneration, neuroprotection and regeneration has been
+included in a number of reviews (Franke and Illes, 2006;
+Burnstock, 2007b, 2015; Abbracchio et al., 2009; Burnstock and
+Verkhratsky, 2012; Illes et al., 2012; Ulrich et al., 2012; Volonte
+and Burnstock, 2012). It is clear that the involvement of puriner-
+gic signalling is complex and involves the combined activity
+resulting from ATP release, receptor activation and ectonucleotide
+enzyme activity.
+
+The involvement of ATP in peripheral (including enteric) nerve
+degeneration and regeneration has also been studied (see Tokui
+et al., 1994; Sch€afer et al., 1995; Xu et al., 2013; Jung et al., 2014),
+but will not be covered in this review article, which is focussed on
+the CNS.
+
+2. Trauma, ischaemia and stroke
+
+Trauma, ischaemia and stroke lead to the release of ATP/aden-
+osine from cells in the CNS (Neary et al., 1996; Abbracchio and
+Burnstock, 1998). These signalling molecules play two roles:
+partly to aggravate the neuronal and glial damage caused by
+mechanical trauma/metabolic limitation, and partly to serve as
+protective mechanisms (see Zimmermann, 1994; Fields and
+Stevens-Graham, 2002; Neary et al., 2003; M^eme et al., 2004;
+Franke et al., 2006a; Majumder et al., 2007). Pyridoxalphosphate-6-
+azophenyl-20,40-disulfonic acid (PPADS), a P2 receptor antagonist,
+supports recovery from experimental stroke in vivo (L€ammer et al.,
+2011).
+
+ATP release appears to be important in triggering cellular re-
+sponses to trauma (see Franke et al., 2006a). Astrocytes sense the
+severity of damage in the CNS via ATP release from damaged cells
+and they can modulate the tumour necrosis factor-a (TNF-a)-
+mediated inﬂammatory response. Micromolar ATP activation of
+P2Y receptors boosts a moderate inﬂammatory response, while
+millimolar ATP activation of P2X receptors appears to prevent the
+perpetuation of a comparatively large inﬂammatory response.
+Astrocytic release of ATP has been demonstrated in vivo to be
+essential in mediating the injury-induced defensive responses of
+microglial processes (Davalos et al., 2005). Upon traumatic brain
+injury, microglial processes rapidly converge on the site of injury
+without cell body movement. This chemotactic response can be
+mimicked by local injection of ATP and can be inhibited by blockers
+of P2Y receptors. Microglial cells orchestrate inﬂammatory brain
+responses to trauma and hypoxia. They are activated by purines and
+pyrimidines to release the inﬂammatory cytokines interleukin (IL)-
+1b and IL-6 and TNF-a. Resting microglia, characterised by a com-
+plex network of processes, migrate to the site of damage after brain
+trauma, where they are transformed into the activated amoeboid
+form; ATP has been shown to replicate this transformation (Xiang
+et al., 2006).
+
+Cerebellar lesions produce up-regulation of P2X1 and P2X2 re-
+ceptors in precerebellar nuclei (Florenzano et al., 2002). Stab
+wound injury in the nucleus accumbens led to increase in
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+3
+
+P2X1
+
+and
+
+P2X7
+
+absent
+
+previously
+
+expression of subtypes of P2X and P2Y receptors (Franke et al.,
+2006a). A signiﬁcant
+increase in ecto-NTPDase and ecto-
+50nucleotidase activities occurs following cortical stab injury in
+rats, whereas in other brain areas only as increase in 50-nucleo-
+tidase activity was seen (Nedeljkovic et al., 2006). After stab wound
+injury,
+receptor-
+immunoreactivity was observed on cells labelled for the astro-
+cytic marker glial ﬁbrillary acidic protein (Franke et al., 2001).
+Cortical stab injury induced rapid focal varicose swelling that
+developed into beading of NTPDase 3-positive ﬁbres expressing
+P2X2 receptors (Bjelobaba et al., 2010). Changes in expression of
+ecto-50-nucleotidase have been described in the rat model of
+cortical stab injury (Bjelobaba et al., 2011). P2Y1, P2Y2 and P2Y6
+receptor-immunoreactivity also became apparent on astrocytes
+around the stab wound (Franke et al., 2004b). Reduction of long-
+term neurologic injury after blunt spinal trauma is evoked by A2A
+receptor agonists (Reece et al., 2004). ATP and nitric oxide (NO) play
+key roles in mediating neuronal responses after cell damage.
+Nitrergic and purinergic systems are activated after cerebellar
+lesion. Colocalisation of P2X1 and P2X2 receptors with neuronal NO
+synthase was observed in olivary and pontine neurons (Viscomi
+et al., 2004). The inhibitory effects of ATP on NO production
+correlate with activation of the transcription factor cyclic AMP
+response element-binding protein (Brautigam et al., 2005). After
+nerve injury P2X4 receptors induced in spinal microglia gate tactile
+allodynia (Tsuda et al., 2003).
+
+P2X7 receptors are activated by ATP released during trauma
+and inﬂammation (Le Feuvre et al., 2002). Signalling via P2X7
+receptors may allow cells to sense and respond to events occur-
+ring in the extracellular environment, modulate the genes
+involved in inﬂammatory responses and regulate cytokine re-
+sponses in the CNS. P2X7 receptors play a role in mediating spinal
+cord injury (Wang et al., 2004). Since P2X7 receptors are highly
+expressed in spinal cord neurons, it was concluded that spinal
+cord injury is associated with prolonged activation of these re-
+ceptors, which results in excitotoxicity-based neuronal degener-
+ation. This study supports the role of ATP as an early danger signal
+in neurodegenerative damage. ATP-induced stimulation of P2X7
+receptors releases not only ATP and glutamate, but also GABA
+from astrocytes of the brain (Wang et al., 2002). Thus the hypoxic
+release of ATP may exert both excitatory and inhibitory neuronal
+modulation via glutamate and GABA, respectively (Wirkner et al.,
+2005).
+
+Receptor-positive neurons and glial cells in the rat nucleus
+accumbens showed signiﬁcant increase in the number of P2Y1
+after injury and coexpression of P2Y1 receptors and vesicular
+glutamate transporter
+immunopositive cells was observed
+(Franke et al., 2006b). The authors concluded that the enhanced
+sensitivity of neurons to purinergic signalling in trauma may be
+related to changes in glutamatergic transmission. Focal cerebral
+ischaemia induced by intraluminal occlusion of the right middle
+cerebral artery results in the release of ATP into the rat striatal
+microdialysate (Melani et al., 2005). Mechanical injury to the rat
+nucleus accumbens elevated the concentrations of both ATP and
+glutamate in the microdialysate (Franke et al., 2006b). The local
+increase in the ATP concentration may lead to the up-regulation
+of the ecto-nucleotidases hydrolysing extracellular ATP (Braun
+et al., 1998). ATP together with glutamate may exert an excito-
+toxic action, thereby causing the death of previously uninjured
+neurons and astrocytes (Dallas et al., 2007). The hypoxia-induced
+outﬂow of glutamate may be the consequence of the release of
+ATP (Rodrigues et al., 2005; Zhang et al., 2006; Sperlagh et al.,
+2007).
+
+Mechanical injury to the rat spinal cord caused an immediate,
+irreversible loss of tissue at the lesion site, as well as secondary
+
+extensive tissue damage over time (Wang et al., 2004; Peng et al.,
+2009). The secondary tissue damage was partially due to the
+release of ATP and its mediation by P2X7 receptors.
+
+P2X7 receptors appear to be the main triggers of necrosis/
+apoptosis in mechanically or ischaemically damaged CNS cells, but
+other P2X receptor subtypes are probably also involved (Franke
+and Illes, 2006; Volonte et al., 2003). Unilateral cerebellectomy
+axotomized precerebellar neurons, for example, either degen-
+erated, or became immunopositive for P2X1 and P2X2 receptors
+(Florenzano et al., 2002). Also P2Y1, P2X3 as well as P2X7 re-
+ceptors played a detrimental role in neurotransmission in CA1
+hippocampus during oxygen and glucose deprivation, causing
+downstream activation of extracellular signal-regulated protein
+kinase (ERK)1/2 that is involved in cell excitability and death
+(Traini et al., 2011). P2 receptor antagonists prevented the syn-
+aptic failure.
+
+In cultured oligodendrocytes,
+
+in contrast to astrocytes and
+neurons, hypoxia/ischaemia down-regulated P2X7 expression
+(Wang et al., 2009).
+In healthy animals, P2X7 receptor-
+immunoreactivity was absent from microglia, but appeared after
+middle cerebral artery occlusion. The P2 receptor antagonist,
+reactive blue 2, reduced the ischaemic damage. Further, a P2Y re-
+ceptor on microglia directed the convergence of these cells to the
+site of traumatic injury, establishing a barrier between the healthy
+and injured tissue (Davalos et al., 2005). The expression of P2X7
+receptors, accompanying the activation of brain microglia after
+mechanical
+is an early reaction, followed later by the
+appearance of these receptors on glial cells and probably also
+neurons (Franke et al., 2007).
+
+injury,
+
+There are changes in the second messenger mechanisms
+coupled to P2X and P2Y receptors activated by nucleotides
+following brain damage. For P2X receptors, a rapid increase of
+intracellular Ca2þ and activation of Ca2þ-dependent enzymatic
+pathways is the primary mediator of early and long-term cellular
+changes. P2Y receptor subtypes are linked to the protein kinase
+signalling pathways regulating cellular proliferation, differentiation
+and survival such as ERK and protein kinase (PK) B/Akt (Neary and
+Kang, 2005; Neary and Zimmermann, 2009). After trauma, P2 re-
+ceptor/protein kinase cascades are activated, induced by mechan-
+ical and ischaemic stress, leading to late responses of glial cells,
+including proliferation (glial scars) of astroglia and demyelination
+in the white matter of oligodendroglia.
+
+PKB/Akt is a signalling molecule that regulates cell survival,
+growth and metabolism and inhibits apoptosis. Traumatic brain
+injury activates Akt. ATP was released when cortical astrocytes
+were subjected to mechanical strain, leading to Akt activation and
+PPADS attenuated the Akt activation (Neary et al., 2005). Mechan-
+ical strains comparable to those that occur in humans subjected to
+traumatic brain injury, cause release of ATP from astrocytes. Then
+there is activation of purinergic receptors coupled to protein kinase
+cascades that regulate expression of genes involved in long-term,
+trophic actions (Neary et al., 2006). The activity of GSK-3, which
+is known to be involved in cell proliferation and survival, is regu-
+lated by ATP in astrocytes and is likely to be involved in the
+response of the brain to injury on release of ATP (Neary and Kang,
+2006).
+
+The signiﬁcance of the hypoxia-induced release of ATP in the
+ventral medulla oblongata for respiratory control has been dis-
+cussed (Rong et al., 2003; Gourine et al., 2005, 2010). There is ev-
+idence to support the view that adenosine regulation is a signiﬁcant
+factor in the onset and recovery of traumatic brain injury and
+therapeutic strategies based on P1 receptor compounds are being
+explored (Lusardi, 2009). Hypoxic-ischaemic injury to perinatal
+brain is a major contributor to morbidity in children and adenosine
+has been claimed to play a role in its pathophysiology (Pimentel
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+4
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+Fig. 1. Resolution of inﬂammation and tissue repair. Clearing of dead cells and suppression of inﬂammation are key events in brain repair. Find-me signals (UTP, ATP) attract
+microglia and macrophages through P2Y2 receptors. Eat-me signals include UDP, which acts on P2Y6 receptors to stimulate microglial phagocytosis, and phosphatidylserine
+(PtdSer), which is translocated to the outer leaﬂet of the plasma membrane of apoptotic cells. PtdSer-binding proteins involved in the clearance of dead cells include milk fat globule
+epidermal growth factor 8 protein on microglia and T cell immunoglobulin and mucin domain-containing molecule 4 (TIM4) on macrophages. Immunoglobulins directed against
+CNS antigens, which appear after stroke, may also promote phagocytosis by engaging Fc receptors on phagocytic cells. Phagocytosis promotes secretion of IL-10 and TGF-b, which, in
+turn, suppress antigen presentation, promote Treg formation, inhibit expression of adhesion molecules in endothelial cells and production of proinﬂammatory cytokines. TGF-b and
+IL-10 are also neuroprotective and may facilitate brain repair processes. In addition, lipoxins, resolvins and protectins, metabolites of arachidonic acid and omega-3 fatty acids that
+play an active part in the resolution of inﬂammation in other organs, could also contribute to suppress postischemic inﬂammation. Growth factors and MMPs produced by
+endothelial cells, neurons, astrocytes, oligodendrocytes and microglia are key molecules driving tissue reorganization and repair.
+Reproduced from Iadecola and Anrather (2011), with permission from The Nature Publishing Group.
+
+et al., 2015). The authors highlighted the potential role played by
+adenosine deaminase inhibitors to increase adenosine at the sites
+of injury.
+
+Inﬂammation and immunity are major elements in the patho-
+biology of stroke. ATP released during ischaemic damage activated
+P2X7 receptors on microglia leading to release of proinﬂammatory
+cytokines and activated microglia migrate and exhibit macrophage-
+like activity via P2Y6 receptors (see Iadecola and Anrather, 2011;
+Fig. 1). Recent reviews that discuss purinergic signalling and
+inﬂammation are available (Eltzschig et al., 2012; Fiebich et al., 2014;
+Idzko et al., 2014; Morandini et al., 2014). Ischaemic pathologies
+of white matter include a high proportion of stroke lesions (Fern
+et al., 2014).
+
+3. Neurodegenerative diseases
+
+Neurodegeneration is the basis of the wide range of neurode-
+generative diseases, involving both neurons and glial cells and
+there is increasing evidence for the participation of purinergic
+signalling (see Burnstock, 2008; Burnstock and Verkhratsky, 2012).
+Microglia play an important role against infection in the CNS, but
+overstimulation of this immune reaction may accelerate the
+neuronal damage caused by neurodegenerative diseases and hu-
+man immunodeﬁciency virus encephalopathy, which exhibit
+microglial proliferation and activation (Ogata et al., 2003). ATP in-
+hibits cytokine release from lipopolysaccharide-activated microglia
+via P2Y receptors and it was suggested that P2Y agonists may be a
+potential treatment for toxic immunoreactions.
+
+3.1. Alzheimer's disease (AD)
+
+There is evidence for the involvement of both P1 and P2 re-
+ceptors in AD. ATP release during neuronal excitation or injury
+enhances the inﬂammatory effects of cytokines and prostaglandin
+
+E2 in astrocytes and contributes to the chronic inﬂammation seen in
+AD (Xu et al., 2003). Human brain tissue from patients who died
+with a conﬁrmed diagnosis of AD consistently showed a loss of A1
+receptors, especially most clearly in the outer layers of dentate
+gyrus in hippocampus, the region of the brain most intimately
+involved in the processes of learning and memory (Jansen et al.,
+1990; Ulas et al., 1993). The levels of A1 and A2A receptors, how-
+ever, increased in the frontal cortex, in parallel with an increased
+function of these receptors (Albasanz et al., 2008). In AD, a key role
+is played by abnormal metabolism of the amyloid precursor protein
+(APP), which is cleaved by b- and g-secretases to generate the b-
+amyloid (Ab) peptides, present in large amounts in the amyloid
+plaques of AD patients' brains. In post-mortem neocortical and
+hippocampal tissue from patients with AD, colocalization of A1
+receptors with Ab in senile plaques was reported (Angulo et al.,
+2003). It was shown that, in human neuroblastoma cells, activa-
+tion of A1 receptors activated PKC, p21 Ras and ERK1/2, leading to
+increased formation of soluble Ab fragments. These ﬁndings would
+implicate A1 receptors in Ab metabolism and suggest that agonists
+at these receptors might be useful drugs for the treatment of
+established or late-stage AD (see Stone et al., 2009).
+
+There is evidence implicating P2 receptors, in particular P2X7, in
+AD. In an early study, primary rat microglia stimulated with either
+ATP or 20- and 30-O-(4-benzoylbenzoyl)-ATP (BzATP) were shown
+to release copious amounts of superoxide primarily via the
+increased expression of P2X7 receptors (Parvathenani et al., 2003).
+ATP and BzATP also stimulated microglia-induced cortical cell
+death suggesting that
+to neuro-
+degeneration. P2X7 receptors were shown to be up-regulated
+around Ab plaques
+in a mouse model of AD (Tg2576)
+(Parvathenani et al., 2003). Enhanced expression of P2X7 receptors
+in brain samples from six AD patients was reported (McLarnon
+et al., 2006). Prominent P2X7 receptor expression was observed
+in association with Ab plaques on microglia. Cultured foetal human
+
+this pathway contributes
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+5
+
+microglia cells exposed to amyloidogenic Ab1-42 peptide had
+signiﬁcantly elevated levels of P2X7 receptors compared with un-
+treated cells. Ab triggers increases in intracellular Ca2þ concentra-
+tions, ATP release,
+IL-1b secretion and plasma membrane
+permeabilization in microglia from wild type (WT) but not from
+P2X7 knockout (KO) mice (Sanz et al., 2009). Similarly, intra-
+hippocampal injection of Ab caused a large accumulation of IL-1
+in WT but not in P2X7 KO mice. This suggests that Ab activates
+a purinergic autocrine/paracrine stimulatory loop involving P2X7
+receptors.
+In the APPswe/PS1dE9 mouse model of AD, P2X7
+immunoreactivity was predominantly found in activated microglia
+before Ab plaque formation, suggesting a causative role in
+disease onset. Further, during disease development, upregulation
+of P2X7 and reactive oxygen species production in microglia par-
+allelled Ab increase and was associated with synaptotoxicity (Lee
+et al., 2011). Thus, P2X7 receptors mediate microglial purinergic
+inﬂammatory responses in AD brain. ATP reduces Ab protein mis-
+folding in vitro (Coskuner and Murray, 2014). Activation of P2X7
+receptor-stimulated release of sAPPa from mouse and human
+neuroblastoma cells and from mouse primary astrocytes and neural
+progenitor cells was inhibited by P2X7 antagonists or by P2X7 re-
+ceptor knockdown with siRNAs. This was not observed in neural
+cells from P2X7 KO mice. Other P2X receptor subtypes have been
+implicated in AD. Ab1-42 promoted accumulation of P2X4 receptors
+in neurons and induced caspase-3-mediated cleavage of the re-
+ceptor that slowed channel closure times and prevented agonist-
+induced receptor internalization (Varma et al., 2009). Reduced
+expression of P2X4 receptors in primary rodent neurons attenuated
+Ab1-42-induced neuronal death. In contrast, induced P2X4 expres-
+sion in a neuronal cell line that does not normally express P2 re-
+ceptors enhanced the toxic effect of Ab1-42.
+
+In AD brains, P2Y1 receptors were localized to neuroﬁbrillary
+tangles, neuritic plaques and neuropil threads (Moore et al., 2000).
+Activation of the P2Y2 receptor expressed in human 1321N1 as-
+trocytoma cells enhanced the release of sAPPa in a time- and
+dose-dependent manner (Camden et al., 2005). P2Y2 receptor-
+activated sAPPa release was partially suppressed by ADAM10 or
+ADAM17/TACE, while treatment of cells with both ADAM10 and
+ADAM17/TACE siRNA completely abolished uridine 50-triphos-
+phate-activated sAPPa release. APP expression and release from
+astrocytes are regulated by nucleotides through activation of P2Y2/
+4 receptors (Tran, 2011). The ATP synthase b subunit was identiﬁed
+as a new autoantigen in AD (Vacirca et al., 2011, 2012). A recent
+review presents evidence that there is a prominent role for P2Y
+receptors in AD pathology, including Ab production and elimina-
+tion, neuroinﬂammation, neuronal function and cerebral blood
+ﬂow (Erb et al., 2015). Serum anti-ATP synthase autoantibodies
+were observed in 38% of patients with AD, but not in healthy
+subjects or in patients with Parkinson's or atherosclerosis. ATP
+synthase autoantibodies have been proposed as potential serum
+biomarkers for AD.
+
+3.2. Parkinson's disease (PD)
+
+The motor symptoms of PD are due to the degeneration of the
+dopaminergic neurons in the nigrostriatal pathway. A2A receptors
+have been implicated in the pathophysiology of PD, due to its
+extensive interaction with the dopaminergic system in extrapyra-
+midal areas (Morelli et al., 2010). An early event in PD is increased
+striatal A2A receptor expression (Villar-Menendez et al., 2014) and
+A2A receptor antagonists are being explored for the treatment of PD
+(Antonini and Poewe, 2014; Gyoneva et al., 2014; Perez-Lloret and
+Merello, 2014; Zheng et al., 2014). Readers are referred to a number
+of authoritative reviews about the role of A2A receptors in PD (Azam
+et al., 2009; Pinna, 2009; Jenner et al., 2009; Ciruela et al., 2011;
+
+Burnstock and Verkhratsky, 2012) that also draw our attention to
+the possible involvement of other purinergic receptors.
+
+Data has implicated the P2X7 receptor in PD (Jun and Kin, 2004;
+Marcellino et al., 2010). Nigral P2X7 immunoreactivity was mainly
+found in microglia but also in astroglia in the unilateral 6-
+hydroxydopamine (6-OHDA) rat model of PD. The P2X7 antago-
+nist 3-[[5-(2,3-dichlorophenyl)-1H-tetrazol-1-yl]methyl]pyridine
+(A-438079) signiﬁcantly reduced the 6-OHDA-induced depletion
+of striatal dopamine stores. In conclusion, in addition to A2A re-
+ceptors, other purinergic receptors, in particular the P2X7 receptor,
+may be involved in PD. However, lack of neuroprotection for the
+survival of dopaminergic neurons in P2X7 receptor-deﬁciency or
+inhibition in toxin-induced animal models of PD was reported
+(Hracsko et al., 2011).
+
+Transplanting foetal nigral grafts containing dopaminergic
+neurons into the brain of Parkinson's patients has had limited
+success (Braak and Del Tredici, 2008). Transplanting enteric
+nerves (containing dopaminergic nerves) may be a promising
+alternative (Tew et al., 1992). Nucleotides affect neurogenesis and
+have the potential to produce dopaminergic neurons from neural
+progenitor cells derived from foetal mouse midbrain (Delic and
+Zimmermann, 2010).
+
+3.3. Huntington's disease (HD)
+
+HD is an inherited motor disorder, characterized by progressive
+striatal neurodegeneration. The mutation responsible for this dis-
+ease is an abnormally expanded and unstable CAG repeat within
+the coding region of the gene encoding the huntingtin protein.
+GABAergic enkephalin neurons of the basal ganglia are the most
+vulnerable cells in HD. They show the highest levels of expression
+of adenosine A2A receptors. This selective neuronal vulnerability
+occurs despite ubiquitous expression of mutant and normal hun-
+tingtin suggests that these receptors might play a pathogenetic role
+in HD (Popoli et al., 2007, 2008). Changes in A2A receptor expression
+and signalling in both experimental models of HD (Tarditi et al.,
+2006) and in peripheral blood circulating cells of HD patients
+(Varani et al., 2001, 2007) support this hypothesis. However, the
+functional signiﬁcance of the aberrant A2A receptor phenotype in
+HD is complicated by conﬂicting data about the potential neuro-
+protective and neurodegenerative effects of these receptors in the
+brain. In experimental models of HD, both A2A receptor agonists
+and antagonists have shown beneﬁcial effects (Popoli et al., 2008).
+A2A receptor KO mice showed signiﬁcantly worse motor perfor-
+mances and survival (Mievis et al., 2011).
+
+The P2X7 receptor also appears to be involved in HD. Increased
+P2X7 receptor levels and altered P2X7 mediated calcium perme-
+ability in somata and terminals of HD neurons were shown using
+transgenic mice HD models (Díaz-Hernandez et al., 2009). Also,
+cultured neurons
+expressing mutant huntingtin exhibited
+increased susceptibility to apoptosis triggered by P2X7 receptor
+stimulation. Administration in vivo of Brilliant Blue G (BBG), a P2X7
+antagonist, to HD mice prevented neuronal apoptosis and attenu-
+ated body weight loss and motor-coordination deﬁcits.
+
+3.4. Multiple sclerosis (MS)
+
+Both P2X7 and P2Y receptors have been shown to be involved in
+MS. Nucleotides, which are released in high amounts under in-
+ﬂammatory conditions and following cell death, may regulate
+remyelination processes in demyelinating diseases. Different types
+of P2 receptors expressed by oligodendrocyte progenitor cells
+(OPs), cells that give rise to mature myelinating oligodendrocytes,
+were described (Agresti et al., 2005b). Nucleotide-induced Ca2þ
+raises in these cells are mainly due to the activation of P2X7 and
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+6
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+P2Y1 receptors. ATP and ADP stimulated migration but inhibited the
+mitogenic response of OPs to platelet derived growth factor.
+Decreased levels of P2Y12 receptors were observed in proximity to
+demyelinating lesions in sections of cerebral cortex from post-
+mortem MS brains (Amadio et al., 2010). This was correlated with
+the extent of demyelination found in grey matter cortical plaques
+and subcortical white matter.
+
+There was a marked increase of P2X7 immunoreactivity in
+reactive astrocytes of autopsy brain tissues from MS patients
+(Narcisse et al., 2005). In human MS specimens, the density of P2X7
+receptors on microglial cells was signiﬁcantly increased in affected
+regions. P2X7 receptor blockade prevented ATP excitotoxicity in
+oligodendrocytes, reduced demyelination and ameliorated neuro-
+logical symptoms in experimental autoimmune encephalomyelitis
+(EAE), a model of MS (Matute et al., 2007). Moreover, development
+of this model was suppressed in P2X7 KO mice (Sharp et al., 2008).
+In brain homogenates of EAE rats there was increased levels of
+P2X7 receptor protein (Grygorowicz et al., 2011). In another study,
+patients with relapsing-remitting MS showed strikingly reduced
+numbers of blood regulatory T (Treg) cells expressing CD39. Acti-
+vated Treg cells are able to abrogate ATP-related effects, which is
+consistent with the hypothesis that there is an increase in P2X7
+receptor-mediated cell cytotoxicity in MS (Borsellino et al., 2007).
+However, P2X7 receptor KO mice were shown to develop more
+severe clinical and pathological expression of EAE than WT controls
+(Chen and Brosnan, 2006).
+
+GPR17, a P2Y-like receptor, was shown to be involved in repair of
+demyelinating wounds in two distinct stages of early slowly
+proliferating OPs that are present in the parenchyma of the adult
+brain (Lecca et al., 2008). Mature oligodendrocytes no longer
+expressed GPR17, suggesting that the receptor has to be down-
+regulated to allow cells to proceed to terminal differentiation.
+Activation of GPR17 by uridine 50-diphosphate (UDP) or UDP-
+glucose caused progression of immature OPs towards mature
+myelinating oligodendrocytes (Ceruti et al., 2011; Fumagalli et al.,
+2011). GPR17 inhibition or knockdown by siRNAs impaired the
+normal differentiation of OPs (Fumagalli et al., 2011). Lymphocytes
+from MS patients upregulate A2A receptors that mediate anti-
+inﬂammatory actions (Vincenzi et al., 2013).
+
+3.5. Amyotrophic lateral sclerosis (ALS)
+
+The involvement of purinergic signalling in ALS, in particular
+P2X4 and P2X7 receptor subtypes, has been proposed. The density
+of P2X7 microglial cells/macrophages was signiﬁcantly increased in
+human ALS specimens (Yiangou et al., 2006). Up-regulation of
+P2X4, P2X7 and P2Y6 receptors and down-regulation of ATP-
+hydrolysing activities was reported in microglia from transgenic
+mice over-expressing human superoxide dismutase 1 (SOD1), an
+animal model of ALS (D'Ambrosi et al., 2009). In SOD1 astrocyte
+cultures, repeated stimulation by ATP or BzATP caused astrocytes to
+become neurotoxic, inducing death of motor neurons and P2X7
+receptor involvement was supported by BBG inhibition of the ATP
+and BzATP effects (Gandelman et al., 2010).
+Increased ATP-
+dependent proliferation and a basal increase in extracellular ATP
+degradation was also seen in SOD1 astrocytes. Thus purinergic
+activation of both astrocytes and microglia in ALS may constitute a
+route involved in disease progression.
+
+High P2X4 receptor expression was shown to be selectively
+localised on degenerating motoneurons in the ventral horn of the
+spinal cord in a transgenic rodent model of ALS, the SOD1G93A
+(Casanovas et al., 2008). P2X4 receptors were also seen on degen-
+erating neurons in the locus coeruleus, reticular formation and
+Purkinje cells in the cerebellum. P2X4 receptor antibodies cross-
+react with misfolded forms of mutant SOD1 that is present in
+
+neurons, but not in glial cells (Hernandez et al., 2010). It was
+concluded that neuronal SOD1G93A conformers with P2X4 receptor
+immunoreactivity may have pathogenic relevance in the promotion
+of neuroinﬂammation.
+
+It has been claimed that the death of motoneurons in ALS can be
+reduced by adenosine A2A receptor antagonists (Mojsilovic-
+Petrovic et al., 2006). It was concluded in a review that purinergic
+signalling plays complex roles in ALS, a multifactorial and multi-
+systemic disease involving participation of microglia, astrocytes,
+muscle and T cells, as well as neurons in different places (Amadio
+et al., 2011).
+
+P2X7 receptor activation increases the pro-inﬂammatory ac-
+tions of microglia in the SOD1G93A mouse model of ALS and in P2X7
+KO mice where there is increased gliosis and motoneuron death
+(Apolloni et al., 2013). However, spinal cord injury is reduced by
+P2X7 receptor antagonists in the SOD1-mutant mouse model
+(Apolloni et al., 2014). A comparison was made of microRNAs
+transcriptional proﬁling of non-transgenic and ALS microglia in
+resting conditions and after inﬂammatory activation by a P2X7
+receptor agonist (Parisi et al., 2013).
+
+4. Neuroprotection
+
+Protection against neural damage caused by trauma, ischaemia,
+stroke and neurodegenerative diseases is the focus of many current
+investigations. Reviews have been published concerned with the
+roles in neuroprotection of adenosine (Stone, 2005; Chen et al.,
+2007; Ribeiro, 2008; Williams-Karnesky and Stenzel-Poore, 2009;
+Gomes et al., 2011) and of ATP (Skaper, 2007, 2011; Peterson et al.,
+2010; Burnstock et al., 2011; Burnstock and Verkhratsky, 2012;
+Watts et al., 2013; Corps et al., 2015). In the Editorial about the
+Hot Topic Issue of CNS & Neurological Disorders-Drug Targets
+entitled ‘Pharmacology and Therapeutic Activity of Purinergic
+Drugs for Disorders of the Nervous System’, attention is drawn to
+the variety of drugs acting on P2X and P2Y receptor subtypes being
+explored for the treatment of neurodegenerative diseases (Volonte
+and Burnstock, 2012).
+
+ATP, released during trauma, acts via P2 receptors to inhibit the
+release of the cytotoxic excitatory transmitter, glutamate, and
+stimulates release of the inhibitory transmitter, GABA, from hip-
+pocampal nerves, thus serving a protective role (Inoue, 1998).
+Excessive activation of glutamate receptor systems is implicated in
+neuronal cell death associated with stroke and neurodegenerative
+diseases such as AD, PD, HD and ALS (Zona et al., 2000). Guanine
+nucleotides inhibit N-methyl-D-aspartate (NMDA)- and kainate-
+induced neurotoxicity and may be used to antagonise glutamate
+receptor-mediated neurotoxicity (Morciano et al., 2004). The P1
+receptor antagonist, caffeine, is claimed to have beneﬁcial actions in
+both AD and PD (Ribeiro et al., 2003). P2 receptors have been
+claimed to mediate neuroprotective effects in the cerebellum,
+suggesting the use of P2 receptor agonists as neuroprotective
+agents (Volonte et al., 2003). It has been suggested that adenine is
+involved in the control of Purkinje cell survival (Watanabe et al.,
+2003).
+
+4.1. Neuroprotection against trauma, ischaemia and stroke
+
+The release of adenosine is considered to be a neuroprotective
+factor during traumatic and hypoxic/ischaemic CNS injury (Nieber
+et al., 1999; Sebasti~ao and Ribeiro, 2009; Stone et al., 2009). Both
+neuronal morphology and behavioural tests revealed full preser-
+vation of spatial memory and learning ability. In vivo studies indi-
+cated a beneﬁcial effect of A1 receptor stimulation in cerebral
+ischaemia, but the therapeutic value was limited by the wide
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+7
+
+receptor-distribution on neuronal and non-neuronal cells in the
+CNS (Stone et al., 2009).
+
+The protective effect of A2A receptor agonists in ischaemia may
+be largely due to reduced glutamate outﬂow, particularly from
+glial cells (Popoli et al., 1995, 2003; Pedata et al., 2007). Decreased
+activation of mitogen-activated protein kinases that are involved
+in neuronal death may also contribute to neuroprotection by A2A
+antagonism (Kawasaki et al., 1997). A2A receptors trigger the ac-
+tions of neurotrophic factors involved in axonal outgrowth or
+synaptic plasticity (Sebasti~ao and Ribeiro, 2009), so blockade of
+A2A receptors may reduce the effects of neurotropic factors,
+favouring neuronal survival and regeneration. In neurodegener-
+ative disorders astrocyte death may occur and complicate the
+outcome of brain ischaemia. A2A receptor antagonists SCH 58261
+(Monopoli et al., 1998) and 8-(3-chlorostyryl)caffeine (Von Lubitz
+et al., 1995) were protective in global or focal cerebral ischaemia
+in both rats and gerbils (Pedata et al., 2005). Also cerebral
+infarction was signiﬁcantly attenuated in A2A receptor KO mice
+(Chen et al., 1999). A2A receptor antagonists were also beneﬁcial
+for rabbit spinal cord reperfusion injury (Cassada et al., 2001). The
+A3 receptor agonist chloro-N6-(3-iodo-benzyl)-adenosine-50-N-
+methyluronamide decreased experimentally-induced cerebral
+infarction in gerbils and rats (Chen et al., 2006; Von Lubitz et al.,
+1994). The protective role of A1 adenosine receptors in hypoxia/
+ischaemia in vitro in brain slice preparations was also reported
+(e.g. Fujiwara et al., 1987; Nieber et al., 1995; Krnjevic, 1999).
+
+Potential beneﬁts of P2X7 receptor antagonism in rodent
+studies of brain and spinal cord injury and neurodegenerative
+diseases have been described (Wang et al., 2004; Bartlett et al.,
+2014; Sperlagh and Illes, 2014). This has prompted the use of
+drugs targeting the P2X7 receptor for the treatment of human
+CNS disorders. However, these studies are facing problems, partly
+due to the many polymorphic variations of the human P2X7 re-
+ceptor. Microglial cells possess P2X7 receptors which become
+activated in a rat model of focal cerebral ischaemia to participate in
+the early defence reaction (Melani et al., 2006). P2X7 receptor
+antagonists adenosine 50-triphosphate-20,30-dialdehyde (oxidized
+ATP) or BBG even 15 min after spinal cord injury resulted in
+recovery of hind limb motor function (Peng et al., 2009). In the
+cerebral cortex of spontaneously hypertensive rats, there was up-
+regulation of P2X7 receptor immunoreactivity in the penumbra
+surrounding the necrotic region (Franke et al., 2004a). In ATP-
+induced secondary damage, via stimulation of P2X (probably
+P2X7) receptors in the penumbra, both suramin and PPADS
+reduced the infarct volume and accelerated functional recovery
+in behavioural tests (Kharlamov et al., 2002; L€ammer et al., 2006,
+2011). P2X7 receptor-activated microglia protect neurons against
+glutamate toxicity (Suzuki et al., 2004). PPADS, a P2 receptor
+antagonist, confers neuroprotection against glutamate/NMDA
+toxicity (Lin et al., 2005). It has been claimed that P2X7 receptor
+antagonists are neuroprotective for their ability to inhibit assem-
+bly of inﬂammasome in glial cells (Murphy et al., 2012). Cerebral
+ischaemia-reperfusion injury is a primary cause of ischaemic
+stroke and ischaemic postconditioning is considered as an
+important technique to contain ischaemia-reperfusion injury,
+which involves the activation of P2X7 receptors (Bindra et al.,
+2014). Cortical spreading depression is a model of precondition-
+ing that provides tolerance to a subsequent ischaemic event in the
+brain. It appears to be due to release of ATP via connexin-36
+hemichannels into the extracellular space (Schock et al., 2008).
+The ATP, via activation of P2Y receptors and new protein synthesis,
+causes ischaemic tolerance and enhances neuronal survival in
+cultured primary cortical neurons.
+
+P2Y receptor antagonists are potential neuroprotective agents
+in the cortex, hippocampus and cerebellum by modulation of
+
+kainate- and a-amino-3-hydroxy-5-methyl-4-isoxazolepropionic
+acid-induced currents. Inhibition of apoptosis by P2Y2 receptor
+activation has been claimed to be a novel pathway for neuronal
+survival (Arthur et al., 2006). P2Y1 receptor antagonists improve
+recovery from traumatic brain injury (Choo et al., 2013). A recent
+paper reports that neuroprotection against genotoxic stress is
+elicited by P2Y13 receptor activation (Morente et al., 2014). The
+P2Y-like receptor, GPR17, is a sensor of brain damage and reacts
+to the release of nucleotides and cysteinyl leukotrienes in a focal
+ischaemia model (Lecca et al., 2008). It is expressed on OPs, but
+not astrocytes, and is a potential target for stroke and spinal cord
+injury induced by acute compression (Ceruti et al., 2009). The
+in vivo knock-down of GPR17 by an antisense oligonucleotide
+strategy markedly reduced tissue damage. It has been claimed that
+P2Y2 receptors activate neuroprotective mechanisms in astrocytes
+(Chorna et al., 2004).
+
+ATP-MgCl2 decreases lipid peroxidation in spinal cord injury and
+protect the spinal cord from secondary injury after trauma. It was
+concluded that ATP-MgCl2 should be explored for the treatment of
+spinal cord injuries in conjunction with other treatments (Cakir
+et al., 2003). After spinal cord injury, topical application of ATP
+signiﬁcantly improved locomotor function (Shields et al., 2004).
+
+4.2. Neuroprotection against neurodegenerative diseases
+
+Data from animal models of AD and in samples from AD pa-
+tients, support the concept that Ab1-42-induced synaptic dysfunc-
+tion and neuronal death may involve abnormalities in purinergic
+receptor signalling, with the most convincing evidence for P2X7
+receptors (see Takenouchi et al., 2010). Processing of APP is regu-
+lated by two different nucleotide receptors, P2X7 and P2Y2, with
+opposite effects on a-secretase activity (Leon-Otegui et al., 2011). It
+was suggested that activators of the P2Y2 receptor in combination
+with P2X7 receptor antagonists could have beneﬁcial effects by
+reducing amyloid plaques (Wurtman et al., 2009). Block of P2X7
+receptor-mediated activity with BBG was shown to be neuro-
+protective in an animal model of AD (Ryu and McLarnon, 2008).
+Activation of microglia by Ab requires P2X7 receptor expression
+and it was suggested that Ab microglia stimulation may open new
+avenues for the treatment of AD (Sanz et al., 2009). ATP, released
+from astrocytes, protects Ab-induced impairment of synaptic
+plasticity (Jung et al., 2012). P2X7 may also have beneﬁcial effects
+via the stimulation of non-amyloidogenic processing of APP by a-
+secretases, leading to proteolytic cleavage within the Ab peptide
+sequence and shedding of the soluble APP ectodomain (sAPPa),
+exerting neuroprotection (Delarasse et al., 2011).
+
+Antagonists of the A2A receptor alleviate symptoms in PD pa-
+tients. Ongoing research programs in this area, and orally efﬁca-
+cious A2A receptor antagonists, have been advanced into clinical
+development (see Shah and Hodgson, 2010). Several xanthines and
+non-xanthine compounds possessing good afﬁnity have been
+introduced. BIIB014, preladenant and ST-1535 are new adenosine
+A2A receptor antagonists currently in use. A2A antagonists may also
+be neuroprotective under certain toxicity paradigms (see Stone
+et al., 2009). There are Phase I and II clinical trials for evaluation
+of their efﬁcacy in PD patients (Pinna, 2009). All these compounds
+were safe and well tolerated. Results from the Phase II trial showed
+that BIIB014 and preladenant were effective in reducing the waking
+time spent in OFF state in patients at the late stage of PD treated
+with L-DOPA. BIIB014 was also effective as monotherapy in patients
+at the early stage of PD and ST-1535 displays a promising potential
+in experimental models of PD and in clinical studies. The thera-
+peutic effects of A2A receptor antagonists appear to act via a
+reduction of the inhibitory output of the basal ganglia indirect
+pathway. This possibility has been validated in patients treated
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+8
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+with the A2A antagonist SYN115 (Black et al., 2010). Neuroprotective
+mechanisms also include blockade of A2A receptor-mediated
+glutamate release from neurons, inhibition of microglia-induced
+inﬂammation. However, there is conﬂicting data on the protective
+and detrimental roles reported for A2A receptors in the CNS. Dia-
+denosine tetraphosphate (AP4A), an endogenous diadenosine pol-
+yphosphate, also has protective effects in the unilateral 6-OHDA
+rodent model of PD (Wang et al., 2003). AP4A also reduced TUNEL in
+the lesioned nigra 2 days after 6-OHDA administration, implying
+inhibition of apoptosis.
+
+Therapeutic potential of P2X7 receptor antagonists for the
+treatment of HD was discussed (Díaz-Hernandez et al., 2009).
+Decrease in stimulated A1 and A2A receptors has also been
+implicated in HD (Bauer et al., 2005; Popoli et al., 2007). Alter-
+ations of P2X7 receptor activity could contribute to HD patho-
+genesis and highlight the therapeutic potential of P2X7 receptor
+antagonists. A2A receptor agonists protect neurons derived from
+induced pluripotent stem cells of patients with HD (Chern et al.,
+2014). The level of 50-nucleotidase increased in synaptosomes
+from the cerebral cortex of rats that were experimentally
+demyelinated (Spanevello et al., 2006).
+
+An early feature of MS and its animal model of EAE is neuronal
+pathology. Lesional accumulation of P2X receptors on macrophages
+in rat CNS in the EAE model has been reported (Guo and
+Schluesener, 2005). P2X7 expression is elevated in axon tracts in
+patients with MS and ATP can kill oligodendrocytes by activating
+P2X7 receptors (Domercq et al., 2010). Patients exhibiting the
+remitting/relapsing form of MS have strikingly reduced numbers of
+NTPDase1-positive Treg cells, suggesting that purines might be
+involved (Borsellino et al., 2007). A regulatory role of P2Y1 receptor
+signalling in OPs has been described (Agresti et al., 2005a). It was
+suggested that high ATP released in inﬂammatory conditions might
+act on P2Y1 receptors to inﬂuence the remyelination processes in
+MS. In the lesioned cerebral cortex of MS patients P2Y12 receptor
+expression has also been identiﬁed (Amadio et al., 2010). GPR17 is a
+key regulator of OP differentiation. GPR17 dysfunctions seem be
+present in MS, setting the background for future GPR17-based
+remyelination therapies (Chen et al., 2009).
+
+The protective effect mediated by both ATP and ivermectin for
+ALS is by potentiation of ATP action on P2X4 receptors (Andries
+et al., 2007). Preincubation of motor neurons with a low concen-
+tration of ATP protected cells against excitotoxic stimulation, while
+high concentrations of ATP were toxic. To study the relevance of
+these ﬁndings for ALS, SOD1G93A-mice were treated with iver-
+mectin. This led to an increase of the life span of these mice by
+almost 10%. The increased expression of P2X1 receptors on axo-
+tomized facial motoneurons was impaired in SOD1G93A-mutant
+mice (Kassa et al., 2007). It was suggested that the release of ATP
+from mutant motor neurons is altered after damage.
+
+5. Neuroregeneration: neural stem/progenitor cells
+
+A major obstacle for neural repair is the weak regenerative
+capacity of injured neurons, although the neonatal brain has a
+greater capacity for recovery than the adult brain (Pekovic et al.,
+2006). There are a number of reports about the role of puriner-
+gic drugs promoting regeneration of injured and degenerating
+nerves in the brain and spinal cord. Both A1 and A2 receptors
+mediate proliferation of microglia (Gebicke-Haerter et al., 1996).
+Inosine has been shown to stimulate axonal growth in the rat
+corticospinal tract after injury (Benowitz et al., 1999, 2001). Acti-
+vation of purinergic signalling in astrocytes via P2Y4 receptors
+induced by trauma stimulates the synthesis and release of
+thrombospondin-1, an extracellular matrix molecule that induces
+
+synapse formation during development and may play a role in CNS
+repair and remodelling after injury (Tran and Neary, 2006).
+
+ATP and its analogues are involved in tissue remodelling in
+response to injury and have a key role in regulation of repair and
+regeneration (Burnstock and Verkhratsky, 2010). Stimulation of
+purinoceptors in the CNS triggers astrogliosis, the response of
+astrocytes to brain damage, which is characterised by cell prolif-
+eration and remodelling of the neural circuitry (Giaume et al.,
+2007). In combination with growth factors such as ﬁbroblast
+growth factor, epidermal growth factor and platelet-derived
+growth factor, ATP can stimulate astrocyte proliferation, contrib-
+uting to the process of reactive astrogliosis (Abbracchio and
+Burnstock, 1998; Ishibashi et al., 2006; Neary et al., 2006). P2Y
+receptors are claimed to mediate reactive astrogliosis via induc-
+tion of cyclo-oxygenase-2, and P2Y receptor antagonists reduce
+astrogliosis (Brambilla et al., 1999). Reactive astrogliosis is
+instrumental for limitation of brain damaged area, as well as for
+the post-insult remodelling and recovery of neural function. Initial
+events in astroglial responses to purinergic signalling appear to
+be associated with P2Y1 and P2Y2 receptor-mediated Ca2þ astro-
+glial signalling (Kirischuk et al., 1995). It has been claimed that
+activation of P2Y2 receptors can promote regeneration of nerves
+and glial cells in damaged brain (see Arthur et al., 2005; Franke,
+2011). Intraneural injection of Ab has been shown to stimulate
+regeneration of primary sensory axons in the spinal cord (Wu
+et al., personal communication). The P2Y-like GPR17 has been
+identiﬁed as a sensor of damage of the CNS and participates in
+lesion repair in the rodent brain and in patients with traumatic
+brain injury (Franke et al., 2013).
+
+Synergistic actions of ATP and growth factors were recognised in
+1989 (Huang et al., 1989). Sprouting of central neurons was shown
+in experiments in which the enteric nervous system was trans-
+planted into the striatum of the brain (Tew et al., 1992). It was
+suggested that a growth factor released from enteric glial cells acts
+synergistically with ATP (and its breakdown product, adenosine)
+and NO (H€opker et al., 1996). A similar synergistic activity of pu-
+rines and growth factors may be involved in stem cell activity
+(Burnstock and Ulrich, 2011). Purines and pyrimidines released
+from damaged cells stimulate astrocyte proliferation in vitro and
+may contribute to astrocyte proliferation in vivo following injury to
+the CNS (Christjanson et al., 1993). Co-operation of guanosine 50
+triphosphate and nerve growth factor in neural differentiation and
+neurite outgrowth has also been described (Gysbers et al., 2000;
+Guarnieri et al., 2004).
+
+Neural stem (progenitor) cells are heavily involved in the
+development of the CNS and adult neural progenitor cells are also
+involved in regeneration following injury (Shih et al., 2001;
+Zimmermann, 2006; Lin et al., 2007; Trujillo et al., 2009; Ulrich
+et al., 2012). It has been reported that stem cell activation and
+the integration of newly formed neurons can be applied for neu-
+roregeneration in the diseased brain (Martino and Pluchino, 2006;
+Ormerod et al., 2008; Delic and Zimmermann, 2010). Neural
+pluripotent precursor cells derived from primary neural stem cells
+proliferate to form the three main cell types constituting the
+neurons, astrocytes and oligodendrocytes, while microglia are
+derived from immune-like cells. ATP causes proliferation of human
+neural stem cells (Ryu et al., 2003). Adult neural progenitor cells in
+the mouse subventricular zone express interacting functional
+P2X4 and P2X7 receptors (Messemer et al., 2013a, b) and it has
+been proposed that P2X2 and P2X7 receptor agonists and antag-
+onists may provide novel tools for regeneration therapy in
+neurodegenerative diseases (Glaser et al., 2013). In adult brains,
+neural stem cells are present in the subventricular zone of the
+lateral ventricle and the subgranular zone of the hippocampal
+dentate gyrus, where neurogenesis continues throughout life.
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+9
+
+Table 1
+
+Pathology
+
+Main P1/P2 receptor subtypes involved
+
+Trauma: injury, stroke, ischaemia
+Alzheimer's disease
+Parkinson's disease
+Huntington's disease
+Multiple sclerosis
+Amyotrophic lateral sclerosis
+
+A2A, P2X7, P2Y1, P2Y2
+A1, A2A, P2X7, P2Y1
+A2A
+A2A, P2X7
+P2X7, P2Y1, GPR17
+A2A, P2X4, P2X7
+
+Purinergic signalling promotes proliferation of rapidly dividing
+stem cells in the subventricular region via P2Y1 receptors (see
+Suyama et al., 2012). ATP was shown to promote locomotor re-
+covery after spinal cord injury (Sun et al., 2013).
+
+6. Conclusions
+
+The P2X7 receptor subtype appears to be the dominant receptor
+involved in CNS disorders, which is upregulated after trauma and
+ischaemia and in inﬂammatory conditions. P1 and P2Y1 receptors
+also participate in neuroprotective mechanisms. P2X7 receptor
+antagonists are being explored for the treatment of neurodegen-
+erative diseases, including AD, HD, MS and ALS. A2A receptor an-
+tagonists are promising for the treatment of PD (see Table 1).
+
+For major advances to be made in our knowledge of the roles of
+purinergic signalling in neurodegeneration and neuroregeneration
+there is an urgent need for novel compounds to be developed,
+including purinoceptor subtype agonists and antagonists and in-
+hibitors of ectonucleotidases and ATP transport, that are orally
+bioavailable, stable in vivo and can cross the blood brain barrier.
+There are questions to be raised about the viability of some of the
+animal models currently available to replicate human CNS diseases.
+
+Funding
+
+The author received no ﬁnancial support for the preparation of
+
+this article.
+
+Conﬂict of interest
+
+The author declares no conﬂict of interest.
+
+Acknowledgements
+
+The author thanks Dr Gillian E. Knight for her excellent editorial
+
+assistance.
+
+Appendix A. Supplementary data
+
+Supplementary data related to this article can be found at http://
+
+dx.doi.org/10.1016/j.neuropharm.2015.05.031.
+
+References
+
+Abbracchio, M.P., 1997. ATP in brain function. In: Jacobson, K.A., Jarvis, M.F. (Eds.),
+Purinergic Approaches in Experimental Therapeutics. Wiley-Liss, New York,
+pp. 383e404.
+
+Abbracchio, M.P., Burnstock, G., 1998. Purinergic signalling: pathophysiological
+
+roles. Jpn. J. Pharmacol. 78, 113e145.
+
+Abbracchio, M.P., Burnstock, G., Verkhratsky, A., Zimmermann, H., 2009. Purinergic
+
+signalling in the nervous system: an overview. Trends Neurosci. 32, 19e29.
+
+Agresti, C., Meomartini, M.E., Amadio, S., Ambrosini, E., Seraﬁni, B., Franchini, L.,
+Volonte, C., Aloisi, F., Visentin, S., 2005a. Metabotropic P2 receptor activation
+regulates oligodendrocyte progenitor migration and development. Glia 50,
+132e144.
+
+Agresti, C., Meomartini, M.E., Amadio, S., Ambrosini, E., Volonte, C., Aloisi, F.,
+Visentin, S., 2005b. ATP regulates oligodendrocyte progenitor migration,
+
+proliferation, and differentiation: involvement of metabotropic P2 receptors.
+Brain Res. Brain Res. Rev. 48, 157e165.
+
+Albasanz, J.L., Perez, S., Barrachina, M., Ferrer, I., Martin, M., 2008. Up-regulation of
+adenosine receptors in the frontal cortex in Alzheimer's disease. Brain Pathol.
+18, 211e219.
+
+Amadio, S., Montilli, C., Magliozzi, R., Bernardi, G., Reynolds, R., Volonte, C., 2010.
+P2Y12 receptor protein in cortical gray matter lesions in multiple sclerosis.
+Cereb. Cortex 20, 1263e1273.
+
+Amadio, S., Apolloni, S., D'Ambrosi, N., Volonte, C., 2011. Purinergic signalling at the
+plasma membrane: a multipurpose and multidirectional mode to deal with
+amyotrophic lateral sclerosis and multiple sclerosis.
+J. Neurochem. 116,
+796e805.
+
+Andries, M., Van Damme, P., Robberecht, W., Van Den Bosch, L., 2007. Ivermectin
+inhibits AMPA receptor-mediated excitotoxicity in cultured motor neurons and
+extends the life span of a transgenic mouse model of amyotrophic lateral
+sclerosis. Neurobiol. Dis. 25, 8e16.
+
+Angulo, E., Casado, V., Mallol,
+
+J., Canela, E.I., Vinals, F., Ferrer,
+
+I., Lluis, C.,
+Franco, R., 2003. A1 adenosine receptors accumulate in neurodegenerative
+structures in Alzheimer disease and mediate both amyloid precursor protein
+processing and tau phosphorylation and translocation. Brain Pathol. 13,
+440e451.
+
+Antonini, A., Poewe, W., 2014. Adenosine A2A receptor antagonists in Parkinson's
+
+disease: still in the running. Lancet Neurol. 13, 748e749.
+
+Apolloni, S., Amadio, S., Montilli, C., Volonte, C., D'Ambrosi, N., 2013. Ablation of
+P2X7 receptor exacerbates gliosis and motoneuron death in the SOD1-G93A
+mouse model of amyotrophic lateral sclerosis. Hum. Mol. Genet. 22,
+4102e4116.
+
+Apolloni, S., Amadio, S., Parisi, C., Matteucci, A., Potenza, R.L., Armida, M., Popoli, P.,
+D'Ambrosi, N., Volonte, C., 2014. Spinal cord pathology is ameliorated by P2X7
+antagonism in a SOD1-mutant mouse model of amyotrophic lateral sclerosis.
+Dis. Model. Mech. 7, 1101e1109.
+
+Arthur, D.B., Akassoglou, K., Insel, P.A., 2005. P2Y2 receptor activates nerve growth
+factor/TrkA signaling to enhance neuronal differentiation. Proc. Natl. Acad. Sci.
+U. S. A. 102, 19138e19143.
+
+Arthur, D.B., Georgi, S., Akassoglou, K., Insel, P.A., 2006. Inhibition of apoptosis by
+P2Y2 receptor activation: novel pathways for neuronal survival. J. Neurosci. 26,
+3798e3804.
+
+Azam, F., Ibn-Rajab, I.A., Alruiad, A.A., 2009. Adenosine A2A receptor antagonists as
+novel anti-Parkinsonian agents: a review of structure-activity relationships.
+Pharmazie 64, 771e795.
+
+Bardoni, R., Goldstein, P.A., Lee, C.J., Gu, J.G., MacDermott, A.B., 1997. ATP P2X re-
+ceptors mediate fast synaptic transmission in the dorsal horn of the rat spinal
+cord. J. Neurosci. 17, 5297e5304.
+
+Bartlett, R., Stokes, L., Sluyter, R., 2014. The P2X7 receptor channel: recent de-
+velopments and the use of P2X7 antagonists in models of disease. Pharmacol.
+Rev. 66, 638e675.
+
+Bauer, A., Zilles, K., Matusch, A., Holzmann, C., Riess, O., von, H.S., 2005. Regional
+and subtype selective changes of neurotransmitter receptor density in a rat
+transgenic for the Huntington's disease mutation. J. Neurochem. 94, 639e650.
+Benowitz, L.I., Goldberg, D.E., Madsen, J.R., Soni, D., Irwin, N., 1999. Inosine stimu-
+lates extensive axon collateral growth in the rat corticospinal tract after injury.
+Proc. Natl. Acad. Sci. U. S. A 96, 13486e13490.
+
+Benowitz, L.I., Goldberg, D.E., Irwin, N., 2001. A purine-sensitive mechanism regu-
+lates the molecular program for axon growth. Restor. Neurol. Neurosci. 19,
+41e49.
+
+Bindra, C.S., Jaggi, A.S., Singh, N., 2014. Role of P2X7 purinoceptors in neuro-
+protective mechanism of ischemic postconditioning in mice. Mol. Cell. Biochem.
+390, 161e173.
+
+Bjelobaba, I., Lavrnja, I., Parabucki, A., Stojkov, D., Stojiljkovic, M., Pekovic, S.,
+Nedeljkovic, N., 2010. The cortical stab injury induces beading of ﬁbers
+expressing ecto-nucleoside triphosphate diphosphohydrolase 3. Neuroscience
+170, 107e116.
+
+Bjelobaba, I., Parabucki, A., Lavrnja, I., Stojkov, D., Dacic, S., Pekovic, S., Rakic, L.,
+Stojiljkovic, M., Nedeljkovic, N., 2011. Dynamic changes in the expression
+pattern of ecto-50-nucleotidase in the rat model of cortical stab injury.
+J. Neurosci. Res. 89, 862e873.
+
+Black, K.J., Koller, J.M., Campbell, M.C., Gusnard, D.A., Bandak, S.I., 2010. Quantiﬁ-
+cation of indirect pathway inhibition by the adenosine A2a antagonist SYN115
+in Parkinson disease. J. Neurosci. 30, 16284e16292.
+
+Bo, X., Burnstock, G., 1994. Distribution of [3H]a,b-methylene ATP binding sites in
+
+rat brain and spinal cord. Neuroreport 5, 1601e1604.
+
+Borsellino, G., Kleinewietfeld, M., Di, M.D., Sternjak, A., Diamantini, A., Giometto, R.,
+Hopner, S., Centonze, D., Bernardi, G., Dell'Acqua, M.L., Rossini, P.M.,
+Battistini, L., Rotzschke, O., Falk, K., 2007. Expression of ectonucleotidase CD39
+by Foxp3þ Treg cells: hydrolysis of extracellular ATP and immune suppression.
+Blood 110, 1225e1232.
+Braak, H., Del Tredici, K., 2008. Assessing fetal nerve cell grafts in Parkinson's dis-
+
+ease. Nat. Med. 14, 483e485.
+
+Brambilla, R., Burnstock, G., Bonazzi, A., Ceruti, S., Cattabeni, F., Abbracchio, M.P.,
+1999. Cyclo-oxygenase-2 mediates P2Y receptor-induced reactive astrogliosis.
+Br. J. Pharmacol. 126, 563e567.
+
+Braun, N., Zhu, Y., Krieglstein, J., Culmsee, C., Zimmermann, H., 1998. Upregulation of
+the enzyme chain hydrolyzing extracellular ATP after transient forebrain
+ischemia in the rat. J. Neurosci. 18, 4891e4900.
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+10
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+Brautigam, V.M., Frasier, C., Nikodemova, M., Watters, J.J., 2005. Purinergic receptor
+modulation of BV-2 microglial cell activity: potential involvement of p38 MAP
+kinase and CREB. J. Neuroimmunol. 166, 113e125.
+
+Buller, K.M., Khanna, S., Sibbald, J.R., Day, T.A., 1996. Central noradrenergic neurons
+signal via ATP to elicit vasopressin responses to haemorrhage. Neuroscience 73,
+637e642.
+
+Burnstock, G., 1972. Purinergic nerves. Pharmacol. Rev. 24, 509e581.
+Burnstock, G., 1976. Do some nerve cells release more than one transmitter?
+
+Neuroscience 1, 239e248.
+
+Burnstock, G., 1978. A basis for distinguishing two types of purinergic receptor. In:
+Straub, R.W., Bolis, L. (Eds.), Cell Membrane Receptors for Drugs and Hormones:
+a Multidisciplinary Approach. Raven Press, New York, pp. 107e118.
+
+Burnstock, G., 1996. (Guest Editor). Purinergic neurotransmission. Semin. Neurosci.
+
+Burnstock, G., 1999. Release of vasoactive substances from endothelial cells by shear
+
+stress and purinergic mechanosensory transduction. J. Anat. 194, 335e342.
+
+Burnstock, G., 2003. Purinergic
+
+In:
+Schwiebert, E.M. (Ed.), Current Topics in Membranes, Purinergic Receptors and
+Signalling, vol. 54. Academic Press, San Diego, pp. 307e368.
+
+in the nervous
+
+receptors
+
+system.
+
+Burnstock, G., 2007a. Purine and pyrimidine receptors. Cell. Mol. Life Sci. 64,
+
+8, 171e257.
+
+1471e1483.
+
+Burnstock, G., 2007b. Physiology and pathophysiology of purinergic neurotrans-
+
+mission b. Physiol. Rev. 87, 659e797.
+
+Burnstock, G., 2008. Purinergic signalling and disorders of the central nervous
+
+system. Nat. Rev. Drug Discov. 7, 575e590.
+
+Burnstock, G., 2014. The Erasmus Lecture 2012, Academia Europaea. The concept of
+cotransmission: focus on ATP as a cotransmitter and its signiﬁcance in health
+and disease. Eur. Rev. 22, 1e17.
+
+Burnstock, G., 2015. Physiopathological roles of P2X receptors in the central nervous
+
+system. Curr. Med. Chem. 22, 819e844.
+
+Burnstock, G., Knight, G.E., 2004. Cellular distribution and functions of P2 receptor
+
+subtypes in different systems. Int. Rev. Cytol. 240, 31e304.
+
+Burnstock, G., Ulrich, H., 2011. Purinergic signalling in embryonic and stem cell
+
+development. Cell. Mol. Life Sci. 68, 1369e1394.
+
+Burnstock, G., Verkhratsky, A., 2010. Long-term (trophic) purinergic signalling:
+purinoceptors control cell proliferation, differentiation and death. Cell Death
+Dis. 1, e9.
+
+Burnstock, G., Verkhratsky, A., 2012. Purinergic Signalling and the Nervous System.
+
+Springer, Heidelberg/Berlin.
+
+Burnstock, G., Verkhratsky, A., Fredholm, B., 2011. Adenosine and ATP receptors in
+
+the brain. Curr. Top. Med. Chem. 11, 973e1011.
+
+Cakir, E., Baykal, S., Karahan, S.C., Kuzeyli, K., Uydu, H., 2003. Acute phase effects of
+
+Camden,
+
+ATP-MgCl2 on experimental spinal cord injury. Neurosurg. Rev. 26, 67e70.
+
+J.M., Schrader, A.M., Camden, R.E., Gonzalez, F.A., Erb, L., Seye, C.I.,
+Weisman, G.A., 2005. P2Y2 nucleotide receptors enhance a-secretase-depen-
+dent amyloid precursor protein processing. J. Biol. Chem. 280, 18696e18702.
+
+Casanovas, A., Hernandez, S., Tarabal, O., Rossello, J., Esquerda, J.E., 2008. Strong
+P2X4 purinergic receptor-like immunoreactivity is selectively associated with
+degenerating neurons in transgenic rodent models of amyotrophic lateral
+sclerosis. J. Comp. Neurol. 506, 75e92.
+
+Cassada, D.C., Tribble, C.G., Laubach, V.E., Nguyen, B.N., Rieger, J.M., Linden, J.,
+Kaza, A.K., Long, S.M., Kron, I.L., Kern, J.A., 2001. An adenosine A2A agonist, ATL-
+146e, reduces paralysis and apoptosis during rabbit spinal cord reperfusion.
+J. Vasc. Surg. 34, 482e488.
+
+Ceruti, S., Villa, G., Genovese, T., Mazzon, E., Longhi, R., Rosa, P., Bramanti, P.,
+Cuzzocrea, S., Abbracchio, M.P., 2009. The P2Y-like receptor GPR17 as a sensor
+of damage and a new potential target in spinal cord injury. Brain 132,
+2206e2218.
+
+Ceruti, S., Vigano, F., Boda, E., Ferrario, S., Magni, G., Boccazzi, M., Rosa, P., Buffo, A.,
+Abbracchio, M.P., 2011. Expression of the new P2Y-like receptor GPR17 during
+oligodendrocyte precursor cell maturation regulates sensitivity to ATP-induced
+death. Glia 59, 363e378.
+
+Chen, G.J., Harvey, B.K., Shen, H., Chou, J., Victor, A., Wang, Y., 2006. Activation of
+adenosine A3 receptors reduces ischemic brain injury in rodents. J. Neurosci.
+Res. 84, 1848e1855.
+
+Chen, J.F., Huang, Z., Ma, J., Zhu, J., Moratalla, R., Standaert, D., Moskowitz, M.A.,
+Fink, J.S., Schwarzschild, M.A., 1999. A2A adenosine receptor deﬁciency atten-
+uates brain injury induced by transient focal ischemia in mice. J. Neurosci. 19,
+9192e9200.
+
+Chen, J.F., Sonsalla, P.K., Pedata, F., Melani, A., Domenici, M.R., Popoli, P., Geiger, J.,
+Lopes, L.V., de Mendonca, A., 2007. Adenosine A2A receptors and brain injury:
+broad spectrum of neuroprotection, multifaceted actions and “ﬁne tuning”
+modulation. Prog. Neurobiol. 83, 310e331.
+
+Chen, L., Brosnan, C.F., 2006. Exacerbation of experimental autoimmune encepha-
+lomyelitis in P2X7R-/- mice: evidence for loss of apoptotic activity in lympho-
+cytes. J. Immunol. 176, 3115e3126.
+
+Chen, Y., Wu, H., Wang, S., Koito, H., Li, J., Ye, F., Hoang, J., Escobar, S.S., Gow, A.,
+J., Lu, Q.R., 2009. The
+Arnett, H.A., Trapp, B.D., Karandikar, N.J., Hsieh,
+oligodendrocyte-speciﬁc G protein-coupled receptor GPR17 is a cell-intrinsic
+timer of myelination. Nat. Neurosci. 12, 1398e1406.
+
+Chern, Y., Chiu, F.L., Lin, J.T., Chien, T., Hsiao, H.Y., Lin, Y.S., Chen, C.M., Wu, Y.R.,
+Kuo, H.C., 2014. Agonists of the A2A adenosine receptor protect neurons derived
+from induced pluripotent stem cells of patients with Huntington's disease.
+J. Neurochem. 130, 15.
+
+Choo, A.M., Miller, W.J., Chen, Y.C., Nibley, P., Patel, T.P., Goletiani, C., Morrison III, B.,
+Kutzing, M.K., Firestein, B.L., Sul, J.Y., Haydon, P.G., Meaney, D.F., 2013. Antag-
+onism of purinergic signalling improves recovery from traumatic brain injury.
+Brain 136, 65e80.
+
+Chorna, N.E., Santiago-Perez, L.I., Erb, L., Seye, C.I., Neary,
+
+J.T., Sun, G.Y.,
+Weisman, G.A., Gonzalez, F.A., 2004. P2Y2 receptors activate neuroprotective
+mechanisms in astrocytic cells. J. Neurochem. 91, 119e132.
+
+Christjanson, L.J., Middlemiss, P.J., Rathbone, M.P., 1993. Stimulation of astrocyte
+proliferation by purine and pyrimidine nucleotides and nucleosides. Glia 7,
+176e182.
+
+Ciruela, F., Gomez-Soler, M., Guidolin, D., Borroto-Escuela, D.O., Agnati, L.F., Fuxe, K.,
+Fernandez-Due~nas, V., 2011. Adenosine receptor containing oligomers: their
+role in the control of dopamine and glutamate neurotransmission in the brain.
+Biochim. Biophys. Acta 1808, 1245e1255.
+
+Corps, K.N., Roth, T.L., McGavern, D.B., 2015. Inﬂammation and neuroprotection in
+
+traumatic brain injury. JAMA Neurol. 72, 355e362.
+
+Coskuner, O., Murray, I.V., 2014. Adenosine triphosphate (ATP) reduces amyloid-b
+
+protein misfolding in vitro. J. Alzheimers. Dis. 41, 561e574.
+
+Cotrina, M.L., Lin, J.H., Lopez-Garcia, J.C., Naus, C.C., Nedergaard, M., 2000. ATP-
+
+mediated glia signaling. J. Neurosci. 20, 2835e2844.
+
+Cunha, R.A., Ribeiro, J.A., 2000. ATP as a presynaptic modulator. Life Sci. 68, 119e137.
+D'Ambrosi, N., Finocchi, P., Apolloni, S., Cozzolino, M., Ferri, A., Padovano, V.,
+Pietrini, G., Carrì, M.T., Volonte, C., 2009. The proinﬂammatory action of
+microglial P2 receptors is enhanced in SOD1 models for amyotrophic lateral
+sclerosis. J. Immunol. 183, 4648e4656.
+
+Dallas, M., Boycott, H.E., Atkinson, L., Miller, A., Boyle, J.P., Pearson, H.A., Peers, C.,
+2007. Hypoxia suppresses glutamate transport in astrocytes. J. Neurosci. 27,
+3946e3955.
+
+Davalos, D., Grutzendler, J., Yang, G., Kim, J.V., Zuo, Y., Jung, S., Littman, D.R.,
+Dustin, M.L., Gan, W.B., 2005. ATP mediates rapid microglial response to local
+brain injury in vivo. Nat. Neurosci. 8, 752e758.
+
+Delarasse, C., Auger, R., Gonnord, P., Fontaine, B., Kanellopoulos, J.M., 2011. The
+purinergic receptor P2X7 triggers alpha-secretase-dependent processing of the
+amyloid precursor protein. J. Biol. Chem. 286, 2596e2606.
+
+Delic, J., Zimmermann, H., 2010. Nucleotides affect neurogenesis and dopaminergic
+differentiation of mouse fetal midbrain-derived neural precursor cells. Puri-
+nergic Signal 6, 417e428.
+
+Díaz-Hernandez, M., Diez-Zaera, M., Sanchez-Nogueiro, J., Gomez-Villafuertes, R.,
+Canals, J.M., Alberch, J., Miras-Portugal, M.T., Lucas, J.J., 2009. Altered P2X7-
+receptor level and function in mouse models of Huntington's disease and
+therapeutic efﬁcacy of antagonist administration. FASEB J. 23, 1893e1906.
+
+Domercq, M., Perez-Samartin, A., Aparicio, D., Alberdi, E., Pampliega, O., Matute, C.,
+2010. P2X7 receptors mediate ischemic damage to oligodendrocytes. Glia 58,
+730e740.
+
+Dunwiddie, T.V., 1985. The physiological role of adenosine in the central nervous
+
+system. Int. Rev. Neurobiol. 27, 63e139.
+
+Edwards, F.A., Gibb, A.J., Colquhoun, D., 1992. ATP receptor-mediated synaptic
+
+currents in the central nervous system. Nature 359, 144e147.
+
+Eltzschig, H.K., Sitkovsky, M.V., Robson, S.C., 2012. Purinergic signaling during
+
+inﬂammation. N. Engl. J. Med. 367, 2322e2333.
+
+Erb, L., Cao, C., Ajit, D., Weisman, G.A., 2015. P2Y receptors in Alzheimer's disease.
+
+Fern, R.F., Matute, C., Stys, P.K., 2014. White matter injury: Ischemic and non-
+
+Biol. Cell. 107, 1e21.
+
+ischemic. Glia 62, 1780e1789.
+
+Fiebich, B.L., Akter, S., Akundi, R.S., 2014. The two-hit hypothesis for neuro-
+inﬂammation: role of exogenous ATP in modulating inﬂammation in the brain.
+Front. Cell. Neurosci. 8, 260.
+
+Fields, D., Burnstock, G., 2006. Purinergic signaling in neuron-glial interactions. Nat.
+
+Neurosci. Rev. 7, 423e436.
+
+tion. Science 298, 556e562.
+
+Fields, R.D., Stevens-Graham, B., 2002. New insights into neuron-glia communica-
+
+Florenzano, F., Viscomi, M.T., Cavaliere, F., Volonte, C., Molinari, M., 2002. Cerebellar
+lesion up-regulates P2X1 and P2X2 purinergic receptors in precerebellar nuclei.
+Neuroscience 115, 425e434.
+
+Franke, H., Grosche, J., Schadlich, H., Krugel, U., Allgaier, C., Illes, P., 2001. P2X re-
+ceptor expression on astrocytes in the nucleus accumbens of rats. Neuroscience
+108, 421e429.
+
+Franke, H., Gunther, A., Grosche, J., Schmidt, R., Rossner, S., Reinhardt, R., Faber-
+Zuschratter, H., Schneider, D., Illes, P., 2004a. P2X7 receptor expression after
+ischemia in the cerebral cortex of rats.
+J. Neuropathol. Exp. Neurol. 63,
+686e699.
+
+Franke, H., Krugel, U., Grosche, J., Heine, C., Hartig, W., Allgaier, C., Illes, P., 2004b.
+P2Y receptor expression on astrocytes in the nucleus accumbens of rats.
+Neuroscience 127, 431e441.
+
+Franke, H., Illes, P., 2006. Involvement of P2 receptors in the growth and survival of
+
+neurons in the CNS. Pharmacol. Ther. 109, 297e324.
+
+Franke, H., Krügel, U., Illes, P., 2006a. P2 receptors and neuronal injury. Pﬂugers
+
+Arch. 452, 622e644.
+
+Franke, H., Grummich, B., H€artig, W., Grosche, J., Regenthal, R., Edwards, R.H.,
+Illes, P., Krügel, U., 2006b. Changes in purinergic signaling after cerebral injury -
+involvement of glutamatergic mechanisms? Int. J. Dev. Neurosci. 24, 123e132.
+Franke, H., Schepper, C., Illes, P., Krugel, U., 2007. Involvement of P2X and P2Y re-
+
+ceptors in microglial activation in vivo. Purinergic. Signal. 3, 435e445.
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+11
+
+Franke, H., 2011. Role of G protein-coupled receptors (GPCRs) for purines and py-
+in mediating degeneration and regeneration under neuro-
+
+rimidines
+inﬂammatory processes. Purinergic Signal 7, 1e5.
+
+Franke, H., Parravicini, C., Lecca, D., Zanier, E.R., Heine, C., Bremicker, K.,
+Fumagalli, M., Rosa, P., Longhi, L., Stocchetti, N., De Simoni, M.G., Weber, M.,
+Abbracchio, M.P., 2013. Changes of the GPR17 receptor, a new target for neu-
+rorepair, in neurons and glial cells in patients with traumatic brain injury.
+Purinergic Signal 9, 451e462.
+
+Fujiwara, N., Higashi, H., Shimoji, K., Yoshimura, M., 1987. Effects of hypoxia on rat
+
+hippocampal neurones in vitro. J. Physiol. 384, 131e151.
+
+Fumagalli, M., Daniele, S., Lecca, D., Lee, P.R., Parravicini, C., Fields, R.D., Rosa, P.,
+Antonucci, F., Verderio, C., Trincavelli, M.L., Bramanti, P., Martini, C.,
+Abbracchio, M.P., 2011. Phenotypic changes, signaling pathway and functional
+correlates of GPR17-expressing neural precursor cells during oligodendrocyte
+differentiation. J. Biol. Chem. 286, 10593e10604.
+
+Gandelman, M., Peluffo, H., Beckman, J.S., Cassina, P., Barbeito, L., 2010. Extracellular
+ATP and the P2X7 receptor in astrocyte-mediated motor neuron death: impli-
+cations for amyotrophic lateral sclerosis. J. Neuroinﬂammation. 7, 33.
+
+Gebicke-Haerter, P.J., Christoffel, F., Timmer,
+
+J., Northoff, H., Berger, M., van
+Calker, D., 1996. Both adenosine A1- and A2-receptors are required to stimulate
+microglial proliferation. Neurochem. Int. 29, 37e42.
+
+Giaume, C., Kirchhoff, F., Matute, C., Reichenbach, A., Verkhratsky, A., 2007. Glia: the
+
+fulcrum of brain diseases. Cell. Death. Differ. 14, 1324e1335.
+
+Gibb, A.J., Halliday, F.C., 1996. Fast purinergic transmission in the central nervous
+
+system. Semin. Neurosci. 8, 225e232.
+
+Glaser, T., Resende, R.R., Ulrich, H., 2013. Implications of purinergic receptor-
+mediated intracellular calcium transients in neural differentiation. Cell. Com-
+mun. Signal 11, 12.
+
+Gomes, C.V., Kaster, M.P., Tome, A.R., Agostinho, P.M., Cunha, R.A., 2011. Adenosine
+receptors and brain diseases: neuroprotection and neurodegeneration. Biochim.
+Biophys. Acta 1808, 1380e1399.
+
+Gourine, A.V., Llaudet, E., Dale, N., Spyer, K.M., 2005. Release of ATP in the ventral
+medulla during hypoxia in rats: role in hypoxic ventilatory response.
+J. Neurosci. 25, 1211e1218.
+
+Gourine, A.V., Kasymov, V., Marina, N., Tang, F., Figueiredo, M.F., Lane, S.,
+Teschemacher, A.G., Spyer, K.M., Deisseroth, K., Kasparov, S., 2010. Astrocytes
+control breathing through pH-dependent release of ATP. Science 329, 571e575.
+Grygorowicz, T., Sulejczak, D., Struzynska, L., 2011. Expression of purinergic P2X7
+receptor in rat brain during the symptomatic phase of experimental autoim-
+mune encephalomyelitis and after recovery of neurological deﬁcits. Acta Neu-
+robiol. Exp. (Wars.) 71, 65e73.
+
+Guarnieri, S., Fano, G., Rathbone, M.P., Mariggio, M.A., 2004. Cooperation in signal
+transduction of extracellular guanosine 5' triphosphate and nerve growth factor
+in neuronal differentiation of PC12 cells. Neuroscience 128, 697e712.
+
+Guo, L.H., Schluesener, H.J., 2005. Lesional accumulation of P2X4 receptorþ mac-
+rophages in rat CNS during experimental autoimmune encephalomyelitis.
+Neuroscience 134, 199e205.
+
+Guo, W., Xu, X., Gao, X., Burnstock, G., He, C., Xiang, Z., 2008. Expression of
+P2X5 receptors in the mouse central nervous system. Neuroscience 156,
+673e692.
+
+Gyoneva, S., Shapiro, L., Lazo, C., Garnier-Amblard, E., Smith, Y., Miller, G.W.,
+Traynelis, S.F., 2014. Adenosine A2A receptor antagonism reverses inﬂammation-
+induced impairment of microglial process extension in a model of Parkinson's
+disease. Neurobiol. Dis. 67, 191e202.
+
+Gysbers, J.W., Guarnieri, S., Mariggio, M.A., Pietrangelo, T., Fano, G., Rathbone, M.P.,
+2000. Extracellular guanosine 5' triphosphate enhances nerve growth factor-
+induced neurite outgrowth via increases in intracellular calcium. Neurosci-
+ence 96, 817e824.
+
+Hernandez, S., Casanovas, A., Piedraﬁta, L., Tarabal, O., Esquerda, J.E., 2010. Neuro-
+toxic species of misfolded SOD1G93A recognized by antibodies against the P2X4
+subunit of the ATP receptor accumulate in damaged neurons of transgenic
+animal models of amyotrophic lateral sclerosis. J. Neuropathol. Exp. Neurol. 69,
+176e187.
+
+H€opker, V.H., Saffrey, M.J., Burnstock, G., 1996. Neurite outgrowth of striatal neurons
+in vitro: involvement of purines in the growth promoting effect of myenteric
+plexus explants. Int. J. Dev. Neurosci. 14, 439e451.
+
+Hracsko, Z., Baranyi, M., Cs€olle, C., G€ol€oncser, F., Madarasz, E., Kittel, A., Sperlagh, B.,
+2011. Lack of neuroprotection in the absence of P2X7 receptors in toxin-induced
+animal models of Parkinson's disease. Mol. Neurodegener. 6, 28.
+
+Huang, N., Wang, D., Heppel, L.A., 1989. Extracellular ATP is a mitogen for 3T3, 3T6,
+and A431 cells and acts synergistically with other growth factors. Proc. Natl.
+Acad. Sci. U. S. A. 86, 7904e7908.
+
+Iadecola, C., Anrather, J., 2011. The immunology of stroke: from mechanisms to
+
+Idzko, M., Ferrari, D., Eltzschig, H.K., 2014. Nucleotide signalling during inﬂamma-
+
+translation. Nat. Med. 17, 796e808.
+
+tion. Nature 509, 310e317.
+
+system. Prog. Brain Res. 120, 1e432.
+
+Illes, P., Zimmermann, H., 1999. Nucleotides and their receptors in the nervous
+
+Illes, P., Verkhratsky, A., Burnstock, G., Franke, H., 2012. P2X receptors and their role
+in astroglia in the central and peripheral nervous system. Neuroscientist 18,
+422e438.
+
+Inoue, K., Koizumi, S., Ueno, S., 1996. Implication of ATP receptors in brain functions.
+
+Inoue, K., 1998. ATP receptors for the protection of hippocampal functions. Jpn. J.
+
+Prog. Neurobiol. 50, 483e492.
+
+Pharmacol. 78, 405e410.
+
+Ishibashi, T., Dakin, K.A., Stevens, B., Lee, P.R., Kozlov, S.V., Stewart, C.L., Fields, R.D.,
+impulses.
+
+2006. Astrocytes promote myelination in response to electrical
+Neuron 49, 823e832.
+
+Jansen, K.L., Faull, R.L., Dragunow, M., Synek, B.L., 1990. Alzheimer's disease:
+changes in hippocampal N-methyl-D-aspartate, quisqualate, neurotensin,
+adenosine, benzodiazepine, serotonin and opioid receptorsean autoradio-
+graphic study. Neuroscience 39, 613e627.
+
+Jenner, P., Mori, A., Hauser, R., Morelli, M., Fredholm, B.B., Chen, J.F., 2009. Adeno-
+sine, adenosine A2A antagonists, and Parkinson's disease. Park. Relat. Disord. 15,
+406e413.
+
+Jo, Y.H., Role, L.W., 2002. Coordinate release of ATP and GABA at in vitro synapses of
+
+lateral hypothalamic neurons. J. Neurosci. 22, 4794e4804.
+
+Jun, D., Kim, K., 2004. ATP-mediated Necrotic Volume Increase (NVI) in Substantia
+Nigra Pars Compacta Dopaminergic Neuron. Society for Neuroscience, Wash-
+ington, DC, p. 18. Abstr, 222.
+
+Jung, E.S., An, K., Hong, H.S., Kim, J.H., Mook-Jung, I., 2012. Astrocyte-originated ATP
+protects Ab(1-42)-induced impairment of synaptic plasticity. J. Neurosci. 32,
+3081e3087.
+
+Jung, J., Jo, H.W., Kwon, H., Jeong, N.Y., 2014. ATP release through lysosomal
+exocytosis from peripheral nerves: the effect of lysosomal exocytosis on pe-
+ripheral nerve degeneration and regeneration after nerve injury. Biomed. Res.
+Int. 2014, 936891.
+
+Kanjhan, R., Housley, G.D., Burton, L.D., Christie, D.L., Kippenberger, A., Thorne, P.R.,
+Luo, L., Ryan, A.F., 1999. Distribution of the P2X2 receptor subunit of the ATP-
+gated ion channels in the rat central nervous system. J. Comp. Neurol. 407,
+11e32.
+
+Kassa, R.M., Bentivoglio, M., Mariotti, R., 2007. Changes in the expression of P2X1
+and P2X2 purinergic receptors in facial motoneurons after nerve lesions in
+rodents and correlation with motoneuron degeneration. Neurobiol. Dis. 25,
+121e133.
+
+Kato, F., Kawamura, M., Shigetomi, E., Tanaka,
+
+Inoue, K., 2004. ATP- and
+adenosine-mediated signaling in the central nervous system: synaptic puri-
+noceptors: the stage for ATP to play its “dual-role”. J. Pharmacol. Sci. 94,
+107e111.
+
+Kawasaki, H., Morooka, T., Shimohama, S., Kimura,
+
+J., Hirano, T., Gotoh, Y.,
+Nishida, E., 1997. Activation and involvement of p38 mitogen-activated protein
+kinase in glutamate-induced apoptosis in rat cerebellar granule cells. J. Biol.
+Chem. 272, 18518e18521.
+
+Khakh, B.S., 2001. Molecular physiology of P2X receptors and ATP signalling at
+
+J.,
+
+synapses. Nat. Rev. Neurosci. 2, 165e174.
+
+Kharlamov, A., Jones, S.C., Kim, D.K., 2002. Suramin reduces infarct volume in a
+
+model of focal brain ischemia in rats. Exp. Brain Res. 147, 353e359.
+
+Kirischuk, S., Scherer, J., Kettenmann, H., Verkhratsky, A., 1995. Activation of P2-
+purinoreceptors triggered Ca2þ release from InsP3 -sensitive internal stores in
+mammalian oligodendrocytes. J. Physiol. 483, 41e57.
+
+Kogure, K., Alonso, O.F., 1978. A pictorial representation of endogenous brain ATP by
+
+a bioluminescent method. Brain Res. 154, 273e284.
+
+Krnjevic, K., 1999. Early effects of hypoxia on brain cell function. Croat. Med. J. 40,
+
+375e380.
+
+Krügel, U., Kittner, H., Franke, H.,
+
+Illes, P., 2003. Purinergic modulation of
+neuronal activity in the mesolimbic dopaminergic system in vivo. Synapse
+47, 134e142.
+
+Kukulski, F., Sevigny, J., Komoszynski, M., 2004. Comparative hydrolysis of extra-
+cellular adenine nucleotides and adenosine in synaptic membranes from
+porcine brain cortex, hippocampus, cerebellum and medulla oblongata. Brain
+Res. 1030, 49e56.
+
+Latini, S., Pedata, F., 2001. Adenosine in the central nervous system: release
+
+mechanisms and extracellular concentrations. J. Neurochem. 79, 463e484.
+
+Lazarowski, E.R., Sesma,
+
+J.I., Seminario-Vidal, L., Kreda, S.M., 2011. Molecular
+mechanisms of purine and pyrimidine nucleotide release. Adv. Pharmacol. 61,
+221e261.
+
+L€ammer, A., Gunther, A., Beck, A., Krugel, U., Kittner, H., Schneider, D., Illes, P.,
+Franke, H., 2006. Neuroprotective effects of the P2 receptor antagonist PPADS
+on focal cerebral
+J. Neurosci. 23,
+2824e2828.
+
+ischaemia-induced injury in rats. Eur.
+
+L€ammer, A.B., Beck, A., Grummich, B., F€orschler, A., Krügel, T., Kahn, T., Schneider, D.,
+Illes, P., Franke, H., Krügel, U., 2011. The P2 receptor antagonist PPADS supports
+recovery from experimental stroke in vivo. PLoS One 6, e19983.
+
+Le Feuvre, R., Brough, D., Rothwell, N., 2002. Extracellular ATP and P2X7 receptors in
+
+neurodegeneration. Eur. J. Pharmacol. 447, 261e269.
+
+Lecca, D., Trincavelli, M.L., Gelosa, P., Sironi, L., Ciana, P., Fumagalli, M., Villa, G.,
+Verderio, C., Grumelli, C., Guerrini, U., Tremoli, E., Rosa, P., Cuboni, S., Martini, C.,
+Buffo, A., Cimino, M., Abbracchio, M.P., 2008. The recently identiﬁed P2Y-like
+receptor GPR17 is a sensor of brain damage and a new target for brain repair.
+PLoS. One 3, e3579.
+
+Lee, H.G., Won, S.M., Gwag, B.J., Lee, Y.B., 2011. Microglial P2X receptor expression is
+accompanied by neuronal damage in the cerebral cortex of the APPswe/PS1dE9
+mouse model of Alzheimer's disease. Exp. Mol. Med. 43, 7e14.
+
+Leon-Otegui, M., Gomez-Villafuertes, R., Díaz-Hernandez, J.I., Díaz-Hernaandez, M.,
+Miras-Portugal, M.T., Gualix,
+J., 2011. Opposite effects of P2X7 and P2Y2
+nucleotide receptors on a-secretase-dependent APP processing in Neuro-2a
+cells. FEBS Lett. 585, 2255e2262.
+
+Lin, J.H., Takano, T., Arcuino, G., Wang, X., Hu, F., Darzynkiewicz, Z., Nunes, M.,
+Goldman, S.A., Nedergaard, M., 2007. Purinergic signaling regulates neural
+progenitor cell expansion and neurogenesis. Dev. Biol. 302, 356e366.
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+12
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+Lin, Y., Desbois, A., Jiang, S., Hou, S.T., 2005. P2 receptor antagonist PPADS confers
+neuroprotection against glutamate/NMDA toxicity. Neurosci. Lett. 377, 97e100.
+Llewellyn-Smith, I.J., Burnstock, G., 1998. Ultrastructural localization of P2X3 re-
+
+ceptors in rat sensory neurons. Neuroreport 9, 2245e2250.
+
+Loesch, A., Burnstock, G., 1998. Electron-immunocytochemical localization of P2X1
+
+receptors in the rat cerebellum. Cell. Tissue Res. 294, 253e260.
+
+Lusardi, T.A., 2009. Adenosine neuromodulation and traumatic brain injury. Curr.
+
+Neuropharmacol. 7, 228e237.
+
+Majumder, P., Trujillo, C.A., Lopes, C.G., Resende, R.R., Gomes, K.N., Yuahasi, K.K.,
+Britto, L.R., Ulrich, H., 2007. New insights into purinergic receptor signaling in
+neuronal differentiation, neuroprotection, and brain disorders. Purinergic
+Signal. 3, 317e331.
+
+Marcellino, D., Suarez-Boomgaard, D., Sanchez-Reina, M.D., Aguirre,
+
+J.A.,
+Yoshitake, T., Yoshitake, S., Hagman, B., Kehr, J., Agnati, L.F., Fuxe, K., Rivera, A.,
+2010. On the role of P2X7 receptors in dopamine nerve cell degeneration in a rat
+model of Parkinson's disease: studies with the P2X7 receptor antagonist A-
+438079. J. Neural Transm. 117, 681e687.
+
+Martino, G., Pluchino, S., 2006. The therapeutic potential of neural stem cells. Nat.
+
+Rev. Neurosci. 7, 395e406.
+
+Masino, S.A., Dunwiddie, T.V., 2001. Role of purines and pyrimidines in the central
+nervous system. In: Abbracchio, M.P., Williams, M. (Eds.), Handbook of Exper-
+imental Pharmacology. Purinergic and Pyrimidinergic Signalling I e Molecular,
+Nervous
+Springer-Verlag, Berlin,
+pp. 251e288.
+
+and Urinogenitary System Function.
+
+Matsuoka, I., Ohkubo, S., 2004. ATP- and adenosine-mediated signaling in the
+central nervous system: adenosine receptor activation by ATP through rapid
+and localized generation of adenosine by ecto-nucleotidases. J. Pharmacol. Sci.
+94, 95e99.
+
+Matute, C., Torre, I., Perez-Cerda, F., Perez-Samartín, A., Alberdi, E., Etxebarria, E.,
+Arranz, A.M., Ravid, R., Rodríguez-Antiguedad, A., Sanchez-Gomez, M.,
+Domercq, M., 2007. P2X7 receptor blockade prevents ATP excitotoxicity in oli-
+godendrocytes and ameliorates experimental autoimmune encephalomyelitis.
+J. Neurosci. 27, 9525e9533.
+
+Matute, C., Cavaliere, F., 2011. Neuroglial interactions mediated by purinergic sig-
+nalling in the pathophysiology of CNS disorders. Semin. Cell. Dev. Biol. 22,
+252e259.
+
+McLarnon, J.G., Ryu, J.K., Walker, D.G., Choi, H.B., 2006. Upregulated expression of
+purinergic P2X7 receptor in Alzheimer disease and amyloid-b peptide-treated
+microglia and in peptide-injected rat hippocampus. J. Neuropathol. Exp. Neu-
+rol. 65, 1090e1097.
+
+Melani, A., Turchi, D., Vannucchi, M.G., Cipriani, S., Gianfriddo, M., Pedata, F., 2005.
+ATP extracellular concentrations are increased in the rat striatum during in vivo
+ischemia. Neurochem. Int. 47, 442e448.
+
+Melani, A., Amadio, S., Gianfriddo, M., Vannucchi, M.G., Volonte, C., Bernardi, G.,
+Pedata, F., Sancesario, G., 2006. P2X7 receptor modulation on microglial cells
+and reduction of brain infarct caused by middle cerebral artery occlusion in rat.
+J. Cereb. Blood Flow. Metab. 26, 974e982.
+
+M^eme, W., Ezan, P., Venance, L., Glowinski, J., Giaume, C., 2004. ATP-induced in-
+hibition of gap junctional communication is enhanced by interleukin-1 beta
+treatment in cultured astrocytes. Neuroscience 126, 95e104.
+
+Messemer, N., Kunert, C., Illes, P., Rubini, P., 2013a. Co-expression of functional P2X4
+and P2X7 receptors at adult neural progenitor cells of the mouse subventricular
+zone. Open Neurosci. J. 7, 1e4.
+
+Messemer, N., Kunert, C., Grohmann, M., Sobottka, H., Nieber, K., Zimmermann, H.,
+Franke, H., N€orenberg, W., Straub, I., Schaefer, M., Riedel, T., Illes, P., Rubini, P.,
+2013b. P2X7 receptors at adult neural progenitor cells of the mouse sub-
+ventricular zone. Neuropharmacology 73, 122e137.
+
+Mievis, S., Blum, D., Ledent, C., 2011. Worsening of Huntington disease phenotype in
+
+CB1 receptor knockout mice. Neurobiol. Dis. 43, 524e529.
+
+Miras-Portugal, M.T., Marìn-García, P., Carrasquera, L.M., Delicado, E.G., Díaz-
+Hernandez, M., Gomez-Villafuertes, R., Gualix, J., Leon, D., Leon-Otegui, M.,
+Ortega, F., Perez-Sen, R., Salas, E., Sanchez-Nogueiro, J., 2007. Physiological role
+of extracellular nucleotides at the central nervous system: signalling through
+P2X and P2Y receptors. An. R. Acad. Nac. Farm. 73, 1127e1157.
+
+Mishra, S.K., Braun, N., Shukla, V., Füllgrabe, M., Schomerus, C., Korf, H.W.,
+Gachet, C., Ikehara, Y., Sevigny, J., Robson, S.C., Zimmermann, H., 2006. Extra-
+cellular nucleotide signaling in adult neural stem cells: synergism with growth
+factor-mediated cellular proliferation. Development 133, 675e684.
+
+Mojsilovic-Petrovic, J., Jeong, G.B., Crocker, A., Arneja, A., David, S., Russell, D.S.,
+Kalb, R.G., 2006. Protecting motor neurons from toxic insult by antagonism of
+adenosine A2a and Trk receptors. J. Neurosci. 26, 9250e9263.
+
+Monopoli, A., Lozza, G., Forlani, A., Mattavelli, A., Ongini, E., 1998. Blockade of
+adenosine A2A receptors by SCH 58261 results in neuroprotective effects in
+cerebral ischaemia in rats. Neuroreport 9, 3955e3959.
+
+Moore, D., Chambers, J., Waldvogel, H., Faull, R., Emson, P., 2000. Regional and
+cellular distribution of the P2Y1 purinergic receptor in the human brain:
+striking neuronal localisation. J. Comp. Neurol. 421, 374e384.
+
+Moran-Jimenez, M., Matute, C., 2000. Immunohistochemical localization of the
+P2Y1 purinergic receptor in neurons and glial cells of the central nervous sys-
+tem. Brain Res. Mol. Brain Res. 78, 50e58.
+
+Morandini, A.C., Savio, L.E., Coutinho-Silva, R., 2014. The role of P2X7 receptor in
+infectious inﬂammatory diseases and the inﬂuence of ectonucleotidases. Bio-
+med. J. 37, 169e177.
+
+Morciano, M., Ortinau, S., Zimmermann, H., 2004. Guanine nucleotides inhibit
+NMDA and kainate-induced neurotoxicity in cultured rat hippocampal and
+neocortical neurons. Neurochem. Int. 45, 95e101.
+
+Morente, V., Perez-Sen, R., Ortega, F., Huerta-Cepas,
+
+Morelli, M., Carta, A.R., Kachroo, A., Schwarzschild, M.A., 2010. Pathophysiological
+roles for purines: adenosine, caffeine and urate. Prog. Brain Res. 183, 183e208.
+J., Delicado, E.G., Miras-
+Portugal, M.T., 2014. Neuroprotection elicited by P2Y13 receptors against gen-
+otoxic stress by inducing DUSP2 expression and MAPK signaling recovery.
+Biochim. Biophys. Acta 1843, 1886e1898.
+
+Mori, M., Heuss, C., Gahwiler, B.H., Gerber, U., 2001. Fast synaptic transmission
+mediated by P2X receptors in CA3 pyramidal cells of rat hippocampal slice
+cultures. J. Physiol. 535, 115e123.
+
+Murphy, N., Cowley, T.R., Richardson,
+
+J.C., Virley, D., Upton, N., Walter, D.,
+Lynch, M.A., 2012. The neuroprotective effect of a speciﬁc P2X7 receptor
+antagonist derives from its ability to inhibit assembly of the NLRP3 inﬂam-
+masome in glial cells. Brain Pathol. 22, 295e306.
+
+Narcisse, L., Scemes, E., Zhao, Y., Lee, S.C., Brosnan, C.F., 2005. The cytokine IL-1b
+transiently enhances P2X7 receptor expression and function in human astro-
+cytes. Glia 49, 245e258.
+
+Neary, J.T., Whittemore, S.R., Zhu, Q., Norenberg, M.D., 1994. Synergistic activation of
+DNA synthesis in astrocytes by ﬁbroblast growth factors and extracellular ATP.
+J. Neurochem. 63, 490e494.
+
+Neary, J.T., Rathbone, M.P., Cattabeni, F., Abbracchio, M.P., Burnstock, G., 1996. Tro-
+phic actions of extracellular nucleotides and nucleosides on glial and neuronal
+cells. Trends Neurosci. 19, 13e18.
+
+Neary, J.T., Kang, Y., Willoughby, K.A., Ellis, E.F., 2003. Activation of extracellular
+signal-regulated kinase by stretch-induced injury in astrocytes involves extra-
+cellular ATP and P2 purinergic receptors. J. Neurosci. 23, 2348e2356.
+
+Neary, J.T., Kang, Y., Tran, M., Feld, J., 2005. Traumatic injury activates protein kinase
+B/Akt in cultured astrocytes: role of extracellular ATP and P2 purinergic re-
+ceptors. J. Neurotrauma 22, 491e500.
+
+Neary, J.T., Kang, Y., 2005. Signaling from P2 nucleotide receptors to protein kinase
+cascades induced by CNS injury: implications for reactive gliosis and neuro-
+degeneration. Mol. Neurobiol. 31, 95e103.
+
+Neary, J.T., Kang, Y., 2006. P2 purinergic receptors signal to glycogen synthase ki-
+
+nase-3b in astrocytes. J. Neurosci. Res. 84, 515e524.
+
+Neary, J.T., Kang, Y., Shi, Y.F., Tran, M.D., Wanner, I.B., 2006. P2 receptor signalling,
+proliferation of astrocytes, and expression of molecules involved in cell-cell
+interactions. Novartis. Found. Symp. 276, 131e143.
+
+Neary, J.T., Zimmermann, H., 2009. Trophic functions of nucleotides in the central
+
+nervous system. Trends Neurosci. 32, 189e198.
+
+Nedeljkovic, N., Bjelobaba,
+
+I., Pekovic, S., Stojkov, D.,
+Vjestica, A., Rakic, L., Stojiljkovic, M., 2006. Up-regulation of ectonucleotidase
+activity after cortical stab injury in rats. Cell. Biol. Int. 30, 541e546.
+
+I., Subasic, S., Lavrnja,
+
+Nieber, K., Sevcik, J., Illes, P., 1995. Hypoxic changes in rat locus coeruleus neurons
+
+in vitro. J. Physiol. 486, 33e46.
+
+Nieber, K., Poelchen, W., Illes, P., 1997. Role of ATP in fast excitatory synaptic po-
+tentials in locus coeruleus neurones of the rat. Br. J. Pharmacol. 122, 423e430.
+Nieber, K., Eschke, D., Brand, A., 1999. Brain hypoxia: effects of ATP and adenosine.
+
+North, R.A., Verkhratsky, A., 2006. Purinergic transmission in the central nervous
+
+Prog. Brain Res. 120, 287e297.
+
+system. Pﬂugers Arch. 452, 479e485.
+
+Ogata, T., Chuai, M., Morino, T., Yamamoto, H., Nakamura, Y., Schubert, P., 2003.
+Adenosine triphosphate inhibits cytokine release from lipopolysaccharide-
+activated microglia via P2y receptors. Brain Res. 981, 174e183.
+
+Ormerod, B.K., Palmer, T.D., Caldwell, M.A., 2008. Neurodegeneration and cell
+
+replacement. Philos. Trans. R. Soc. Lond B Biol. Sci. 363, 153e170.
+
+Pankratov, Y., Lalo, U., Castro, E., Miras-Portugal, M.T., Krishtal, O., 1999. ATP
+receptor-mediated component of the excitatory synaptic transmission in the
+hippocampus. Prog. Brain Res. 120, 237e249.
+
+Pankratov, Y., Lalo, U., Krishtal, O., Verkhratsky, A., 2002. Ionotropic P2X purinor-
+eceptors mediate synaptic transmission in rat pyramidal neurones of layer II/III
+of somato-sensory cortex. J. Physiol. 542, 529e536.
+
+Pankratov, Y., Lalo, U., Krishtal, O.A., Verkhratsky, A., 2009. P2X receptors and
+
+synaptic plasticity. Neuroscience 158, 137e148.
+
+Parisi, C., Arisi, I., D'Ambrosi, N., Storti, A.E., Brandi, R., D'Onofrio, M., Volonte, C.,
+2013. Dysregulated microRNAs in amyotrophic lateral sclerosis microglia
+modulate genes linked to neuroinﬂammation. Cell. Death Dis. 4, e959.
+
+Parpura, V., Zorec, R., 2010. Gliotransmission: exocytotic release from astrocytes.
+
+Brain Res. Rev. 63, 83e92.
+
+Parvathenani, L.K., Tertyshnikova, S., Greco, C.R., Roberts, S.B., Robertson, B.,
+Posmantur, R., 2003. P2X7 mediates superoxide production in primary micro-
+glia and is up-regulated in a transgenic mouse model of Alzheimer's disease.
+J. Biol. Chem. 278, 13309e13317.
+
+Pedata, F., Gianfriddo, M., Turchi, D., Melani, A., 2005. The protective effect of
+adenosine A2A receptor antagonism in cerebral ischemia. Neurol. Res. 27,
+169e174.
+
+Pedata, F., Melani, A., Pugliese, A.M., Coppi, E., Cipriani, S., Traini, C., 2007. The role of
+ATP and adenosine in the brain under normoxic and ischemic conditions.
+Purinergic. Signal. 3, 299e310.
+
+Pekovic, S., Subasic, S., Nedeljkovic, N., Bjelobaba, I., Filipovic, R., Milenkovic, I.,
+Lavrnja, I., Stojkov, D., Jovanovic, S., Rakic, L., Stojiljkovic, M., 2006. Molecular
+basic of brain injury and repair. In: Ruzdijic, S., Rakic, L. (Eds.), Neurobiological
+Studies e from Genes to Behaviour. Research Signpost, Kerala,
+India,
+pp. 143e165.
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+13
+
+Shih, C.C., Weng, Y., Mamelak, A., LeBon, T., Hu, M.C., Forman, S.J., 2001. Identiﬁ-
+cation of a candidate human neurohematopoietic stem-cell population. Blood
+98, 2412e2422.
+
+Skaper, S.D., 2007. The brain as a target for inﬂammatory processes and neuro-
+
+protective strategies. Ann. N. Y. Acad. Sci. 1122, 23e34.
+
+Skaper, S.D., 2011.
+
+Ion channels on microglia: therapeutic targets for neuro-
+
+protection. CNS Neurol. Disord. Drug Targets 10, 44e56.
+
+Snyder, S.H., 1985. Adenosine as a neuromodulator. Annu. Rev. Neurosci. 8,
+
+Peng, W., Cotrina, M.L., Han, X., Yu, H., Bekar, L., Blum, L., Takano, T., Tian, G.F.,
+Goldman, S.A., Nedergaard, M., 2009. Systemic administration of an antagonist
+of the ATP-sensitive receptor P2X7 improves recovery after spinal cord injury.
+Proc. Natl. Acad. Sci. U. S. A. 106, 12489e12493.
+
+Perez-Lloret, S., Merello, M., 2014. Two new adenosine receptor antagonists for the
+treatment of Parkinson's disease: istradefylline versus tozadenant. Expert. Opin.
+Pharmacother. 15, 1097e1107.
+
+Peterson, T.S., Camden, J.M., Wang, Y., Seye, C.I., Wood, W.G., Sun, G.Y., Erb, L.,
+Petris, M.J., Weisman, G.A., 2010. P2Y2 nucleotide receptor-mediated responses
+in brain cells. Mol. Neurobiol. 41, 356e366.
+
+Phillis, J.W., Wu, P.H., 1981. The role of adenosine and its nucleotides in central
+
+synaptic transmission. Prog. Neurobiol. 16, 187e239.
+
+Pimentel, V.C., Moretto, M.B., Oliveira, M.C., Zanini, D., Sebastiao, A.M.,
+Schetinger, M.R., 2015. Neuroinﬂammation after neonatal hypoxia-ischemia is
+associated with alterations in the purinergic system: adenosine deaminase 1
+isoenzyme is the most predominant after insult. Mol. Cell. Biochem. 403,
+169e177.
+
+Pinna, A., 2009. Novel investigational adenosine A2A receptor antagonists for Par-
+
+kinson's disease. Expert. Opin. Investig. Drugs 18, 1619e1631.
+
+Poelchen, W., Sieler, D., Wirkner, K., Illes, P., 2001. Co-transmitter function of ATP in
+
+central catecholaminergic neurons of the rat. Neuroscience 102, 593e602.
+
+Popoli, P., Betto, P., Reggio, R., Ricciarello, G., 1995. Adenosine A2A recerptor stim-
+ulation enhances striatal extracellular glutamate levels in rats. Eur. J. Pharmacol.
+287, 215e217.
+
+Popoli, P., Frank, C., Tebano, M.T., Potenza, R.L., Pintor, A., Domenici, M.R.,
+Nazzicone, V., Pezzola, A., Reggio, R., 2003. Modulation of glutamate release and
+excitotoxicity by adenosine A2A receptors. Neurology 61, S69eS71.
+
+Popoli, P., Blum, D., Martire, A., Ledent, C., Ceruti, S., Abbracchio, M.P., 2007. Func-
+tions, dysfunctions and possible therapeutic relevance of adenosine A2A re-
+ceptors in Huntington's disease. Prog. Neurobiol. 81, 331e348.
+
+Popoli, P., Blum, D., Domenici, M.R., Burnouf, S., Chern, Y., 2008. A critical evaluation
+of adenosine A2A receptors as potentially “druggable” targets in Huntington's
+disease. Curr. Pharm. Des. 14, 1500e1511.
+
+Potter, P., White, T.D., 1980. Release of adenosine 5'-triphosphate from synapto-
+
+somes from different regions of rat brain. Neuroscience 5, 1351e1356.
+
+Ralevic, V., Burnstock, G., 1998. Receptors for purines and pyrimidines. Pharmacol.
+
+Rev. 50, 413e492.
+
+Rathbone, M.P., Middlemiss, P.J., Gysbers, J.W., Andrew, C., Herman, M.A., Reed, J.K.,
+Ciccarelli, R., Di Iorio, P., Caciagli, F., 1999. Trophic effects of purines in neurons
+and glial cells. Prog. Neurobiol. 59, 663e690.
+
+Reece, T.B., Davis, J.D., Okonkwo, D.O., Maxey, T.S., Ellman, P.I., Li, X., Linden, J.,
+J.A., 2004. Adenosine A2A analogue reduces
+J. Surg. Res. 121,
+
+Tribble, C.G., Kron,
+long-term neurologic injury after blunt spinal trauma.
+130e134.
+
+I.L., Kern,
+
+Ribeiro, J.A., 2008. Fine tuning neuromodulation by adenosine and neuroprotection.
+
+An. R. Acad. Nac. Farm. 74, 387e408.
+
+Ribeiro, J.A., Sebasti~ao, A.M., de Mendonça, A., 2003. Adenosine receptors in the
+nervous system: pathophysiological implications. Prog. Neurobiol. 68, 377e392.
+Robertson, S.J., Ennion, S.J., Evans, R.J., Edwards, F.A., 2001. Synaptic P2X receptors.
+
+Curr. Opin. Neurobiol. 11, 378e386.
+
+Rodrigues, R.J., Almeida, T., Richardson, P.J., Oliveira, C.R., Cunha, R.A., 2005. Dual
+presynaptic control by ATP of glutamate release via facilitatory P2X1, P2X2/3,
+and P2X3 and inhibitory P2Y1, P2Y2, and/or P2Y4 receptors in the rat hippo-
+campus. J. Neurosci. 25, 6286e6295.
+
+Rong, W., Gourine, A., Cockayne, D.A., Xiang, Z., Ford, A.P.D.W., Spyer, K.M.,
+Burnstock, G., 2003. Pivotal role of nucleotide P2X2 receptor subunit mediating
+ventilatory responses to hypoxia: knockout mouse studies. J. Neurosci. 23,
+11315e11321.
+
+Ryu, J.K., Choi, H.B., Hatori, K., Heisel, R.L., Pelech, S.L., McLarnon, J.G., Kim, S.U.,
+2003. Adenosine triphosphate induces proliferation of human neural stem
+cells: role of calcium and p70 ribosomal protein S6 kinase. J. Neurosci. Res. 72,
+352e362.
+
+Ryu, J.K., McLarnon, J.G., 2008. Block of purinergic P2X7 receptor is neuroprotective
+
+in an animal model of Alzheimer's disease. Neuroreport 19.
+
+Sanz, J.M., Chiozzi, P., Ferrari, D., Colaianna, M., Idzko, M., Falzoni, S., Fellin, R.,
+Trabace, L., Di Virgilio, F., 2009. Activation of microglia by amyloid b requires
+P2X7 receptor expression. J. Immunol. 182, 4378e4385.
+
+Sch€afer, K., Saffrey, M.J., Burnstock, G., 1995. Trophic actions of 2-chloroadenosine
+
+and bFGF on cultured myenteric neurones. Neuroreport 6, 937e941.
+
+Schock, S.C., Leblanc, D., Hakim, A.M., Thompson, C.S., 2008. ATP release by way of
+connexin 36 hemichannels mediates ischemic tolerance in vitro. Biochem.
+Biophys. Res. Commun. 368, 138e144.
+
+Sebasti~ao, A.M., Ribeiro, J.A., 2009. Adenosine receptors and the central nervous
+
+system. Handb. Exp. Pharmacol. 471e534.
+
+Shah, U., Hodgson, R., 2010. Recent progress in the discovery of adenosine A2A re-
+ceptor antagonists for the treatment of Parkinson's disease. Curr. Opin. Drug
+Discov. Develop. 13, 466e480.
+
+Sharp, A.J., Polak, P.E., Simonini, V., Lin, S.X., Richardson, J.C., Bongarzone, E.R.,
+Feinstein, D.L., 2008. P2x7 deﬁciency suppresses development of experimental
+autoimmune encephalomyelitis. J. Neuroinﬂammation. 5, 33.
+
+Shields, C.B., Zhang, Y.P., Chen, S., Han, Y., Shields, L.B.E., Burke, D.A., Haskins, R.,
+2004. Treatment of Spinal Cord Injury via Topical Perfusion with an ATP Solu-
+tion. Society for Neuroscience, Washington, DC, 2004 Abstract Viewer/Itinerary
+Planner; Program no. 418. 8.
+
+103e124.
+
+Spanevello, R.M., Mazzanti, C.M., Kaizer, R., Zanin, R., Cargnelutti, D., Hannel, L.,
+Correa, M., Mazzanti, A., Festugatto, R., Graca, D., Schetinger, M.R., Morsch, V.M.,
+2006. Apyrase and 5'-nucleotidase activities in synaptosomes from the cerebral
+cortex of rats experimentally demyelinated with ethidium bromide and treated
+with interferon-b. Neurochem. Res. 31, 455e462.
+
+Sperlagh, B., Illes, P., 2014. P2X7 receptor: an emerging target in central nervous
+
+system diseases. Trends Pharmacol. Sci. 35, 537e547.
+
+Sperlagh, B., Sershen, H., Lajtha, A., Vizi, E.S., 1998. Co-release of endogenous ATP
+and [3H]noradrenaline from rat hypothalamic slices: origin and modulation by
+a2-adrenoceptors. Neuroscience 82, 511e520.
+
+Sperlagh, B., Zsilla, G., Baranyi, M., Illes, P., Vizi, E.S., 2007. Purinergic modulation of
+glutamate release under ischemic-like conditions in the hippocampus. Neuro-
+science 149, 99e111.
+
+Stone, T.W., 2005. Adenosine, neurodegeneration and neuroprotection. Neurol. Res.
+
+27, 161e168.
+
+Stone, T.W., Ceruti, S., Abbracchio, M.P., 2009. Adenosine receptors and neurological
+disease: neuroprotection and neurodegeneration. Handb. Exp. Pharmacol.
+535e587.
+
+Sun, Z., Hu, L., Wen, Y., Chen, K., Sun, Z., Yue, H., Zhang, C., 2013. Adenosine
+triphosphate promotes locomotor recovery after spinal cord injury by
+activating mammalian target of rapamycin pathway in rats. Neural Regen.
+Res. 8, 101e110.
+
+Suyama, S., Sunabori, T., Kanki, H., Sawamoto, K., Gachet, C., Koizumi, S., Okano, H.,
+2012. Purinergic signaling promotes proliferation of adult mouse subventricular
+zone cells. J. Neurosci. 32, 9238e9247.
+
+Suzuki, T., Hide, I., Ido, K., Kohsaka, S., Inoue, K., Nakata, Y., 2004. Production and
+release of neuroprotective tumor necrosis factor by P2X7 receptor-activated
+microglia. J. Neurosci. 24, 1e7.
+
+Takenouchi, T., Sekiyama, K., Sekigawa, A., Fujita, M., Waragai, M., Sugama, S.,
+Iwamaru, Y., Kitani, H., Hashimoto, M., 2010. P2X7 receptor signaling pathway
+as a therapeutic target for neurodegenerative diseases. Arch. Immunol. Ther.
+Exp. (Warsz.) 58, 91e96.
+
+Tarditi, A., Camurri, A., Varani, K., Borea, P.A., Woodman, B., Bates, G., Cattaneo, E.,
+Abbracchio, M.P., 2006. Early and transient alteration of adenosine A2A receptor
+signaling in a mouse model of Huntington disease. Neurobiol. Dis. 23, 44e53.
+Tew, E.M.M., Anderson, P.N., Burnstock, G., 1992. Implantation of the myenteric
+plexus into the corpus striatum of adult rats: survival of the neurones and glia
+and interactions with host brain. Restor. Neurol. Neurosci. 4, 311e321.
+
+Tokui, K., Sakanaka, M., Kimura, S., 1994. Progressive reorganization of the myen-
+teric plexus during one year following reanastomosis of the ileum of the guinea
+pig. Cell. Tissue Res. 277, 259e272.
+
+Traini, C., Pedata, F., Cipriani, S., Mello, T., Galli, A., Giovannini, M.G., Cerbai, F.,
+Volpini, R., Cristalli, G., Pugliese, A.M., 2011. P2 receptor antagonists prevent
+synaptic failure and extracellular signal-regulated kinase1/2 activation induced
+by oxygen and glucose deprivation in rat CA1 hippocampus in vitro. Eur. J.
+Neurosci. 33, 2203e2215.
+
+Tran, M.D., 2011. P2 receptor stimulation induces amyloid precursor protein pro-
+
+duction and secretion in rat cortical astrocytes. Neurosci. Lett. 492, 155e159.
+
+Tran, M.D., Neary,
+
+J.T., 2006. Purinergic signaling induces thrombospondin-1
+
+expression in astrocytes. Proc. Natl. Acad. Sci. U. S. A. 103, 9321e9326.
+
+Trujillo, C.A., Schwindt, T.T., Martins, A.H., Alves, J.M., Mello, L.E., Ulrich, H., 2009.
+Novel perspectives of neural stem cell differentiation: from neurotransmitters
+to therapeutics. Cytom. A 75, 38e53.
+
+Tsuda, M., Shigemoto-Mogami, Y., Koizumi, S., Mizokoshi, A., Kohsaka, S.,
+Salter, M.W., Inoue, K., 2003. P2X4 receptors induced in spinal microglia gate
+tactile allodynia after nerve injury. Nature 424, 778e783.
+
+Ulas, J., Brunner, L.C., Nguyen, L., Cotman, C.W., 1993. Reduced density of adenosine
+A1 receptors and preserved coupling of adenosine A1 receptors to G proteins in
+Alzheimer hippocampus: a quantitative autoradiographic study. Neuroscience
+52, 843e854.
+
+Ulrich, H., Abbracchio, M.P., Burnstock, G., 2012. Extrinsic purinergic regulation of
+neural stem/progenitor cells: implications for CNS development and repair.
+Stem Cell. Revs Rep. 8, 755e767.
+
+Vacirca, D., Barbati, C., Scazzocchio, B., Masella, R., Rosano, G., Malorni, W.,
+Ortona, E., 2011. Anti-ATP synthase autoantibodies from patients with Alz-
+heimer's disease reduce extracellular HDL level. J. Alzheimers. Dis. 26, 441e445.
+Vacirca, D., Delunardo, F., Matarrese, P., Colasanti, T., Margutti, P., Siracusano, A.,
+Pontecorvo, S., Capozzi, A., Sorice, M., Francia, A., Malorni, W., Ortona, E., 2012.
+Autoantibodies to the adenosine triphosphate synthase play a pathogenetic role
+in Alzheimer's disease. Neurobiol. Aging 33, 753e766.
+
+Varani, K., Rigamonti, D., Sipione, S., Camurri, A., Borea, P.A., Cattabeni, F.,
+Abbracchio, M.P., Cattaneo, E., 2001. Aberrant ampliﬁcation of A2A receptor
+signaling in striatal cells expressing mutant huntingtin. FASEB J. 15, 1245e1247.
+Varani, K., Bachoud-Levi, A.C., Mariotti, C., Tarditi, A., Abbracchio, M.P., Gasperi, V.,
+Borea, P.A., Dolbeau, G., Gellera, C., Solari, A., Rosser, A., Naji, J., Handley, O.,
+Maccarrone, M., Peschanski, M., DiDonato, S., Cattaneo, E., 2007. Biological
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+14
+
+G. Burnstock / Neuropharmacology xxx (2015) 1e14
+
+abnormalities of peripheral A2A receptors in a large representation of poly-
+glutamine disorders and Huntington's disease stages. Neurobiol. Dis. 27, 36e43.
+Varma, R., Chai, Y., Troncoso, J., Gu, J., Xing, H., Stojilkovic, S.S., Mattson, M.P.,
+Haughey, N.J., 2009. Amyloid-b induces a caspase-mediated cleavage of P2X4 to
+promote purinotoxicity. Neuromolecular Med. 11, 63e75.
+
+Verderio, C., Matteoli, M., 2011. ATP in neuron-glia bidirectional signalling. Brain
+
+Verkhratsky, A., Krishtal, O.A., Burnstock, G., 2009. Purinoceptors in neuroglia. Mol.
+
+Res. Rev. 66, 106e114.
+
+Neurobiol. 39, 190e208.
+
+Villar-Menendez,
+
+I., Porta, S., Buira, S.P., Pereira-Veiga, T., Díaz-Sanchez, S.,
+Albasanz, J.L., Ferrer, I., Martín, M., Barrachina, M., 2014. Increased striatal
+adenosine A2A receptor levels is an early event in Parkinson's disease-related
+pathology and it is potentially regulated by miR-34b. Neurobiol. Dis. 69,
+206e214.
+
+Vincenzi, F., Corciulo, C., Targa, M., Merighi, S., Gessi, S., Casetta, I., Gentile, M.,
+Granieri, E., Borea, P.A., Varani, K., 2013. Multiple sclerosis lymphocytes upre-
+gulate A2A adenosine receptors that are antiinﬂammatory when stimulated.
+Eur. J. Immunol. 43, 2206e2216.
+
+Viscomi, M.T., Florenzano, F., Conversi, D., Bernardi, G., Molinari, M., 2004. Axotomy
+dependent purinergic and nitrergic co-expression. Neuroscience 123, 393e404.
+Volonte, C., Amadio, S., Cavaliere, F., D'Ambrosi, N., Vacca, F., Bernardi, G., 2003.
+Extracellular ATP and neurodegeneration. Curr. Drug Targets CNS. Neurol. Dis-
+ord. 2, 403e412.
+
+Volonte, C., Burnstock, G., 2012. Editorial: pharmacology and therapeutic activity of
+purinergic drugs for disorders of the nervous system. CNS Neurol. Disorders-
+Drug Targets 11, 649e651.
+
+Von Lubitz, D.K., Lin, R.C., Popik, P., Carter, M.F., Jacobson, K.A., 1994. Adenosine A3
+
+receptor stimulation and cerebral ischemia. Eur. J. Pharmacol. 263, 59e67.
+
+Von Lubitz, D.K., Lin, R.C., Jacobson, K.A., 1995. Cerebral ischemia in gerbils: effects
+of acute and chronic treatment with adenosine A2A receptor agonist and
+antagonist. Eur. J. Pharmacol. 287, 295e302.
+
+Wall, M.J., Dale, N., 2007. Auto-inhibition of rat parallel ﬁbre-Purkinje cell synapses
+
+by activity-dependent adenosine release. J. Physiol. 581, 553e565.
+
+Wang, C.M., Chang, Y.Y., Kuo, J.S., Sun, S.H., 2002. Activation of P2X7 receptors
+induced [3H]GABA release from the RBA-2 type-2 astrocyte cell line through a
+Cl-/HCO3
+
+--dependent mechanism. Glia 37, 8e18.
+
+Wang, L.Y., Cai, W.Q., Chen, P.H., Deng, Q.Y., Zhao, C.M., 2009. Downregulation of
+P2X7 receptor expression in rat oligodendrocyte precursor cells after hypoxia
+ischemia. Glia 57, 307e319.
+
+Wang, X., Arcuino, G., Takano, T., Lin, J., Peng, W.G., Wan, P., Li, P., Xu, Q., Liu, Q.S.,
+Goldman, S.A., Nedergaard, M., 2004. P2X7 receptor inhibition improves re-
+covery after spinal cord injury. Nat. Med. 10, 821e827.
+
+Wang, Y., Chang, C.F., Morales, M., Chiang, Y.H., Harvey, B.K., Su, T.P., Tsao, L.I.,
+Chen, S., Thiemermann, C., 2003. Diadenosine tetraphosphate protects against
+injuries induced by ischemia and 6-hydroxydopamine in rat brain. J. Neurosci.
+23, 7958e7965.
+
+Watanabe, S., Yoshimi, Y., Ikekita, M., 2003. Neuroprotective effect of adenine on
+purkinje cell survival in rat cerebellar primary cultures. J. Neurosci. Res. 74,
+754e759.
+
+Watts, L.T., Lloyd, R., Garling, R.J., Duong, T., 2013. Stroke neuroprotection: targeting
+
+mitochondria. Brain Sci. 3, 540e560.
+
+Williams, M., 1984. Mammalian central adenosine receptors. In: Lajtha, A. (Ed.),
+Handbook of Neurochemistry. Plenum Publishing Corporation, New York,
+pp. 1e25.
+
+Williams-Karnesky, R.L., Stenzel-Poore, M.P., 2009. Adenosine and stroke: maxi-
+mizing the therapeutic potential of adenosine as a prophylactic and acute
+neuroprotectant. Curr. Neuropharmacol. 7, 217e227.
+
+Wirkner, K., K€ofalvi, A., Fischer, W., Günther, A., Franke, H., Gr€oger-Arndt, H.,
+N€orenberg, W., Madarasz, E., Vizi, E.S., Schneider, D., Sperlagh, B., Illes, P., 2005.
+Supersensitivity of P2X7 receptors in cerebrocortical cell cultures after in vitro
+ischemia. J. Neurochem. 95, 1421e1437.
+
+Wurtman, R.J., Cansev, M., Ulus, I.H., 2009. Synapse formation is enhanced by oral
+administration of uridine and DHA, the circulating precursors of brain phos-
+phatides. J. Nutr. Health Aging 13, 189e197.
+
+Xiang, Z., Chen, M., Ping, J., Dunn, P.M., Lv, J., Jiao, B., Burnstock, G., 2006. Microglial
+morphology and its transformation after challenge by extracellular ATP in vitro.
+J. Neurosci. Res. 83, 91e101.
+
+Xu, J., Chalimoniuk, M., Shu, Y., Simonyi, A., Sun, A.Y., Gonzalez, F.A., Weisman, G.A.,
+Wood, W.G., Sun, G.Y., 2003. Prostaglandin E2 production in astrocytes: regu-
+lation by cytokines, extracellular ATP, and oxidative agents. Prostagl. Leukot.
+Essent. Fat. Acids 69, 437e448.
+
+Xu, P., Rosen, K.M., Hedstrom, K., Rey, O., Guha, S., Hart, C., Corfas, G., 2013. Nerve
+injury induces glial cell line-derived neurotrophic factor (GDNF) expression in
+Schwann cells through purinergic signaling and the PKC-PKD pathway. Glia 61,
+1029e1040.
+
+Yegutkin, G.G., 2014. Enzymes involved in metabolism of extracellular nucleotides
+and nucleosides: functional implications and measurement of activities. Crit.
+Rev. Biochem. Mol. Biol. 49, 473e497.
+
+Yiangou, Y., Facer, P., Durrenberger, P., Chessell,
+
+I.P., Naylor, A., Bountra, C.,
+Banati, R.R., Anand, P., 2006. COX-2, CB2 and P2X7-immunoreactivities are
+increased in activated microglial cells/macrophages of multiple sclerosis and
+amyotrophic lateral sclerosis spinal cord. BMC Neurol. 6, 12.
+
+Zhang, Y., Deng, P., Li, Y., Xu, Z.C., 2006. Enhancement of excitatory synaptic
+ischemia.
+
+forebrain
+
+transient
+
+neurons
+
+after
+
+transmission
+J. Neurophysiol. 95, 1537e1544.
+
+spiny
+
+in
+
+Zheng, J., Yang, Z., Li, X., Li, L., Ma, H., Wang, M., Zhang, H., Zhen, X., Zhang, X., 2014.
+Optimization of 6-heterocyclic-2-(1H-pyrazol-1-yl)-N-(pyridin-2-yl)pyrimidin-
+4-amine as potent adenosine A2A receptor antagonists for the treatment of
+Parkinson's disease. ACS Chem. Neurosci. 5, 674e682.
+
+Zimmermann, H., 1994. Signalling via ATP in the nervous system. Trends Neurosci.
+
+17, 420e426.
+
+Zimmermann, H., 2000. Extracellular metabolism of ATP and other nucleotides.
+
+Naunyn Schmiedeb. Arch. Pharmacol. 362, 299e309.
+
+Zimmermann, H., 2006. Nucleotide signaling in nervous system development.
+
+Pﬂugers Arch. 452, 573e588.
+
+Zona, C., Marchetti, C., Volonte, C., Mercuri, N.B., Bernardi, G., 2000. Effect of P2
+purinoceptor antagonists on kainate-induced currents in rat cultured neurons.
+Brain Res. 882, 26e35.
+
+Please cite this article in press as: Burnstock, G., An introduction to the roles of purinergic signalling in neurodegeneration, neuroprotection and
+neuroregeneration, Neuropharmacology (2015), http://dx.doi.org/10.1016/j.neuropharm.2015.05.031
+
+

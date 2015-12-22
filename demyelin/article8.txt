@@ -1,0 +1,11561 @@
+Hindawi Publishing Corporation
+Mediators of Inﬂammation
+Volume 2015, Article ID 620581, 27 pages
+http://dx.doi.org/10.1155/2015/620581
+
+Review Article
+Friends or Foes: Matrix Metalloproteinases and Their
+Multifaceted Roles in Neurodegenerative Diseases
+
+Marjana Brkic,1,2,3 Sriram Balusu,1,2 Claude Libert,1,2 and Roosmarijn E. Vandenbroucke1,2
+1Inflammation Research Center, VIB, 9052 Ghent, Belgium
+2Department of Biomedical Molecular Biology, Ghent University, 9052 Ghent, Belgium
+3Department of Neurobiology, Institute for Biological Research, University of Belgrade, 11060 Belgrade, Serbia
+Correspondence should be addressed to Roosmarijn E. Vandenbroucke; roosmarijn.vandenbroucke@irc.vib-ugent.be
+
+Received 13 July 2015; Revised 3 September 2015; Accepted 6 September 2015
+
+Academic Editor: Luc Valli`eres
+
+Copyright © 2015 Marjana Brkic et al. This is an open access article distributed under the Creative Commons Attribution License,
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Neurodegeneration is a chronic progressive loss of neuronal cells leading to deterioration of central nervous system (CNS)
+functionality. It has been shown that neuroinflammation precedes neurodegeneration in various neurodegenerative diseases. Matrix
+metalloproteinases (MMPs), a protein family of zinc-containing endopeptidases, are essential in (neuro)inflammation and might be
+involved in neurodegeneration. Although MMPs are indispensable for physiological development and functioning of the organism,
+they are often referred to as double-edged swords due to their ability to also inflict substantial damage in various pathological
+conditions. MMP activity is strictly controlled, and its dysregulation leads to a variety of pathologies. Investigation of their
+potential use as therapeutic targets requires a better understanding of their contributions to the development of neurodegenerative
+diseases. Here, we review MMPs and their roles in neurodegenerative diseases: Alzheimer’s disease (AD), Parkinson’s disease (PD),
+amyotrophic lateral sclerosis (ALS), Huntington’s disease (HD), and multiple sclerosis (MS). We also discuss MMP inhibition as a
+possible therapeutic strategy to treat neurodegenerative diseases.
+
+1. Introduction
+In the past two decades, the function of matrix metallopro-
+teinases (MMPs) in the central nervous system (CNS) has
+
+gained much attention. MMPs are calcium (Ca2+) dependent
+zinc (Zn2+) containing endopeptidases produced in latent
+
+forms. Once activated, they participate in the regulation of
+diverse physiological and pathological processes [1]. MMPs
+are involved in the degradation of extracellular matrix (ECM)
+components, remodeling of tissues, shedding of cell surface
+receptors, and processing of various signaling molecules.
+MMPs are essential for brain development due to their
+association with important neurophysiological functions,
+such as synaptic plasticity [2, 3] and long-term potentiation
+[4, 5]. In the adult brain under normal conditions, MMPs are
+expressed at basal but detectable levels. Increased expression
+of MMPs is observed in a variety of pathological conditions,
+including neurodegenerative diseases such as Alzheimer’s
+disease (AD), Parkinson’s disease (PD), amyotrophic lateral
+
+sclerosis (ALS), Huntington’s disease (HD), and multiple
+sclerosis (MS) and in neuroinflammatory conditions such
+as traumatic brain injury, stroke, and meningitis. As part
+of the neuroinflammatory response, MMP activity at CNS
+barriers contributes to the increase in permeability by altering
+the properties of ECM and tight junctions. This results in
+aggravation of neuroinflammation-induced brain damage.
+On the other hand, activation of MMPs is known to help in
+tissue repair, angiogenesis, and neurogenesis. In this review,
+we focus on both beneficial and detrimental roles of MMPs
+in neurodegenerative diseases.
+
+2. Matrix Metalloproteinases (MMPs)
+MMPs, together with adamlysins and astacins, belong to
+
+metzincins, a family of Zn2+-dependent, Ca2+-containing
+
+endopeptidases (24 members in mammals) [1]. MMPs are
+multidomain proteins consisting mostly of the following
+domains: N-terminal signal peptide (which is cleaved in
+
+2
+
+Mediators of Inflammation
+
+Gelatinases
+
+MMP-2, MMP-9
+
+Matrilysins
+MMP-7, -26
+
+Archetypal MMPs
+
+Collagenases (MMP-1, MMP-8, MMP-13)
+Stromelysins (MMP-3, MMP-10)
+Other (MMP-12, MMP-18,
+MMP-20, MMP-27)
+
+Furin-activatable MMPs 
+
+MMP-11, MMP-21,
+
+MMP-28
+
+MMP-14 (MT1), 
+MMP-15 (MT2),
+MMP-16 (MT3),
+MMP-24 (MT5)
+
+MMP-17 (MT4),
+MMP-25 (MT6)
+
+MMP-23
+
+Zn2+
+
+Zn2+
+
+Zn2+
+
+Zn2+
+
+Zn2+
+
+Zn2+
+
+C
+
+Zn2+
+
+N
+
+Type-1
+
+GPI
+
+Type-2
+
+Transmembrane domain
+
+Cysteine-rich domain
+
+Hinge region
+
+Hemopexin
+
+Ig-like domain
+
+FN binding site
+
+Zn2+
+
+Catalytic domain
+
+Fibronectin type II repeats 
+
+Propeptide
+
+Signal peptide
+
+Proprotein convertase recognition sequence (furin recognition site)
+
+Figure 1: Classification of the MMPs based on their domain organization. MMPs are grouped into four major groups: gelatinases, matrilysins,
+archetypal MMPs, and furin-activatable MMPs. The typical structure of MMPs consists of a signal peptide, propeptide, a catalytic domain,
+hinge region, and a hemopexin domain. In addition, members of the gelatinases family have extra fibronectin type II motif repeats in the
+catalytic domain, and matrilysins have neither a hinge region nor hemopexin domains. Furin-activatable MMPs contain a furin recognition
+motif and are subcategorized into either secreted or membrane bound. Based on the type of membrane attachment, they are subdivided into
+type I transmembrane MMPs, GPI-linked MMPs, and type II transmembrane MMPs. Type-II transmembrane MMPs lack a cysteine switch.
+Instead, they have a cysteine rich domain and IgG-like domain. C, C-terminal domain; FN, fibronectin; GPI, glycophosphatidylinositol; MMP,
+matrix metalloproteinases; N, N-terminal domain.
+
+the secretory pathway), propeptide (which maintains latency
+
+of MMPs), catalytic domain (holds the Zn2+ ion), hinge
+
+region (connecting sequences), and C-terminal hemopexin-
+like domain (required for substrate and TIMP recognition)
+[6] (Figure 1). Besides these common domains, some MMPs
+have alternative peptide structures and different additional
+domains [7]. MMPs are produced as zymogens (pro-MMP)
+that are activated by other enzymes or free radicals through
+the cysteine switch mechanism. The thiol group of a cysteine
+residue in the N-terminal prodomain binds to and blocks
+
+the active-site Zn2+ atom; activation occurs when the thiol
+
+group is blocked or removed [8]. It has been shown that
+MMPs play an important role in various physiological and
+pathological processes in the body. Active MMPs can degrade
+ECM components. ECM is a dynamic structure that supports
+multiple physiological processes. It acts as an adhesion site
+for various cells and serves as a storage site for different
+signaling molecules, growth factors, and proteins in general,
+thus influencing development and migration of the cells.
+ECM consists mainly of glycosaminoglycans, proteoglycans,
+
+and fibrous proteins (collagen, laminin, and fibronectin).
+MMP cleavage of ECM influences cell migration, embryo-
+genesis, and other processes during development as well as
+in the adult organism. In the brain, MMPs are involved in
+tissue remodeling after injury, neurogenesis, axonal growth,
+angiogenesis, CNS barrier disruption, myelinogenesis, and
+demyelination. Additionally, MMPs play an active role in
+immune processes by cleaving various molecules, including
+growth factors, death receptors, chemokines, and cytokines
+[9, 10]. For example, several MMPs can activate tumor necro-
+sis factor (TNF) [11–15] and transforming growth factor-
+
+beta (TGF-) [16], while other MMPs degrade interleukin-
+1 (IL-1) [17]. Ultimately, MMP cleavage of chemokines
+
+and cytokines can lead to either pro- or anti-inflammatory
+processes [18].
+
+Based on their domain organization, MMPs are classified
+into four major subgroups: (1) gelatinases (MMP-2, MMP-9),
+(2) matrilysins (MMP-7, MMP-26), (3) archetypal MMPs,
+and (4) furin-activated MMPs (Figure 1 and Table 1). The
+types: stromelysins
+archetypal MMPs contain different
+
+Mediators of Inflammation
+
+3
+
+MMPs
+
+MMP-2, MMP-9
+
+Table 1: Classification and structure of MMPs.
+Structure
+Signal peptide, propeptide, catalytic domain with
+fibronectin type II motif repeats, hinge region, and
+hemopexin domain
+Signal peptide, propeptide, and a catalytic domain
+
+Family
+
+Gelatinases
+
+Matrilysins
+
+Archetypal MMPs
+
+Furin-activatable MMPs
+
+MMP-7, MMP-26
+Stromelysins
+MMP-3, MMP-10
+Collagenases
+MMP-1, MMP-8, MMP-13, MMP-18
+Other
+MMP-12, MMP-19, MMP-20, MMP-27
+Secreted
+MMP-11, MMP-21, MMP-28
+Type-I transmembrane
+MMP-14 (MT1-MMP), MMP-15
+(MT2-MMP), MMP-16 (MT3-MMP), and
+MMP-24 (MT5-MMP)
+Type-II transmembrane
+MMP-23
+GPI-anchored
+MMP-17 (MT4-MMP), MMP-25
+(MT6-MMP)
+
+Signal peptide, propeptide, a catalytic domain, hinge
+region, and a hemopexin domain
+
+Signal peptide, propeptide, furin recognition motif, a
+catalytic domain, hinge region, and a hemopexin
+domain
+
+GPI, glycosylphosphatidylinositol; MMP, matrix metalloproteinase.
+
+(MMP-3, MMP-10), collagenases (MMP-1, MMP-8, MMP-
+13), and other MMPs
+(MMP-12, MMP-18, MMP-20,
+MMP-27). Similarly, the furin-activated MMPs are divided
+in secreted MMPs (MMP-11, MMP-21, MMP-28); type-I
+transmembrane MMPs (MMP-14, MT1-MMP, MMP-15,
+MT2-MMP, MMP-16 (MT3-MMP), and MMP-24 (MT5-
+MMP)),
+type-II transmembrane MMPs (MMP-23), and
+GPI-anchored MMPs (MMP-17 (MT4-MMP), MMP-25
+(MT6-MMP)).
+
+MMPs are stringently regulated because in their active
+state they can be detrimental. MMPs are modulated on
+several
+levels: transcriptional activation, removal of the
+prodomain, interaction with ECM components, and inhibi-
+tion by endogenous inhibitors such as tissue inhibitors of
+metalloproteinases (TIMPs) [19]. Four TIMPs can reversibly
+block MMP activity. TIMPs are proteins of 21–28 kDa which
+bind the active site of MMPs in a one-to-one ratio [7,
+
+mediated endocytosis can prevent activated MMPs from
+exerting their effects. MMPs can be activated by different
+
+20]. Besides TIMPs, also-2 macroglobulin and receptor
+stimuli. Proinflammatory cytokines (e.g., TNF and IL-
+1) and several growth factors can initiate an intracellular
+
+signaling cascade leading to the activation of AP-1, NF-
+kB, or ETS transcription factors, with consequent MMP
+transcription [21]. On the level of MMP-zymogen activation,
+mostly serine proteases and other MMPs are involved in
+initiating proteolytic cleavage of the prodomain; for example,
+MMP-3 can cleave pro-MMP-9 [22]. Additionally, high levels
+of reactive oxygen species (ROS) and reactive nitrogen
+species can induce activation of MMPs [23]. It has been
+
+observed that MMPs in the CNS are secreted by microglia,
+astrocytes, and neurons [24]. In physiological conditions,
+MMPs are either absent or present at undetectable levels in
+the mature brain, and deregulation of their activity could
+shift the balance and induce perpetuation of chronic inflam-
+mation. This has been shown in different peripheral chronic
+diseases, such as atherosclerosis and rheumatoid arthritis
+[25, 26], and neuroinflammatory diseases, such as cerebral
+ischemia, stroke, and bacterial meningitis [27]. MMPs are
+known to be involved in CNS barrier maintenance and to
+increase the permeability of the barriers in inflammation.
+The proposed mechanism involves degradation of ECM
+components (e.g., laminin and collagen), which normally
+support cellular structures and limit the passage of different
+molecules and cells into the blood through the barriers [28–
+30]. Additionally, increased MMP activity is known to nega-
+tively affect tight junction functionality at the CNS barriers
+[30–33]. Alternatively, several MMPs have been shown to
+activate proinflammatory cytokines and free radicals, which
+enhances inflammation and subsequently induces disruption
+of the CNS barriers [27, 34, 35]. MMPs are secreted upon
+inflammation, for example, by peripheral neutrophils, which
+thereby contribute to aggravation of the inflammation and
+disruption of the barriers [36]. Compromise of CNS barrier
+integrity due to activation of MMPs has been observed in
+cerebral ischemia, traumatic brain injury (TBI), and other
+diseases associated with neuroinflammation [37]. In this
+review, we focus on the role of different MMPs in the major
+neurodegenerative diseases, AD, PD, ALS, HD, and MS
+(Figure 2; Tables 2 and 3).
+
+4
+
+Mediators of Inflammation
+
+Inflammatory trigger or protein aggregates
+
+Immune cell activation
+
+Cytokines
+
+MMPs
+(amount 
+and activity)
+
+Chemokines
+
+Harmful
+
+(i) Cleavage of ECM components
+(ii) Activation of growth factors, 
+death receptors, free radicals, 
+and immune cells
+
+(iii) Breakdown of tight junctions 
+
+Beneficial
+
+(i) Cleavage of ECM components 
+(ii) Degradation of protein aggregates 
+(iii) Degradation of cytokines and 
+
+chemokines
+
+Neurotoxicity or regeneration 
+
+Figure 2: Schematic representation of the activation of MMPs, their interactions with cytokines and chemokines, and the outcome of
+the interactions. MMPs are induced and activated in the presence of an external trigger (e.g., inflammatory stimuli) or abnormal proteins
+(e.g., protein or peptide aggregates). The activated MMPs can alter the properties of cytokines and chemokines. They also interact with the
+extracellular matrix, cell surface receptors, growth factors, integrin, signaling molecules, and tight junction proteins and alter their properties.
+This affects neuroinflammation, cell death or survival, growth, and regeneration. ECM, extracellular matrix; MMP, matrix metalloproteinase;
+TJs, tight junctions.
+
+3. Neurodegenerative Diseases and
+
+Neuroinflammation
+
+3.1. Neurodegenerative Diseases. During the previous cen-
+tury, prolongation of the human lifespan led to an increase in
+the proportion of elderly people in the population, which has
+given rise to an increased incidence of age-related diseases
+such as neurodegenerative disorders. Neurodegenerative dis-
+eases share common features, such as progressive loss of
+neurons and deterioration of the structure and function of
+the central and/or peripheral nervous system. These chronic
+illnesses impose a heavy economic and social burden and
+affect both patients and caregivers. Since all neurodegen-
+erative diseases are incurable, the outcome in most cases
+is death. AD represents 60–70% of all neurodegenerative
+cases [38]. Worldwide, 47 million people are living with
+AD and other dementias, including more than 5 million in
+the United States alone [39], where the number is expected
+to rise to 7.1 million in 2025 [40]. The estimated costs
+
+of medical care exceed 214 billion dollars annually [39].
+Furthermore, there are large numbers of patients with other
+neurodegenerative diseases, including AD, PD, ALS, HD, MS,
+and frontotemporal dementia [41].
+
+The major problem in the management of neurodegen-
+erative diseases is the lack of adequate information on their
+pathogenesis and absence of mechanism-based treatments.
+However, interaction of genetic and environmental factors,
+as well as advanced age, is known to contribute to disease
+onset. Generally, all neurodegenerative diseases share certain
+molecular and cellular mechanisms, including protein aggre-
+gation and formation of inclusion bodies.
+
+The traditional classification of neurodegenerative disor-
+ders is based on clinicopathological features and has been
+formulated through “consensus criteria,” that is, a set of diag-
+nostic criteria on which experts in the field agree, along with
+specific molecular characteristics. This traditional classifica-
+tion was established during the early stages of the research on
+neurodegenerative diseases and was based on a rather small
+
+Mediators of Inflammation
+
+e
+c
+n
+e
+r
+e
+f
+e
+R
+
+m
+e
+t
+s
+y
+s
+
+l
+e
+d
+o
+M
+
+]
+2
+4
+[
+
+]
+3
+4
+[
+
+]
+3
+4
+[
+
+]
+4
+4
+[
+
+]
+5
+4
+[
+
+]
+6
+4
+[
+
+]
+7
+4
+[
+
+]
+8
+4
+[
+
+]
+9
+4
+[
+
+]
+0
+5
+[
+
+]
+2
+3
+[
+
+]
+2
+3
+[
+
+]
+1
+5
+[
+
+]
+2
+5
+[
+
+]
+3
+5
+[
+
+]
+4
+5
+[
+
+]
+5
+5
+[
+
+)
+e
+c
+i
+m
+6
+7
+5
+2
+g
+T
+d
+n
+a
+
+)
+s
+e
+r
+u
+t
+l
+u
+c
+
+l
+a
+p
+m
+a
+c
+o
+p
+p
+i
+h
+d
+e
+x
+i
+m
+d
+n
+a
+
+)
+2
+a
+R
+e
+n
+
+i
+l
+
+l
+l
+e
+c
+
+i
+
+)
+s
+r
+e
+m
+o
+g
+i
+l
+o
+
+)
+s
+r
+e
+m
+o
+g
+i
+l
+o
+
+)
+s
+n
+o
+r
+u
+e
+n
+c
+i
+g
+r
+e
+n
+m
+a
+p
+o
+d
+
+)
+d
+F
+e
+S
+r
+C
+u
+t
+d
+l
+u
+n
+c
+a
+y
+r
+a
+m
+
+f
+o
+n
+o
+i
+t
+c
+e
+j
+n
+
+f
+o
+n
+o
+i
+t
+c
+e
+j
+n
+
+A
+
+A
+
+
+)
+
+I
+
+)
+s
+l
+l
+e
+c
+
+D
+w
+S
+-
+g
+T
+(
+o
+v
+i
+v
+n
+i
+d
+n
+a
+o
+r
+t
+i
+v
+n
+I
+
+l
+a
+i
+l
+e
+h
+t
+o
+d
+n
+e
+n
+i
+a
+r
+b
+(
+o
+r
+t
+i
+v
+n
+I
+
+)
+s
+e
+t
+y
+c
+o
+r
+t
+s
+a
+y
+r
+a
+m
+
+i
+r
+p
+(
+o
+r
+t
+i
+v
+n
+I
+
+)
+e
+c
+i
+m
+
+1
+S
+P
+/
+P
+P
+A
+(
+o
+v
+i
+v
+n
+I
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+s
+l
+l
+e
+c
+O
+H
+C
+-
+P
+P
+A
+(
+o
+r
+t
+i
+v
+n
+I
+
+l
+a
+i
+l
+g
+o
+r
+c
+i
+m
+
+(
+o
+r
+t
+i
+v
+n
+I
+
+e
+t
+y
+c
+o
+r
+t
+s
+a
+(
+o
+r
+t
+i
+v
+n
+I
+
+a
+m
+s
+a
+l
+p
+(
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+s
+t
+a
+r
+(
+o
+v
+i
+v
+n
+I
+
+)
+F
+S
+C
+(
+
+s
+e
+l
+p
+m
+a
+s
+
+s
+e
+l
+p
+m
+a
+s
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+t
+n
+e
+i
+t
+a
+P
+
+t
+n
+e
+i
+t
+a
+P
+
+i
+v
+c
+i
+(
+o
+v
+i
+v
+n
+I
+
+i
+v
+c
+i
+(
+o
+v
+i
+v
+n
+I
+
+i
+r
+p
+(
+o
+r
+t
+i
+v
+n
+I
+
+]
+6
+5
+[
+
+)
+e
+u
+s
+s
+i
+t
+n
+i
+a
+r
+b
+m
+e
+t
+r
+o
+m
+
+t
+s
+o
+p
+(
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+e
+c
+i
+m
+w
+s
+P
+P
+A
+d
+n
+a
+
+1
+S
+P
+/
+P
+P
+A
+(
+o
+v
+i
+v
+x
+e
+d
+n
+a
+o
+r
+t
+i
+v
+n
+I
+
+]
+7
+5
+[
+
+]
+8
+5
+[
+
+]
+8
+4
+[
+
+]
+9
+5
+[
+
+]
+0
+6
+[
+
+]
+1
+6
+[
+
+]
+2
+6
+[
+
+]
+2
+6
+[
+
+]
+3
+6
+[
+
+]
+4
+6
+[
+
+]
+5
+6
+[
+
+]
+6
+6
+[
+
+]
+7
+6
+
+,
+
+6
+6
+[
+
+m
+o
+r
+f
+
+)
+s
+n
+i
+a
+r
+b
+s
+t
+n
+e
+i
+t
+a
+p
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+i
+(
+o
+r
+t
+i
+v
+n
+I
+
+)
+s
+e
+t
+y
+c
+o
+r
+t
+s
+a
+y
+r
+a
+m
+
+i
+r
+p
+(
+o
+r
+t
+i
+v
+n
+I
+
+)
+2
+a
+R
+e
+n
+
+)
+2
+a
+R
+e
+n
+
+i
+l
+
+i
+l
+
+l
+l
+e
+c
+
+l
+l
+e
+c
+
+l
+a
+i
+l
+g
+o
+r
+c
+i
+m
+
+l
+a
+i
+l
+g
+o
+r
+c
+i
+m
+
+)
+s
+n
+o
+r
+u
+e
+n
+
+l
+a
+p
+m
+a
+c
+o
+p
+p
+i
+h
+(
+o
+r
+t
+i
+v
+n
+I
+
+)
+e
+c
+i
+m
+
+(
+o
+v
+i
+v
+n
+I
+
+)
+s
+t
+a
+r
+(
+o
+v
+i
+v
+n
+I
+
+)
+F
+S
+C
+(
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+(
+o
+r
+t
+i
+v
+n
+I
+
+(
+o
+r
+t
+i
+v
+n
+I
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+e
+u
+s
+s
+i
+t
+n
+i
+a
+r
+b
+m
+e
+t
+r
+o
+m
+
+t
+s
+o
+p
+(
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+e
+r
+u
+t
+l
+u
+c
+d
+e
+x
+i
+m
+a
+i
+l
+g
+-
+n
+o
+r
+u
+e
+n
+(
+o
+r
+t
+i
+v
+n
+I
+
+)
+s
+l
+l
+e
+c
+2
+1
+C
+P
+(
+o
+r
+t
+i
+v
+n
+I
+
+5
+
+]
+1
+5
+[
+
+]
+8
+6
+[
+
+]
+9
+6
+[
+
+]
+3
+6
+[
+
+]
+0
+7
+[
+
+i
+
+f
+o
+s
+n
+o
+r
+u
+e
+n
+c
+i
+g
+r
+e
+n
+m
+a
+p
+o
+d
+d
+e
+r
+u
+t
+l
+u
+c
+y
+r
+a
+m
+
+)
+t
+u
+o
+k
+c
+o
+n
+k
+3
+-
+P
+M
+M
+d
+n
+a
+
+i
+r
+p
+(
+o
+r
+t
+i
+v
+n
+I
+
+e
+p
+y
+t
+-
+d
+l
+i
+
+w
+
+i
+
+a
+m
+o
+t
+s
+a
+l
+b
+o
+r
+u
+e
+n
+c
+i
+g
+r
+e
+n
+m
+a
+p
+o
+d
+n
+a
+m
+u
+h
+(
+o
+r
+t
+i
+v
+n
+I
+
+s
+e
+r
+u
+t
+l
+u
+c
+
+c
+i
+l
+a
+h
+p
+e
+c
+n
+e
+s
+e
+m
+y
+r
+a
+m
+
+i
+r
+p
+(
+o
+r
+t
+i
+v
+n
+I
+
+)
+e
+c
+i
+m
+e
+p
+y
+t
+-
+d
+l
+i
+
+w
+r
+o
+
+l
+l
+
+u
+n
+e
+s
+a
+d
+i
+x
+o
+H
+P
+D
+A
+N
+
+e
+n
+i
+d
+i
+r
+y
+p
+o
+r
+d
+y
+h
+a
+r
+t
+e
+t
+-
+6
+,
+3
+,
+2
+,
+1
+-
+l
+y
+n
+e
+h
+p
+-
+4
+-
+l
+y
+h
+t
+e
+m
+
+-
+1
+(
+
+f
+o
+s
+l
+e
+d
+o
+m
+y
+e
+k
+n
+o
+m
+d
+n
+a
+
+e
+s
+u
+o
+m
+
+)
+e
+u
+s
+s
+i
+t
+n
+i
+a
+r
+b
+m
+e
+t
+r
+o
+m
+
+t
+s
+o
+p
+(
+
+)
+
+D
+P
+f
+o
+
+l
+e
+d
+o
+m
+e
+s
+u
+o
+m
+
+)
+P
+T
+P
+M
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+(
+o
+v
+i
+v
+n
+I
+
+(
+
+-
+e
+n
+i
+d
+i
+r
+y
+p
+o
+r
+d
+y
+h
+a
+r
+t
+e
+t
+-
+6
+,
+3
+,
+2
+,
+1
+-
+l
+y
+n
+e
+h
+p
+-
+4
+-
+l
+y
+h
+t
+e
+m
+
+-
+1
+
+)
+
+D
+P
+d
+e
+c
+u
+d
+n
+
+i
+
+)
+-
+P
+T
+P
+M
+
+(
+
+)
+e
+n
+
+i
+l
+
+l
+l
+e
+c
+
+)
+E
+B
+-
+N
+-
+K
+S
+(
+
+o
+v
+i
+v
+n
+I
+
+.
+s
+e
+s
+a
+e
+s
+i
+d
+e
+v
+i
+t
+a
+r
+e
+n
+e
+g
+e
+d
+o
+r
+u
+e
+n
+n
+
+i
+
+s
+P
+M
+M
+
+t
+n
+e
+r
+e
+ff
+i
+d
+f
+o
+e
+l
+o
+r
+
+e
+h
+t
+
+f
+o
+w
+e
+i
+v
+r
+e
+v
+O
+
+:
+
+2
+e
+l
+b
+a
+T
+
+
+
+2
+4
+
+s
+e
+t
+y
+c
+F
+o
+S
+r
+
+C
+t
+s
+a
+h
+t
+i
+
+1
+
+–
+
+e
+v
+i
+t
+c
+a
+0
+e
+4
+r
+1
+n
+
+–
+
+
+
+w
+e
+t
+a
+l
+e
+r
+r
+o
+c
+
+s
+l
+e
+v
+e
+l
+
+d
+n
+a
+
+s
+e
+u
+q
+a
+l
+p
+d
+n
+u
+o
+r
+a
+
+s
+r
+e
+m
+o
+g
+i
+l
+o
+
+A
+h
+t
+i
+
+w
+n
+o
+i
+t
+a
+l
+u
+m
+
+i
+t
+s
+
+n
+i
+a
+r
+b
+e
+h
+t
+n
+
+i
+
+r
+e
+ft
+a
+
+s
+l
+e
+v
+e
+l
+
+A
+h
+t
+i
+
+w
+n
+o
+i
+t
+a
+l
+u
+m
+
+i
+t
+s
+
+r
+e
+ft
+a
+
+a
+i
+l
+g
+o
+r
+c
+i
+m
+n
+
+i
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+l
+
+A
+
+A
+h
+t
+i
+
+E
+G
+A
+R
+d
+n
+a
+
+i
+d
+e
+v
+r
+e
+s
+b
+o
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+P
+M
+M
+
+s
+l
+e
+v
+e
+l
+9
+-
+P
+w
+M
+n
+M
+o
+i
+t
+w
+a
+l
+o
+u
+
+m
+d
+n
+a
+y
+t
+i
+v
+i
+t
+c
+a
+2
+-
+P
+M
+M
+d
+e
+s
+a
+e
+r
+c
+e
+D
+
+e
+n
+i
+k
+o
+t
+y
+c
+y
+r
+o
+t
+a
+m
+m
+a
+fl
+n
+i
+o
+r
+p
+d
+n
+a
+2
+-
+P
+M
+M
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+i
+t
+s
+n
+o
+p
+u
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+-
+1
+T
+M
+d
+n
+a
+2
+-
+P
+M
+M
+
+n
+o
+p
+u
+d
+e
+c
+u
+d
+n
+I
+
+f
+o
+n
+o
+i
+t
+c
+a
+r
+e
+t
+n
+
+i
+
+s
+t
+n
+e
+i
+t
+a
+p
+D
+A
+n
+
+i
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+s
+P
+M
+M
+
+f
+o
+e
+l
+o
+R
+
+n
+i
+a
+r
+b
+e
+h
+t
+n
+
+i
+
+s
+l
+l
+e
+c
+
+l
+a
+i
+l
+e
+h
+t
+o
+d
+n
+e
+d
+n
+a
+
+,
+s
+e
+t
+y
+c
+o
+r
+t
+s
+a
+
+a
+i
+t
+n
+e
+m
+e
+d
+m
+o
+r
+f
+
+,
+s
+e
+u
+q
+a
+l
+p
+
+d
+i
+o
+
+2
+4
+
+1
+
+–
+
+A
+d
+n
+a
+
+l
+y
+m
+a
+
+0
+4
+
+–
+
+1
+
+,
+s
+e
+
+l
+g
+n
+a
+t
+y
+r
+a
+l
+l
+i
+r
+b
+fi
+o
+r
+u
+e
+n
+
+A
+r
+a
+l
+l
+i
+r
+b
+fi
+d
+n
+a
+
+s
+e
+c
+i
+l
+s
+n
+i
+a
+r
+b
+o
+v
+i
+v
+x
+e
+n
+
+i
+
+l
+
+e
+l
+b
+u
+o
+s
+h
+t
+i
+
+n
+o
+i
+t
+c
+e
+j
+n
+
+i
+
+r
+a
+l
+u
+c
+i
+r
+t
+n
+e
+v
+o
+r
+b
+e
+r
+e
+c
+a
+r
+t
+n
+
+,
+
+m
+s
+a
+l
+p
+o
+t
+y
+c
+
+l
+a
+n
+o
+r
+u
+e
+n
+n
+
+s
+e
+u
+q
+a
+l
+p
+
+A
+d
+n
+a
+o
+r
+t
+i
+v
+n
+i
+
+s
+e
+t
+y
+c
+i
+r
+e
+p
+n
+
+i
+9
+-
+P
+M
+M
+A
+p
+y
+C
+
+/
+
+f
+o
+n
+o
+i
+t
+a
+v
+i
+t
+c
+a
+
+,
+
+n
+o
+i
+t
+p
+u
+r
+s
+i
+d
+B
+B
+B
+
+e
+r
+u
+t
+l
+u
+c
+d
+e
+x
+i
+m
+a
+i
+l
+g
+-
+n
+o
+r
+u
+e
+n
+c
+i
+l
+a
+h
+p
+e
+c
+n
+e
+s
+e
+m
+n
+
+i
+h
+t
+a
+e
+d
+
+a
+i
+l
+g
+o
+r
+c
+i
+m
+n
+
+i
+
+n
+o
+i
+t
+a
+v
+i
+t
+c
+a
+y
+a
+w
+h
+t
+a
+p
+
+t
+n
+e
+m
+t
+a
+e
+r
+t
+P
+T
+P
+M
+
+r
+e
+ft
+a
+
+a
+r
+g
+i
+n
+a
+i
+t
+n
+a
+t
+s
+b
+u
+s
+d
+n
+a
+m
+u
+t
+a
+i
+r
+t
+s
+n
+
+n
+i
+e
+l
+c
+u
+n
+y
+s
+-
+
+s
+n
+i
+o
+y
+r
+t
+u
+i
+v
+e
+n
+i
+t
+c
+y
+a
+b
+9
+n
+-
+o
+P
+
+i
+M
+t
+e
+M
+r
+c
+e
+d
+s
+e
+3
+s
+-
+a
+P
+e
+M
+r
+c
+M
+n
+I
+
+f
+o
+s
+i
+s
+y
+l
+o
+e
+t
+o
+r
+P
+
+a
+i
+l
+g
+o
+r
+c
+i
+m
+n
+
+i
+
+O
+N
+
+f
+o
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+e
+c
+u
+d
+n
+I
+
+3
+-
+P
+M
+M
+
+a
+r
+g
+i
+n
+a
+i
+t
+n
+a
+t
+s
+b
+u
+s
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+9
+-
+P
+M
+M
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+s
+n
+o
+r
+u
+e
+n
+n
+
+i
+d
+e
+z
+i
+l
+a
+c
+o
+
+l
+y
+l
+i
+r
+a
+m
+
+i
+r
+p
+s
+a
+w
+9
+-
+P
+M
+M
+
+9
+-
+P
+M
+M
+
+
+
+a
+m
+s
+a
+l
+p
+d
+e
+t
+a
+l
+u
+g
+e
+r
+p
+u
+y
+l
+t
+n
+a
+c
+fi
+i
+n
+g
+i
+S
+
+y
+y
+t
+i
+t
+l
+i
+i
+c
+b
+i
+a
+t
+s
+e
+a
+m
+l
+p
+
+r
+e
+c
+p
+i
+t
+p
+B
+a
+F
+n
+S
+y
+C
+s
+B
+n
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+A
+e
+d
+a
+r
+g
+e
+d
+o
+t
+y
+t
+i
+l
+i
+b
+A
+
+i
+d
+e
+v
+l
+o
+v
+n
+I
+
+,
+a
+i
+l
+g
+o
+r
+c
+i
+m
+n
+
+i
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+g
+n
+o
+r
+t
+S
+
+D
+A
+e
+t
+a
+i
+t
+n
+e
+r
+e
+ff
+i
+d
+o
+t
+
+r
+e
+k
+r
+a
+m
+o
+i
+B
+
+s
+l
+e
+v
+e
+l
+9
+-
+P
+M
+M
+m
+u
+r
+e
+s
+d
+e
+t
+a
+v
+e
+l
+E
+
+t
+n
+e
+m
+
+i
+
+s
+l
+i
+r
+b
+fi
+
+e
+u
+r
+s
+i
+s
+a
+i
+p
+t
+
+m
+r
+a
+l
+u
+c
+s
+a
+v
+d
+n
+a
+
+A
+s
+e
+d
+a
+r
+g
+e
+D
+
+i
+d
+e
+t
+c
+e
+t
+e
+d
+n
+o
+i
+s
+s
+e
+r
+p
+x
+E
+
+e
+v
+i
+t
+i
+n
+g
+o
+C
+
+i
+
+w
+d
+e
+t
+a
+e
+r
+t
+n
+e
+h
+0
+4
+w
+1
+s
+e
+t
+y
+c
+o
+r
+t
+s
+a
+n
+
+n
+o
+p
+u
+s
+u
+p
+m
+
+a
+c
+o
+p
+p
+i
+h
+n
+
+y
+t
+i
+c
+i
+t
+s
+a
+l
+p
+c
+i
+t
+p
+a
+n
+y
+s
+n
+
+–
+
+A
+e
+v
+a
+e
+l
+c
+n
+a
+c
+9
+-
+P
+M
+M
+
+i
+d
+e
+t
+c
+e
+t
+e
+D
+
+i
+d
+e
+v
+l
+o
+v
+n
+I
+
+i
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+r
+o
+t
+p
+e
+c
+e
+r
+A
+D
+M
+N
+
+f
+o
+r
+o
+t
+a
+l
+u
+g
+e
+R
+
+a
+i
+l
+g
+o
+r
+c
+i
+m
+d
+n
+a
+
+s
+e
+t
+y
+c
+o
+r
+t
+s
+a
+n
+
+a
+i
+l
+g
+o
+r
+c
+i
+m
+n
+
+a
+i
+l
+g
+o
+r
+c
+i
+m
+n
+
+i
+
+i
+
+e
+s
+a
+e
+r
+c
+n
+I
+
+e
+s
+a
+e
+r
+c
+n
+I
+
+a
+i
+l
+g
+o
+r
+c
+i
+m
+
+i
+d
+e
+t
+c
+e
+t
+e
+D
+
+s
+e
+t
+a
+v
+i
+t
+c
+A
+
+l
+l
+e
+c
+n
+o
+r
+u
+e
+n
+c
+i
+g
+r
+e
+n
+m
+a
+p
+o
+d
+s
+e
+c
+u
+d
+n
+I
+
+l
+a
+n
+g
+i
+s
+K
+R
+E
+t
+n
+e
+d
+n
+e
+p
+e
+d
+3
+-
+P
+M
+M
+
+i
+
+e
+p
+y
+t
+-
+d
+l
+i
+
+w
+
+f
+o
+
+d
+e
+v
+l
+o
+v
+n
+
+i
+
+1
+-
+P
+M
+M
+
+s
+P
+M
+M
+
+2
+-
+P
+M
+M
+
+3
+-
+P
+M
+M
+
+9
+-
+P
+M
+M
+
+2
+1
+-
+P
+M
+M
+
+3
+1
+-
+P
+M
+M
+
+2
+-
+P
+M
+M
+
+e
+v
+i
+t
+a
+r
+e
+n
+e
+g
+e
+d
+o
+r
+u
+e
+N
+
+e
+s
+a
+e
+s
+i
+d
+
+e
+s
+a
+e
+s
+i
+d
+s
+’
+r
+e
+m
+i
+e
+h
+z
+l
+A
+
+e
+s
+a
+e
+s
+i
+d
+s
+’
+n
+o
+s
+n
+i
+k
+r
+a
+P
+
+6
+
+Mediators of Inflammation
+
+e
+c
+n
+e
+r
+e
+f
+e
+R
+
+m
+e
+t
+s
+y
+s
+
+l
+e
+d
+o
+M
+
+s
+P
+M
+M
+
+f
+o
+e
+l
+o
+R
+
+.
+
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+:
+
+2
+e
+l
+b
+a
+T
+
+]
+1
+7
+[
+
+]
+2
+7
+[
+
+]
+3
+7
+[
+
+]
+3
+7
+[
+
+]
+4
+7
+[
+
+]
+5
+7
+[
+
+]
+1
+7
+[
+
+]
+2
+7
+[
+
+]
+6
+7
+[
+
+]
+7
+7
+[
+
+]
+8
+7
+[
+
+]
+9
+7
+[
+
+]
+7
+7
+[
+
+]
+7
+7
+[
+
+]
+0
+8
+[
+
+]
+1
+8
+[
+
+]
+0
+8
+[
+
+]
+0
+8
+[
+
+]
+1
+8
+[
+
+]
+2
+8
+[
+
+]
+1
+8
+[
+
+]
+2
+8
+[
+
+]
+1
+8
+[
+
+]
+0
+8
+[
+
+]
+3
+8
+[
+
+]
+4
+8
+[
+
+)
+s
+e
+t
+y
+c
+o
+k
+u
+e
+l
+
+)
+t
+t
+
+H
+
+t
+n
+a
+t
+u
+m
+g
+n
+i
+s
+s
+e
+r
+p
+x
+e
+
+l
+l
+e
+c
+
+l
+a
+t
+a
+i
+r
+t
+s
+(
+o
+r
+t
+i
+v
+n
+I
+
+e
+h
+t
+
+f
+o
+
+l
+e
+d
+o
+m
+
+i
+
+l
+a
+m
+n
+a
+d
+i
+c
+a
+
+c
+i
+n
+o
+i
+p
+o
+r
+p
+o
+r
+t
+i
+n
+-
+3
+(
+o
+v
+i
+v
+n
+I
+
+)
+e
+u
+s
+s
+i
+t
+n
+i
+a
+r
+b
+m
+e
+t
+r
+o
+m
+
+t
+s
+o
+p
+(
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+n
+i
+a
+r
+b
+m
+e
+t
+r
+o
+m
+
+t
+s
+o
+p
+f
+o
+s
+e
+t
+i
+s
+n
+o
+i
+s
+e
+l
+
+e
+v
+i
+t
+c
+a
+(
+
+)
+t
+t
+
+H
+
+)
+t
+t
+
+H
+
+t
+n
+a
+t
+u
+m
+g
+n
+i
+s
+s
+e
+r
+p
+x
+e
+
+t
+n
+a
+t
+u
+m
+g
+n
+i
+s
+s
+e
+r
+p
+x
+e
+
+)
+e
+r
+u
+t
+l
+u
+c
+
+e
+r
+u
+t
+l
+u
+c
+
+l
+l
+e
+c
+
+l
+l
+e
+c
+
+l
+a
+t
+a
+i
+r
+t
+s
+(
+o
+r
+t
+i
+v
+n
+I
+
+l
+a
+t
+a
+i
+r
+t
+s
+(
+o
+r
+t
+i
+v
+n
+I
+
+)
+e
+c
+i
+m
+c
+i
+n
+e
+g
+s
+n
+a
+r
+t
+
+1
+
+d
+o
+o
+b
+
+l
+
+e
+r
+u
+t
+l
+u
+c
+
+)
+e
+c
+i
+m
+
+)
+e
+c
+i
+m
+
+1
+
+1
+
+D
+O
+S
+A
+3
+9
+G
+
+D
+O
+S
+A
+3
+9
+G
+
+D
+O
+S
+t
+n
+a
+t
+u
+m
+
+)
+F
+S
+C
+(
+
+)
+F
+S
+C
+d
+n
+a
+n
+i
+k
+s
+(
+
+l
+a
+r
+e
+h
+p
+i
+r
+e
+p
+(
+
+)
+
+m
+u
+r
+e
+s
+(
+
+)
+
+m
+u
+r
+e
+s
+(
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+(
+o
+v
+i
+v
+n
+I
+
+(
+o
+v
+i
+v
+n
+I
+
+(
+o
+v
+i
+v
+n
+I
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+n
+i
+a
+r
+b
+m
+e
+t
+r
+o
+m
+
+t
+s
+o
+p
+f
+o
+s
+e
+t
+i
+s
+n
+o
+i
+s
+e
+l
+
+e
+v
+i
+t
+c
+a
+(
+
+)
+s
+e
+t
+y
+c
+o
+n
+o
+m
+
+(
+
+n
+i
+a
+r
+b
+m
+e
+t
+r
+o
+m
+
+t
+s
+o
+p
+f
+o
+s
+e
+t
+i
+s
+n
+o
+i
+s
+e
+l
+
+e
+v
+i
+t
+c
+a
+(
+
+n
+i
+a
+r
+b
+m
+e
+t
+r
+o
+m
+
+n
+i
+a
+r
+b
+m
+e
+t
+r
+o
+m
+
+n
+i
+a
+r
+b
+m
+e
+t
+r
+o
+m
+
+t
+s
+o
+p
+f
+o
+s
+e
+t
+i
+s
+n
+o
+i
+s
+e
+l
+
+e
+v
+i
+t
+c
+a
+(
+
+)
+s
+e
+t
+y
+c
+o
+n
+o
+m
+
+(
+
+t
+s
+o
+p
+f
+o
+s
+e
+t
+i
+s
+n
+o
+i
+s
+e
+l
+
+e
+v
+i
+t
+c
+a
+(
+
+)
+s
+e
+t
+y
+c
+o
+n
+o
+m
+
+(
+
+t
+s
+o
+p
+f
+o
+s
+e
+t
+i
+s
+n
+o
+i
+s
+e
+l
+
+e
+v
+i
+t
+c
+a
+(
+
+)
+s
+e
+t
+y
+c
+o
+n
+o
+m
+
+(
+
+S
+M
+P
+P
+d
+n
+a
+S
+M
+R
+R
+h
+t
+o
+b
+m
+o
+r
+f
+
+s
+e
+l
+p
+m
+a
+s
+F
+S
+C
+(
+
+)
+e
+s
+a
+e
+s
+i
+d
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+s
+e
+l
+p
+m
+a
+s
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+s
+e
+l
+p
+m
+a
+s
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+s
+e
+l
+p
+m
+a
+s
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+s
+e
+l
+p
+m
+a
+s
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+s
+e
+l
+p
+m
+a
+s
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+s
+e
+l
+p
+m
+a
+s
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+s
+t
+n
+e
+i
+t
+a
+p
+
+s
+t
+n
+e
+i
+t
+a
+P
+
+s
+l
+a
+u
+d
+i
+v
+i
+d
+n
+
+i
+y
+h
+t
+l
+a
+e
+h
+m
+o
+r
+f
+
+s
+t
+n
+e
+i
+t
+a
+p
+S
+L
+A
+h
+s
+i
+u
+g
+n
+i
+t
+s
+i
+d
+o
+t
+
+r
+e
+k
+r
+a
+m
+a
+
+n
+o
+i
+t
+a
+v
+i
+t
+c
+a
+d
+n
+a
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+L
+s
+a
+F
+d
+n
+a
+F
+N
+T
+
+n
+o
+i
+s
+s
+e
+r
+g
+o
+r
+p
+e
+s
+a
+e
+s
+i
+d
+h
+t
+i
+
+h
+t
+a
+e
+d
+
+l
+l
+e
+c
+
+n
+o
+i
+s
+s
+e
+r
+g
+o
+r
+p
+e
+s
+a
+e
+s
+i
+d
+S
+L
+A
+e
+t
+a
+u
+l
+a
+v
+e
+o
+T
+
+l
+a
+n
+o
+r
+u
+e
+n
+r
+o
+t
+o
+m
+o
+t
+
+s
+e
+t
+u
+b
+i
+r
+t
+n
+o
+C
+
+y
+t
+i
+l
+i
+b
+a
+e
+m
+r
+e
+p
+B
+B
+B
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+F
+S
+C
+n
+
+i
+9
+-
+P
+M
+M
+
+f
+o
+s
+l
+e
+v
+e
+l
+
+w
+o
+L
+
+F
+S
+C
+d
+n
+a
+n
+i
+k
+s
+n
+
+i
+d
+e
+t
+a
+v
+e
+l
+E
+
+s
+a
+9
+-
+P
+M
+M
+
+/
+1
+-
+P
+M
+M
+-
+T
+M
+
+S
+L
+A
+r
+o
+f
+
+r
+o
+t
+c
+a
+f
+k
+s
+i
+r
+
+c
+i
+t
+e
+n
+e
+G
+
+w
+y
+t
+i
+v
+i
+t
+c
+a
+d
+e
+t
+a
+l
+u
+g
+e
+r
+s
+y
+D
+
+l
+a
+n
+o
+r
+u
+e
+n
+s
+e
+t
+a
+l
+u
+g
+e
+r
+p
+U
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+9
+-
+P
+M
+M
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+n
+i
+t
+g
+n
+
+i
+t
+n
+u
+h
+s
+e
+v
+a
+e
+l
+C
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+9
+-
+P
+M
+M
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+d
+e
+v
+l
+o
+v
+n
+
+i
+
+s
+P
+M
+M
+
+e
+v
+i
+t
+a
+r
+e
+n
+e
+g
+e
+d
+o
+r
+u
+e
+N
+
+e
+s
+a
+e
+s
+i
+d
+
+2
+-
+P
+M
+M
+
+3
+-
+P
+M
+M
+
+9
+-
+P
+M
+M
+
+0
+1
+-
+P
+M
+M
+
+9
+-
+P
+M
+M
+
+s
+i
+s
+o
+r
+e
+l
+c
+s
+
+l
+a
+r
+e
+t
+a
+l
+
+c
+i
+h
+p
+o
+r
+t
+o
+y
+m
+A
+
+e
+s
+a
+e
+s
+i
+d
+n
+o
+t
+g
+n
+i
+t
+n
+u
+H
+
+s
+n
+o
+i
+s
+e
+l
+
+c
+i
+t
+o
+r
+c
+e
+n
+r
+a
+e
+n
+s
+e
+t
+y
+c
+o
+r
+t
+s
+a
+n
+
+i
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+k
+a
+e
+w
+d
+n
+a
+
+,
+s
+e
+g
+a
+h
+p
+o
+r
+c
+a
+m
+n
+
+i
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+E
+
+s
+l
+e
+v
+e
+l
+
+A
+N
+R
+m
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+1
+-
+P
+M
+M
+
+s
+n
+o
+i
+s
+e
+l
+
+c
+i
+t
+o
+r
+c
+e
+n
+r
+a
+e
+n
+s
+e
+t
+y
+c
+o
+r
+t
+s
+a
+n
+
+i
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+k
+a
+e
+w
+d
+n
+a
+
+s
+e
+g
+a
+h
+p
+o
+r
+c
+a
+m
+n
+
+i
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+E
+
+2
+-
+P
+M
+M
+
+y
+t
+i
+c
+i
+x
+o
+t
+
+y
+t
+i
+c
+i
+x
+o
+t
+
+s
+e
+c
+u
+d
+e
+r
+4
+1
+-
+P
+M
+M
+
+s
+e
+c
+u
+d
+e
+r
+3
+2
+-
+P
+M
+M
+
+f
+o
+n
+w
+o
+d
+k
+c
+o
+n
+K
+
+f
+o
+n
+w
+o
+d
+k
+c
+o
+n
+K
+
+4
+1
+-
+P
+M
+M
+
+3
+2
+-
+P
+M
+M
+
+s
+e
+g
+a
+h
+p
+o
+r
+c
+a
+m
+d
+e
+t
+a
+v
+i
+t
+c
+a
+y
+b
+d
+e
+t
+e
+r
+c
+e
+S
+
+s
+l
+l
+e
+c
+
+l
+a
+i
+l
+e
+h
+t
+o
+d
+n
+e
+n
+
+i
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+E
+
+s
+l
+e
+v
+e
+l
+
+A
+N
+R
+m
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+l
+
+s
+l
+e
+s
+s
+e
+v
+d
+o
+o
+b
+y
+b
+d
+e
+t
+e
+r
+c
+e
+S
+
+s
+l
+e
+v
+e
+l
+
+A
+N
+R
+m
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+s
+l
+e
+v
+e
+l
+
+A
+N
+R
+m
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+3
+-
+P
+M
+M
+
+7
+-
+P
+M
+M
+
+s
+i
+s
+o
+r
+e
+l
+c
+s
+
+e
+l
+p
+i
+t
+l
+u
+M
+
+)
+S
+M
+
+(
+
+-
+g
+n
+i
+s
+p
+a
+l
+e
+r
+
+,
+
+S
+M
+R
+R
+
+;
+s
+t
+c
+u
+d
+o
+r
+p
+
+d
+n
+e
+
+n
+o
+i
+t
+a
+c
+y
+l
+g
+
+d
+e
+c
+n
+a
+v
+d
+a
+
+r
+o
+f
+
+r
+o
+t
+p
+e
+c
+e
+r
+
+,
+
+E
+G
+A
+R
+
+;
+s
+i
+s
+o
+r
+e
+l
+c
+s
+
+;
+
+A
+n
+
+i
+l
+i
+h
+p
+o
+l
+c
+y
+c
+
+,
+
+A
+p
+y
+C
+
+;
+
+d
+i
+u
+fl
+
+l
+a
+n
+i
+p
+s
+o
+r
+b
+e
+r
+e
+c
+
+,
+
+F
+S
+C
+
+-
+6
+,
+3
+,
+2
+,
+1
+-
+l
+y
+n
+e
+h
+p
+-
+4
+-
+l
+y
+h
+t
+e
+m
+
+-
+1
+P,
+T
+P
+M
+
+;
+e
+s
+a
+n
+i
+e
+t
+o
+r
+p
+o
+
+;
+r
+e
+i
+r
+r
+a
+b
+F
+S
+C
+-
+d
+o
+o
+b
+
+l
+l
+a
+t
+e
+m
+x
+i
+r
+t
+a
+m
+P,
+M
+M
+
+l
+
+,
+
+;
+r
+a
+l
+u
+c
+i
+r
+t
+n
+e
+v
+o
+r
+b
+e
+r
+e
+c
+a
+r
+t
+n
+
+i
+
+B
+F
+S
+C
+B
+
+;
+r
+e
+i
+r
+r
+a
+b
+n
+i
+a
+r
+b
+-
+d
+o
+o
+b
+
+l
+
+,
+
+v
+c
+i
+
+e
+l
+p
+i
+t
+l
+u
+m
+e
+v
+i
+s
+s
+e
+r
+g
+o
+r
+p
+
+y
+r
+a
+m
+
+i
+r
+p
+
+;
+
+d
+n
+a
+g
+i
+l
+
+s
+a
+F
+
+,
+
+L
+s
+a
+F
+
+,
+
+B
+B
+B
+
+;
+
+n
+i
+e
+t
+o
+r
+p
+r
+o
+s
+r
+u
+c
+e
+r
+p
+d
+i
+o
+
+l
+y
+m
+a
+P,
+P
+A
+
+;
+s
+i
+s
+o
+r
+e
+l
+c
+s
+
+l
+a
+r
+e
+t
+a
+l
+
+c
+i
+h
+p
+o
+r
+t
+o
+y
+m
+a
+
+,
+
+S
+L
+A
+
+;
+e
+s
+a
+e
+s
+i
+d
+s
+’
+r
+e
+m
+i
+e
+h
+z
+l
+A
+
+,
+
+;
+s
+e
+s
+a
+n
+i
+k
+
+,
+
+S
+M
+P
+P
+
+;
+e
+t
+a
+t
+r
+a
+p
+s
+a
+-
+D
+
+-
+l
+y
+h
+t
+e
+m
+N
+
+-
+
+,
+
+A
+D
+M
+N
+
+d
+e
+t
+a
+l
+u
+g
+e
+r
+-
+l
+a
+n
+g
+i
+s
+
+r
+a
+l
+u
+
+l
+l
+e
+c
+a
+r
+t
+x
+e
+
+,
+
+K
+R
+E
+
+;
+1
+-
+n
+
+i
+l
+i
+
+n
+e
+s
+e
+r
+p
+
+;
+s
+i
+t
+i
+l
+e
+y
+m
+o
+
+l
+a
+h
+p
+e
+c
+n
+e
+
+e
+n
+u
+m
+m
+i
+o
+t
+u
+a
+
+,
+1
+S
+P
+
+;
+e
+d
+i
+x
+o
+
+c
+i
+r
+t
+i
+n
+
+,
+
+O
+N
+
+.
+r
+o
+t
+c
+a
+f
+
+s
+i
+s
+o
+r
+c
+e
+n
+r
+o
+m
+u
+t
+
+,
+
+F
+N
+T
+
+;
+s
+e
+s
+a
+n
+i
+e
+t
+o
+r
+p
+o
+
+l
+l
+a
+t
+e
+m
+
+f
+o
+r
+o
+t
+i
+b
+i
+h
+n
+
+i
+
+e
+u
+s
+s
+i
+t
+
+P,
+M
+I
+T
+
+;
+e
+s
+a
+t
+u
+m
+
+s
+i
+d
+e
+d
+i
+x
+o
+r
+e
+p
+u
+s
+
+,
+
+D
+O
+S
+
+;
+s
+i
+s
+o
+r
+e
+l
+c
+s
+
+)
+
+m
+u
+r
+e
+s
+(
+
+n
+o
+i
+s
+e
+l
+g
+n
+i
+d
+n
+u
+o
+r
+r
+u
+s
+
+e
+g
+a
+m
+a
+d
+e
+u
+s
+s
+i
+t
+o
+t
+
+s
+e
+t
+u
+b
+i
+r
+t
+n
+o
+c
+
+,
+s
+e
+g
+a
+h
+p
+o
+r
+c
+a
+m
+d
+n
+a
+
+s
+l
+l
+e
+c
+-
+T
+y
+b
+d
+e
+t
+e
+r
+c
+e
+S
+
+2
+-
+P
+M
+I
+T
+d
+n
+a
+
+1
+-
+P
+M
+I
+T
+h
+t
+i
+
+w
+g
+n
+o
+
+l
+a
+m
+u
+r
+e
+s
+n
+
+i
+9
+-
+P
+M
+M
+
+f
+o
+s
+l
+e
+v
+e
+l
+
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+s
+n
+o
+i
+s
+e
+l
+
+c
+i
+t
+o
+r
+c
+e
+n
+r
+a
+e
+n
+s
+e
+t
+y
+c
+o
+r
+t
+s
+a
+n
+
+i
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+k
+a
+e
+w
+d
+n
+a
+
+s
+e
+g
+a
+h
+p
+o
+r
+c
+a
+m
+n
+
+i
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+E
+
+9
+-
+P
+M
+M
+
+;
+
+D
+A
+
+d
+i
+o
+
+l
+a
+t
+n
+e
+m
+
+;
+e
+n
+i
+d
+i
+r
+y
+p
+o
+r
+d
+y
+h
+
+a
+r
+
+t
+e
+t
+
+i
+r
+e
+p
+x
+e
+
+l
+y
+m
+a
+-
+
+E
+A
+E
+
+A
+
+,
+
+,
+
+e
+l
+p
+i
+t
+l
+u
+m
+g
+n
+i
+t
+t
+i
+
+m
+e
+r
+
+Mediators of Inflammation
+
+7
+
+.
+s
+i
+s
+o
+r
+e
+l
+c
+s
+
+e
+l
+p
+i
+t
+l
+u
+m
+d
+n
+a
+
+e
+s
+a
+e
+s
+i
+d
+s
+’
+n
+o
+s
+n
+i
+k
+r
+a
+P
+
+,
+e
+s
+a
+e
+s
+i
+d
+s
+’
+r
+e
+m
+i
+e
+h
+z
+l
+A
+n
+
+i
+
+s
+e
+i
+d
+u
+t
+s
+
+r
+o
+t
+i
+b
+i
+h
+n
+
+i
+
+P
+M
+M
+o
+v
+i
+v
+n
+i
+d
+n
+a
+o
+r
+t
+i
+v
+n
+i
+
+f
+o
+w
+e
+i
+v
+r
+e
+v
+O
+
+:
+3
+e
+l
+b
+a
+T
+
+]
+5
+8
+[
+
+]
+3
+3
+[
+
+]
+2
+3
+[
+
+]
+6
+8
+[
+
+]
+1
+5
+[
+
+]
+7
+8
+[
+
+]
+8
+8
+[
+
+]
+9
+8
+[
+
+]
+0
+9
+[
+
+]
+8
+8
+[
+
+]
+1
+9
+[
+
+]
+2
+9
+[
+
+]
+3
+9
+[
+
+]
+4
+9
+[
+
+]
+5
+9
+[
+
+
+
+s
+e
+c
+n
+e
+r
+e
+f
+e
+R
+
+e
+c
+r
+u
+o
+S
+/
+m
+e
+t
+s
+y
+s
+
+l
+e
+d
+o
+M
+
+g
+n
+i
+s
+s
+e
+r
+p
+x
+e
+r
+e
+v
+o
+e
+c
+i
+m
+c
+i
+n
+e
+g
+s
+n
+a
+r
+T
+
+P
+P
+A
+
+f
+o
+t
+n
+a
+i
+r
+a
+v
+h
+s
+i
+d
+e
+w
+S
+e
+h
+t
+
+)
+s
+l
+l
+e
+c
+
+l
+a
+i
+l
+e
+h
+t
+o
+d
+n
+e
+n
+i
+a
+r
+b
+(
+o
+r
+t
+i
+v
+n
+I
+
+s
+l
+e
+v
+e
+l
+
+A
+d
+i
+u
+fl
+
+l
+a
+i
+t
+i
+t
+s
+r
+e
+t
+n
+
+
+y
+t
+i
+l
+i
+b
+a
+e
+m
+r
+e
+p
+B
+B
+B
+m
+o
+r
+f
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+n
+i
+a
+r
+b
+d
+e
+s
+a
+e
+r
+c
+n
+I
+
+e
+p
+y
+t
+o
+n
+e
+h
+P
+
+i
+
+D
+A
+
+A
+h
+t
+i
+
+w
+n
+o
+i
+t
+c
+e
+j
+n
+
+i
+v
+c
+i
+(
+o
+v
+i
+v
+n
+I
+
+)
+s
+r
+e
+m
+o
+g
+i
+l
+o
+
+f
+o
+
+l
+e
+d
+o
+m
+e
+s
+u
+o
+m
+c
+i
+n
+e
+g
+s
+n
+a
+r
+T
+
+y
+t
+i
+l
+i
+b
+a
+e
+m
+r
+e
+p
+B
+F
+S
+C
+B
+m
+o
+r
+f
+n
+o
+i
+t
+c
+e
+t
+o
+r
+P
+
+s
+s
+e
+r
+t
+s
+
+e
+v
+i
+t
+a
+d
+i
+x
+o
+d
+e
+c
+u
+d
+e
+R
+
+c
+i
+l
+a
+h
+p
+e
+c
+n
+e
+s
+e
+m
+e
+s
+u
+o
+m
+
+(
+o
+r
+t
+i
+v
+n
+I
+
+)
+s
+l
+l
+e
+c
+
+d
+e
+s
+a
+e
+r
+c
+n
+
+i
+d
+n
+a
+
+s
+l
+l
+e
+c
+
+l
+a
+i
+l
+g
+o
+r
+c
+i
+m
+m
+o
+r
+f
+
+e
+s
+a
+e
+l
+e
+r
+F
+N
+T
+
+f
+o
+e
+s
+a
+e
+r
+c
+e
+D
+
+l
+a
+v
+i
+v
+r
+u
+s
+
+l
+l
+e
+c
+
+e
+c
+i
+m
+
+E
+A
+E
+
+E
+A
+E
+
+J
+/
+L
+J
+S
+
+E
+A
+E
+
+E
+A
+E
+
+E
+A
+E
+
+y
+t
+i
+v
+i
+t
+c
+a
+9
+-
+P
+M
+M
+d
+e
+c
+u
+d
+e
+r
+d
+n
+a
+
+s
+
+m
+o
+t
+p
+m
+y
+s
+
+l
+a
+c
+i
+n
+
+i
+l
+c
+d
+e
+s
+r
+e
+v
+e
+R
+
+n
+o
+i
+t
+a
+r
+g
+i
+m
+s
+n
+a
+r
+t
+d
+e
+t
+a
+i
+d
+e
+m
+-
+n
+
+i
+r
+g
+e
+t
+n
+
+i
+4
+
+E
+A
+E
+f
+o
+s
+n
+g
+i
+s
+
+l
+a
+c
+i
+n
+
+i
+l
+c
+
+f
+o
+
+l
+a
+s
+r
+e
+v
+e
+R
+
+d
+e
+c
+u
+d
+e
+R
+
+E
+A
+E
+d
+e
+r
+r
+e
+f
+s
+n
+a
+r
+t
+y
+l
+e
+v
+i
+t
+p
+o
+d
+a
+
+E
+A
+E
+d
+n
+a
+n
+o
+i
+t
+a
+r
+g
+i
+m
+s
+n
+a
+r
+t
+d
+e
+t
+a
+i
+d
+e
+m
+-
+n
+
+f
+o
+y
+t
+i
+r
+e
+v
+e
+s
+
+s
+e
+t
+a
+r
+y
+t
+i
+d
+i
+b
+r
+o
+m
+d
+n
+a
+y
+t
+i
+l
+a
+t
+r
+o
+i
+m
+l
+
+c
+d
+d
+e
+e
+c
+c
+u
+u
+d
+d
+e
+e
+R
+R
+
+d
+e
+c
+u
+d
+e
+R
+
+i
+r
+g
+e
+t
+n
+
+l
+a
+c
+i
+n
+
+i
+4
+
+
+
+s
+t
+a
+r
+
+s
+i
+w
+e
+L
+
+E
+A
+E
+e
+t
+u
+c
+a
+n
+a
+n
+
+i
+
+s
+s
+o
+
+l
+
+t
+h
+g
+i
+e
+w
+d
+n
+a
+
+s
+n
+g
+i
+s
+
+l
+a
+c
+i
+n
+
+i
+l
+c
+
+s
+e
+c
+u
+d
+e
+R
+
+E
+A
+E
+
+E
+A
+E
+
+E
+A
+E
+
+y
+t
+i
+v
+i
+t
+c
+a
+9
+-
+P
+M
+M
+d
+e
+c
+u
+d
+e
+r
+d
+n
+a
+
+s
+l
+l
+e
+c
+-
+T
+
+f
+o
+n
+o
+i
+t
+a
+r
+t
+l
+fi
+n
+
+i
+d
+e
+c
+u
+d
+e
+R
+
+s
+l
+l
+e
+c
+-
+T
+n
+
+i
+9
+-
+P
+M
+M
+
+f
+o
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+
+e
+h
+t
+d
+n
+a
+y
+t
+i
+v
+i
+t
+c
+a
+d
+e
+c
+u
+d
+e
+R
+
+2
+-
+P
+M
+M
+
+s
+t
+i
+b
+i
+h
+n
+I
+
+,
+
+F
+N
+T
+
+;
+e
+s
+a
+n
+i
+e
+t
+o
+r
+p
+o
+
+l
+l
+a
+t
+e
+m
+x
+i
+r
+t
+a
+m
+P,
+M
+M
+
+;
+s
+i
+t
+i
+l
+e
+y
+m
+o
+
+l
+a
+h
+p
+e
+c
+n
+e
+
+e
+n
+u
+m
+m
+i
+o
+t
+u
+a
+
+l
+a
+t
+n
+e
+m
+
+i
+r
+e
+p
+x
+E
+
+,
+
+E
+A
+E
+
+;
+
+d
+i
+u
+fl
+
+l
+a
+n
+i
+p
+s
+o
+r
+b
+e
+r
+e
+c
+
+,
+
+F
+S
+C
+
+;
+r
+e
+i
+r
+r
+a
+b
+F
+S
+C
+-
+d
+o
+o
+b
+
+l
+
+,
+
+B
+F
+S
+C
+B
+
+;
+r
+e
+i
+r
+r
+a
+b
+n
+i
+a
+r
+b
+-
+d
+o
+o
+b
+
+l
+
+,
+
+B
+B
+B
+
+-
+4
+[
+-
+
+N
+
+-
+l
+y
+t
+u
+b
+o
+s
+i
+-
+
+N
+
+(
+
+H
+G
+N
+N
+
+-
+]
+l
+y
+n
+o
+f
+l
+u
+s
+l
+y
+n
+e
+h
+p
+y
+x
+o
+h
+t
+e
+m
+
+)
+d
+i
+c
+a
+
+c
+i
+m
+a
+x
+o
+r
+d
+y
+h
+l
+y
+c
+y
+l
+g
+
+1
+0
+0
+6
+M
+G
+
+0
+9
+7
+9
+-
+1
+3
+O
+R
+
+6
+1
+3
+,
+1
+2
+2
+K
+U
+
+i
+
+e
+n
+m
+a
+l
+l
+i
+c
+n
+e
+p
+-
+d
+
+1
+0
+1
+1
+B
+B
+
+r
+o
+t
+i
+b
+i
+h
+n
+I
+
+1
+0
+0
+6
+M
+G
+
+1
+0
+0
+6
+M
+G
+
+1
+0
+0
+6
+M
+G
+
+1
+0
+0
+6
+M
+G
+
+d
+i
+c
+a
+
+c
+i
+o
+p
+i
+l
+-
+
+e
+n
+
+i
+l
+c
+y
+c
+o
+n
+M
+
+i
+
+
+
+m
+u
+r
+t
+c
+e
+p
+s
+
+d
+a
+o
+r
+B
+
+m
+u
+r
+t
+c
+e
+p
+s
+
+d
+a
+o
+r
+B
+
+d
+a
+o
+r
+B
+
+m
+u
+r
+t
+c
+e
+p
+s
+
+m
+u
+r
+t
+c
+e
+p
+s
+
+d
+a
+o
+r
+B
+
+d
+a
+o
+r
+B
+
+m
+u
+r
+t
+c
+e
+p
+s
+
+P
+M
+M
+
+r
+o
+t
+i
+b
+i
+h
+n
+
+i
+
+f
+o
+e
+p
+y
+T
+
+d
+a
+o
+r
+B
+
+m
+u
+r
+t
+c
+e
+p
+s
+
+m
+u
+r
+t
+c
+e
+p
+s
+
+d
+a
+o
+r
+B
+
+m
+u
+r
+t
+c
+e
+p
+s
+
+d
+a
+o
+r
+B
+
+m
+u
+r
+t
+c
+e
+p
+s
+
+d
+a
+o
+r
+B
+
+e
+v
+i
+t
+a
+r
+e
+n
+e
+g
+e
+d
+o
+r
+u
+e
+N
+
+e
+s
+a
+e
+s
+i
+d
+
+e
+s
+a
+e
+s
+i
+d
+s
+’
+r
+e
+m
+i
+e
+h
+z
+l
+A
+
+m
+u
+r
+t
+c
+e
+p
+s
+
+d
+a
+o
+r
+B
+
+e
+v
+i
+t
+c
+e
+l
+e
+S
+
+e
+s
+a
+e
+s
+i
+d
+s
+’
+n
+o
+s
+n
+i
+k
+r
+a
+P
+
+s
+i
+s
+o
+r
+e
+l
+c
+s
+
+e
+l
+p
+i
+t
+l
+u
+M
+
+;
+e
+s
+a
+e
+s
+i
+d
+s
+’
+r
+e
+m
+i
+e
+h
+z
+l
+A
+
+,
+
+D
+A
+
+.
+r
+o
+t
+c
+a
+f
+
+;
+
+d
+i
+o
+
+l
+y
+m
+a
+
+,
+
+A
+
+s
+i
+s
+o
+r
+c
+e
+n
+r
+o
+m
+u
+t
+
+
+
+
+
+8
+
+Mediators of Inflammation
+
+number of cases [96]. One of the categories used for classi-
+fication is the presence of certain molecules in brain lesions
+
+associated with the disorder, for example,-amyloid (A) for
+AD and-synuclein for PD. For several neurodegenerative
+
+diseases, mutations in specific genes have been found, for
+example, presenilin genes (PSEN 1 and 2) for AD. However,
+in certain cases diagnosis is difficult due to the coincidence
+of clinicopathological features of several neurodegenerative
+diseases [97–99]. Nowadays, with the increasing amount of
+molecular and genetic data and the continuing efforts to find
+other common characteristics of neurodegenerative diseases,
+questions have arisen about the distinction between these
+diseases, making their classification even more problematic
+[99–101]. The early classifications divided neurodegenerative
+diseases into either taupathies (including AD, Pick’s dis-
+ease (PiD), argyrophilic grain disease (AGD), progressive
+supranuclear palsy (PSP), corticobasal degeneration (CBD),
+and FTDP-17) and synucleinopathies (including PD, demen-
+tia with Lewy bodies (DLB), and multiple system atrophy
+(MSA)) [102]. Today, different, nosological classifications of
+neurodegenerative diseases exist, taking into account clinical
+presentation, affected brain regions and cell types, altered
+proteins involved in the pathogenesis of the disease, genetics,
+and possible overlaps between diseases [96, 103].
+
+3.2. Neuroinflammation. Neuroinflammation is defined as
+inflammation of nervous tissue, which occurs as a biological
+response to different signals, such as infection, CNS injury,
+autoimmunity, and toxic compounds. Although it is initiated
+primarily as a beneficial reaction of the CNS to the harmful
+stimulus, it could eventually aggravate the disease. Neuroin-
+flammation is characterized by the initiation of a cascade of
+events, including production of cytokines and chemokines
+accompanied by the release of free radicals and proteases,
+resulting in a chronic inflammatory state in the organism.
+
+Four CNS barriers separate blood from CNS parenchyma
+to block entrance of immune cells and various molecules
+into the brain from the periphery: blood-brain barrier (BBB),
+blood-cerebrospinal fluid barrier (BCSFB), arachnoid bar-
+rier, and blood-spinal cord barrier (BSCB) [104, 105]. All
+CNS barriers are dynamic structures that allow passage of
+immune-related molecules and cells upon specific stimuli
+(e.g., proinflammatory cytokines) [106, 107]. Furthermore,
+immune functions in the brain are conveyed by microglia,
+innate immune cells that are constitutively present in the
+brain, but astrocytes can secrete many molecular mediators
+of the immune response [108]. Microglia are of myeloid
+origin and normally reside in a ramified, resting state in the
+CNS, where they monitor the surrounding environment in
+the brain and spinal cord. Opposite to immune cells in the
+periphery, microglia are predominantly involved in limiting
+inflammation. When triggered by various immunological
+stimuli, microglia morphologically transform into ameboid
+cells and start to proliferate and secrete inflammatory media-
+tors [109, 110]. Besides, they start to mimic antigen presenting
+cells (APC), which are immune cells in the periphery, by
+upregulating major histocompatibility complex (MHC) class
+II and becoming phagocytic [111]. The presence of the MHC
+
+is important for prolongation of the immune response in the
+CNS. Activated microglia engage in different processes, both
+protective and harmful. It has been shown that microglia
+are involved in neuron survival [112], neurogenesis [113],
+facilitation of brain repair via guidance of stem-cell migration
+to the site of inflammation or injury [114], and clearance of
+cell debris [115]. Nevertheless, when overactive, microglia can
+inflict severe damage to the brain by excessive production
+of molecules such as MMPs, proinflammatory cytokines
+and chemokines, and cytotoxic molecules such as ROS and
+nitric oxide (NO) [116–118]. Astrocytes too play a role in
+the inflammatory response of the CNS. They also pro-
+duce different inflammatory mediators, including cytokines,
+chemokines, and complement components [119]. For exam-
+
+ple, both microglia and astrocytes secrete IL-2 and IL-1,
+
+thereby stimulating CD4+ T helper cells to produce GM-
+CSF, which contributes to perpetuation of the inflammation
+processes by recruitment of CD11b-positive myeloid cells
+[120]. Also T cells can secrete cytokines and MMPs that are
+known to disrupt the BBB and permit the entry of immune
+cells from periphery, converting acute inflammation into a
+chronic inflammatory state. Although microglia have been
+implicated in neurodegenerative diseases, the mechanisms
+responsible for activating microglia are unknown [121].
+
+4. Role of MMPs in
+
+Neurodegenerative Diseases
+
+4.1. Aging. All neurodegenerative diseases are multifactorial
+and caused by complex interactions of genetic and environ-
+mental factors. By far the most prominent risk factor for
+most neurodegenerative diseases is aging, so the prevalence
+of these disorders is high above the age of 65 years. Aging
+is influenced by interaction and balance between various
+protective and harmful factors over the lifespan of an indi-
+vidual. These factors include genetics, nutrition, psychosocial
+influences, and exposure to toxic compounds [122]. However,
+it is not yet clear how aging acts on the development of
+neurodegenerative diseases and other age-related diseases
+[123]. Two of the most prominent characteristics of aging are
+immunosenescence (deterioration of immune responses) and
+inflammaging (presence of chronic low grade inflammation)
+[124, 125]. Physiological aging is associated with a progressive
+increase in the number of activated microglial cells in the
+brain and spinal cord [126–128] accompanied by transition
+from normal microglial morphology to microglial dystrophy
+[129]. It has been shown that aged microglia secrete IL-
+
+1 [130] and increase MHC class II expression [131]. Low-
+
+level systemic inflammation during aging has also been
+linked to the presence of active microglia and increased
+proinflammatory cytokines levels in the brain [132–134]. One
+of the characteristics of aging is accumulation of advanced
+glycation end products (AGE), which are also elevated in AD.
+Activation of the receptor for AGE (RAGE) leads to release
+of proinflammatory cytokines and free radicals, further
+contributing to inflammatory processes [135]. Data are scarce
+on the role of MMPs in brain aging. Nevertheless, changes
+in the physiological balance between MMPs and TIMPs
+
+Mediators of Inflammation
+
+have been related to age-related vascular diseases [136]. One
+theory of aging suggests that vascular-derived insults initiate
+and/or contribute to aging and to some of the age-related
+diseases, such as AD [137, 138]. In a comparative study, RNA
+expression of 22,626 genes was monitored in the heart and
+cerebellum of young and aged mice of several strains. Two
+potential biomarkers of aging present in both structures were
+identified: complement component C4 and TIMP-2 [139].
+Using magnetic resonance imaging, Romero et al. found
+that upregulation of MMP-9 was associated with aging and
+circulating levels of MMP-9 and TIMP-1 in patients with
+brain ischemia and aging [140]. Liu et al. observed that MMP-
+12 increased in the aging brain and that MMP-12 deficiency
+led to a reduction of neuroinflammaging. This finding is
+linked to aggravation of neuroinflammation associated with
+aging via the induction of the migration of bone marrow
+derived microglia to the brain [141]. Furthermore, Safciuc
+et al. showed that microvessels in the brain of aged rats exhibit
+decreased MMP-2 activity and appearance of MMP-9 [142].
+
+from alternative processing of APP protein [144]. Although
+
+cerebral amyloid angiopathy (CAA) and in 90% of patients
+
+4.2. Alzheimer’s Disease (AD). AD is the most common neu-
+rodegenerative disorder. Its prominent characteristics include
+brain atrophy, caused by neuronal cell death, and decreased
+dendritic arborization in the cerebral cortex and other
+subcortical areas. The hallmarks of AD include presence of
+amyloid plaques and neurofibrillary tangles, which are linked
+to cerebral atrophy [143]. Amyloid plaques, also called senile
+plaques, appear in brain parenchyma as extracellular deposits
+
+in several other neurodegenerative diseases, such as PD, Pick’s
+disease (PiD), progressive supranuclear palsy (PSP), and cor-
+ticobasal degeneration [147], as well as in ALS [148]. Besides,
+
+also occurs in Down’s syndrome, possibly due to triple
+multiplication of amyloid precursor protein (APP), as well
+as in certain cases of dementia with Lewy bodies [145, 146].
+
+consisting of A fibrils of 37–43 amino acids, originating
+A deposition is considered a signature lesion for AD, it
+Additionally, occurrence of A pathology has been observed
+deposition of A occurs in the cerebral vasculature in both
+with AD [149]. A originates from the transmembrane
+-secretase to produce-C terminal fragments (CTFs). These
+fragments are cleaved by-secretase to release A in the
+pathway,-secretase cleaves APP at a different site, pro-
+ducing-CTFs. These fragments are cleaved by-secretase,
+the extracellular p3 peptide. In contrast to A peptides,
+necrosis factor--converting enzyme or TACE), ADAM-9
+and ADAM-10, can cleave APP at the-secretase cleaving
+site [150]. Released A can act as a monomer, but it can
+
+p3 peptides have a low propensity to assemble into stable
+oligomers and they have no known harmful effects on brain
+cells [150]. It has been shown that some of the members of the
+metalloproteinase family, including the ADAM (a disintegrin
+and metalloproteinase) proteins ADAM-17 (also called tumor
+
+extracellular space and APP intracellular domain (AICD)
+into the cytoplasm. In the physiological nonamyloidogenic
+
+protein APP, which undergoes amyloidogenic processing by
+
+resulting in the cytoplasmic peptide fragment AICD and
+
+9
+
+dimerize or oligomerize. A-induced synaptic dysfunction
+has been noted in AD [151–154]. A oligomers are nonfibrillar
+ structures, and further aggregation of A oligomers results
+structures form a base for formation of A plaques [155–157].
+A deposits are typically surrounded by dystrophic neurites,
+
+reactive astrocytes, and activated microglia, forming dense-
+core plaques in the brain parenchyma [158].
+
+in the formation of protofibrils and eventually fibrils. These
+
+Also considered hallmarks of AD are neurofibrillary tan-
+gles (NFT), intercellular deposits of a hyperphosphorylated
+form of Tau protein [159]. Physiologically, Tau protein plays
+a role in the assembly and stabilization of microtubules
+in neurons [160]. Cases of dementia with abundance of
+NFTs and a few amyloid plaques have been classified as a
+nonspecific type of neurodegenerative disorders, called NFT
+dementia [161]. However, the etiology of AD is complex, and
+
+neither A nor NFT alone should be considered responsible
+
+for the disease manifestations. Therefore, other proposed
+mechanisms and manifestations of the disease should also
+be taken into account [162]. Some authors point to the role
+of an imbalance in ROS formation and cellular antioxidant
+activity in AD [163]. The idea is that overproduction of free
+radicals could be a driving force behind neurodegeneration,
+and given the large number of possible stressors, such as
+aging, inflammation, hypoxia, and cerebral hypoperfusion,
+there is ample opportunity for overproduction of free radicals
+[164]. On the other hand, advocates of the inflammatory
+hypothesis propose a central role for activated microglia
+nearby amyloid plaques in the brain. Their notion is that
+activated microglia produce large amounts of inflammatory
+cytokines and chemokines, which sustain a chronic inflam-
+mation in the brain that ultimately leads to neuronal cell
+death [165]. Furthermore, it has been shown that besides
+
+In view of the relationship between MMPs and AD [62]
+(Figure 3) and in order to distinguish AD from vascular
+dementia, Bjerke et al. proposed MMP-9 and TIMP-1 as
+
+the established direct neurotoxic effect [166], A can exert
+which results in secretion of NO, TNF, and superoxides
+around A aggregates has been observed even before the
+biomarkers of AD, next to T-tau, P-tau, A1–42, and white
+[56], as well as in astrocytes upon A stimulation [57].
+shown that MMP-9 is able to cleave A1–40 [58]. Moreover,
+Yan et al. showed that MMP-9 can degrade A fibrils in
+different A peptides in animal models, Mizoguchi et al.
+
+matter lesions [52]. Strikingly, a correlation between cognitive
+impairment and MMP-9 activity was observed in patients
+with mild cognitive impairment [53]. In agreement with that
+correlation, Lorenzl et al. observed higher levels of MMP-
+9 in serum of AD patients [54]. MMP-9 expression was
+shown to be induced in AD patients in neuronal cytoplasm,
+neurofibrillary tangles, amyloid plaques, and vascular tissue
+
+vitro, as well as amyloid plaques in brain slices from APP/PS1
+mice [55]. Using intracerebroventricular (icv) injections of
+
+Additionally, MMP-9 was found in pyramidal neurons of the
+brains of AD patients, and near amyloid plaques and it was
+
+indirect proinflammatory effects via microglial activation,
+
+showed an increase in MMP-9 activity in hippocampus,
+
+[167, 168]. Interestingly, clustering of activated microglia
+
+development of AD symptoms [169–171].
+
+10
+
+Mediators of Inflammation
+
+Brain parenchyma
+
+Neuron
+Astrocyte
+
+BBB
+
+Blood
+
+Capillary
+
+endothelial cells
+
+↑ P-tau
+
+Degeneration
+
+A
+
+Pericyte
+
+MMP-3
+MMP-9
+
+A
+
+plaques
+
+Activated
+microglia
+
+Cytokines
+chemokines
+
+Microglia
+
+Degradation of plaques
+
+MMP-1, MMP-2, MMP-3, MMP-9, MMP-12, and MMP-13
+
+Ventricle
+
+TJs
+
+MMP-3
+MMP-9
+
+CSF
+
+Cytokines
+chemokines
+
+Choroid plexus epithelial cells
+
+Blood
+
+Fenestrated capillaries
+
+Basal lamina
+
+BCSFB
+
+BCSFB
+
+Figure 3: Schematic representation of the involvement of MMPs in Alzheimer’s disease pathology. A peptides produced from APP
+processing form oligomers that subsequently form amyloid deposits or plaques in the brain parenchyma. A oligomers activate inflammatory
+and begin to secrete proinflammatory cytokines and MMPs. Secreted MMPs degrade A and, on the other hand, exacerbate inflammation in
+of proinflammatory cytokines and MMPs. These secreted MMPs further damage the tight junctions at the BCSFB. A,-amyloid; BBB,
+
+the brain, leading to death of neurons. These cytokines and MMPs also affect the endothelial tight junctions, alter the pericyte phenotypes, and
+contribute to increased BBB permeability. Similarly, oligomers in the CSF activate the choroid plexus epithelium, which leads to the release
+
+cells in the brain (astrocytes, microglia, and choroid plexus epithelium). Once activated, microglia change their shape, migrate close to plaques,
+
+blood-brain barrier; BCSFB, blood-cerebrospinal fluid barrier; CSF, cerebrospinal fluid; MMP, matrix metalloproteinase; TJs, tight junctions.
+
+Mediators of Inflammation
+
+dependent pathway [60]. Li et al. showed in primary astrocyte
+cultures insignificant levels of MMP-9 in medium after treat-
+
+MMP-2 activity. On the contrary, in the brain of APP/PS1 AD
+mice, they observed increased MMP-2 and proinflammatory
+
+and confirmed the results using MMP inhibitors and MMP-
+9 knockout mice [59]. Notably, another study showed that
+MMP-3, by remodeling the ECM, is crucial for synaptic
+plasticity and learning [48]. It has been shown that MMP-9
+
+related this increase to A-induced cognitive impairment,
+can act through NMDA receptor signaling via an integrin1
+ment with A oligomers, accompanied with a decrease in
+cytokine levels. They proposed that A can decrease the
+
+expression and activation of MMP-2 in astrocytes directly,
+while stimulating microglia to produce proinflammatory
+cytokines, which in turn again induce MMP-2 expression and
+aggravate the disease [43]. However, in the study of Bruno
+et al., no elevation of MMP-2 activity was observed in AD
+patients [53]. In a transgenic mouse model of AD, expression
+of MMP-2 and MT1-MMP, a potent MMP-2 activator, was
+found in reactive astrocytes around amyloid plaques [45], and
+
+3, MMP-12, and MMP-13 in microglia [47]. Additionally,
+MMP-12 exacerbates the cascade of proteolytic processes
+by subsequent activation of other MMPs such as MMP-2
+
+these results in a transgenic mouse model of AD by showing
+enhanced immunoreactivity of MMP-9 near cerebral cap-
+illaries and alterations in tight junction components. The
+
+on endothelial cells and BBB integrity and linked this to
+MMP activity. They observed increased BBB permeability
+in cultured endothelial cells linked to decreased zonula
+occludens-1 (ZO1) levels, one of the major components of
+TJs. Moreover, there was an increase in MMP-9 and MMP-
+2 activity, and broad-spectrum MMP inhibition reversed the
+
+higher levels of A1–42 increased the production of MMP-
+and MMP-3 [47]. Kook et al. looked into the effects of A
+A-induced BBB disruption. Additionally, they confirmed
+proposed mechanism of A activity is through activation of
+interaction of A with RAGE induces MMP-2 via the ERK
+E4 allele (APOE4) in the genome [173]. The group
+humans, APOE4 leads to BBB breakdown by activating
+
+RAGE, which is physiologically expressed on endothelial cells
+and activates the intracellular calcineurin (CaN) signaling
+pathway, which ultimately results in activation of MMPs and
+TJ cleavage [172]. In the same year, another group showed that
+
+the proinflammatory cyclophilin A (CypA)/MMP-9 pathway
+in brain pericytes, which are important components of the
+neurovascular unit and guardians of BBB integrity [61, 174].
+This eventually results in degradation of the BBB tight
+junctions and basement membrane proteins [61, 174].
+
+Besides aging, the most prominent genetic risk factor for
+developing late onset AD is the presence of apolipoprotein
+
+of Zlokovic reported that, both in transgenic mice and in
+
+and JNK pathways in brain endothelial cells [44].
+
+As far as the role of stromelysins in AD is concerned,
+MMP-3 levels were significantly upregulated in plasma,
+similar to what was observed in CSF of AD patients [49].
+In contrast, Mlekusch and Humpel observed downregulation
+of MMP-3 and MMP-2 in CSF of AD patients, but it should
+
+be noted that these patients had lower A levels [175]. In
+
+other studies, it has been shown that MMP-3 is expressed
+
+11
+
+and APOE 4 alleles, and the presence of both is a risk
+factor for developing AD [177]. Interestingly, we recently
+
+in microglia, astrocytes, and endothelial cells in the brain, as
+well as near senile plaques in AD [62]. Deb and Gottschall
+showed that MMP-3 was induced and its activity increased in
+
+astrocyte and neuronal cell cultures upon A1–40 stimulation
+[46]. As reported for MMP-9, MMP-3 can degrade A [47, 50,
+176]. Moreover, a correlation was found between MMP3∗5A
+reported that icv injection of A1–42 oligomers induces loss of
+Moreover, the A1–42 oligomer-induced leakage of the BCSFB
+
+barrier integrity at the blood-CSF barrier, and this was linked
+to increased MMP-3 expression and MMP activity [32].
+
+could be prevented by a broad-spectrum MMP inhibitor and
+did not occur in MMP-3 deficient mice [32].
+
+Other MMPs have been implicated in AD. Leake
+et al. reported a notable increase in MMP-1 in brain
+of AD patients [42]. Langenfurth et al. found upregu-
+lated microglial/macrophage expression in tissues from AD
+patients, as well as in a mouse model of AD [178]. Finally,
+levels of TIMP-1 and C-reactive protein (CRP) were found to
+be increased in AD patients, and they decreased remarkably
+after treatment with acetylcholinesterase inhibitors (AchEIs),
+one of the few available therapies of AD [179].
+
+4.3. Parkinson’s Disease (PD). PD is the second most preva-
+lent neurodegenerative disease and the most common neu-
+rodegenerative movement disorder, with an estimated 7–
+10 million people worldwide suffering from it. Like AD,
+its prevalence increases with age, and due to the severity
+and long duration of the disease, its costs in the US alone
+are estimated at 25 billion dollars per year. A prominent
+characteristic of PD is the presence of intracellular protein
+inclusions called Lewy bodies in affected brain areas. These
+inclusions are formed of fibrillar, misfolded proteins com-
+
+posed of-synuclein, parkin, synphilin, synaptic vesicle pro-
+
+teins, and neurofilaments. The biological significance of these
+inclusions is unclear [180]. Interestingly, inclusions similar to
+Lewy bodies were found in 22% of cases of familial AD, and
+they occur also in dementia with Lewy bodies (DLB) and
+in multiple system atrophy (MSA) [181]. Another hallmark
+of PD is selective and progressive loss of dopaminergic
+neurons in substantia nigra pars compacta. The substantia
+nigra, being part of basal ganglia together with the striatum,
+globus pallidus, and subthalamic nucleus, modulates motor
+activity in the brain [182]. Thus, due to dopaminergic neuron
+cell death, one of the clear manifestations of the disease is
+loss of control over movements, resting tremor, bradykine-
+sia, and rigidity [183]. Additionally, PD is accompanied by
+sensory dysfunction, mood and sleep disorders, dementia,
+and partial autonomic nervous system impairment [184].
+This multifactorial disorder is known to be influenced by
+genetic factors, such as multiplication or missense mutations
+
+in the-synuclein gene, which is a major risk factor for
+
+familial PD [185]. Additionally, mutations in parkin, PINK1,
+and LRRK2 have been identified as possible causes of other
+cases of familial PD [186, 187]. Nevertheless, most cases of
+PD are sporadic, and the onset of the disease has been shown
+to be caused by complex interaction of environmental and
+
+12
+
+Mediators of Inflammation
+
+genetic factors. PD is characterized by chronic inflammation
+persisting over the years of disease progression. Thus, some
+hypotheses propose that neuroinflammation could play a
+pivotal role in promotion and aggravation of the disease
+[188–190]. Studies on postmortem tissue of PD patients, as
+well as in vivo imaging, revealed astrogliosis, overactivation
+of microglia, and infiltration of peripheral immune cells
+into brain regions affected by PD [191–195]. In PD patients,
+active microglia have been observed in most of the regions
+with Lewy bodies, and in vivo imaging revealed microglial
+activation throughout the different stages of the disease,
+indicating chronic microglial activation [196]. The substantia
+nigra seems to be particularly susceptible to inflammation
+due to the presence of the largest number of microglia in
+this brain area, so relevant stimuli lead to the activation of
+large numbers of microglia [197]. In agreement with these
+findings, activated microglia have been found in substantia
+nigra in patients with sporadic or familial PD [196, 198] as well
+as after exposure of humans to 1-methyl-4-phenyl-1,2,3,6-
+tetrahydropyridine (MPTP) [65]. The same effect was seen
+in the substantia nigra and striatum in animal models of PD
+based on MPTP injection [199–202]. Microglial activation
+was also found in other PD models [203] and in other
+brain regions in PD patients, including putamen, hippocam-
+pus, transentorhinal cortex, cingulate cortex, and temporal
+cortex [204]. Hirsch and Hunot described early microglial
+activation after MPTP injection, followed by later neuronal
+cell death and infiltration of T cells and astrogliosis [189].
+Other evidence for the role of microglia in PD comes from
+studies using anti-inflammatory drugs to inhibit microglial
+activation, which was protective against neurodegeneration
+induced by MPTP or 6-OHDA [205]. Active microglia are
+known to secrete inflammatory mediators, and accordingly,
+increased proinflammatory cytokine levels were increased
+in the substantia nigra [206, 207] and CSF in PD [208].
+
+Furthermore, IL-1 and IL-6 were found to be elevated in CSF
+
+It has been speculated that prolonged overactivation
+of microglia and production of proinflammatory cytokines
+could lead to neuronal degeneration in PD [207, 211]. It is
+also speculated that oxidative stress could be generated from
+dopaminergic metabolism, mitochondrial dysfunction, and
+microglial activation, which could be influenced beforehand
+by various toxins and mutations in Parkin, PINK1, DJ-
+1, or HtrA1, which are important for physiological mito-
+chondrial functioning [212]. Other evidence for the involve-
+ment of active microglia in triggering neurodegeneration of
+dopaminergic neurons in the substantia nigra comes from
+studies on injection of lipopolysaccharide (LPS) systemically
+or directly in the substantia nigra [213–215]. Intriguingly,
+GABAergic and serotonergic neurons remained unharmed,
+while dopaminergic neurons were lost [216]. This could be
+explained by specific susceptibility of dopaminergic neurons
+to oxidative stress due to the presence of tyrosine hydrox-
+ylase and monoamine oxidase, which are ROS-generating
+enzymes, as well as excessive production of easily oxidized
+cytosolic dopamine [217, 218]. The mechanism of microglial
+activation remains unclear. However, it is speculated that
+initial neurotoxic insult to dopaminergic neurons results in
+
+of Parkinson’s disease patients [209, 210].
+
+causing them to produce ROS [220].
+
+the release of certain factors that activate microglia and
+convert them from beneficial into harmful [121]. It has been
+shown that damaged dopaminergic neurons can activate
+
+microglia by releasing-synuclein [219] and neuromelanin,
+
+MMP-3, produced by neurotoxin-stressed dopaminergic
+neurons, seems to be a self-sufficient player in microglial
+activation in the absence of any other inflammatory molecule.
+It has been suggested that this mechanism plays an impor-
+tant role in apoptosis. On the one hand, MMP-3 could
+cleave the connections between apoptotic cells and ECM,
+thereby facilitating subsequent phagocytosis. On the other
+hand, it could activate microglia, leading to the release of
+cytokines and receptors for phagocytosis of apoptotic cells
+[64]. In an in vitro study, Kim et al. observed that the
+ERK signaling pathway is induced in microglia after MMP-3
+stimulation. Additionally, they hypothesized that both active
+MMP-3 and catalytically active recombinant MMP-3 could
+activate microglia to produce proinflammatory cytokines,
+which in turn aggravate neuronal apoptosis of damaged
+cells, leading to further induction of apoptosis in neigh-
+boring dopaminergic neurons. This hypothesis is supported
+by postmortem studies describing progressive dopaminergic
+neuronal degeneration in humans and monkeys treated with
+MPTP for 10 years [65, 221]. Using MMP-3 deficient mice
+and a broad spectrum MMP inhibitor, it has been shown
+that depletion of MMP-3 can significantly reduce MPTP-
+induced degeneration of nigrostriatal dopaminergic neurons
+in the brain [66]. Furthermore, MMP-3 activated microglia
+produce superoxide, known to be involved in facilitation of
+dopaminergic neuronal cell death in vitro [222, 223] and
+in vivo [224]. Using siRNA, another group confirmed that
+MMP-3 is actively secreted by neurons [51]. Also upregulated
+MMP-9 activity, produced by neurons and microglia, was
+found in both striatum and substantia nigra after MPTP
+treatment, and pharmacologic inhibition of MMPs protected
+against MPTP neurotoxicity [69]. Earlier, the same group
+analyzed postmortem brain tissue from PD patients and
+found no change in the activities of MMP-9 and MMP-1
+in substantia nigra, cortex, or hippocampus, whereas MMP-
+2 was significantly reduced in the substantia nigra. Addi-
+tionally, they showed that MMP-9 was localized primarily
+in neurons and MMP-2 in astrocytes and microglia. In the
+same study, TIMP-2 levels did not change, whereas TIMP-
+1 was upregulated in substantia nigra but not in the cortex
+and hippocampus [63]. The increase in MMP-9 expression
+in substantia nigra was later confirmed by Annese et al.,
+who also demonstrated MMP-9 expression in striatum. The
+data showed that MMP-9 is expressed in reactive microglia
+and astrocytes, pinpointing MMP-9 as a key molecule for
+the onset of neuroinflammation in PD. Experiments done
+in MMP-9 deficient mice confirm that active glia dimin-
+ish neuronal survival since decreased numbers of active
+microglia correlated with increased numbers of functional
+dopaminergic neurons [70]. In a primate model of PD
+(MPTP-injected macaques), an increase in MMP-9 labeled
+striatal neurons and astrocytes was also found.
+
+BBB leakage was found in animal models of PD solely in
+brain regions and was associated with microglial activation
+
+Mediators of Inflammation
+
+13
+
+involved in alteration of-synuclein protein conformation,
+dependent proteolysis of-synuclein, followed by increased
+specific-synuclein cleavage and showed that both MMP-
+1 and MMP-3 mediate increased-synuclein aggregation in
+
+aggegate formation. In this process, MMP-3 was particularly
+efficient, but MMP-1, MMP-2, and MMP-14 showed similar
+properties [68]. Levin et al. further studied the MMP-
+
+comparison to trypsin and proteinase K [228].
+
+and dopaminergic neurodegeneration [225, 226]. Recent evi-
+dence suggests that the proteolytic activity of MMPs might be
+
+thus contributing to aggregation, Lewy body formation,
+and microglial activation [227]. In an in vitro study on a
+dopaminergic neuronal cell line, Sung et al. observed MMP-
+
+4.4. Amyotrophic Lateral Sclerosis (ALS). ALS, also known
+as Lou Gehrig’s disease, is characterized by degeneration of
+motor neurons in the brain, brainstem, and spinal cord. All
+voluntary muscles are affected, and the muscle weakness and
+atrophy are followed by paralysis, and finally respiratory fail-
+ure and death [36]. Some other neurodegenerative diseases
+share similar etiology, such as progressive lateral sclerosis
+(PLS), progressive muscular atrophy (PMA), ALS dementia,
+and ALS frontal lobe dementia [229]. Interestingly, one-third
+of all ALS patients exhibit symptoms or pathology resembling
+those of AD [148]. The incidence of the disease is relatively
+rare (2.08 people per 100,000 in Europe), and the prevalence
+is mostly in people between the ages of 45 and 65 years
+[230]. Familial occurrence of the disease is only 5–10% of all
+ALS cases, and the cause of the sporadic form of ALS is still
+unknown. Some familial and sporadic cases are caused by
+mutation in the gene for copper-zinc superoxide dismutase
+1 (SOD1) [231]. Additionally, ALS is associated with protein
+inclusions composed mostly of transactive response DNA-
+binding protein 43 (TDP-43) in the cytoplasm in the affected
+areas of the brain and spinal cord [232]. However, occurrence
+of TDP-43 is not characteristic of only ALS but was found
+in several patients with frontotemporal lobar degeneration
+with TDP proteinopathy (FTLD-TDP), as well as in fron-
+totemporal dementia, AD, and some other neurodegenera-
+tive diseases [96]. The etiology of the disease is unknown,
+but various mechanisms have been proposed,
+including
+neuroinflammation, glutamate excitotoxicity, oxidative stress
+damage and mitochondrial dysfunction, protein misfolding
+and aggregation, and deficits in neurotrophic factors [233].
+Besides, in ALS, active microglia were also observed in brain
+areas such as motor cortex, pons, dorsolateral prefrontal
+cortex, and thalamus. Interestingly, activation of microglia
+was correlated with progression of the disease [234]. In the
+in vitro work of Swarup et al., microglia overexpressing TDP-
+43 increased their secretion of proinflammatory cytokines
+upon LPS treatment in comparison to wild type microglia
+[235]. One of the theories suggests that BBB and BSCB
+breakdown could contribute to the motor neuron damage,
+due to the importance of these barriers in maintenance of
+homeostasis in the CNS. Indications of the involvement of
+MMPs, key players in barrier alteration, come from early
+studies on neocortex and spinal cord of ALS patients, in
+which MMP-2 was found in astrocytes, and MMP-9 was
+
+found in pyramidal neurons in the motor cortex and motor
+neurons in the spinal cord. Additionally, MMP-2 activity
+was decreased in motor cortex whereas MMP-9 activity
+was increased in spinal cord [236]. Since BSCB disruption
+in ALS [237–239] is accompanied by downregulation of
+mRNA for tight junction proteins [240], Miyazaki et al.
+speculated that MMP-9 is involved in barrier disruption
+[241]. Another group showed reduced MMP-9 activity during
+disease progression, with the peak at the onset of ALS, and
+described a similar profile for MMP-2 [74]. Two separate
+groups found significant increases in both pro-MMP-9 and
+active MMP-9 in serum of ALS patients relative to healthy
+controls [242, 243]. Niebroj-Dobosz et al. reported that in
+mild cases of ALS, expressions of MT-MMP-1, MMP-2,
+MMP-9, and TIMP-1 are elevated in serum compared to CSF,
+where MT-MMP-1, MMP-2, and TIMP-1 were upregulated
+or unchanged while MMP-9 levels were decreased [75].
+Furthermore, Fang et al. found increased levels of MMP-
+9 in CSF from patients suffering from rapidly progressing
+ALS. They speculated that this finding is associated with
+progression of the disease, poor survival of the patients,
+and neuronal degeneration. Nevertheless, MMP-2 showed a
+slow but progressive decrease with the development of the
+disease [71]. In the study by Kaplan et al., diminishing MMP-
+9 function by genetic, viral, or pharmacological intervention
+was shown to prolong survival in a SOD1 mouse model of
+ALS [244]. Moreover, MMP-9 was preexpressed only in fast
+motor neurons, which have been shown to be particularly
+susceptible to degeneration in patients suffering from ALS.
+These results show that MMP-9 is a key player in the onset of
+the disease and point to it as a therapeutic target.
+
+Kaplan et al. focused on the early stage of the disease and
+expression of MMP-9 by neurons, whereas Kiaei et al. studied
+later stages of the disease and observed expression of MMP-
+9 by activated microglia, giving support to the hypothesis
+that the pathology is mediated by cytokines secreted by
+microglia. Since the depletion of MMP-9 gene does not rescue
+transgenic SOD1 mice from death, ALS indeed has complex
+background [73].
+
+4.5. Multiple Sclerosis (MS). MS is a chronic, autoimmune,
+and inflammatory disease of the CNS. The hallmarks of the
+disease are demyelinated areas, with moderate preservation
+of axons. There are about 2.5 million cases worldwide, with
+approximately 400,000 in the US alone, and MS is twice
+as common in women as in men [245]. In contrast to
+most neurodegenerative disorders that are prevalent in aged
+individuals, MS occurs in people between 20 and 45 years of
+age [246]. The cause of the disease is unknown, but genetic
+and environmental factors contribute to its development.
+Interestingly, epidemiological studies revealed a correlation
+with smoking, exposure to UVB radiation, and intake of
+unsaturated fatty acids [247]. Four major categories of MS
+exist. (1) Relapsing-remitting MS (RRMS) occurs in about
+85% of patients suffering from MS. The disease alternates
+between remission (periods of improvement) and relapses
+(periods of deterioration). (2) Secondary progressive MS
+(SPMS), which is characterized by continuous worsening of
+
+14
+
+Mediators of Inflammation
+
+the symptoms, affects some patients suffering from RRMS.
+(3) Primary progressive MS (PPMS) is manifested in about
+10% of MS patients. This group shows constant aggravation
+of the disease with no remissions or relapses. (4) Progressive-
+relapsing MS (PRMS) is the rarest type, present in less
+than 5% of patients. Although it is progressive from the
+beginning, it shows relapses occasionally, but without periods
+of remission.
+
+At onset, RRMS is characterized as a neuroinflammatory
+state [248]. However, with the progression of the disease and
+occurrence of relapses, certain residual disability develops.
+Over ten years, most patients enter SPMS, which is then
+observed more as neurodegeneration state resulting in per-
+manent disability [249].
+
+Although inflammation is considered as primary in MS,
+this disease is recently being acknowledged as a neurode-
+generative disorder too because of recent findings. It has
+been observed that disability related to MS is correlated with
+axonal damage and neuronal cell loss more than with inflam-
+mation. The new hypothesis that emerged resembles the pre-
+viously proposed mechanism for the other neurodegenerative
+disorders: perpetuated inflammation leads to triggering of
+neurodegenerative processes [250]. Interestingly, certain case
+reports have noted patients suffering from MS and ALS at the
+same time [251].
+
+In MS, the BBB is disrupted,
+
+leading to peripheral
+blood leukocyte infiltration, followed by focal degradation
+of myelin, and finally axonal disruption and neuronal cell
+loss. Data show involvement of MMPs in each of these
+processes [252–255]. It has been shown that the BBB function
+in MS is lost in both relapsing-remitting and progressive
+phases. Nevertheless, BBB dysfunction is a temporary event,
+although recurrence is highly possible [256]. Functional
+changes in the BBB were observed in postmortem brains
+of MS patients [257]. In fact, local BBB changes that follow
+the pattern of the lesions help diagnose MS by observing
+brains using magnetic resonance imaging (MRI) with con-
+trast agents that easily leak into the affected parts of the
+brain [258]. Some of the data suggest that BBB breakdown
+precedes infiltration of the immune cells, but this event is
+not definitively the primary cause of lesion formation [258].
+Morgan et al. showed in a common animal model of MS
+called experimental autoimmune encephalomyelitis (EAE)
+that occludin dephosphorylation preceded visible signs of
+disease onset, which indicates that BBB breakdown is one of
+the first events in MS [259]. Alterations in tight and adherent
+junction morphology in MS have also been described [258].
+It is known that in MS, various brain and immune cells
+can secrete MMPs, thus contributing to the BBB breakdown
+[260, 261]. Cossins et al. observed expression of MMP-
+7 by macrophages and MMP-9 in blood vessels in active
+lesion sites of postmortem brain samples [82]. Another group
+confirmed this finding and also showed expression of MMP-
+3 in endothelial cells, MMP-1, MMP-2, MMP-3 and MMP-9
+in macrophages, and to a lesser extent in astrocytes, around
+active and necrotic lesions [80].
+
+Lepert et al. examined CSF samples from patients suf-
+fering from both RRMS and PPMS and found an increase
+in MMP-9 in all the RRMS cases throughout both phases
+
+of the disease. However, in PPMS patients, MMP-9 was
+increased in only about half of the samples and in significantly
+smaller amounts than in the relapsing-remitting form. They
+argued that this points out that T-cells and macrophages
+are responsible for the secretion of MMP-9 in MS. Addi-
+tionally, they proposed that constant elevation of MMP-9
+throughout the progress of the disease could contribute to
+the surrounding tissue damage and neuronal cell loss [83].
+In their work using the EAE model, Kieseier et al. showed
+that the increase in MMP-9 and MMP-7 expression in blood
+vessels and parenchyma strongly correlated with the peak of
+the disease [262].
+
+Elevated levels of MMP-9 were also observed in serum
+of MS patients, together with an increase in TIMP-1 and
+TIMP-2. In the same study [84], the authors pointed out
+an association of these increases with the number of lesions
+observed by MRI. However, the study of Waubant et al.
+found increased levels of MMP-9 in serum but no elevation
+of TIMP-1 levels. Also, by univariant analysis they found
+that an increase in MMP-9 and a decrease in TIMP-1 levels
+preceded the appearance of new lesions [263]. Another group
+compared the mRNA levels of MMP-1, MMP-3, MMP-7,
+MMP-9, MMP-14, and TIMP-1 in blood monocytes of MS
+patients with those of controls. They found that all except
+MMP-14 were upregulated [81]. In an interesting study by
+Althoff et al. using the EAE model, transgenic mice that
+constitutively express TIMP-1 in the CNS had a normal
+phenotype but EAE symptoms were diminished [264]. Inter-
+estingly, other studies done using the EAE model showed
+limited BBB restoration and amelioration of the clinical pic-
+ture after administration of broad-spectrum MMP inhibitors
+[90, 265]. Finally, MMP-9 knockout mice were shown to
+be less susceptible to induction of EAE [266]. Besides the
+occurrence of the leakage, the BBB also becomes activated,
+meaning that cells making up the BBB, including endothelial
+cells, astrocytes, and potentially pericytes, start expressing
+and secreting various factors involved in the recruitment
+and functioning of leukocytes [258]. Constant leukocyte
+migration occurs through the BBB in active MS lesions and
+this migration is normally strictly regulated by a number of
+molecules, such as cell adhesion molecules (CAM), integrins,
+cytokines, and chemokines. The leukocyte infiltration further
+aggravates BBB breakdown, as shown in in vitro studies
+
+[267]. In one in vitro study, interferon treatment downreg-
+
+ulated MMP-9 expression and abolished MMP-2 expression,
+thereby diminishing subsequent migration of T-cells [268].
+Involvement of MMPs in demyelination and axonal
+injury has been reported by several groups. Nevertheless,
+the mechanism of MMP action in MS remains unknown.
+Newman et al. showed that microinjection of activated MMPs
+into white matter leads to axonal injury. Of the several MMPs
+tested, the most potent was MMP-9, followed by MMP-2,
+and finally MMP-7 [269]. The proposed mechanism of MMP
+action is via degradation of the ECM, since MMPs have an
+established role in the apoptosis of different cell types by the
+same mechanism [270]. Additionally, MMP-activated axonal
+degeneration was hardly observed in peripheral nervous
+system, possibly due to the presence of resilient ECM and
+higher TIMPs expression [271].
+
+Mediators of Inflammation
+
+15
+
+Beneficial roles of MMPs have also been noted in MS
+[253]. For example, MMP-9 has a distinctive role in oligo-
+dendrocyte process growth [272]. It has been speculated that
+this could be a cause of reduced remyelination and decreased
+number of mature oligodendrocytes in MMP-9 and MMP-
+9/-12 null mice [273].
+
+4.6. Other Neurodegenerative Diseases. MMPs have been
+implicated in other neurodegenerative diseases as well. Hunt-
+ington’s disease (HD) is an inherited neurodegenerative dis-
+order that decreases muscle coordination and mental ability.
+The disease has been linked to a mutation on chromosome
+4 in a gene coding for a protein called huntingtin (Htt).
+While the exact role of Htt is not clear yet, it has been
+speculated that proteolysis of mutant Htt participates in the
+pathology [274]. Besides caspases and calpains acting as
+proteases in HD, it seems that MMPs also have a distinctive
+role in cleavage of Htt. Miller et al. have shown that knocking
+down MMP-10, MMP-14, and MMP-23 in cultured striatal
+cells expressing mutant Htt diminishes toxicity. Additionally,
+MMP-10 can directly cleave Htt, and the production of toxic
+Htt fragments is reduced upon silencing of MMP-10 [77].
+Analysis of deceased patients with HD revealed an increase
+in MMP-9 in comparison to controls, as well as upregulation
+of cytokine levels (IL-6, IL-8) in cortex and cerebellum [78].
+In striatum, the main area affected in HD, only CCL2 and
+IL-10 were upregulated. Other evidence for involvement of
+MMP-9 in HD comes from the 3-nitropropionic acid animal
+model of the disease [79]. The authors showed that MMP-
+9 is accountable for the BBB disruption that occurs in the
+disease. Moreover, significantly elevated levels of MMP-9
+were found in plasma of patients suffering from HD, as well
+as in the R6/2 mouse HD model [275]. The authors proposed
+
+MMP-9 (along with IL-6, VEGF, and TGF-) as a potential
+
+biomarker of HD. As far as TIMPs are concerned, Lorenzl
+et al. found increased TIMP-1 and TIMP-2 levels in CSF of
+patients suffering from HD [276].
+
+As far as other neurodegenerative diseases are concerned,
+different MMPs were found to be dysregulated in people
+suffering from dementias. Decreased levels of TIMP-2 were
+found in serum of patients with frontotemporal dementia,
+and downregulated TIMP-1 was shown in patients with
+vascular dementia [54]. Intriguingly, patients with vascular
+dementia have been noted to have higher levels of MMP-9 in
+CSF even compared to patients suffering from AD [277]. In
+CSF from patients suffering from Creuztfeldt-Jakob disease,
+a rare type of dementia, there were increased levels of pro-
+MMP-9 and active MMP-2, as well as TIMP-1 and TIMP-2
+[278].
+
+5. Therapeutic Opportunities
+For decades, conventional wisdom has taught us that MMPs
+play a pivotal role in the dissemination of cancer: they
+degrade the connective tissue between the cells and allow
+the cancer cells to leak from the primary site of tumor
+formation. During the past decade, the role of MMPs became
+well appreciated in neurodegenerative diseases as well. More
+
+than a dozen of MMPs have been shown to be involved in
+progression of neurodegenerative disorders, thereby opening
+up the possibility of therapeutically targeting MMPs. In most
+neurodegenerative disorders, neuroinflammation is observed
+either before or during the development of the pathological
+characteristics of the disease. During neuroinflammation,
+MMPs often increase the permeability of the CNS barriers
+by destroying the stability of the tight junction proteins or
+degrading the ECM, which in turn leads to infiltration of
+immune cells into the brain and cell death [279]. On the
+other hand, in certain neurodegenerative diseases such as
+AD and MMPs, and, in particular, MMP-3 and MMP-9, were
+
+shown to degrade A plaques [50, 58], justifying the view of
+
+MMPs as a double-edged sword. Therefore, drugs that inhibit
+MMPs could have unforeseen effects that need to be well
+understood and avoided before we employ them for therapy
+(Figure 4). MMP activity in neurodegenerative diseases can
+be inhibited at various stages of disease progression. MMP
+expression is usually triggered by an inflammatory stimulus
+(e.g., infection, burns, or protein aggregates), which induces
+an inflammatory cascade. At this stage, anti-inflammatory
+drugs will be effective in eliminating the expression or acti-
+vation of MMPs. Subsequently, the available synthetic broad-
+spectrum inhibitors might be used to inhibit MMPs (Table 3).
+However, more-specific MMP inhibitors could be more
+desirable. Indeed, selective MMP inhibition might avoid the
+unwanted side effects of broad-spectrum MMP inhibition.
+MMP inhibitors can be broadly classified as macromolecular
+inhibitors (including TIMPs and monoclonal antibodies) and
+both synthetic and natural small molecules [280, 281]. In
+
+general, MMP inhibitors act by binding to the Zn2+ atom in
+
+the active site. Early studies conducted using broad spectrum
+MMP inhibitors such as batimastat on mice injected with
+human cancer cells gave compelling results of extending the
+life of the mice from six- to sevenfold, thereby paving the way
+for the potential use of MMP inhibitors in other diseases [1].
+MMP inhibitors yielded beneficial results in animal studies
+of lung inflammatory diseases [282], multiple sclerosis [265],
+meningitis [283–285], vascular dementia [52], stroke [286],
+acute cerebral ischemia [287, 288], and sepsis [1, 15, 289, 290].
+Finally, interfering with the substrates downstream of MMPs
+might also have therapeutic value.
+
+Alzheimer’s Disease. The potential use of MMP inhibitors
+in AD is very speculative and is based on the seemingly
+beneficial effect of MMP-9, due to its role in degradation of
+amyloid plaques and hence its contribution to the clearance
+
+of A from the brain. Furthermore, it has been reported that
+MMP-2 can cleave A at the-secretase site [291]. In another
+full-length APP [292], indicating that it can produce-APPs
+at the plasma membrane or degrade A in the ECM, which
+leads to reduction of A burden in the brain. In contrast to
+MMP-2 activity, but they found that MMP-2 might possess-
+
+secretase like activity, which might shift the balance towards
+the amyloidogenic pathway. However, whether MMP-2 can
+cleave APP remains debatable [291, 293]. Other evidence
+
+similar study, it was reported that MMP-2 also can cleave
+
+those reports, other authors were unable to show a similar
+
+16
+
+Mediators of Inflammation
+
+Inflammatory trigger 
+
+Increased inflammation
+
+Anti-inflammatory drugs
+
+Increased MMP production/activation
+
+MMP inhibitors
+
+Substrate cleavage
+
+Reconstitution of substrates
+Blockage or removal of effector molecules 
+
+Figure 4: Strategies for targeting MMPs. Inflammatory triggers or protein aggregates in neurodegenerative diseases initiate an inflammatory
+cascade. At this early stage, various pharmacological anti-inflammatory drugs are effective in eliminating the downstream consequences.
+Increased inflammation induces and/or activates MMPs, and various broad spectrum inhibitors are available to inhibit MMPs. However, due
+to the fact that MMPs have both beneficial and detrimental effects, specific MMP inhibition might be a better approach. Finally, it is also
+possible to interfere at the level of the cleaved substrates, either by reconstitution of crucial substrates or by blockage or removal of effector
+molecules.
+
+of APP [85]. In an in vitro study, GM6001 was shown to
+
+permeability. Similarly, GM6001 was also able to prevent the
+
+highlighted the role of MMP-2 and MMP-9. Mice deficient
+
+than wild type animals. Likewise, treatment with the broad-
+spectrum MMP inhibitor GM6001 resulted in an increase in
+
+in MMP-2 or MMP-9 appeared to have higher levels of A
+A in transgenic mice overexpressing the Swedish variant
+block the A-induced alterations in ZO-1 expression and BBB
+A oligomer-induced degradation of the blood-CSF barrier
+found to be localized near the A plaques and neurofibrillary
+
+integrity [32]. Moreover, in another study on a transgenic
+mouse model of AD, it was reported that inhibition of MMPs
+with GM6001 reduced the oxidative stress associated with
+CAA [86]. TIMPs, the endogenous inhibitors of MMPs, were
+
+tangles of AD-affected brain samples. It has been speculated
+that MMPs and TIMPs contribute to the evolution of these
+lesions. Similarly, it has been shown that MMPs are produced
+in excess at lesion sites by the immune cells surrounded by
+the effected regions, and that TIMPs might be localized in
+these places as well to control the activity of MMPs. It is
+evident that deregulation of TIMPs also leads to progression
+of AD [294]. The importance of MMPs and TIMPs in
+AD is not established. Thus, to validate MMPs and TIMPs
+as possible candidates for therapeutics development, it is
+important to investigate whether they are amyloidogenic or
+
+prevent A accumulation. So far, no MMP inhibitor has been
+
+developed successfully as drug for AD. This is mainly because
+of potential harmful side effects of broad spectrum MMP
+inhibitor activities, which pose a big hurdle [1].
+
+with release of MMPs. Apoptotic dopaminergic neurons
+release MMP-3, which in turn activates microglia in vitro,
+indicating that MMP-3 could serve as a signaling molecule
+as well. The activated microglia release proinflammatory
+cytokines, such as TNF, that lead to neuronal cell death [64].
+Treatment of mouse mesencephalic cells with tetrahydro-
+biopterin (BH4), a selective dopaminergic neuronal toxin,
+decreased cell survival. However, when cells were exposed
+to a selective MMP-3 inhibitor, NNGH (N-isobutyl-N-[4-
+methoxyphenylsulfonyl]-glycylhydroxamic acid), cell sur-
+
+vival was extended via the decrease of TNF- release from
+
+activated microglial cells [51].
+
+Amyotrophic Lateral Sclerosis. Similarly, several hypotheses
+were proposed regarding the role of MMPs in the develop-
+ment of ALS. Furthermore, selective MMP inhibitors might
+be potential targets for treatment of ALS. Kiaei et al. reported
+that by crossing G93A SOD1 mice with MMP-9 knockout
+mice, immunoreactivity was increased and expression of
+MMP-9 was elevated in spinal cord tissue of G93A SOD1
+mice, a model of familial ALS [73]. Reduced MMP-9 activity
+was shown to prolong survival in the ALS mouse model
+expressing mutant SOD1, pointing to MMP-9 as a poten-
+tial therapeutic target [244]. Generally, MMP-9 stimulates
+
+neuronal TNF- by cleaving it from its membrane-bound
+
+form, and it also contributes to neuronal cell death by
+activating other proinflammatory cytokines [73]. Abnormally
+high levels of MMP-9 and possible degradation of the matrix
+components contribute to ALS progression [236].
+
+Parkinson’s Disease. As far as therapeutic opportunities
+of MMP inhibition in PD are concerned, Lorenzl et al.
+reported the expression of MMPs such as MMP-1, MMP-
+2, and MMP-9 and also TIMP-1 and TIMP-2 in substan-
+tia nigra of postmortem PD brain samples [63]. Hence,
+MMP inhibitors might hold promise for management of PD
+because death of dopaminergic neurons seems to be linked
+
+Multiple Sclerosis. There are several reports on the use of
+synthetic MMP inhibitors to ameliorate the symptoms of
+EAE, and protease inhibitors were used to treat EAE as
+early as 1982 [295]. MMP activity was shown to increase
+threefold in the CSF in two acute models of EAE [90]. Broad-
+spectrum MMP inhibitors such as GM6001 [87, 89], RO31-
+9790 [90], UK221,316 [88], d-penicillamine [91], and BB1101
+
+Mediators of Inflammation
+
+17
+
+a pivotal role in the progression of neurodegenerative dis-
+eases such as AD, PD, ALS, HD, and MS, and their functions
+in these diseases seem to be much more complex than
+previously thought. Targeting MMPs will be of much interest
+for the treatment of these disorders. In most clinical cases, the
+function of MMPs is difficult to predict. Hence, it is necessary
+to explore the role of the different MMPs in depth to be able to
+develop more therapeutic options. More than a dozen MMPs
+were shown to be involved in neurodegenerative diseases,
+including MMP-2, MMP-3, and MMP-9, and they seem to be
+important players in most of the diseases mentioned in this
+review. The mechanisms of action by which they contribute
+to the aggravation of neurodegenerative diseases are slowly
+starting to unfold. MMPs participate in a common pathway
+of pathological changes in the CNS homeostasis, that is,
+accumulation of proinflammatory molecules or aggregated
+proteins and peptides, leading to increased permeability of
+CNS barriers and consequently to cell death. On the other
+hand, these enzymes have many vital roles in physiological
+processes. The dual roles of MMPs hinder efforts to use
+broad-spectrum MMP inhibitors as therapeutics. However,
+a strong indication that selective MMP inhibitors could
+have therapeutic opportunities already exists. Consequently,
+investigation of MMPs and TIMPs as potential biomarkers
+and therapeutics in neurodegenerative diseases needs to be
+continued.
+
+[92] were shown to be beneficial in EAE. MMP-9 was shown
+to be elevated at the lesion sites [82] and in the CSF of
+MS patients [296]. Similarly, association of MMP-9 with the
+disruption of the BBB was also reported in MRI studies
+[297]. When GM6001 was administered after the clinical
+onset of the disease, it inhibited the development of EAE,
+and it also reversed the clinical symptoms in SJL/J mice.
+Likewise, there was a reduction in MMP-9 activity in the
+treated mice [89]. It was also speculated that MMP inhibition
+results in restoration of damaged BBB, thereby decreasing
+the inflammation rather than inhibiting demyelination. In
+a similar study by Hewson et al., using RO31-9790 reduced
+the clinical signs in the EAE model of MS when given on
+the day of disease induction or three days after induction.
+RO31-9790 was less effective in controlling the disease in
+animals with more severe clinical signs [90]. BB1101, another
+broad-spectrum inhibitor, reduced disease severity in Lewis
+rats [92] and reversed acute symptoms in SJL/J mice [90].
+BB1101 was also shown to be effective in chronic relapsing
+EAE in SJL/J mice, in which BB1101 treatment reduced
+the glial scar and demyelination. Further, B1101 treatment
+shifted the cytokine profile from a proinflammatory to an
+anti-inflammatory state [265]. An antirheumatic drug, d-
+penicillamine, was also shown to partially protect against
+EAE in SJL/J mice, but in chronic relapsing EAE in Biozzo
+mice, treatment with d-penicillamine resulted in attenuation
+of disease progression after disease induction [91]. The ther-
+apeutic efficacy of minocycline, a semisynthetic derivative
+of tetracycline, was tested in MOG35 55 peptide-induced
+EAE in C57BL/6 mice [93]. It reduced both the activity
+and expression of MMP-9 in T-cells and reduced disease
+severity. In the same study, minocycline inhibited MMP-
+
+found to be beneficial in suppressing EAE and reducing
+disease severity after disease induction. This effect was linked
+with reduced infiltration of T cells into the CNS, which led
+
+2. Interestingly, an antioxidant molecule,-lipoic acid, was
+to speculation that-lipoic acid could be inhibiting MMP-9
+
+[298]. So far, no molecular mechanism has been identified
+to explain how MMP inhibition ameliorates MS disease
+symptoms, but it is speculated that broad-spectrum MMP
+inhibition inhibits transmigration of immune cells into the
+CNS via the BBB. That would result in reduced demyelination
+and reduced levels of TNF through inhibition of ADAM17
+[299].
+
+6. Conclusion
+There is currently no clinically available therapy to treat or
+delay neurodegenerative diseases. Therefore, novel strategies
+are needed to harness the ability of neuroprotective mecha-
+nisms to slow down or stop the progression of the disease in
+order to prolong the healthy lifespan of patients. More basic
+research is required to fully understand the diverse roles of
+MMPs in the pathophysiology of neurodegenerative diseases
+in order to design specific MMP inhibitors and therapeutic
+strategies for these chronic diseases of the nervous system.
+
+Although the potential causes and etiology of neurode-
+generative diseases remain largely elusive, MMPs clearly have
+
+A:
+
+BBB:
+BCSFB:
+BH4:
+BSCB:
+CAA:
+CaN:
+CBD:
+CNS:
+CRP:
+CTFs:
+CypA:
+DLB:
+EAE:
+
+ECM:
+FTDP:
+
+HD:
+Htt:
+
+Abbreviations
+AD:
+AGD:
+AGE:
+AICD:
+ALS:
+APC:
+APOE:
+APP:
+
+Alzheimer’s disease
+Agyrophilic grain disease
+Advanced glycation end products
+APP intracellular domain
+Amyotrophic lateral sclerosis
+Antigen presenting cells
+Apolipoprotein E
+Amyloid precursor protein
+
+-amyloid
+
+Blood-brain barrier
+Blood-cerebrospinal fluid barrier
+Tetrahydrobiopterin
+Blood-spinal cord barrier
+Cerebral amyloid angiopathy
+Calcineurin
+Corticobasal degeneration
+Central nervous system
+C-reactive protein
+C-terminal fragments
+Cyclophilin A
+Dementia with Lewy bodies
+Experimental autoimmune
+encephalomyelitis
+Extracellular matrix
+Frontotemporal dementia with
+parkinsonism-17
+
+FTLD-TDP: Frontotemporal lobar degeneration with
+
+TDP proteinopathy
+Huntington’s disease
+Huntingtin
+
+18
+
+Mediators of Inflammation
+
+Intracerebroventricular
+Interleukin
+
+icv:
+IL:
+MHC: Major histocompatibility complex
+MMP: Matrix metalloproteinase
+1-Methyl-4-phenyl-1,2,3,6-
+MPTP:
+tetrahydropyridine
+
+Multiple sclerosis
+
+MRI: Magnetic resonance imaging
+MS:
+MSA: Multiple system atrophy
+NFT:
+NO:
+PD:
+PiD:
+PSEN:
+PSP:
+RAGE: Receptor for advanced glycation end
+
+Neurofibrilary tangles
+Nitric oxide
+Parkinson’s disease
+Pick’s disease
+Presenilin
+Progressive supranuclear palsy
+
+ROS:
+
+enzyme
+Traumatic brain injury
+
+products
+Reactive oxygen species
+
+TBI:
+TDP-43: Transactive response DNA-binding
+
+TACE: Tumor necrosis factor--converting
+TGF-: Transforming growth factor-
+TNF: Tumor necrosis factor
+
+TIMP: Tissue inhibitor of metalloproteinases
+TJ:
+
+Zonula occludens-1.
+
+Tight junctions
+
+protein 43
+
+ZO1:
+
+Conflict of Interests
+The authors declare no competing financial interests.
+
+Authors’ Contribution
+Marjana Brkic and Sriram Balusu shared first. Claude Libert
+and Roosmarijn E. Vandenbroucke shared last.
+
+Acknowledgments
+This review was supported by the Research Foundation
+Flanders (FWO), the Concerted Research Actions (GOA) of
+Ghent University, the Belgian Science Policy (Interuniversity
+Attraction Pools—IAP7/07), and the Ministry of Education,
+Science and Technological Development of the Republic of
+Serbia, Grant ON173056. The authors thank Dr. Amin Bredan
+for editing the paper.
+
+References
+[1] R. E. Vandenbroucke and C. Libert, “Is there new hope for ther-
+apeutic matrix metalloproteinase inhibition?” Nature Reviews
+Drug Discovery, vol. 13, pp. 904–927, 2014.
+
+[2] G. W. Huntley, “Synaptic circuit remodelling by matrix metallo-
+proteinases in health and disease,” Nature Reviews Neuroscience,
+vol. 13, no. 11, pp. 743–757, 2012.
+
+[3] M. Dziembowska and J. Wlodarczyk, “MMP9: a novel function
+in synaptic plasticity,” International Journal of Biochemistry and
+Cell Biology, vol. 44, no. 5, pp. 709–713, 2012.
+
+[4] V. Nagy, O. Bozdagi, A. Matynia et al., “Matrix metallopro-
+teinase-9 is required for hippocampal late-phase long-term
+potentiation and memory,” The Journal of Neuroscience, vol. 26,
+no. 7, pp. 1923–1934, 2006.
+
+[5] T. Gorkiewicz, M. Balcerzyk, L. Kaczmarek, and E. Knapska,
+“Matrix metalloproteinase 9 (MMP-9) is indispensable for long
+term potentiation in the central and basal but not in the lateral
+nucleus of the amygdala,” Frontiers in Cellular Neuroscience, vol.
+9, article 73, 2015.
+
+[6] R. Visse and H. Nagase, “Matrix metalloproteinases and tis-
+sue inhibitors of metalloproteinases: structure, function, and
+biochemistry,” Circulation Research, vol. 92, no. 8, pp. 827–839,
+2003.
+
+[7] J. F. Woessner and H. Nagase, Matrix Metalloproteinases and
+
+TIMPs, Oxford University Press, Oxford, UK, 2000.
+
+[8] H.-J. Ra and W. C. Parks, “Control of matrix metalloproteinase
+catalytic activity,” Matrix Biology, vol. 26, no. 8, pp. 587–596,
+2007.
+
+[9] L. Sorokin, “The impact of the extracellular matrix on inflam-
+mation,” Nature Reviews Immunology, vol. 10, no. 10, pp. 712–
+723, 2010.
+
+[10] B. Cauwe, P. E. V. D. Steen, and G. Opdenakker, “The biochem-
+ical, biological, and pathological kaleidoscope of cell surface
+substrates processed by matrix metalloproteinases,” Critical
+Reviews in Biochemistry and Molecular Biology, vol. 42, no. 3,
+pp. 113–185, 2007.
+
+[11] A. J. H. Gearing, P. Beckett, M. Christodoulou et al., “Processing
+
+of tumour necrosis factor- precursor by metalloproteinases,”
+a tumour necrosis factor- fusion protein ,” Biochemical and
+
+Biophysical Research Communications, vol. 228, no. 2, pp. 421–
+429, 1996.
+
+[12] S. Chandler, J. Cossins, J. Lury, and G. Wells, “Macrophage met-
+alloelastase degrades matrix and myelin proteins and processes
+
+Nature, vol. 370, no. 6490, pp. 555–557, 1994.
+
+[13] M.-P. D’Ortho, H. Will, S. Atkinson et al., “Membrane-type
+matrix metalloproteinases 1 and 2 exhibit broad-spectrum
+proteolytic capacities comparable to many matrix metallopro-
+teinases,” European Journal of Biochemistry, vol. 250, no. 3, pp.
+751–757, 1997.
+
+[14] E. M. Tam, C. J. Morrison, Y. I. Wu, M. S. Stack, and C.
+M. Overall, “Membrane protease proteomics: isotope-coded
+affinity tag MS identification of undescribed MT1-matrix met-
+alloproteinase substrates,” Proceedings of the National Academy
+of Sciences of the United States of America, vol. 101, no. 18, pp.
+6917–6922, 2004.
+
+[15] R. E. Vandenbroucke, E. Dejonckheere, F. Van Hauwermeiren et
+al., “Matrix metalloproteinase 13 modulates intestinal epithelial
+barrier integrity in inflammatory diseases by activating TNF,”
+EMBO Molecular Medicine, vol. 5, no. 7, pp. 932–948, 2013.
+
+[16] Q. Yu and I. Stamenkovic, “Cell surface-localized matrix
+
+[17] A. Ito, A. Mukaiyama, Y. Itoh et al., “Degradation of interleukin
+
+motes tumor invasion and angiogenesis,” Genes and Develop-
+ment, vol. 14, no. 2, pp. 163–176, 2000.
+
+metalloproteinase-9 proteolytically activates TGF- and pro-
+1 by matrix metalloproteinases,” The Journal of Biological
+
+Chemistry, vol. 271, no. 25, pp. 14657–14660, 1996.
+
+[18] N. T. V. Le, M. Xue, L. A. Castelnoble, and C. J. Jackson, “The
+dual personalities of matrix metalloproteinases in inflamma-
+tion,” Frontiers in Bioscience, vol. 12, no. 4, pp. 1475–1487, 2007.
+[19] S. L¨offek, O. Schilling, and C.-W. Franzke, “Biological role of
+matrix metalloproteinases: a critical balance,” European Respir-
+atory Journal, vol. 38, no. 1, pp. 191–208, 2011.
+
+Mediators of Inflammation
+
+19
+
+[20] H. Nagaset and J. F. Woessner Jr., “Matrix metalloproteinases,”
+Journal of Biological Chemistry, vol. 274, no. 31, pp. 21491–21494,
+1999.
+
+[21] A. M. Deschamps and F. G. Spinale, “Pathways of matrix metal-
+loproteinase induction in heart failure: bioactive molecules and
+transcriptional regulation,” Cardiovascular Research, vol. 69, no.
+3, pp. 666–676, 2006.
+
+[22] P. Vempati, E. D. Karagiannis, and A. S. Popel, “A biochemical
+model of matrix metalloproteinase 9 activation and inhibition,”
+The Journal of Biological Chemistry, vol. 282, no. 52, pp. 37585–
+37596, 2007.
+
+[23] T. Okamoto, T. Akaike, T. Sawa, Y. Miyamoto, A. van der Vliet,
+and H. Maeda, “Activation of matrix metalloproteinases by
+peroxynitrite-induced protein S-glutathiolation via disulfide S-
+oxide formation,” The Journal of Biological Chemistry, vol. 276,
+no. 31, pp. 29596–29602, 2001.
+
+[24] Y. Gasche, P. M. Soccal, M. Kanemitsu, and J. C. Copin,
+“Matrix metalloproteinases and diseases of the central nervous
+system with a special emphasis on ischemic brain,” Frontiers in
+Bioscience, vol. 11, no. 2, pp. 1289–1301, 2006.
+
+[25] W. P. Arend and J.-M. Dayer, “Inhibition of the production
+and effects of interleukin-1 and tumor necrosis factor alpha in
+rheumatoid arthritis,” Arthritis and Rheumatism, vol. 38, no. 2,
+pp. 151–160, 1995.
+
+[26] A. C. Newby, “Dual role of matrix metalloproteinases (matrix-
+ins) in intimal thickening and atherosclerotic plaque rupture,”
+Physiological Reviews, vol. 85, no. 1, pp. 1–31, 2005.
+
+[27] E. Candelario-Jalil, Y. Yang, and G. A. Rosenberg, “Diverse
+roles of matrix metalloproteinases and tissue inhibitors of met-
+alloproteinases in neuroinflammation and cerebral ischemia,”
+Neuroscience, vol. 158, no. 3, pp. 983–994, 2009.
+
+[28] A. Lukes, S. Mun-Bryce, M. Lukes, and G. A. Rosenberg,
+“Extracellular matrix degradation by metalloproteinases and
+central nervous system diseases,” Molecular Neurobiology, vol.
+19, no. 3, pp. 267–284, 1999.
+
+[29] R. E. Vandenbroucke, E. Dejonckheere, P. Van Lint et
+al., “Matrix metalloprotease 8-dependent extracellular matrix
+cleavage at the blood-CSF barrier contributes to lethality during
+systemic inflammatory diseases,” The Journal of Neuroscience,
+vol. 32, no. 29, pp. 9805–9816, 2012.
+
+[30] K. J. Gurney, E. Y. Estrada, and G. A. Rosenberg, “Blood-
+brain barrier disruption by stromelysin-1 facilitates neutrophil
+infiltration in neuroinflammation,” Neurobiology of Disease, vol.
+23, no. 1, pp. 87–96, 2006.
+
+[31] A. Schubert-Unkmeir, C. Konrad, H. Slanina, F. Czapek, S.
+Hebling, and M. Frosch, “Neisseria meningitidis induces brain
+microvascular endothelial cell detachment from the matrix and
+cleavage of occludin: a role for MMP-8,” PLoS Pathogens, vol. 6,
+Article ID e1000874, 2010.
+
+[32] M. Brkic, S. Balusu, E. Van Wonterghem et al., “Amyloid
+
+oligomers disrupt blood-CSF barrier integrity by activating
+matrix metalloproteinases,” The Journal of Neuroscience, vol. 35,
+no. 37, pp. 12766–12778, 2015.
+
+[33] F. Chen, N. Ohashi, W. Li, C. Eckman, and J. H. Nguyen,
+“Disruptions of occludin and claudin-5 in brain endothelial
+cells in vitro and in brains of mice with acute liver failure,”
+Hepatology, vol. 50, no. 6, pp. 1914–1923, 2009.
+
+[34] R. K. Nuttall, C. Silva, W. Hader et al., “Metalloproteinases
+are enriched in microglia compared with leukocytes and they
+regulate cytokine levels in activated microglia,” Glia, vol. 55, no.
+5, pp. 516–526, 2007.
+
+[35] M.-S. Woo, J.-S. Park, I.-Y. Choi, W.-K. Kimf, and H.-S. Kim,
+“Inhibition of MMP-3 or -9 suppresses lipopolysaccharide-
+induced expression of proinflammatory cytokines and iNOS in
+microglia,” Journal of Neurochemistry, vol. 106, no. 2, pp. 770–
+780, 2008.
+
+[36] S. Garbuzova-Davis, M. C. O. Rodrigues, D. G. Hernandez-
+Ontiveros et al., “Amyotrophic lateral sclerosis: a neurovascular
+disease,” Brain Research, vol. 1398, pp. 113–125, 2011.
+
+[37] L. A. Cunningham, M. Wetzel, and G. A. Rosenberg, “Multiple
+roles for MMPs and TIMPs in cerebral ischemia,” Glia, vol. 50,
+no. 4, pp. 329–339, 2005.
+
+[38] K. Blennow, M. J. de Leon, and H. Zetterberg, “Alzheimer’s
+
+disease,” The Lancet, vol. 368, no. 9533, pp. 387–403, 2006.
+
+[39] Alzheimer’s Association, “2015 Alzheimer’s disease facts and
+figures,” Alzheimer’s & Dementia, vol. 11, no. 3, pp. 332–384,
+2015.
+
+[40] L. E. Hebert, J. Weuve, P. A. Scherr, and D. A. Evans, “Alzheimer
+disease in the United States (2010–2050) estimated using the
+2010 census,” Neurology, vol. 80, no. 19, pp. 1778–1783, 2013.
+
+[41] E. R. Dorsey, R. Constantinescu, J. P. Thompson et al., “Pro-
+jected number of people with Parkinson disease in the most
+populous nations, 2005 through 2030,” Neurology, vol. 68, no.
+5, pp. 384–386, 2007.
+
+[42] A. Leake, C. M. Morris, and J. Whateley, “Brain matrix
+metalloproteinase 1 levels are elevated in Alzheimer’s disease,”
+Neuroscience Letters, vol. 291, no. 3, pp. 201–203, 2000.
+
+[43] W. Li, E. Poteet, L. Xie, R. Liu, Y. Wen, and S.-H. Yang, “Reg-
+
+protein,” Brain Research, vol. 1387, pp. 141–148, 2011.
+
+ulation of matrix metalloproteinase 2 by oligomeric amyloid
+amyloid and the receptor for advanced glycation endprod-
+
+ucts induces matrix metalloproteinase-2 expression in brain
+endothelial cells,” Cellular and Molecular Neurobiology, vol. 32,
+no. 1, pp. 141–147, 2012.
+
+[44] H. Du, P. Li, J. Wang, X. Qing, and W. Li, “The interaction of
+
+[45] M.-C. Liao and W. E. Van Nostrand, “Degradation of soluble
+and fibrillar amyloid beta-protein by matrix metalloproteinase
+(MT1-MMP) in vitro,” Biochemistry, vol. 49, no. 6, pp. 1127–1136,
+2010.
+
+chemistry, vol. 66, no. 4, pp. 1641–1647, 1996.
+
+[46] S. Deb and P. E. Gottschall, “Increased production of matrix
+metalloproteinases in enriched astrocyte and mixed hippocam-
+
+pal cultures treated with-amyloid peptides,” Journal of Neuro-
+
+[47] S. Ito, K. Kimura, M. Haneda, Y. Ishida, M. Sawada, and
+K.-I. Isobe, “Induction of matrix metalloproteinases (MMP3,
+MMP12 and MMP13) expression in the microglia by amyloid-
+beta stimulation via the PI3K/Akt pathway,” Experimental
+Gerontology, vol. 42, no. 6, pp. 532–537, 2007.
+
+[48] S. E. Meighan, P. C. Meighan, P. Choudhury et al., “Effects
+of extracellular matrix-degrading proteases matrix metallopro-
+teinases 3 and 9 on spatial learning and synaptic plasticity,”
+Journal of Neurochemistry, vol. 96, no. 5, pp. 1227–1241, 2006.
+
+[49] S. Horstmann, L. Budig, H. Gardner et al., “Matrix metallopro-
+teinases in peripheral blood and cerebrospinal fluid in patients
+with Alzheimer’s disease,” International Psychogeriatrics, vol. 22,
+no. 6, pp. 966–972, 2010.
+
+[50] A. R. White, T. Du, K. M. Laughton et al., “Degradation of the
+Alzheimer disease amyloid beta-peptide by metal-dependent
+up-regulation of metalloprotease activity,” The Journal of Bio-
+logical Chemistry, vol. 281, no. 26, pp. 17670–17680, 2006.
+
+20
+
+Mediators of Inflammation
+
+[51] D. H. Choi, E.-M. Kim, H. J. Son et al., “A novel intracellular role
+of matrix metalloproteinase-3 during apoptosis of dopaminer-
+gic cells,” Journal of Neurochemistry, vol. 106, no. 1, pp. 405–415,
+2008.
+
+[52] M. Bjerke, H. Zetterberg, ˚A. Edman, K. Blennow, A. Wallin, and
+U. Andreasson, “Cerebrospinal fluid matrix metalloproteinases
+and tissue inhibitor of metalloproteinases in combination with
+subcortical and cortical biomarkers in vascular dementia and
+Alzheimer’s disease,” Journal of Alzheimer’s Disease, vol. 27, no.
+3, pp. 665–676, 2011.
+
+[53] M. A. Bruno, E. J. Mufson, J. Wuu, and A. C. Cuello, “Increased
+matrix metalloproteinase 9 activity in mild cognitive impair-
+ment,” Journal of Neuropathology and Experimental Neurology,
+vol. 68, no. 12, pp. 1309–1318, 2009.
+
+[54] S. Lorenzl, K. Buerger, H. Hampel, and M. F. Beal, “Profiles
+of matrix metalloproteinases and their inhibitors in plasma of
+patients with dementia,” International Psychogeriatrics, vol. 20,
+no. 1, pp. 67–76, 2008.
+
+[55] P. Yan, X. Hu, H. Song et al., “Matrix metalloproteinase-9
+
+The Journal of Biological Chemistry, vol. 281, no. 34, pp. 24566–
+24574, 2006.
+
+degrades amyloid- fibrils in vitro and compact plaques in situ,”
+[57] S. Deb, J. W. Zhang, and P. E. Gottschall, “-Amyloid induces
+
+[56] M. Asahina, Y. Yoshiyama, and T. Hattori, “Expression of matrix
+metalloproteinase-9 and urinary-type plasminogen activator in
+Alzheimer’s disease brain,” Clinical Neuropathology, vol. 20, no.
+2, pp. 60–63, 2001.
+
+the production of active, matrix-degrading proteases in cul-
+tured rat astrocytes,” Brain Research, vol. 970, no. 1-2, pp. 205–
+213, 2003.
+
+[58] J. R. Backstrom, G. P. Lim, M. J. Cullen, and Z. A. T¨ok´es, “Matrix
+metalloproteinase-9 (MMP-9) is synthesized in neurons of the
+human hippocampus and is capable of degrading the amyloid-
+beta peptide (1-40),” Journal of Neuroscience, vol. 16, no. 24, pp.
+7910–7919, 1996.
+
+[59] H. Mizoguchi, K. Takuma, E. Fukuzaki et al., “Matrix
+metalloprotease-9 inhibition improves amyloid beta-mediated
+cognitive impairment and neurotoxicity in mice,” Journal of
+Pharmacology and Experimental Therapeutics, vol. 331, no. 1, pp.
+14–22, 2009.
+
+[60] P. Michaluk, L. Mikasova, L. Groc, R. Frischknecht, D. Cho-
+quet, and L. Kaczmarek, “Matrix metalloproteinase-9 controls
+
+NMDA receptor surface diffusion through integrin1 signal-
+
+ing,” Journal of Neuroscience, vol. 29, no. 18, pp. 6007–6012, 2009.
+[61] M. R. Halliday, N. Pomara, A. P. Sagare, W. J. Mack, B. Fran-
+gione, and B. V. Zlokovic, “Relationship between cyclophilin a
+levels and matrix metalloproteinase 9 activity in cerebrospinal
+fluid of cognitively normal apolipoprotein e4 carriers and
+blood-brain barrier breakdown,” JAMA Neurology, vol. 70, no.
+9, pp. 1198–1200, 2013.
+
+[62] X.-X. Wang, M.-S. Tan, J.-T. Yu, and L. Tan, “Matrix metallopro-
+teinases and their multiple roles in Alzheimer’s disease,” BioMed
+Research International, vol. 2014, Article ID 908636, 8 pages,
+2014.
+
+[63] S. Lorenzl, D. S. Albers, S. Narr, J. Chirichigno, and M. F. Beal,
+“Expression of MMP-2, MMP-9, and MMP-1 and their endoge-
+nous counterregulators TIMP-1 and TIMP-2 in postmortem
+brain tissue of Parkinson’s disease,” Experimental Neurology, vol.
+178, no. 1, pp. 13–20, 2002.
+
+[64] Y. S. Kim, S. S. Kim, J. J. Cho et al., “Matrix metalloproteinase-3:
+a novel signaling proteinase from apoptotic neuronal cells that
+
+activates microglia,” Journal of Neuroscience, vol. 25, no. 14, pp.
+3701–3711, 2005.
+
+[65] J. W. Langston, L. S. Forno, J. Tetrud, A. G. Reeves, J. A. Kaplan,
+and D. Karluk, “Evidence of active nerve cell degeneration in
+the substantia nigra of humans years after 1-methyl-4-phenyl-
+1,2,3,6-tetrahydropyridine exposure,” Annals of Neurology, vol.
+46, no. 4, pp. 598–605, 1999.
+
+[66] Y. S. Kim, D. H. Choi, M. L. Block et al., “A pivotal role of
+matrix metalloproteinase-3 activity in dopaminergic neuronal
+degeneration via microglial activation,” The FASEB Journal, vol.
+21, no. 1, pp. 179–187, 2007.
+
+[67] H.-M. Gao, B. Liu, W. Zhang, and J.-S. Hong, “Critical role of
+microglial NADPH oxidase-derived free radicals in the in vitro
+MPTP model of Parkinson’s disease,” The FASEB Journal, vol. 17,
+no. 13, pp. 1954–1956, 2003.
+
+[68] J. Y. Sung, S. M. Park, C.-H. Lee et al., “Proteolytic cleavage
+
+of extracellular secreted-synuclein via matrix metallopro-
+
+teinases,” Journal of Biological Chemistry, vol. 280, no. 26, pp.
+25216–25224, 2005.
+
+[69] S. Lorenzl, N. Calingasan, L. Yang et al., “Matrix metallopro-
+teinase-9 is elevated in 1-methyl-4-phenyl-1,2,3,6-tetrahydropy-
+ridine-induced parkinsonism in mice,” NeuroMolecular Medi-
+cine, vol. 5, no. 2, pp. 119–131, 2004.
+
+[70] V. Annese, M.-T. Herrero, M. Di Pentima et al., “Metallopro-
+teinase-9 contributes to inflammatory glia activation and nigro-
+striatal pathway degeneration in both mouse and monkey mod-
+els of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-
+induced Parkinsonism,” Brain Structure and Function, vol. 220,
+no. 2, pp. 703–727, 2014.
+
+[71] L. Fang, F. Huber-Abel, M. Teuchert et al., “Linking neuron and
+skin: matrix metalloproteinases in amyotrophic lateral sclerosis
+(ALS),” Journal of the Neurological Sciences, vol. 285, no. 1-2, pp.
+62–66, 2009.
+
+[72] B. Sokolowska, A. Jozwik, I. Niebroj-Dobosz, P. Janik, and H.
+Kwiecinski, “Evaluation of matrix metalloproteinases in serum
+of patients with amyotrophic lateral sclerosis with pattern
+recognition methods,” Journal of Physiology and Pharmacology,
+vol. 60, supplement 5, pp. 117–120, 2009.
+
+[73] M. Kiaei, K. Kipiani, N. Y. Calingasan et al., “Matrix metallopro-
+
+teinase-9 regulates TNF- and FasL expression in neuronal,
+
+glial cells and its absence extends life in a transgenic mouse
+model of amyotrophic lateral sclerosis,” Experimental Neurol-
+ogy, vol. 205, no. 1, pp. 74–81, 2007.
+
+[74] C. P. W. Soon, P. J. Crouch, B. J. Turner et al., “Serum matrix
+metalloproteinase-9 activity is dysregulated with disease pro-
+gression in the mutant SOD1 transgenic mice,” Neuromuscular
+Disorders, vol. 20, no. 4, pp. 260–266, 2010.
+
+[75] I. Niebroj-Dobosz, P. Janik, B. Sokołowska, and H. Kwiecinski,
+“Matrix metalloproteinases and their tissue inhibitors in serum
+and cerebrospinal fluid of patients with amyotrophic lateral
+sclerosis,” European Journal of Neurology, vol. 17, no. 2, pp. 226–
+231, 2010.
+
+[76] X. He, L. Zhang, X. Yao et al., “Association studies of MMP-9
+in Parkinson’s disease and amyotrophic lateral sclerosis,” PLoS
+ONE, vol. 8, no. 9, Article ID e73777, 2013.
+
+[77] J. P. Miller, J. Holcomb, I. Al-Ramahi et al., “Matrix metallopro-
+teinases are modifiers of huntingtin proteolysis and toxicity in
+Huntington’s disease,” Neuron, vol. 67, no. 2, pp. 199–212, 2010.
+[78] A. Silvestroni, R. L. M. Faull, A. D. Strand, and T. M¨oller,
+“Distinct neuroinflammatory profile in post-mortem human
+Huntington’s disease,” NeuroReport, vol. 20, no. 12, pp. 1098–
+1103, 2009.
+
+Mediators of Inflammation
+
+21
+
+[79] J. Duran-Vilaregut, J. del Valle, G. Manich et al., “Role of matrix
+metalloproteinase-9 (MMP-9) in striatal blood-brain barrier
+disruption in a 3-nitropropionic acid model of Huntington’s
+disease,” Neuropathology and Applied Neurobiology, vol. 37, no.
+5, pp. 525–537, 2011.
+
+[80] A. Maeda and R. A. Sobel, “Matrix metalloproteinases in the
+normal human central nervous system, microglial nodules,
+and multiple sclerosis lesions,” Journal of Neuropathology and
+Experimental Neurology, vol. 55, no. 3, pp. 300–309, 1996.
+
+[81] M. Kouwenhoven, V. ¨Ozenci, A. Gomes et al., “Multiple sclero-
+sis: elevated expression of matrix metalloproteinases in blood
+monocytes,” Journal of Autoimmunity, vol. 16, no. 4, pp. 463–
+470, 2001.
+
+[82] J. A. Cossins, J. M. Clements, J. Ford et al., “Enhanced expression
+of MMP-7 and MMP-9 in demyelinating multiple sclerosis
+lesions,” Acta Neuropathologica, vol. 94, no. 6, pp. 590–598, 1997.
+[83] D. Leppert, J. Ford, G. Stabler et al., “Matrix metalloproteinase-9
+(gelatinase B) is selectively elevated in CSF during relapses and
+stable phases of multiple sclerosis,” Brain, vol. 121, no. 12, pp.
+2327–2334, 1998.
+
+[84] M. A. Lee, J. Palace, G. Stabler, J. Ford, A. Gearing, and K. Miller,
+“Serum gelatinase B, TIMP-1 and TIMP-2 levels in multiple
+sclerosis. A longitudinal clinical and MRI study,” Brain, vol. 122,
+no. 2, pp. 191–197, 1999.
+
+[85] K.-J. Yin, J. R. Cirrito, P. Yan et al., “Matrix metalloproteinases
+expressed by astrocytes mediate extracellular amyloid-beta
+peptide catabolism,” The Journal of Neuroscience, vol. 26, no. 43,
+pp. 10939–10948, 2006.
+
+[86] M. Garcia-Alloza, C. Prada, C. Lattarulo et al., “Matrix metal-
+loproteinase inhibition reduces oxidative stress associated with
+cerebral amyloid angiopathy in vivo in transgenic mice,” Journal
+of Neurochemistry, vol. 109, no. 6, pp. 1636–1647, 2009.
+
+[87] K. Gijbels, R. E. Galardy, and L. Steinman, “Reversal of exper-
+imental autoimmune encephalomyelitis with a hydroxamate
+inhibitor of matrix metalloproteases,” The Journal of Clinical
+Investigation, vol. 94, no. 6, pp. 2177–2182, 1994.
+
+[88] D. Graesser, S. Mahooti, T. Haas, S. Davis, R. B. Clark,
+
+and J. A. Madri, “The interrelationship of4 integrin and
+
+matrix metalloproteinase-2 in the pathogenesis of experimental
+autoimmune encephalomyelitis,” Laboratory Investigation, vol.
+78, no. 11, pp. 1445–1458, 1998.
+
+[89] M. E. Smith, K. van der Maesen, and F. P. Somera, “Macrophage
+and microglial responses to cytokines in vitro: phagocytic activ-
+ity, proteolytic enzyme release, and free radical production,”
+Journal of Neuroscience Research, vol. 54, no. 1, pp. 68–78, 1998.
+[90] A. K. Hewson, T. Smith, J. P. Leonard, and M. L. Cuzner,
+“Suppression of experimental allergic encephalomyelitis in the
+Lewis rat by the matrix metalloproteinase inhibitor Ro31-9790,”
+Inflammation Research, vol. 44, no. 8, pp. 345–349, 1995.
+
+[91] K. Norga, L. Paemen, S. Masure et al., “Prevention of acute
+autoimmune encephalomyelitis and abrogation of relapses in
+murine models of multiple sclerosis by the protease inhibitor D-
+penicillamine,” Inflammation Research, vol. 44, no. 12, pp. 529–
+534, 1995.
+
+[92] J. M. Clements, J. A. Cossins, G. M. A. Wells et al., “Matrix met-
+alloproteinase expression during experimental autoimmune
+encephalomyelitis and effects of a combined matrix metallopro-
+teinase and tumour necrosis factor-alpha inhibitor,” Journal of
+Neuroimmunology, vol. 74, no. 1-2, pp. 85–94, 1997.
+
+[93] V. W. Yong, J. Wells, F. Giuliani, S. Casha, C. Power, and L. M.
+Metz, “The promise of minocycline in neurology,” The Lancet
+Neurology, vol. 3, no. 12, pp. 744–751, 2004.
+
+[94] R. O. Brady and R. Schiffmann, “Enzyme-replacement therapy
+for metabolic storage disorders,” The Lancet Neurology, vol. 3,
+no. 12, pp. 752–756, 2004.
+
+[95] M. Morini, L. Roccatagliata, R. Dell’Eva et al., “-Lipoic
+
+acid is effective in prevention and treatment of experimental
+autoimmune encephalomyelitis,” Journal of Neuroimmunology,
+vol. 148, no. 1-2, pp. 146–153, 2004.
+
+[96] R. A. Armstrong, “On the ‘classification’ of neurodegenerative
+disorders: discrete entities, overlap or continuum?” Folia Neu-
+ropathologica, vol. 50, no. 3, pp. 201–218, 2012.
+
+[97] R. A. Armstrong, P. L. Lantos, and N. J. Cairns, “Overlap
+between neurodegenerative disorders,” Neuropathology, vol. 25,
+no. 2, pp. 111–124, 2005.
+
+[98] M. Woodward, I. R. A. MacKenzie, G.-Y. R. Hsiung, C. Jacova,
+and H. Feldman, “Multiple brain pathologies in dementia are
+common,” European Geriatric Medicine, vol. 1, no. 5, pp. 259–
+265, 2010.
+
+[99] D. P. Perl and W. W. Pendlebury, “Neuropathology of dementia,”
+
+Neurologic Clinics, vol. 4, no. 2, pp. 355–368, 1986.
+
+[100] H. A. Kretzschmar and M. Neumann, “Neuropathological
+diagnosis of neurodegenerative and dementing disorders,”
+Pathologe, vol. 21, no. 5, pp. 364–374, 2000.
+
+[101] K. A. Jellinger, “Criteria for the neuropathological diagnosis
+of dementing disorders: routes out of the swamp?” Acta Neu-
+ropathologica, vol. 117, no. 2, pp. 101–110, 2009.
+
+[102] M. Goedert, “The significance of tau and-synuclein inclusions
+
+in neurodegenerative diseases,” Current Opinion in Genetics and
+Development, vol. 11, no. 3, pp. 343–351, 2001.
+
+[103] R. Matej and R. Rusina, “Neurodegenerative disorders: review
+of current classification and diagnostic neuropathological crite-
+ria,” Ceskoslovensk´a Patologie, vol. 48, no. 2, pp. 83–90, 2012.
+
+[104] S. A. Liddelow, “Fluids and barriers of the CNS: a historical
+viewpoint,” Fluids and Barriers of the CNS, vol. 8, article 2, 2011.
+[105] M. De Bock, R. E. Vandenbroucke, E. Decrock, M. Culot,
+R. Cecchelli, and L. Leybaert, “A new angle on blood-CNS
+interfaces: a role for connexins?” FEBS Letters, vol. 588, no. 8,
+pp. 1259–1270, 2014.
+
+[106] T. Owens, I. Bechmann, and B. Engelhardt, “Perivascular
+spaces and the two steps to neuroinflammation,” Journal of
+Neuropathology and Experimental Neurology, vol. 67, no. 12, pp.
+1113–1121, 2008.
+
+[107] D. Demeestere, C. Libert, and R. E. Vandenbroucke, “Clinical
+implications of leukocyte infiltration at the choroid plexus in
+(neuro)inflammatory disorders,” Drug Discovery Today, vol. 20,
+no. 8, pp. 928–941, 2015.
+
+[108] M. Aschner, “Astrocytes as mediators of immune and inflam-
+matory responses in the CNS,” Neurotoxicology, vol. 19, no. 2,
+pp. 269–281, 1998.
+
+[109] L. Fetler and S. Amigorena, “Brain under surveillance: the
+microglia patrol,” Science, vol. 309, no. 5733, pp. 392–393, 2005.
+[110] G. W. Kreutzberg, “Microglia: a sensor for pathological events
+in the CNS,” Trends in Neurosciences, vol. 19, no. 8, pp. 312–318,
+1996.
+
+[111] O. Butovsky, S. Bukshpan, G. Kunis, S. Jung, and M. Schwartz,
+“Microglia can be induced by IFN-gamma or IL-4 to express
+neural or dendritic-like markers,” Molecular and Cellular Neu-
+roscience, vol. 35, no. 3, pp. 490–500, 2007.
+
+[112] W. J. Streit, “Microglia as neuroprotective, immunocompetent
+
+cells of the CNS,” Glia, vol. 40, no. 2, pp. 133–139, 2002.
+
+[113] N. M. Walton, B. M. Sutter, E. D. Laywell et al., “Microglia
+instruct subventricular zone neurogenesis,” Glia, vol. 54, no. 8,
+pp. 815–825, 2006.
+
+22
+
+Mediators of Inflammation
+
+[114] J. Aarum, K. Sandberg, S. L. B. Haeberlein, and M. A. A. Persson,
+“Migration and differentiation of neural precursor cells can be
+directed by microglia,” Proceedings of the National Academy of
+Sciences of the United States of America, vol. 100, no. 26, pp.
+15983–15988, 2003.
+
+[115] H. Neumann, M. R. Kotter, and R. J. M. Franklin, “Debris
+clearance by microglia: an essential link between degeneration
+and regeneration,” Brain, vol. 132, no. 2, pp. 288–295, 2009.
+
+[116] C. A. Colton and D. L. Gilbert, “Production of superoxide
+anions by a CNS macrophage, the microglia,” FEBS Letters, vol.
+223, no. 2, pp. 284–288, 1987.
+
+[117] B. Liu, H.-M. Gao, J.-Y. Wang, G.-H. Jeohn, C. L. Cooper, and
+J.-S. Hong, “Role of nitric oxide in inflammation-mediated neu-
+rodegeneration,” Annals of the New York Academy of Sciences,
+vol. 962, pp. 318–331, 2002.
+
+[118] M. Sawada, N. Kondo, A. Suzumura, and T. Marunouchi,
+“Production of tumor necrosis factor-alpha by microglia and
+astrocytes in culture,” Brain Research, vol. 491, no. 2, pp. 394–
+397, 1989.
+
+[119] R. M. Ransohoff and M. A. Brown, “Innate immunity in the
+central nervous system,” The Journal of Clinical Investigation,
+vol. 122, no. 4, pp. 1164–1171, 2012.
+
+[120] J. R. Lukens, M. J. Barr, D. D. Chaplin, H. Chi, and T.-
+D. Kanneganti, “Inflammasome-derived IL-1beta regulates the
+production of GM-CSF by CD4(+) T cells and gammadelta T
+cells,” Journal of Immunology, vol. 188, no. 7, pp. 3107–3115, 2012.
+[121] M. L. Block, L. Zecca, and J.-S. Hong, “Microglia-mediated
+neurotoxicity: uncovering the molecular mechanisms,” Nature
+Reviews Neuroscience, vol. 8, no. 1, pp. 57–69, 2007.
+
+[122] K. Herrup, “Reimagining Alzheimer’s disease—an age-based
+hypothesis,” Journal of Neuroscience, vol. 30, no. 50, pp. 16755–
+16762, 2010.
+
+[123] T. Niccoli and L. Partridge, “Ageing as a risk factor for disease,”
+
+Current Biology, vol. 22, no. 17, pp. R741–R752, 2012.
+
+[124] E. Montecino-Rodriguez, B. Berent-Maoz, and K. Dorshkind,
+“Causes, consequences, and reversal of immune system aging,”
+The Journal of Clinical Investigation, vol. 123, no. 3, pp. 958–965,
+2013.
+
+[125] C. Franceschi, M. Capri, D. Monti et al., “Inflammaging
+and anti-inflammaging: a systemic perspective on aging and
+longevity emerged from studies in humans,” Mechanisms of
+Ageing and Development, vol. 128, no. 1, pp. 92–105, 2007.
+
+[126] D. W. Vaughan and A. Peters, “Neuroglial cells in the cerebral
+cortex of rats from young adulthood to old age: an electron
+microscope study,” Journal of Neurocytology, vol. 3, no. 4, pp.
+405–429, 1974.
+
+[127] I. Rozovsky, C. E. Finch, and T. E. Morgan, “Age-related
+activation of microglia and astrocytes: in vitro studies show
+persistent phenotypes of aging, increased proliferation, and
+resistance to down-regulation,” Neurobiology of Aging, vol. 19,
+no. 1, pp. 97–103, 1998.
+
+[128] S. L. Stuesse, W. L. R. Cruce, J. A. Lovell, D. L. McBurney, and
+T. Crisp, “Microglial proliferation in the spinal cord of aged rats
+with a sciatic nerve injury,” Neuroscience Letters, vol. 287, no. 2,
+pp. 121–124, 2000.
+
+[129] W. J. Streit, N. W. Sammons, A. J. Kuhns, and D. L. Sparks,
+“Dystrophic microglia in the aging human brain,” Glia, vol. 45,
+no. 2, pp. 208–212, 2004.
+
+[130] J. R. Conde and W. J. Streit, “Microglia in the aging brain,”
+Journal of Neuropathology & Experimental Neurology, vol. 65,
+no. 3, pp. 199–203, 2006.
+
+[131] L. G. Sheffield and N. E. J. Berman, “Microglial expression of
+MHC class II increases in normal aging of nonhuman primates,”
+Neurobiology of Aging, vol. 19, no. 1, pp. 47–55, 1998.
+
+[132] M. Deleidi, M. J¨aggle, and G. Rubino, “Immune aging, dys-
+metabolism, and inflammation in neurological diseases,” Fron-
+tiers in Neuroscience, vol. 9, article 172, 2015.
+
+[133] S.-M. Ye and R. W. Johnson, “An age-related decline in
+interleukin-10 may contribute to the increased expression of
+interleukin-6 in brain of aged mice,” NeuroImmunoModulation,
+vol. 9, no. 4, pp. 183–192, 2001.
+
+[134] V. Pizza, A. Agresta, C. W. D’Acunto, M. Festa, and A.
+Capasso, “Neuroinflamm-aging and neurodegenerative dis-
+eases: an overview,” CNS and Neurological Disorders—Drug
+Targets, vol. 10, no. 5, pp. 621–634, 2011.
+
+[135] V. Srikanth, A. Maczurek, T. Phan et al., “Advanced glycation
+endproducts and their receptor RAGE in Alzheimer’s disease,”
+Neurobiology of Aging, vol. 32, no. 5, pp. 763–777, 2011.
+
+[136] C. M. Dollery, J. R. McEwan, and A. M. Henney, “Matrix metal-
+loproteinases and cardiovascular disease,” Circulation Research,
+vol. 77, no. 5, pp. 863–868, 1995.
+
+[137] D. H. Salat, “The declining infrastructure of the aging brain,”
+
+Brain Connectivity, vol. 1, no. 4, pp. 279–293, 2011.
+
+[138] B. V. Zlokovic, “Neurovascular pathways to neurodegeneration
+in Alzheimer’s disease and other disorders,” Nature Reviews
+Neuroscience, vol. 12, no. 12, pp. 723–738, 2011.
+
+[139] S.-K. Park, K. Kim, G. P. Page, D. B. Allison, R. Weindruch,
+and T. A. Prolla, “Gene expression profiling of aging in multiple
+mouse strains: identification of aging biomarkers and impact of
+dietary antioxidants,” Aging Cell, vol. 8, no. 4, pp. 484–495, 2009.
+[140] J. R. Romero, R. S. Vasan, A. S. Beiser et al., “Association of
+matrix metalloproteinases with MRI indices of brain ischemia
+and aging,” Neurobiology of Aging, vol. 31, no. 12, pp. 2128–2135,
+2010.
+
+[141] Y. Liu, M. Zhang, W. Hao et al., “Matrix metalloproteinase-12
+contributes to neuroinflammation in the aged brain,” Neurobi-
+ology of Aging, vol. 34, no. 4, pp. 1231–1239, 2013.
+
+[142] F. Safciuc, A. Constantin, A. Manea et al., “Advanced glyca-
+tion end products, oxidative stress and metalloproteinases are
+altered in the cerebral microvasculature during aging,” Current
+Neurovascular Research, vol. 4, no. 4, pp. 228–234, 2007.
+
+[143] C. Ballard, S. Gauthier, A. Corbett, C. Brayne, D. Aarsland, and
+E. Jones, “Alzheimer’s disease,” The Lancet, vol. 377, no. 9770, pp.
+1019–1031, 2011.
+
+[144] E. L. Schaeffer, M. Figueir´o, and W. F. Gattaz, “Insights into
+Alzheimer disease pathogenesis from studies in transgenic
+animal models,” Clinics, vol. 66, supplement 1, pp. 45–54, 2011.
+[145] G. G. Glenner and C. W. Wong, “Alzheimer’s disease and Down’s
+syndrome: sharing of a unique cerebrovascular amyloid fibril
+protein,” Biochemical and Biophysical Research Communica-
+tions, vol. 122, no. 3, pp. 1131–1135, 1984.
+
+[146] R. A. Armstrong, N. J. Cairns, and P. L. Lantos, “Beta-amyloid
+deposition in the temporal lobe of patients with dementia
+with Lewy bodies: comparison with non-demented cases and
+Alzheimer’s disease,” Dementia and Geriatric Cognitive Disor-
+ders, vol. 11, no. 4, pp. 187–192, 2000.
+
+[147] J. A. Schneider, M. Gearing, R. S. Robbins, W. de L’Aune, and S.
+S. Mirra, “Apolipoprotein E genotype in diverse neurodegener-
+ative disorders,” Annals of Neurology, vol. 38, no. 1, pp. 131–135,
+1995.
+
+[148] R. L. Hamilton and R. Bowser, “Alzheimer disease pathology in
+amyotrophic lateral sclerosis,” Acta Neuropathologica, vol. 107,
+no. 6, pp. 515–522, 2004.
+
+Mediators of Inflammation
+
+23
+
+[149] H. V. Vinters, “Cerebral amyloid angiopathy. A critical review,”
+
+Stroke, vol. 18, no. 2, pp. 311–324, 1987.
+
+[150] G. Thinakaran and E. H. Koo, “Amyloid precursor protein
+trafficking, processing, and function,” The Journal of Biological
+Chemistry, vol. 283, no. 44, pp. 29615–29619, 2008.
+
+[151] J. Wang, D. W. Dickson, J. Q. Trojanowski, and V. M.-Y. Lee,
+
+Alzheimer’s disease from normal and pathologic aging,” Exper-
+imental Neurology, vol. 158, no. 2, pp. 328–337, 1999.
+
+“The levels of soluble versus insoluble brain A distinguish
+A amyloid as a determinant of severity of neurodegeneration
+
+in Alzheimer’s disease,” Annals of Neurology, vol. 46, no. 6, pp.
+860–866, 1999.
+
+[152] C. A. McLean, R. A. Cherny, F. W. Fraser et al., “Soluble pool of
+
+[153] I. Benilova, E. Karran, and B. De Strooper, “The toxic Abeta
+oligomer and Alzheimer’s disease: an emperor in need of
+clothes,” Nature Neuroscience, vol. 15, no. 3, pp. 349–357, 2012.
+[154] S. Tu, S.-I. Okamoto, S. A. Lipton, and H. Xu, “Oligomeric
+Abeta-induced synaptic dysfunction in Alzheimer’s disease,”
+Molecular Neurodegeneration, vol. 9, article 48, 2014.
+
+plaque formation in human brain,” Synapse, vol. 65, no. 12, pp.
+1289–1297, 2011.
+
+[155] M. Ahmed, J. Davis, D. Aucoin et al., “Structural conversion
+of neurotoxic amyloid-beta(1-42) oligomers to fibrils,” Nature
+Structural and Molecular Biology, vol. 17, no. 5, pp. 561–567, 2010.
+
+[156] P. Seeman and N. Seeman, “Alzheimer’s disease:-amyloid
+of non-fibrillar-sheet oligomers into amyloid fibrils in
+
+Alzheimer’s disease amyloid peptide aggregation,” Biochemical
+and Biophysical Research Communications, vol. 361, no. 4, pp.
+916–921, 2007.
+
+[157] N. Benseny-Cases, M. C´ocera, and J. Cladera, “Conversion
+
+[158] A. Serrano-Pozo, M. P. Frosch, E. Masliah, and B. T. Hyman,
+“Neuropathological alterations in Alzheimer disease,” Cold
+Spring Harbor Perspectives in Medicine, vol. 1, no. 1, Article ID
+a006189, 2011.
+
+[159] M. B. Graeber, S. K¨osel, R. Egensperger et al., “Rediscovery
+of the case described by Alois Alzheimer in 1911: historical,
+histological and molecular genetic analysis,” Neurogenetics, vol.
+1, no. 1, pp. 73–80, 1997.
+
+[160] D. J. Selkoe, “Aging, amyloid, and Alzheimer’s disease: a per-
+spective in honor of Carl Cotman,” Neurochemical Research, vol.
+28, no. 11, pp. 1705–1713, 2003.
+
+[161] C. Bancher and K. A. Jellinger, “Neurofibrillary tangle predom-
+inant form of senile dementia of Alzheimer type: a rare subtype
+in very old subjects,” Acta Neuropathologica, vol. 88, no. 6, pp.
+565–570, 1994.
+
+[162] S. W. Pimplikar, R. A. Nixon, N. K. Robakis, J. Shen, and
+L.-H. Tsai, “Amyloid-independent mechanisms in Alzheimer’s
+disease pathogenesis,” Journal of Neuroscience, vol. 30, no. 45,
+pp. 14946–14954, 2010.
+
+[163] J. K. Andersen, “Oxidative stress in neurodegeneration: cause or
+consequence?” Nature Medicine, vol. 10, supplement, pp. S18–
+S25, 2004.
+
+[164] W. R. Markesbery, “Oxidative stress hypothesis in Alzheimer’s
+disease,” Free Radical Biology and Medicine, vol. 23, no. 1, pp.
+134–147, 1997.
+
+[165] P. L. McGeer, E. G. McGeer, and K. Yasojima, “Alzheimer dis-
+ease and neuroinflammation,” Journal of Neural Transmission.
+Supplementa, vol. 59, pp. 53–57, 2000.
+
+[166] B. A. Yankner, L. K. Duffy, and D. A. Kirschner, “Neurotrophic
+and neurotoxic effects of amyloid beta protein: reversal by
+tachykinin neuropeptides,” Science, vol. 250, no. 4978, pp. 279–
+282, 1990.
+
+Neuroscience, vol. 20, no. 2, pp. 558–567, 2000.
+
+[167] C. K. Combs, D. E. Johnson, J. C. Karlo, S. B. Cannady, and
+G. E. Landreth, “Inflammatory mechanisms in Alzheimer’s
+
+disease: inhibition of-amyloid-stimulated proinflammatory
+responses and neurotoxicity by PPAR agonists,” The Journal of
+
+[168] L. Qin, Y. Liu, C. Cooper, B. Liu, B. Wilson, and J.-S. Hong,
+“Microglia enhance beta-amyloid peptide-induced toxicity in
+cortical and mesencephalic neurons by producing reactive
+oxygen species,” Journal of Neurochemistry, vol. 83, no. 4, pp.
+973–983, 2002.
+
+[169] A. Cagnin, D. J. Brooks, A. M. Kennedy et al., “In-vivo meas-
+urement of activated microglia in dementia,” The Lancet, vol.
+358, no. 9280, pp. 461–467, 2001.
+
+[170] L. Meda, M. A. Cassatella, G. I. Szendrei et al., “Activation
+of microglial cells by beta-amyloid protein and interferon-
+gamma,” Nature, vol. 374, no. 6523, pp. 647–650, 1995.
+
+[171] A. Sasaki, H. Yamaguchi, A. Ogawa, S. Sugihara, and Y.
+
+protein deposition,” Acta Neuropathologica, vol. 94, no. 4, pp.
+316–322, 1997.
+
+Nakazato, “Microglial activation in early stages of amyloid
+I. Mook-Jung, “A1−42-rage interaction disrupts tight junctions
+of the blood-brain barrier via Ca2+-calcineurin signaling,” The
+
+Journal of Neuroscience, vol. 32, no. 26, pp. 8845–8854, 2012.
+
+[172] S.-Y. Kook, H. S. Hong, M. Moon, C. M. Ha, S. Chang, and
+
+[173] C.-C. Liu, T. Kanekiyo, H. Xu, and G. Bu, “Apolipoprotein e
+and Alzheimer disease: risk, mechanisms and therapy,” Nature
+Reviews Neurology, vol. 9, no. 2, pp. 106–118, 2013.
+
+[174] R. D. Bell, E. A. Winkler, I. Singh et al., “Apolipoprotein E
+controls cerebrovascular integrity via cyclophilin A,” Nature,
+vol. 485, no. 7399, pp. 512–516, 2012.
+
+[175] R. Mlekusch and C. Humpel, “Matrix metalloproteinases-2 and
+-3 are reduced in cerebrospinal fluid with low beta-amyloid1–42
+levels,” Neuroscience Letters, vol. 466, no. 3, pp. 135–138, 2009.
+[176] S. Vasto, G. Candore, G. Duro, D. Lio, M. P. Grimaldi, and C.
+Caruso, “Alzheimer’s disease and genetics of inflammation: a
+pharmacogenomic vision,” Pharmacogenomics, vol. 8, no. 12, pp.
+1735–1745, 2007.
+
+[177] M. S. Saarela, T. Lehtim¨aki, J. O. Rinne et al., “Interaction
+
+between matrix metalloproteinase 3 and the4 allele of
+
+apolipoprotein E increases the risk of Alzheimer’s disease in
+Finns,” Neuroscience Letters, vol. 367, no. 3, pp. 336–339, 2004.
+[178] A. Langenfurth, J. L. Rinnenthal, K. Vinnakota et al., “Mem-
+brane-type 1 metalloproteinase is upregulated in microglia/
+brain macrophages in neurodegenerative and neuroinflamma-
+tory diseases,” Journal of Neuroscience Research, vol. 92, no. 3,
+pp. 275–286, 2014.
+
+[179] M. Inspector, J. Aharon-Perez, L. Glass-Marmor, and A. Miller,
+“Matrix metalloproteinase-9, its tissue inhibitor (TIMP)-1 and
+CRP in Alzheimer’s disease,” European Neurology, vol. 53, no. 3,
+pp. 155–157, 2005.
+
+[180] J. Q. Trojanowski and V. M.-Y. Lee, “Aggregation of neurofil-
+
+ament and-synuclein proteins in Lewy bodies: implications
+
+for the pathogenesis of Parkinson disease and Lewy body
+dementia,” Archives of Neurology, vol. 55, no. 2, pp. 151–152, 1998.
+[181] C. F. Lippa, H. Fujiwara, D. M. A. Mann et al., “Lewy bodies
+contain altered alpha-synuclein in brains of many familial
+Alzheimer’s disease patients with mutations in presenilin and
+amyloid precursor protein genes,” The American Journal of
+Pathology, vol. 153, no. 5, pp. 1365–1370, 1998.
+
+[182] J. A. Obeso, M. C. Rodr´ıguez-Oroz, B. Benitez-Temino et
+al., “Functional organization of the basal ganglia: therapeutic
+
+24
+
+Mediators of Inflammation
+
+implications for Parkinson’s disease,” Movement Disorders, vol.
+23, supplement 3, pp. S548–S559, 2008.
+
+[183] C. D. Marsden and J. A. Obeso, “The functions of the basal
+ganglia and the paradox of stereotaxic surgery in Parkinson’s
+disease,” Brain, vol. 117, part 4, pp. 877–897, 1994.
+
+[184] W. Poewe, “Non-motor symptoms in Parkinson’s disease,”
+
+European Journal of Neurology, vol. 15, no. 1, pp. 14–20, 2008.
+
+[185] M. J. Farrer, “Genetics of Parkinson disease: paradigm shifts and
+future prospects,” Nature Reviews Genetics, vol. 7, no. 4, pp. 306–
+318, 2006.
+
+[186] W. Satake, Y. Nakabayashi, I. Mizuta et al., “Genome-wide
+association study identifies common variants at four loci as
+genetic risk factors for Parkinson’s disease,” Nature Genetics, vol.
+41, no. 12, pp. 1303–1307, 2009.
+
+[187] J. Sim´on-S´anchez, C. Schulte, J. M. Bras et al., “Genome-wide
+association study reveals genetic risk underlying Parkinson’s
+disease,” Nature Genetics, vol. 41, no. 12, pp. 1308–1312, 2009.
+
+[188] P. S. Whitton, “Neuroinflammation and the prospects for
+anti-inflammatory treatment of Parkinson’s disease,” Current
+Opinion in Investigational Drugs, vol. 11, no. 7, pp. 788–794, 2010.
+[189] E. C. Hirsch and S. Hunot, “Neuroinflammation in Parkinson’s
+disease: a target for neuroprotection?” The Lancet Neurology,
+vol. 8, no. 4, pp. 382–397, 2009.
+
+[190] M. G. Tansey and M. S. Goldberg, “Neuroinflammation in
+Parkinson’s disease: its role in neuronal death and implications
+for therapeutic intervention,” Neurobiology of Disease, vol. 37,
+no. 3, pp. 510–518, 2010.
+
+[191] P. L. McGeer, S. Itagaki, B. E. Boyes, and E. G. McGeer, “Reactive
+microglia are positive for HLA-DR in the substantia nigra of
+Parkinson’s and Alzheimer’s disease brains,” Neurology, vol. 38,
+no. 8, pp. 1285–1291, 1988.
+
+[192] E. C. Hirsch, S. Hunot, P. Damier, and B. Faucheux, “Glial cells
+and inflammation in Parkinson’s disease: a role in neurodegen-
+eration?” Annals of Neurology, vol. 44, supplement 1, pp. S115–
+S120, 1998.
+
+[193] H. Braak, M. Sastre, and K. Del Tredici, “Development of alpha-
+synuclein immunoreactive astrocytes in the forebrain parallels
+stages of intraneuronal pathology in sporadic Parkinson’s dis-
+ease,” Acta Neuropathologica, vol. 114, no. 3, pp. 231–241, 2007.
+[194] Y. Ouchi, E. Yoshikawa, Y. Sekine et al., “Microglial activation
+and dopamine terminal loss in early Parkinson’s disease,” Annals
+of Neurology, vol. 57, no. 2, pp. 168–175, 2005.
+
+[195] Y. Ouchi, S. Yagi, M. Yokokura, and M. Sakamoto, “Neu-
+roinflammation in the living brain of Parkinson’s disease,”
+Parkinsonism and Related Disorders, vol. 15, supplement 3, pp.
+S200–S204, 2009.
+
+[196] A. Gerhard, N. Pavese, G. Hotton et al., “In vivo imaging of
+microglial activation with [11C](R)-PK11195 PET in idiopathic
+Parkinson’s disease,” Neurobiology of Disease, vol. 21, no. 2, pp.
+404–412, 2006.
+
+[197] W.-G. Kim, R. P. Mohney, B. Wilson, G.-H. Jeohn, B. Liu,
+and J.-S. Hong, “Regional difference in susceptibility to lipo-
+polysaccharide-induced neurotoxicity in the rat brain: role of
+microglia,” The Journal of Neuroscience, vol. 20, no. 16, pp. 6309–
+6316, 2000.
+
+[198] C. Knott, G. Stern, and G. P. Wilkin, “Inflammatory regula-
+tors in Parkinson’s disease: iNOS, lipocortin-1, and cyclooxy-
+genases-1 and -2,” Molecular and Cellular Neuroscience, vol. 16,
+no. 6, pp. 724–739, 2000.
+
+[199] F. Cicchetti, A. L. Brownell, K. Williams, Y. I. Chen, E.
+Livni, and O. Isacson, “Neuroinflammation of the nigrostriatal
+
+pathway during progressive 6-OHDA dopamine degeneration
+in rats monitored by immunohistochemistry and PET imaging,”
+European Journal of Neuroscience, vol. 15, no. 6, pp. 991–998,
+2002.
+
+[200] J. W. Francis, J. Von Visger, G. J. Markelonis, and T. H.
+Oh, “Neuroglial responses to the dopaminergic neurotoxicant
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine in mouse stria-
+tum,” Neurotoxicology and Teratology, vol. 17, no. 1, pp. 7–12,
+1995.
+
+[201] C. J. Barnum and M. G. Tansey, “Modeling neuroinflammatory
+pathogenesis of Parkinson’s disease,” Progress in Brain Research,
+vol. 184, pp. 113–132, 2010.
+
+[202] S. Walsh, D. P. Finn, and E. Dowd, “Time-course of nigros-
+triatal neurodegeneration and neuroinflammation in the 6-
+hydroxydopamine-induced axonal and terminal lesion models
+of Parkinson’s disease in the rat,” Neuroscience, vol. 175, pp. 251–
+261, 2011.
+
+[203] P. S. Whitton, “Inflammation as a causative factor in the aetiol-
+ogy of Parkinson’s disease,” British Journal of Pharmacology, vol.
+150, no. 8, pp. 963–976, 2007.
+
+[204] K. Imamura, N. Hishikawa, M. Sawada, T. Nagatsu, M. Yoshida,
+and Y. Hashizume, “Distribution of major histocompatibility
+complex class II-positive microglia and cytokine profile of
+Parkinson’s disease brains,” Acta Neuropathologica, vol. 106, no.
+6, pp. 518–526, 2003.
+
+[205] E. Esposito, V. Di Matteo, A. Benigno, M. Pierucci, G. Cresci-
+manno, and G. Di Giovanni, “Non-steroidal anti-inflammatory
+drugs in Parkinson’s disease,” Experimental Neurology, vol. 205,
+no. 2, pp. 295–312, 2007.
+
+[206] S. Hunot, F. Boissi`ere, B. Faucheux et al., “Nitric oxide synthase
+and neuronal vulnerability in Parkinson’s disease,” Neuro-
+science, vol. 72, no. 2, pp. 355–363, 1996.
+
+[207] C. Barcia, C. M. Ros, V. Annese et al., “IFN-gamma signaling,
+with the synergistic contribution of TNF-alpha, mediates cell
+specific microglial and astroglial activation in experimental
+models of Parkinson’s disease,” Cell Death & Disease, vol. 2,
+article e142, 2011.
+
+[208] T. Nagatsu, M. Mogi, H. Ichinose, and A. Togari, “Changes in
+cytokines and neurotrophins in Parkinson’s disease,” Journal of
+Neural Transmission, Supplement, no. 60, pp. 277–290, 2000.
+
+[209] D. Blum-Degena, T. M¨uller, W. Kuhn, M. Gerlach, H. Przuntek,
+
+in the cerebrospinal fluid of Alzheimer’s and de novo Parkin-
+son’s disease patients,” Neuroscience Letters, vol. 202, no. 1-2, pp.
+17–20, 1995.
+
+and P. Riederer, “Interleukin-1 and interleukin-6 are elevated
+T. Nagatsu, “Tumor necrosis factor- (TNF-) increases both
+
+in the brain and in the cerebrospinal fluid from Parkinsonian
+patients,” Neuroscience Letters, vol. 165, no. 1-2, pp. 208–210,
+1994.
+
+[210] M. Mogi, M. Harada, P. Riederer, H. Narabayashi, K. Fujita, and
+
+[211] M. C. P. Godoy, R. Tarelli, C. C. Ferrari, M. I. Sarchi, and F. J.
+Pitossi, “Central and systemic IL-1 exacerbates neurodegener-
+ation and motor symptoms in a model of Parkinson’s disease,”
+Brain, vol. 131, no. 7, pp. 1880–1894, 2008.
+
+[212] A. H. Peden and J. W. Ironside, “Molecular pathology in
+neurodegenerative diseases,” Current Drug Targets, vol. 13, no.
+12, pp. 1548–1559, 2012.
+
+[213] H.-M. Gao, J. Jiang, B. Wilson, W. Zhang, J.-S. Hong, and B.
+Liu, “Microglial activation-mediated delayed and progressive
+degeneration of rat nigral dopaminergic neurons: relevance to
+Parkinson’s disease,” Journal of Neurochemistry, vol. 81, no. 6, pp.
+1285–1297, 2002.
+
+Mediators of Inflammation
+
+25
+
+[214] A. Casta˜no, A. J. Herrera, J. Cano, and A. Machado, “Lipopol-
+ysaccharide intranigral injection induces inflammatory reac-
+tion and damage in nigrostriatal dopaminergic system,” Journal
+of Neurochemistry, vol. 70, no. 4, pp. 1584–1592, 1998.
+
+[215] L. Qin, X. Wu, M. L. Block et al., “Systemic LPS causes chronic
+neuroinflammation and progressive neurodegeneration,” Glia,
+vol. 55, no. 5, pp. 453–462, 2007.
+
+[216] A. J. Herrera, A. Casta˜no, J. L. Venero, J. Cano, and A. Machado,
+“The single intranigral injection of LPS as a new model for
+studying the selective effects of inflammatory reactions on
+dopaminergic system,” Neurobiology of Disease, vol. 7, no. 4, pp.
+429–447, 2000.
+
+[217] B. Halliwell, “Reactive oxygen species and the central nervous
+system,” Journal of Neurochemistry, vol. 59, no. 5, pp. 1609–1623,
+1992.
+
+[218] T. G. Hastings and M. J. Zigmond, “Loss of dopaminergic
+neurons in parkinsonism: possible role of reactive dopamine
+metabolites,” Journal of Neural Transmission. Supplementa, vol.
+49, pp. 103–110, 1997.
+
+[219] W. Zhang, T. Wang, Z. Pei et al., “Aggregated-synuclein
+
+activates microglia: a process leading to disease progression in
+Parkinson’s disease,” The FASEB Journal, vol. 19, no. 6, pp. 533–
+542, 2005.
+
+[220] L. Zecca, F. A. Zucca, H. Wilms, and D. Sulzer, “Neuromelanin
+of the substantia nigra: a neuronal black hole with protective
+and toxic characteristics,” Trends in Neurosciences, vol. 26, no.
+11, pp. 578–580, 2003.
+
+[221] P. L. McGeer, C. Schwab, A. Parent, and D. Doudet, “Presence
+of reactive microglia in monkey substantia nigra years after
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine administration,”
+Annals of Neurology, vol. 54, no. 5, pp. 599–604, 2003.
+
+[222] H.-M. Gao, B. Liu, and J.-S. Hong, “Critical role for microglial
+NADPH oxidase
+in rotenone-induced degeneration of
+dopaminergic neurons,” Journal of Neuroscience, vol. 23, no. 15,
+pp. 6181–6187, 2003.
+
+[223] D. C. Wu, V. Jackson-Lewis, M. Vila et al., “Blockade of
+microglial activation is neuroprotective in the 1-methyl-4-
+phenyl-1,2,3,6-tetrahydropyridine mouse model of Parkinson
+disease,” The Journal of Neuroscience, vol. 22, no. 5, pp. 1763–
+1771, 2002.
+
+[224] D.-C. Wu, P. Teismann, K. Tieu et al., “NADPH oxidase
+mediates oxidative stress in the 1-methyl-4-phenyl-1,2,3,6-
+tetrahydropyridine model of Parkinson’s disease,” Proceedings of
+the National Academy of Sciences of the United States of America,
+vol. 100, no. 10, pp. 6145–6150, 2003.
+
+[225] P. M. Carvey, C. H. Zhao, B. Hendey et
+
+al.,
+
+“6-
+Hydroxydopamine-induced alterations in blood-brain barrier
+permeability,” European Journal of Neuroscience, vol. 22, no. 5,
+pp. 1158–1168, 2005.
+
+“TNF- knockout and minocycline treatment attenuates blood-
+
+brain barrier leakage in MPTP-treated mice,” Neurobiology of
+Disease, vol. 26, no. 1, pp. 36–46, 2007.
+
+[226] C. Zhao, Z. Ling, M. B. Newman, A. Bhatia, and P. M. Carvey,
+
+[227] X. Su, K. A. Maguire-Zeiss, R. Giuliano, L. Prifti, K. Venkatesh,
+and H. J. Federoff, “Synuclein activates microglia in a model of
+Parkinson’s disease,” Neurobiology of Aging, vol. 29, no. 11, pp.
+1690–1701, 2008.
+
+[228] J. Levin, A. Giese, K. Boetzel et al., “Increased alpha-synuclein
+aggregation following limited cleavage by certain matrix metal-
+loproteinases,” Experimental Neurology, vol. 215, no. 1, pp. 201–
+208, 2009.
+
+[229] P. G. Ince, J. Lowe, and P. J. Shaw, “Amyotrophic lateral sclerosis:
+current issues in classification, pathogenesis and molecular
+pathology,” Neuropathology and Applied Neurobiology, vol. 24,
+no. 2, pp. 104–117, 1998.
+
+[230] A. Chi`o, G. Logroscino, B. J. Traynor et al., “Global epidemiol-
+ogy of amyotrophic lateral sclerosis: a systematic review of the
+published literature,” Neuroepidemiology, vol. 41, no. 2, pp. 118–
+130, 2013.
+
+[231] D. R. Rosen, T. Siddique, D. Patterson et al., “Mutations in
+Cu/Zn superoxide dismutase gene are associated with familial
+amyotrophic lateral sclerosis,” Nature, vol. 362, no. 6415, pp. 59–
+62, 1993.
+
+[232] M. Neumann, D. M. Sampathu, L. K. Kwong et al., “Ubiq-
+uitinated TDP-43 in frontotemporal lobar degeneration and
+amyotrophic lateral sclerosis,” Science, vol. 314, no. 5796, pp.
+130–133, 2006.
+
+[233] L. C. Wijesekera and P. N. Leigh, “Amyotrophic lateral sclerosis,”
+Orphanet Journal of Rare Diseases, vol. 4, no. 1, article 3, 2009.
+[234] M. R. Turner, A. Cagnin, F. E. Turkheimer et al., “Evidence
+of widespread cerebral microglial activation in amyotrophic
+
+lateral sclerosis: an [11C](R)-PK11195 positron emission tomog-
+
+raphy study,” Neurobiology of Disease, vol. 15, no. 3, pp. 601–609,
+2004.
+
+[235] V. Swarup, D. Phaneuf, N. Dupr´e et al., “Deregulation of TDP-43
+in amyotrophic lateral sclerosis triggers nuclear factor kappaB-
+mediated pathogenic pathways,” The Journal of Experimental
+Medicine, vol. 208, no. 12, pp. 2429–2447, 2011.
+
+[236] G. P. Lim, J. R. Backstrom, M. J. Cullen, C. A. Miller, R.
+D. Atkinson, and Z. A. T¨ok´es, “Matrix metalloproteinases in
+the neocortex and spinal cord of amyotrophic lateral sclerosis
+patients,” Journal of Neurochemistry, vol. 67, no. 1, pp. 251–259,
+1996.
+
+[237] J. I. Engelhardt and S. H. Appel, “IgG reactivity in the spinal cord
+and motor cortex in amyotrophic lateral sclerosis,” Archives of
+Neurology, vol. 47, no. 11, pp. 1210–1216, 1990.
+
+[238] H. Donnenfeld, R. J. Kascsak, and H. Bartfeld, “Deposits of IgG
+and C3 in the spinal cord and motor cortex of ALS patients,”
+Journal of Neuroimmunology, vol. 6, no. 1, pp. 51–57, 1984.
+
+[239] E. A. Winkler, J. D. Sengillo, A. P. Sagare et al., “Blood-spinal
+cord barrier disruption contributes to early motor-neuron
+degeneration in ALS-model mice,” Proceedings of the National
+Academy of Sciences of the United States of America, vol. 111, no.
+11, pp. E1035–E1042, 2014.
+
+[240] J. S. Henkel, D. R. Beers, S. Wen, R. Bowser, and S. H. Appel,
+“Decreased mRNA expression of tight junction proteins in
+lumbar spinal cords of patients with ALS,” Neurology, vol. 72,
+no. 18, pp. 1614–1616, 2009.
+
+[241] K. Miyazaki, Y. Ohta, M. Nagai et al., “Disruption of neurovas-
+cular unit prior to motor neuron degeneration in amyotrophic
+lateral sclerosis,” Journal of Neuroscience Research, vol. 89, no. 5,
+pp. 718–728, 2011.
+
+[242] W. Beuche, M. Yushchenko, M. M¨ader, M. Maliszewska, K.
+Felgenhauer, and F. Weber, “Matrix metalloproteinase-9 is
+elevated in serum of patients with amyotrophic lateral sclerosis,”
+NeuroReport, vol. 11, no. 16, pp. 3419–3422, 2000.
+
+[243] M. Demestre, G. Parkin-Smith, A. Petzold, and A. H. Pullen,
+“The pro and the active form of matrix metalloproteinase-
+9 is increased in serum of patients with amyotrophic lateral
+sclerosis,” Journal of Neuroimmunology, vol. 159, no. 1-2, pp. 146–
+154, 2005.
+
+26
+
+Mediators of Inflammation
+
+[244] A. Kaplan, K. J. Spiller, C. Towne et al., “Neuronal matrix
+metalloproteinase-9 is a determinant of selective neurodegen-
+eration,” Neuron, vol. 81, no. 2, pp. 333–348, 2014.
+
+[245] M. Pugliatti, S. Sotgiu, and G. Rosati, “The worldwide preva-
+lence of multiple sclerosis,” Clinical Neurology and Neuro-
+surgery, vol. 104, no. 3, pp. 182–191, 2002.
+
+[246] M. M. Goldenberg, “Multiple sclerosis review,” P & T, vol. 37,
+
+no. 3, pp. 175–184, 2012.
+
+[247] H. Lassmann, J. van Horssen, and D. Mahad, “Progressive
+multiple sclerosis: pathology and pathogenesis,” Nature Reviews
+Neurology, vol. 8, no. 11, pp. 647–656, 2012.
+
+[248] E. M. Mowry, “Natural history of multiple sclerosis: early
+prognostic factors,” Neurologic Clinics, vol. 29, no. 2, pp. 279–
+292, 2011.
+
+[249] S. Vukusic and C. Confavreux, “Natural history of multiple scle-
+rosis: risk factors and prognostic indicators,” Current Opinion in
+Neurology, vol. 20, no. 3, pp. 269–274, 2007.
+
+[250] M. A. Friese, B. Schattling, and L. Fugger, “Mechanisms of neu-
+rodegeneration and axonal dysfunction in multiple sclerosis,”
+Nature Reviews Neurology, vol. 10, no. 4, pp. 225–238, 2014.
+
+[251] A. Chaudhuri, “Multiple sclerosis is primarily a neurodegenera-
+tive disease,” Journal of Neural Transmission, vol. 120, no. 10, pp.
+1463–1466, 2013.
+
+[252] C. T. Bever Jr. and G. A. Rosenberg, “Matrix metalloproteinases
+in multiple sclerosis: targets of therapy or markers of injury?”
+Neurology, vol. 53, no. 7, pp. 1380–1381, 1999.
+
+[253] H. K¨onnecke and I. Bechmann, “The role of microglia and
+matrix metalloproteinases involvement in neuroinflammation
+and gliomas,” Clinical and Developmental Immunology, vol.
+2013, Article ID 914104, 15 pages, 2013.
+
+[254] D. C. Anthony, P. Hughes, and V. H. Perry, “The evidence for
+primary axonal loss in multiple sclerosis,” Revista de Neurologia,
+vol. 30, no. 12, pp. 1203–1208, 2000.
+
+[255] R. L. P. Lindberg, C. J. A. De Groot, L. Montagne et al., “The
+expression profile of matrix metalloproteinases (MMPs) and
+their inhibitors (TIMPs) in lesions and normal appearing white
+matter of multiple sclerosis,” Brain, vol. 124, no. 9, pp. 1743–1753,
+2001.
+
+[256] J. O. Harris, J. A. Frank, N. Patronas, D. E. McFarlin, and H. F.
+McFarland, “Serial gadolinium-enhanced magnetic resonance
+imaging scans in patients with early, relapsing-remitting multi-
+ple sclerosis: implications for clinical trials and natural history,”
+Annals of Neurology, vol. 29, no. 5, pp. 548–555, 1991.
+
+[257] R. Washington, J. Burton, R. F. Todd III, W. Newman, L.
+Dragovic, and P. Dore-Duffy, “Expression of immunologically
+relevant endothelial cell activation antigens on isolated central
+nervous system microvessels from patients with multiple scle-
+rosis,” Annals of Neurology, vol. 35, no. 1, pp. 89–97, 1994.
+
+[258] J. I. Alvarez, R. Cayrol, and A. Prat, “Disruption of central
+nervous system barriers in multiple sclerosis,” Biochimica et
+Biophysica Acta, vol. 1812, no. 2, pp. 252–264, 2011.
+
+[259] L. Morgan, B. Shah, L. E. Rivers et al., “Inflammation and
+dephosphorylation of the tight junction protein occludin in an
+experimental model of multiple sclerosis,” Neuroscience, vol. 147,
+no. 3, pp. 664–673, 2007.
+
+[260] D. Leppert, E. Waubant, M. R. B¨urk, J. R. Oksenberg, and S.
+L. Hauser, “Interferon beta-1b inhibits gelatinase secretion and
+in vitro migration of human T cells: a possible mechanism for
+treatment efficacy in multiple sclerosis,” Annals of Neurology,
+vol. 40, no. 6, pp. 846–852, 1996.
+
+[261] M. L. Cuzner, D. Gveric, C. Strand et al., “The expression of
+tissue-type plasminogen activator, matrix metalloproteases and
+endogenous inhibitors in the central nervous system in multiple
+sclerosis: comparison of stages in lesion evolution,” Journal of
+Neuropathology and Experimental Neurology, vol. 55, no. 12, pp.
+1194–1204, 1996.
+
+[262] B. C. Kieseier, R. Kiefer, J. M. Clements et al., “Matrix metallo-
+proteinase-9 and -7 are regulated in experimental autoimmune
+encephalomyelitis,” Brain, vol. 121, no. 1, pp. 159–166, 1998.
+
+[263] E. Waubant, D. E. Goodkin, L. Gee et al., “Serum MMP-9 and
+TIMP-1 levels are related to MRI activity in relapsing multiple
+sclerosis,” Neurology, vol. 53, no. 7, pp. 1397–1401, 1999.
+
+[264] G. E. M. Althoff, D. P. Wolfer, N. Timmesfeld, B. Kanzler, H.
+Schrewe, and A. Pagenstecher, “Long-term expression of tissue-
+inhibitor of matrix metalloproteinase-1 in the murine central
+nervous system does not alter the morphological and behavioral
+phenotype but alleviates the course of experimental allergic
+encephalomyelitis,” American Journal of Pathology, vol. 177, no.
+2, pp. 840–853, 2010.
+
+[265] W. Liedtke, B. Cannella, R. J. Mazzaccaro et al., “Effective
+treatment of models of multiple sclerosis by matrix metallopro-
+teinase inhibitors,” Annals of Neurology, vol. 44, no. 1, pp. 35–46,
+1998.
+
+[266] B. Dubois, S. Masure, U. Hurtenbach et al., “Resistance of
+young gelatinase B-deficient mice to experimental autoimmune
+encephalomyelitis and necrotizing tail lesions,” The Journal of
+Clinical Investigation, vol. 104, no. 11, pp. 1507–1515, 1999.
+
+[267] C. Larochelle, J. I. Alvarez, and A. Prat, “How do immune cells
+overcome the blood-brain barrier in multiple sclerosis?” FEBS
+Letters, vol. 585, no. 23, pp. 3770–3780, 2011.
+
+[268] F. Gilli, A. Bertolotto, A. Sala et al., “Neutralizing antibodies
+against IFN-beta in multiple sclerosis: antagonization of IFN-
+beta mediated suppression of MMPs,” Brain, vol. 127, no. 2, pp.
+259–268, 2004.
+
+[269] T. A. Newman, S. T. Woolley, P. M. Hughes, N. R. Sibson,
+D. C. Anthony, and V. H. Perry, “T-cell- and macrophage-
+mediated axon damage in the absence of a CNS-specific
+immune response: Involvement of metalloproteinases,” Brain,
+vol. 124, no. 11, pp. 2203–2214, 2001.
+
+[270] A. Ishizuya-Oka, Q. Li, T. Amano, S. Damjanovski, S. Ueda,
+and Y.-B. Shi, “Requirement for matrix metalloproteinase
+stromelysin-3 in cell migration and apoptosis during tissue
+remodeling in Xenopus laevis,” Journal of Cell Biology, vol. 150,
+no. 5, pp. 1177–1188, 2000.
+
+[271] M. La Fleur, J. L. Underwood, D. A. Rappolee, and Z. Werb,
+“Basement membrane and repair of injury to peripheral nerve:
+defining a potential role for macrophages, matrix metallopro-
+teinases, and tissue inhibitor of metalloproteinases-1,” Journal
+of Experimental Medicine, vol. 184, no. 6, pp. 2311–2326, 1996.
+
+[272] L. Y. S. Oh, P. H. Larsen, C. A. Krekoski et al., “Matrix metallo-
+proteinase-9/gelatinase B is required for process outgrowth by
+oligodendrocytes,” Journal of Neuroscience, vol. 19, no. 19, pp.
+8464–8475, 1999.
+
+[273] P. H. Larsen, A. G. DaSilva, K. Conant, and V. W. Yong,
+“Myelin formation during development of the CNS is delayed
+in matrix metalloproteinase-9 and -12 null mice,” The Journal of
+Neuroscience, vol. 26, no. 8, pp. 2207–2214, 2006.
+
+[274] D. Martindale, A. Hackam, A. Wieczorek et al., “Length of
+huntingtin and its polyglutamine tract influences localization
+and frequency of intracellular aggregates,” Nature Genetics, vol.
+18, no. 2, pp. 150–154, 1998.
+
+Mediators of Inflammation
+
+27
+
+effects of matrix metalloproteinase 7 in acute inflammation,”
+Mucosal Immunology, vol. 7, no. 3, pp. 579–588, 2014.
+
+[291] K. Miyazaki, M. Hasegawa, K. Funahashi, and M. Umeda,
+“A metalloproteinase inhibitor domain in Alzheimer amyloid
+protein precursor,” Nature, vol. 362, no. 6423, pp. 839–841, 1993.
+[292] A. E. Roher, T. C. Kasunic, A. S. Woods, R. J. Cotter, M. J. Ball,
+
+and R. Fridman, “Proteolysis of A peptide from Alzheimer
+
+disease brain by gelatinase A,” Biochemical and Biophysical
+Research Communications, vol. 205, no. 3, pp. 1755–1761, 1994.
+[293] D. M. Walsh, C. H. Williams, H. E. Kennedy, D. Allsop, and G.
+Murphy, “Gelatinase A not alpha-secretase?” Nature, vol. 367,
+no. 6458, pp. 27–28, 1994.
+
+[294] N. Peress, E. Perillo, and S. Zucker, “Localization of tissue
+inhibitor of matrix metalloproteinases in Alzheimer’s disease
+and normal brain,” Journal of Neuropathology and Experimental
+Neurology, vol. 54, no. 1, pp. 16–22, 1995.
+
+[295] M. E. Smith and L. A. Amaducci, “Observations on the effects of
+protease inhibitors on the suppression of experimental allergic
+encephalomyelitis,” Neurochemical Research, vol. 7, no. 5, pp.
+541–554, 1982.
+
+[296] K. Gijbels, S. Masure, H. Carton, and G. Opdenakker, “Gelati-
+nase in the cerebrospinal fluid of patients with multiple sclerosis
+and other inflammatory neurological disorders,” Journal of
+Neuroimmunology, vol. 41, no. 1, pp. 29–34, 1992.
+
+[297] G. A. Rosenberg, J. E. Dencoff, N. Correa Jr., M. Reiners, and C.
+C. Ford, “Effect of steroids on CSF matrix metalloproteinases
+in multiple sclerosis: relation to blood-brain barrier injury,”
+Neurology, vol. 46, no. 6, pp. 1626–1632, 1996.
+
+[298] G. H. Marracci, R. E. Jones, G. P. McKeon, and D. N. Bourdette,
+“Alpha lipoic acid inhibits T cell migration into the spinal
+cord and suppresses and treats experimental autoimmune
+encephalomyelitis,” Journal of Neuroimmunology, vol. 131, no. 1-
+2, pp. 104–114, 2002.
+
+[299] D. Baker, D. Butler, B. J. Scallon, J. K. O’Neill, J. L. Turk, and
+M. Feldmann, “Control of established experimental allergic
+encephalomyelitis by inhibition of tumor necrosis factor (TNF)
+activity within the central nervous system using monoclonal
+antibodies and TNF receptor-immunoglobulin fusion pro-
+teins,” European Journal of Immunology, vol. 24, no. 9, pp. 2040–
+2048, 1994.
+
+[275] K.-H. Chang, Y.-R. Wu, Y.-C. Chen, and C.-M. Chen, “Plasma
+inflammatory biomarkers for Huntington’s disease patients and
+mouse model,” Brain, Behavior, and Immunity, vol. 44, pp. 121–
+127, 2015.
+
+[276] S. Lorenzl, D. S. Albers, P. A. LeWitt et al., “Tissue inhibitors
+of matrix metalloproteinases are elevated in cerebrospinal fluid
+of neurodegenerative diseases,” Journal of the Neurological
+Sciences, vol. 207, no. 1-2, pp. 71–76, 2003.
+
+[277] J. C. Adair, J. Charlie, J. E. Dencoff et al., “Measurement of
+gelatinase B (MMP-9) in the cerebrospinal fluid of patients with
+vascular dementia and Alzheimer disease,” Stroke, vol. 35, no. 6,
+pp. e159–e162, 2004.
+
+[278] A. Kettlun, L. Collados, L. Garc´ıa et al., “Matrix metallo-
+proteinase profile in patients with Creuztfeldt-Jakob disease,”
+International Journal of Clinical Practice, vol. 57, no. 6, pp. 475–
+478, 2003.
+
+[279] G. A. Rosenberg, “Matrix metalloproteinases and their multiple
+roles in neurodegenerative diseases,” The Lancet Neurology, vol.
+8, no. 2, pp. 205–216, 2009.
+
+[280] J. Hu, P. E. Van den Steen, Q.-X. A. Sang, and G. Opdenakker,
+“Matrix metalloproteinase inhibitors as therapy for inflamma-
+tory and vascular diseases,” Nature Reviews Drug Discovery, vol.
+6, no. 6, pp. 480–498, 2007.
+
+[281] Q.-X. A. Sang, Y. Jin, R. G. Newcomer et al., “Matrix metallopro-
+teinase inhibitors as prospective agents for the prevention and
+treatment of cardiovascular and neoplastic diseases,” Current
+Topics in Medicinal Chemistry, vol. 6, no. 4, pp. 289–316, 2006.
+[282] R. E. Vandenbroucke, E. Dejonckheere, and C. Libert, “A
+therapeutic role for matrix metalloproteinase inhibitors in lung
+diseases?” European Respiratory Journal, vol. 38, no. 5, pp. 1200–
+1214, 2011.
+
+[283] F. D. Liechti, D. Grandgirard, D. Leppert, and S. L. Leib,
+“Matrix metalloproteinase inhibition lowers mortality and
+brain injury in experimental pneumococcal meningitis,” Infec-
+tion and Immunity, vol. 82, no. 4, pp. 1710–1718, 2014.
+
+[284] F. D. Liechti, F. B¨achtold, D. Grandgirard, D. Leppert, and S. L.
+Leib, “The matrix metalloproteinase inhibitor RS-130830 atten-
+uates brain injury in experimental pneumococcal meningitis,”
+Journal of Neuroinflammation, vol. 12, article 43, 2015.
+
+[285] S. L. Leib, D. Leppert, J. Clements, and M. G. T¨auber, “Matrix
+metalloproteinases contribute to brain damage in experimental
+pneumococcal meningitis,” Infection and Immunity, vol. 68, no.
+2, pp. 615–620, 2000.
+
+[286] M. Chaturvedi and L. Kaczmarek, “MMP-9 inhibition: a thera-
+peutic strategy in ischemic stroke,” Molecular Neurobiology, vol.
+49, no. 1, pp. 563–573, 2014.
+
+[287] S. E. Lakhan, A. Kirchgessner, D. Tepper, and A. Leonard,
+“Matrix metalloproteinases and blood-brain barrier disruption
+in acute ischemic stroke,” Frontiers in Neurology, vol. 4, article
+32, 2013.
+
+[288] C. H. Park, T. K. Shin, H. Y. Lee, S. J. Kim, and W. S. Lee, “Matrix
+metalloproteinase inhibitors attenuate neuroinflammation fol-
+lowing focal cerebral ischemia in mice,” The Korean Journal of
+Physiology & Pharmacology, vol. 15, no. 2, pp. 115–122, 2011.
+
+[289] R. E. Vandenbroucke, E. Dejonckheere, P. Van Lint et
+al., “Matrix metalloprotease 8-dependent extracellular matrix
+cleavage at the blood-CSF barrier contributes to lethality during
+systemic inflammatory diseases,” Journal of Neuroscience, vol.
+32, no. 29, pp. 9805–9816, 2012.
+
+[290] R. E. Vandenbroucke, I. Vanlaere, F. Van Hauwermeiren, E.
+Van Wonterghem, C. Wilson, and C. Libert, “Pro-inflammatory
+
+

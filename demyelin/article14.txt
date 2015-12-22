@@ -1,0 +1,1529 @@
+Mol Diagn Ther (2015) 19:255–265
+DOI 10.1007/s40291-015-0166-z
+
+R E V I E W A R T I C L E
+
+Treatment Against Human Endogenous Retrovirus: A Possible
+Personalized Medicine Approach for Multiple Sclerosis
+
+Franc¸ois Curtin1,2
+Alois B. Lang1
+
+• Herve´ Perron1
+
+• Raphael Faucard1
+
+• Herve´ Porchet1,3
+
+•
+
+Published online: 16 September 2015
+Ó Springer International Publishing Switzerland 2015
+
+Abstract Human endogenous retroviruses (HERV) rep-
+resent about 8 % of the human genome. Some of these
+genetic elements are expressed in pathological circum-
+stances. A HERV protein, the multiple sclerosis–associated
+retrovirus (MSRV) envelope protein (MSRV-Env),
+is
+expressed in the blood and active brain lesions of multiple
+sclerosis (MS) patients. It possesses pro-inﬂammatory and
+myelinotoxic properties. The patterns of expression and
+pathogenic properties of MSRV-Env make it a relevant
+drug target for MS therapeutics—in particular for pre-
+venting neurodegeneration, a key component of progres-
+sive forms of MS. An immunoglobulin G4 monoclonal
+antibody (mAb), called GNbAC1, has been developed to
+neutralize this pathogenic target. After showing neutraliz-
+ing effects in vitro and in mouse models of MS, GNbAC1
+is now in phase II clinical development. MSRV-related
+biomarkers such as MSRV-Env and MSRV polymerase
+(MSRV-Pol) gene transcripts are overexpressed in the
+blood and cerebrospinal ﬂuid of patients with MS. These
+biomarkers may have prognostic value for long-term MS
+evolution, and their transcription levels in blood decline
+during treatments with GNbAC1, which has also been
+reported in patients administered reference MS drugs such
+as natalizumab or interferon-b. GNbAC1 as a new MSRV-
+Env-antagonist mAb could be a speciﬁc and causal
+
+& Franc¸ois Curtin
+fc@geneuro.com
+
+1 GeNeuro SA, 18 Chemin des Aulx, Plan-les-Ouates,
+
+1228 Geneva, Switzerland
+
+2 Division of Clinical Pharmacology and Toxicology Division,
+
+Geneva University Hospital, Geneva, Switzerland
+
+3 Department of Pharmacology, Faculty of Health Sciences,
+
+University of Pretoria, Pretoria, South Africa
+
+treatment for MS, with a particular application for pro-
+gressive forms of the disease. For possible use in com-
+panion diagnostic tests, MSRV-associated biomarkers
+could open the door to a personalized therapeutic approach
+for MS.
+
+Key Points
+
+GNbAC is an immunoglobulin G4 monoclonal
+antibody targeting a protein of endogenous retroviral
+origin.
+
+The target protein appears to play a critical role in
+the pathophysiology of multiple sclerosis.
+
+Biomarkers related to the target could play a role in
+companion diagnostic tests.
+
+1 Introduction
+
+Multiple sclerosis (MS) is an inﬂammatory, demyelinating,
+and neurodegenerative disorder of the central nervous
+system (CNS), of unknown etiology. An autoimmune
+process underlies the pathophysiology of
+the disease;
+however; inﬂammation and neurodegeneration are closely
+associated during the disease: autoimmunity seems to
+predominate at the beginning of the disease evolution,
+while neurodegeneration prevails at the late stages and is
+associated with the progression of disability. The interre-
+lations between both pathophysiological processes are
+complex and far from being fully understood [1].
+
+256
+
+F. Curtin et al.
+
+Clinically, MS can manifest with different symptoms,
+but the most frequent ones include acute and subacute
+motor dysfunction of the limbs, sensory disturbance, gait
+disorders, partial or complete visual loss, autonomic dys-
+function, fatigue, cognitive symptoms, and psychiatric
+abnormalities [2].
+
+There are different clinical phenotypes of MS, three of
+which are the most prevalent. The prevalence ﬁgures are
+variable according to different studies [3, 4]. The most
+frequent form, with a prevalence of about 60 %, is deﬁned
+as ‘‘relapsing–remitting MS’’ (RRMS), in which patients
+have recurrent attacks of neurological symptoms followed
+by symptomatic improvement
+ranging from complete
+remission to signiﬁcant remaining neurological dysfunc-
+tion. After 10–20 years of evolution, about 75–85 % of
+these patients convert
+to ‘‘secondary progressive MS’’
+(SPMS), in which the neurological dysfunction progresses
+slowly and the cycle of exacerbations/remissions progres-
+sively wanes. The actual prevalence of SPMS is around
+20 %. The third group, representing about 10 % of MS
+patients, have the ‘‘primary progressive MS’’ (PPMS)
+form, in which progressive neurological disability tends to
+accumulate from the time of clinical onset. Other less
+prevalent phenotypes of MS have also been described.
+
+Pathologically, MS is characterized by inﬂammatory
+inﬁltrates associated with focal demyelination lesions
+(plaques) in the brain and spinal cord white matter, as well
+as in the gray matter. Inﬂammation is dominated by
+T-lymphocyte cells and activated microglia. In active
+lesions, this process is accompanied by disruption of the
+blood–brain barrier and local expression of pro-inﬂamma-
+tory cytokines and their receptors. Complete demyelination
+is accompanied by a variable degree of axonal injury and
+loss. These acute inﬂammatory plaques dominate the
+pathology in RRMS [5]. In the chronic progressive forms
+of MS (SPMS and PPMS), the pathology differs somewhat.
+Focal demyelinated white matter lesions are present, but
+active demyelinating plaques are rare. Pre-existing plaques
+show evidence of slow and gradual expansion of the
+lesions at
+their margins, characterized by moderate
+inﬂammatory inﬁltrates, mainly composed of perivascular
+macrophages and profound microglia activation. The
+demyelination process is slow: the normal-appearing white
+matter is affected by a diffuse inﬂammatory process and
+generalized activation of microglia, associated with diffuse
+axonal injury and destruction, also followed by secondary
+demyelination. Extensive cortical demyelination associated
+with inﬂammatory inﬁltrates in the leptomeninges is seen
+in the forebrain and the cerebellum [5].
+
+Because of the immunoinﬂammatory characteristics of
+MS, which are particularly prevalent in the RRMS form,
+treatments for MS that act by inhibiting lymphocyte acti-
+vation have played a critical
+role for a long time.
+
+Corticosteroids were ﬁrst
+introduced as a treatment of
+choice for MS; however, they appeared to have no real
+impact on the long-term course of the disease. Major
+progress in MS treatment was made with the introduction
+of the ﬁrst disease-modifying therapies (DMTs), i.e., drugs
+that are able to alter the course of MS [6]. The ﬁrst of these
+drugs were the b-interferons (b-IFNs), introduced in the
+1990s. Since then, several different DMTs have been reg-
+istered for MS as injectable drugs and more recently as oral
+formulations: all of them possess an immunomodulatory or
+immunosuppressive mode of action (for a review, see
+Curtin and Hartung [7]), and they are efﬁcacious in treating
+RRMS, at least by decreasing the frequency of relapses.
+However, none of them has shown real efﬁcacy in the
+treatment of either PPMS or SPMS. Currently, most MS
+drugs in clinical development are based on immunomod-
+ulation or immunosuppression. However, a couple of new
+molecules aimed at promoting remyelination are now at the
+early clinical development stage [8].
+
+retrovirus
+
+We present here a new therapeutic approach for the
+treatment of MS, which does not affect the immune system
+and is intended to neutralize a protein of human endoge-
+nous retroviral (HERV) origin, called the multiple sclero-
+sis–associated
+protein
+(MSRV-Env), which is likely to play a key role in the
+pathophysiology of MS. We describe the development of a
+speciﬁc treatment against
+target, based on an
+immunoglobulin (Ig) G4 monoclonal antibody (mAb),
+called GNbAC1, co-developed with a panel of MSRV-re-
+lated biomarkers, which may have potential for use in
+companion diagnostic tests.
+
+this
+
+(MSRV)
+
+envelope
+
+2 Human Endogenous Retrovirus and Molecular
+
+Pharmacology
+
+2.1 MSRV-Env as a TLR4 Activator
+
+The gene encoding the MSRV-Env protein belongs to the
+HERV-W family of retroviral elements, which are widely
+and heterogeneously dispersed in the human genome, fol-
+lowing the integration events of a corresponding exogenous
+retrovirus, which ﬁrst infected the germ line of primates
+(Catharrhines) about 25 million years ago [9, 10]. The
+HERV elements represent approximately 8 % of
+the
+human genomic sequences. From a phylogenic perspective,
+HERV-W elements,
+to which MSRV belongs, share
+homologies with other endogenous or exogenous retro-
+viruses, as shown in Fig. 1 (for a review, see Weiss [11]).
+The role of these elements in the causation of human dis-
+orders and,
+in autoimmune diseases is
+beginning to be better understood and is now a subject of
+active research [12, 13].
+
+in particular,
+
+Treatment Against Human Endogenous Retrovirus
+
+257
+
+Fig. 1 Phylogeny of endogenous and exogenous retroviruses, accord-
+ing to Weiss
+[11]. ALV avian leukosis virus, BaEV baboon
+endogenous virus, BFV Barmah Forest virus, BLV bovine leukemia
+virus, EIAV equine infectious anemia virus, FeLV feline leukemia
+virus, FFV feline foamy virus, FIV feline immunodeﬁciency virus,
+GALV gibbon ape leukemia virus, HERV human endogenous
+retrovirus, HIV human immunodeﬁciency virus, HTLV human T-cell
+
+lymphotropic virus, JRSV Jaagsiekte sheep retrovirus, MLV murine
+leukemia virus, MMTV mouse mammary tumor virus, MVV Maedi-
+visna virus, PERV porcine endogenous retrovirus, RSV respiratory
+syncytial virus, SIVmac macaque simian immunodeﬁciency virus,
+SnRV snakehead retrovirus, SRV simian retrovirus, SFVagm simian
+foamy virus type 3 (strain LK3), SFVcpz chimpanzee foamy virus,
+WDSV walleye dermal sarcoma virus
+
+cells
+
+The MSRV-Env protein comprises three domains: the
+signal peptide, the surface (SU) domain or ectodomain, and
+the transmembrane (TM) domain. The SU domain is an
+agonist of Toll-like receptor (TLR)-4. Following the ﬁrst
+observation that the in vitro abnormal immune response
+characterized by T-lymphocyte polyclonal activation was
+associated with MSRV-Env [14], the cytokines induced by
+the SU domain of MSRV-Env protein were evaluated in
+peripheral blood mononuclear
+(PBMCs). This
+revealed an early increase in interleukin (IL)-1b, IL-6, and
+IL-12p40, reﬂecting innate immune activation, followed by
+IFN-c production reﬂecting delayed but potent T cell
+immune reaction, as expected from previous studies. This
+also unraveled the key role of TLR4 as an upstream
+receptor in the immunoinﬂammatory cascade when it is
+exposed to MSRV-Env. MSRV-Env itself was revealed to
+be a potent agonist of TLR4-mediated immune activation
+pathways, leading to both acute and chronic inﬂammation,
+as well as to autoimmunity [15, 16]. MSRV-Env appears
+pathogenic to all human PBMCs tested in vitro, and an
+interesting observation is that the magnitude of the IL-6
+and IL-12p40 release appears to correlate positively, and in
+a statistically signiﬁcant way, with MS disease severity as
+measured by the Expanded Disability Status Scale (EDSS)
+score [17]. It was shown that the mechanism of release of
+pro-inﬂammatory cytokines, such as IL-1b, IL-6, or tumor
+
+necrosis factor (TNF)-a, from PBMCs and microglial cells
+from the CNS was mediated through engagement of CD14
+and TLR4, which are pattern recognition receptors of pri-
+mary importance to innate immunity. MSRV-Env appears
+to also trigger a maturation process in human dendritic
+cells and to endow these cells with the capacity to support a
+T-helper-1 (Th1)-like type of T-helper cell differentiation
+[15, 17]. It has been further shown that MSRV-Env induces
+a concentration-dependent release of IL-6 and TNF-a by
+human PBMCs in culture, with afﬁnities in the picomolar
+or low nanomolar range (internal report).
+
+In a study comparing the cytokine proﬁle of PBMCs
+stimulated by MSRV-Env in samples from 30 patients with
+RRMS (of whom 13 were presenting with a clinical relapse
+and 17 others were in a stable clinical condition at the time
+of blood collection), inﬂammatory cytokines, such as TNF-
+a and IFN-c, were produced by cells from patients in a
+relapse state, whereas the anti-inﬂammatory cytokine IL-10
+was produced by the T lymphocytes and CD14? cells of
+patients who were in a stable condition. These data suggest
+a clinically correlated balance between patients’ immune
+systems and the peripheral
+to this
+endogenous retroviral protein [18].
+
+reactivity status
+
+Beyond its potent agonist effects on native human TLR4,
+MSRV-Env appears
+superantigen-like effects
+downstream from the innate immune activation [14, 19].
+
+to exert
+
+258
+
+F. Curtin et al.
+
+The ability of superantigens to cause antigen-independent
+polyclonal activation of T lymphocytes can result
+in
+abnormal autoreactive T-cell activation [20] and oversecre-
+tion of pro-inﬂammatory cytokines [21]. Superantigen
+properties of bacterial or viral antigens have been suggested
+as a causative factor in autoimmune diseases [22–24].
+Nonetheless,
+effect
+appears to be dependent upon upstream TLR4 activation, as
+it was no longer observed after blockade of TLR4 receptors
+with an appropriate antibody, which resulted in inhibition of
+both TNF-a [17] and IFN-c secretion (H. Perron, personal
+communication).
+
+the MSRV-Env superantigen-like
+
+Addressing TLR4 expression in myelin-producing cells,
+immunostaining and gene expression analyses evidenced
+transient expression of TLR4 on oligodendroglial precursor
+cells (OPCs) in human brain tissue and in culture. Cultured
+primary OPCs were stimulated with MSRV-Env protein to
+determine the effects of the ligand-receptor interaction in
+such cells. It was shown that human and rat OPCs expressed
+TLR4 in a window period preceding their differentiation. It
+was then shown that MSRV-Env-mediated activation of
+TLR4 led to release of pro-inﬂammatory cytokines and, via
+inducible nitric oxide synthase, to release of nitric oxide
+radicals. This caused formation of nitrotyrosine groups and
+paralleled the subsequent blockade of myelin protein
+expression. These observations showed that induction of
+nitrosative stress by MSRV-Env through TLR4 signaling
+inhibits oligodendroglial differentiation capacity, which
+results in failure of remyelination by migrated OPCs—a
+critical pathophysiological process
+in MS [25]. This
+remyelination failure is a pathophysiological mechanism of
+particular importance for progressive forms of MS [26–31].
+The ﬁndings regarding the OPC toxicity of MSRV-Env were
+conﬁrmed independently (internal report).
+
+Consequently, both the pro-inﬂammatory effect with
+cytokine release and the oligodendrocyte toxicity induced
+by MSRV-Env indicate that the MSRV-Env protein is a
+key element in the pathophysiology of MS.
+
+3 Pathophysiology
+
+3.1 Expression in MS Lesions
+
+Several studies have shown that the MSRV-Env protein is
+systematically expressed in active MS brain lesions, where
+the expression takes place in macrophages and microglial
+cells [32–34], while there is no or only faint expression in
+normal-appearing white matter from patients or control
+subjects without MS. The level of immunostaining also
+appears to correlate with the acute characteristics of the
+brain lesions [32, 34], notably at the start of a lesion, as
+shown in Fig. 2 [35].
+
+In a study by Perron and Van Horssen [35], brain
+samples from 20 patients with clinically diagnosed and
+neuropathologically conﬁrmed MS, and from ten control
+subjects without MS, were analyzed. Immunodetection of
+speciﬁc proteins was done with speciﬁc antibodies to
+MSRV-Env or GAG proteins, to proteolipid protein of
+myelin, to human leukocyte antigen (HLA) class II anti-
+gens, and to microglia, macrophage, and lymphocyte-
+speciﬁc markers. Both MSRV proteins were detected in the
+same cells in lesions from all MS brains (20/20), but only
+rare and faint detection of MSRV-Env was seen in a few
+control subjects or in normal-appearing white matter from
+MS brains. MSRV-Env was strongly and essentially
+expressed in perivascular macrophages and in brain
+microglia, and this was particularly seen in actively
+demyelinating areas and at all stages of MS plaques. It was
+occasionally detected in astrocytes within lesions and was
+only faintly detected in inactive (burnt-out) plaques with
+diffuse staining retained on an extracellular matrix of
+ﬁbrotic areas. Globally, MSRV-Env detection appears to be
+associated with an active demyelination process, whatever
+the stage of the MS disease is.
+
+These different neuropathological studies show the
+systematic presence of MSRV-Env protein in MS brain
+lesions, from the earliest perivascular stage to the latest
+active rim of microglia in progressive plaques—in partic-
+ular linked to the demyelination process. This systematic
+expression of such a protein with inﬂammatory and
+myelinotoxic properties in lesions suggests that MSRV-
+Env plays a key pathogenic role in the MS lesional process,
+and makes it a highly relevant drug target. As it is present
+in lesions of all types of MS—RRMS as well as progres-
+sive forms—its potential role in the neurodegeneration
+process suggests that the neutralization of this target could
+
+Fig. 2 A new perivascular multiple sclerosis lesion is associated with
+envelope protein (Env)-positive inﬁltrating perivascular macro-
+phages, colored in brown by immunostaining [35]
+
+Treatment Against Human Endogenous Retrovirus
+
+259
+
+be particularly valuable for treatment of progressive forms
+of MS.
+
+4 Therapeutics
+
+4.1 Development of GNbAC1, a Monoclonal
+
+Antibody
+
+The above-described pathophysiological ﬁndings led to a
+search for a speciﬁc MSRV-Env-antagonist drug, which
+could speciﬁcally bind to this endogenous retroviral protein
+and neutralize its pathogenic activity. A mAb was isolated,
+which selectively binds to a linear epitope of the SU
+domain of the MSRV-Env protein and neutralizes its TLR4
+binding potential without interacting with this receptor.
+Following murine and chimeric antibody versions, a
+humanized recombinant antibody of the IgG4/j subclass,
+called GNbAC1, was produced. Site-directed mutagenesis
+within the corresponding encoding nucleotide sequence
+was performed to stabilize the interchain disulﬁde bridges
+of the core region of IgG4. GNbAC1 has a molecular
+weight of approximately 147 kDa. Details of the discovery
+and preclinical development of GNbAC1 have been
+described by Curtin et al. [36].
+
+4.2 In Vitro Evidence
+
+GNbAC1 was tested in vitro for its ability to block the
+release of pro-inﬂammatory cytokines induced by MSRV-
+Env. It was shown that release of TNF-a by PBMCs
+stimulated by MSRV-Env was inhibited by GNbAC1, but
+that GNbAC1 did not suppress PBMC activation by
+lipopolysaccharide (LPS), a TLR4 agonist: this showed
+that the mode of action of GNbAC1 is speciﬁc to the target
+and does not involve any TLR4 inhibition [17]. The neu-
+tralizing activity of GNbAC1 does not interfere with the
+receptor, neither by itself nor when it is bound to the target
+epitope on its anti-ligand.
+
+Another study used HEK-BlueTM human TLR4 cells
+designed for studying the stimulation of
+recombinant
+human TLR4 by monitoring the activation of nuclear factor
+(NF)-jB and activator protein (AP)-1. In this model, it was
+conﬁrmed that MSRV-Env induces strong and highly
+potent TLR4 activation (with a half-maximal effective
+concentration [EC50] in the picomolar range). It was further
+shown that
+is signiﬁcantly and
+concentration-dependently inhibited by GNbAC1 but not
+by corresponding GNbAC1 vehicle or another control mAb
+(internal report).
+
+the MSRV-Env effect
+
+In a recent study [37], the in vitro effect of GNbAC1 on
+OPCs was tested. It was shown that GNbAC1 signiﬁcantly
+diminished the induction of nitrosative stress due to
+
+MSRV-Env in OPCs and allowed rescue of the expression
+of myelin proteins by differentiated OPCs, which are
+reduced by MSRV-Env. This additional effect on glial cell
+pathology therefore indicates that GNbAC1 can provide a
+protective effect on OPCs, and this suggests the potential to
+prevent the defect in remyelination associated with MS
+lesions [38]. In this experiment, GNbAC1 also decreased
+pro-inﬂammatory cytokines—notably TNFa, which is
+known to induce myelin and oligodendroglial damage [39].
+These ﬁndings indicate that GNbAC1 can display a double
+therapeutic effect, protecting OPC differentiation capacity
+and inhibiting the pro-inﬂammatory signaling cascades
+induced by MSRV-Env in the CNS.
+
+4.3 In Vivo Evidence
+
+Assessment of the therapeutic efﬁcacy of the different
+forms of GNbAC1 was assessed in an MSRV-Env exper-
+imental allergic encephalitis (EAE) mouse model [16]. The
+results of the inhibition of MSRV-Env effects in the EAE
+model were described by Curtin et al. [36]. It was shown
+that a reversal of clinical score kinetics toward healing was
+observed in all animal groups treated with GNbAC1 or
+other chimeric human isotypes binding to the same epitope.
+In those experiments, some untreated animals died or had
+to be euthanized because of complete paralysis after
+4 weeks, while all of the GNbAC1-treated mice survived.
+In another experiment in an EAE model in severe com-
+bined immunodeﬁciency (SCID) mice, after several weeks
+post-treatment with a chimeric human antibody similar to
+GNbAC1, it was possible to observe remyelination tracts in
+CNS lesions, such as those shown in Fig. 3 [40].
+
+These results support the concept that GNbAC1 could
+the
+
+be an efﬁcacious treatment
+
+for MS.
+
+In addition,
+
+Fig. 3 Signs of remyelination in experimental allergic encephalitis
+mouse brain lesions after treatment with chimeric human antibodies
+similar to GNbAC1, observed with 20,30-cyclic-nucleotide 30-phos-
+phodiesterase (CNPase) labeling with a speciﬁc monoclonal antibody
+[40]
+
+260
+
+F. Curtin et al.
+
+observation of remyelination in mice conﬁrms the data
+obtained in vitro with OPCs. These results suggest that
+GNbAC1 could be of particular interest for treatment and
+prevention of demyelination and axonal death, as are par-
+ticularly observed in progressive forms of MS.
+
+4.4 Early Clinical Testing
+
+A phase I, ﬁrst-in-man clinical study, performed in a
+double-blind, placebo-controlled, dose-escalating titration
+design, enrolled 33 healthy subjects who did not express
+the MSRV-Env target. In dose cohort 0 at a dose of
+0.0025 mg/kg,
+three subjects received an intravenous
+GNbAC1 infusion and one subject received a placebo. In
+dose cohort 1 at a dose of 0.025 mg/kg, four subjects
+received an intravenous GNbAC1 infusion and one subject
+received a placebo. For the following four dose cohorts
+(receiving respective doses of 0.15, 0.6, 2, or 6 mg/kg),
+four subjects received GNbAC1 intravenously and two
+subjects received a placebo in a sequential manner. All 33
+healthy subjects received the scheduled injections. In that
+study, the safety proﬁle of GNbAC1 appeared favorable
+without infusion reactions or serious adverse events. There
+was no evidence of induction of anti-drug antibodies. The
+single-administration pharmacokinetics were in line with
+those expected for normal IgG, with apparent dose-linear
+pharmacokinetics
+of
+19–26 days [41].
+
+elimination
+
+half-life
+
+and
+
+an
+
+A phase IIa study was performed as a single-blind,
+placebo-controlled, dose-escalating randomized study in
+ten MS patients: one had RRMS, three had PPMS, and six
+had SPMS. In each of two dose cohorts (2 and 6 mg/kg),
+four patients received GNbAC1 and one patient received a
+placebo (randomization ratio 4:1) in a sequential manner.
+Then, the patients entered a repeated-dose extension study,
+where all ten patients received GNbAC1 in an open-label
+setting for 11 additional intravenous infusions on a 4-week
+administration schedule. Eight of them remained in the
+study until the study end. In that study, the safety proﬁle of
+GNbAC1 was also favorable, and no particular trends
+toward speciﬁc types of adverse events were observed; in
+particular, no hypersensitivity or infusion reactions were
+observed. The two dropouts were not related to safety
+events [42, 43]. A pharmacodynamic response with a sta-
+tistically signiﬁcant decline in MSRV-Env biomarkers was
+observed (see below) [42]. Repeated-dosing pharmacoki-
+netics conﬁrmed the initial observation of the phase I
+study, with dose-linear pharmacokinetics and an accumu-
+lation factor of about 3 [43]. No anti-drug antibodies were
+detected during the whole duration of the study. An
+experiment
+involving immunomonitoring of monocytes
+and T cells in the ten enrolled patients and matched healthy
+control subjects showed that administration of GNbAC1
+
+did not lead to a decrease in the T-cell response to viral
+antigens and did not impact TLR4 activation by LPS,
+supporting the expected mechanism of action of GNbAC1
+[44]. Blood levels of IL-6, TNF-a, and IFN-c were moni-
+tored during the treatment, and no consistent changes were
+observed during the treatment.
+
+Interestingly, from a clinical and brain-imaging per-
+spective, the MS patients remained stable over 1 year of
+treatment [42, 43]. The open-label setting and the small
+sample size somewhat limited the conclusions that could be
+drawn; however, these results suggested that there was a
+pharmacodynamic response to GNbAC1 in line with the
+expected mechanism of action of the mAb.
+
+5 Biomarkers
+
+5.1 MSRV Biomarker Prevalence
+
+Different studies in MS patients and control populations
+have shown that MSRV expression, assessed by RNA
+polymerase chain reaction (PCR) in blood as well as in
+cerebrospinal ﬂuid (CSF), is more prevalent in MS patients
+than in control populations.
+
+In a preliminary study [45] analyzing sera from MS
+patients and control subjects, MSRV RNA was detected in
+nine of 17 patients with MS; a negative association
+between MS therapy and RNA expression was observed. A
+positive RNA detection was noted in three of 36 apparently
+healthy control subjects and in none of eight patients with
+non-neurological disorders.
+
+In a European multicenter study reported by Arru et al.
+[46], the presence of MSRV, identiﬁed by the pol gene,
+using RNA PCR quantiﬁcation, was more frequent and the
+viral load was greater, with a prevalence of 71 % in plasma
+from 147 MS patients, compared with 17 % in plasma from
+98 healthy control subjects (17 %) and 40 % in plasma
+from 57 patients with other inﬂammatory and non-inﬂam-
+matory neurological diseases, some of whom suffered from
+chronic inﬂammatory demyelinating polyradiculoneuropa-
+thy (CIDP) which also appears to be associated with
+expression of MSRV [34]. In another study [47], blood and
+CSF from 113 Sardinian patients with MS and neurological
+control subjects were analyzed by PCR. MSRV positivity
+was detected in the CSF of 50 % of the MS patients at
+clinical onset—increasing to about 90 % in those with
+RRMS and 100 % in those with SPMS with temporal
+disease progression—and in 40 % of patients with other
+neurological diseases (MSRV was positive in 50 % of
+patients with CNS inﬂammatory disease and in 33.3 % of
+patients with non-CNS inﬂammatory disease). In blood,
+MSRV was detected in 100 % of MS patients, 63 % of
+patients with inﬂammatory neurological diseases (four of
+
+Treatment Against Human Endogenous Retrovirus
+
+261
+
+diseases
+
+chronic
+
+(n = 28),
+
+ﬁve patients with inﬂammatory CNS diseases, three of four
+patients with inﬂammatory peripheral neuropathy, and
+neither of two patients with myasthenia gravis), and 13 %
+of healthy blood donors. In a study by Perron et al. [34],
+199 healthy control subjects and control subjects with other
+neurological
+infections
+(n = 30), or autoimmunity (n = 30) were analyzed with an
+immunoassay detecting MSRV-Env protein in serum.
+MSRV-Env RNA or DNA copy numbers in PBMCs were
+also determined by quantitative PCR. RNA expression in
+PBMCs and DNA copy numbers were signiﬁcantly ele-
+vated in patients with MS versus healthy control subjects
+(p \ 0.001). In patients with MS, DNA copy numbers were
+greater in those with chronic progressive MS than in
+RRMS patients. This observation was reproduced inde-
+pendently by two other studies [48, 49].
+
+All of these results show that MSRV-related biomark-
+ers—in particular those related to MSRV-Env (RNA,
+DNA, or proteins)—are more prevalent in patients with MS
+than in healthy control subjects. The sensitivity and
+speciﬁcity of these biomarkers are high; however, as the
+measurement techniques used in the different studies were
+not standardized (i.e., as the analytical validity has not been
+established), no attempts were made to establish the
+deﬁnitive clinical validity (i.e., establishing a receiver
+operating characteristic [ROC] curve based on the sensi-
+tivity and speciﬁcity of the test as a function of deﬁned cut-
+off points).
+
+5.2 MSRV Elements as a Prognostic Factor
+
+Interestingly, expression of MSRV biomarkers could have
+prognostic value for the evolution of MS. The original
+ﬁndings come from a longitudinal cohort study performed
+in Sardinia, Italy. Following a preliminary study, which
+showed that the presence of MSRV-Pol RNA in the CSF of
+early MS patients was indicative of a poor 3-year follow-up
+prognosis [50], a long-term longitudinal observational
+study was launched: at study entry, 18 of 23 patients could
+be categorized according to MSRV-Pol status in their CSF,
+assessed with nested PCR: ten were MSRV positive and
+eight were MSRV negative; both groups were of a similar
+mean age and had similar EDSS scores (1.9–2.1) at study
+entry. A 6-year follow-up study showed that the mean
+EDSS scores differed between the MSRV-positive and
+MSRV-negative cohorts (4.3 versus 2.2; p = 0.004) in a
+statistically signiﬁcant way, and that the annual relapse rate
+was higher in MSRV-Pol-positive patients (0.5 versus 0.3
+in MSRV-Pol-negative patients; p = 0.01) [51]. The same
+cohort was followed up for 10 years [52], and the results
+showed that MSRV-Pol-positive patients had a statistically
+signiﬁcantly higher average EDSS score (6.2) than MSRV-
+Pol negative patients (3.3). When the patients were
+
+dichotomized on the basis of an EDSS score higher than 5,
+88 % of MSRV-Pol-positive patients had an EDSS score
+higher than 5, while only 12 % of MSRV-Pol-negative
+patients did (Fisher’s exact test p \ 0.0004). In addition,
+six of 14 MSRV-Pol-positive patients (42 %) had con-
+verted to SPMS, whereas no MSRV-Pol negative patients
+had converted (Fisher exact test p \ 0.01). These data
+suggest that the MSRV-Pol biomarker in the CSF may
+indicate a more severe course of MS disease and a higher
+risk of conversion to SPMS. This was a small study, which
+certainly deserves conﬁrmation with larger cohorts, with
+adjustment for concomitant MS treatments—in particular
+to conﬁrm the positive predictive value (PPV) and negative
+predictive value (NPV) of the biomarker detection for
+conversion to SPMS and especially within which time-
+frame. If clinical validity for prognosis were to be con-
+ﬁrmed, this biomarker could be of real importance for the
+therapeutic approach used for patients at the onset of the
+disease.
+
+Interestingly, in the patient cohort of the phase IIa study
+of GNbAC1 [42, 43], the level of MSRV-Env RNA pre-
+sented a trend toward an inverse correlation (Pearson’s
+r value -0.55, p = 0.12) with the duration of the MS
+disease before the start of the trial (unpublished GeNeuro
+data on ﬁle) in nine patients. This observation also requires
+conﬁrmation but can be put in parallel with ﬁndings from a
+large transverse study in Spain, including 178 MS patients
+and 124 control subjects, where it was observed that the
+MSRV-Env DNA load was signiﬁcantly associated with a
+higher EDSS score and a higher Multiple Sclerosis Severity
+Score (MSSS) in women [49]—the latter score also taking
+into consideration the speed of the evolution [53].
+
+5.3 MSRV as a Predictor of Response
+
+In the MS study in 10 patients, MSRV-Env and MSRV-Pol
+transcripts obtained from PBMCs were analyzed at base-
+line and at regular intervals: the distributions of MSRV
+transcript levels at inclusion were homogeneous in both
+cohorts. Figure 4, adapted from Derfuss et al. [42], presents
+measurements of MSRV-Env and MSRV-Pol messenger
+RNA (mRNA) transcripts relative to GUS-B gene expres-
+sion before the ﬁrst, third, and sixth GNbAC1 adminis-
+trations. Decreases
+and MSRV-Pol
+transcript levels at 3 months and at 6 months of treatment
+were observed. These ﬁndings were not expected, as
+GNbAC1 neutralizes the MSRV-Env protein only when
+binding to its target peptidic epitope and does not target
+RNA, nor is it known to interfere with a molecule acti-
+vating proviruses from the related HERV-W family. At
+6 months,
+the differences were statistically signiﬁcant
+(repeated-measures analysis of variance [ANOVA] on
+MSRV-Env: p = 0.029; on MSRV-Pol: p = 0.044) [42].
+
+in MSRV-Env
+
+262
+
+Fig. 4 Multiple sclerosis–
+associated retrovirus (MSRV)
+envelope protein (Env) and
+polymerase (Pol) transcript
+expression proportional to a
+reference glucuronidase, beta
+(GUS B) gene transcript, before
+the ﬁrst, third, and sixth
+administrations of GNbAC1.
+Adapted from Derfuss et al. [42]
+
+MSRV-Env
+
+MSRV-Pol
+
+F. Curtin et al.
+
+e
+v
+i
+t
+
+l
+
+a
+e
+r
+ 
+v
+n
+E
+V
+R
+S
+M
+
+-
+
+/
+
+ 
+
+B
+S
+U
+G
+n
+o
+s
+s
+e
+r
+p
+x
+e
+
+i
+
+0.10
+
+0.05
+
+0.00
+
+*
+
+6
+
+1
+
+3
+
+administration N°
+
+e
+v
+i
+t
+
+/
+
+ 
+
+B
+S
+U
+G
+n
+o
+s
+s
+e
+r
+p
+x
+e
+
+i
+
+l
+
+a
+e
+r
+ 
+l
+
+-
+
+o
+P
+V
+R
+S
+M
+
+0.015
+
+0.010
+
+0.005
+
+0.000
+
+*
+
+6
+
+1
+
+3
+
+administration N°
+
+This pharmacodynamic response shows an effect not only
+on the target itself but also on the endogenous retroviral
+transcriptional activity associated with MSRV-Env protein
+expression. This suggests that neutralization of the MSRV-
+Env protein would also downregulate expression of the
+corresponding endogenous
+retroviral genome(s). This
+observation is of particular interest, as two reference MS
+treatments induce similar responses at the level of MSRV-
+Env transcripts. In an Italian longitudinal study, which
+included 11 RRMS patients, IFN-b induced a decrease in
+MSRV-Env RNA measured by reverse transcriptase (RT)-
+PCR, which was observed at 3 months and persisted at
+follow-up at 12 months. Incidentally, one patient, who was
+non-responder to IFN-b and had progression of his disease,
+presented with an increase in MSRV-Env levels after an
+initial decrease [54]. In another study in 22 RRMS patients,
+it was shown that natalizumab induced a decrease in MSRV-
+Env mRNA, measured by RT-PCR, observed later after
+6 months of
+treatment. This effect was maintained at
+12 months of treatment in all patients who were all clinically
+stable over this period [55]. The pharmacodynamic response
+observed with GNbAC1, paralleling the response observed
+with the MS treatments natalizumab and IFN-b, was sug-
+gestive of the potential therapeutic effect of GNbAC1. In
+addition, it suggested that MSRV-Env RNA measurement is
+an interesting tool for monitoring the response to treatment,
+which could be used for adjustment of MS treatment in
+terms of the dose, schedule or duration—typical speciﬁcities
+of a companion diagnostic [56, 57].
+
+Apart from one patient in a study performed by Mameli
+et al. [54], where an increase in the MSRV biomarker was
+associated with treatment failure, it is unclear whether the
+level of the biomarker response correlates with endpoints
+of efﬁcacy, as the above-mentioned studies were not
+powered or designed to allow a comparison between the
+magnitude of the biomarker response and the clinical
+response. Exploration of these markers in a future phase II
+efﬁcacy trial of GNbAC1 should allow assessment of
+whether these MSRV markers could be predictors of
+therapeutic responses to treatment and whether they would
+correlate with clinical endpoints.
+
+5.4 Further Clinical Development
+
+Following the results of the phase I and phase IIa studies
+showing good safety proﬁles and initial pharmacodynamic
+responses, there is a need to further assess GNbAC1 efﬁ-
+cacy in a phase IIb study. There are current plans to launch
+a double-blind, placebo-controlled study in patients with
+RRMS and to base the efﬁcacy evaluation of the drug on
+magnetic resonance imaging (MRI) of the brain, as this is
+currently considered an acceptable endpoint for explora-
+tory studies in regulatory guidelines on MS drug devel-
+opment [58]. The study should be launched soon. The
+assessment of MSRV-related biomarkers in a parallel
+development with GNbAC1 is envisaged from a person-
+alized medicine perspective. According to the results
+already cited [42, 54, 55], MSRV biomarkers could allow
+monitoring of a pharmacodynamic response to MS treat-
+ments, although the clinical correlation of this observation
+remains unknown. It
+is unclear whether the status of
+MSRV biomarkers at baseline will be predictive of a given
+response to GNbAC1 and, in particular, its magnitude. As
+described in the US Food and Drug Administration (FDA)
+guideline [57], one of the purposes of a companion diag-
+nostic is to identify patients who are most likely to have the
+best beneﬁt-to-risk proﬁle with a therapeutic product. This
+is one of the questions that the future clinical development
+of GNbAC1 will address.
+
+6 Discussion
+
+The mAb GNbAC1 is the ﬁrst therapeutic product devel-
+oped as an antagonist of a protein of endogenous retroviral
+origin from the HERV-W family, called MSRV-Env. In the
+ﬁeld of MS, this is one of the rare therapeutic develop-
+ments whose aim is to neutralize a target considered as
+being directly involved in the pathophysiological cascade
+of MS. This differs from the vast majority of registered
+drugs or those in development, which are trying to control
+the disease by a modulatory or suppressing action on the
+immune system [7, 59]. The MSRV-Env target
+is
+
+Treatment Against Human Endogenous Retrovirus
+
+263
+
+particularly interesting, as it appears to be closely associ-
+ated with the evolution of the active pathological process
+and has been found so far in all active regions of MS brain
+plaques from different forms of MS. The target—expressed
+on monocytes, B lymphocytes, and microglial cells—has a
+pathophysiological effect associated with inﬂammation, as
+well as neurodegeneration. The latter point is particularly
+relevant for the chronic progressive forms of MS, where
+neurodegeneration predominates, and where drugs pro-
+moting or ‘‘unblocking’’ remyelination are particularly
+needed [8], yet only a few are in early clinical develop-
+ment. The results collected in various in vitro and in vivo
+relevant models have shown that GNbAC1, by acting in the
+periphery as well as within the CNS, may promote
+remyelination in MS lesions while also acting on inﬂam-
+mation—the two pathogenic pillars of MS. The high target
+speciﬁcity expected with a mAb is also valuable in terms of
+safety, as the MSRV-Env target is not known to play any
+role in normal human physiology [60]. Initial clinical
+studies have shown a favorable safety proﬁle for GNbAC1,
+which has no negative impact on immunological function.
+This is a clear advantage over current immunomodulators
+used in MS, as long-term immunosuppression is a preoc-
+cupying safety issue with these treatments [61]. Of course,
+the safety proﬁle of GNbAC1 has to be reassessed and
+conﬁrmed during further clinical development.
+
+GNbAC1 is currently in early clinical development and
+will soon enter a phase IIb study, in which the therapeutic
+approach will be accompanied by a panel of RNA and/or
+protein biomarkers directly related to the therapeutic target
+protein and to the disease. The importance of biomarkers to
+aid in the therapeutic choice and in optimal monitoring of
+MS treatments has been highlighted recently in this journal
+[62]—in particular because of heterogeneity in the clinical
+and pathological phenotypes of the disease, highlighting the
+need for panels of various biomarkers. MSRV-related
+biomarkers appear to have some prognostic properties, at
+least when they are measured in CSF; they are also markers
+of the pharmacodynamic response for the ones measured in
+PBMCs; however, these preliminary ﬁndings need to be
+conﬁrmed in larger studies. Now, it should be investigated
+whether these biomarkers could play a predictive role in the
+therapeutic response to GNbAC1, and their potential role in
+treatment monitoring should be evidenced to support a role
+of companion diagnostics. If this role were to be conﬁrmed,
+a personalized medicine approach could be envisaged for
+GNbAC1 treatment. This would be all the more interesting
+for MS as a chronic disorder, where patients must be treated
+over the long term with minimal safety risks and optimal
+long-term treatment compliance (see Gotovac et al. [63]).
+
+There is accumulating evidence showing that endoge-
+nous retroviruses of different families have a close asso-
+ciation with the etiopathogeny of several disorders: beyond
+
+MS, HERV-Env appears to also be associated with other
+disorders, as data have now been obtained on an associa-
+tion of HERV-W with schizophrenia [64], as well as with
+CIDP [65], autoimmune disorders such as systemic lupus
+erythematosus (associated with HTLV-1 related endoge-
+nous sequence [HRES-1]) [66], rheumatoid arthritis (as-
+sociated with HERV-K) [67, 68], amyotrophic lateral
+sclerosis (associated with HERV-K [69]), and Sjo¨gren
+syndrome [70]. The GNbAC1 therapeutic development
+program is the ﬁrst therapeutic development program—
+and, so far, the only therapeutic development program—
+the
+speciﬁcally targeting a HERV-related target.
+assumptions presented above are conﬁrmed,
+this thera-
+peutic approach could be a complete change of paradigm
+not only for MS but for several ﬁelds of medicine.
+
+If
+
+Compliance with Ethical Standards
+
+Conﬂict of interest disclosure All authors (F. Curtin, H. Perron, R.
+Faucard, H. Porchet, and A. Lang) are employees and/or shareholders
+of GeNeuro SA, Switzerland, and received funding from GeNeuro SA
+for their work as employees.
+
+References
+
+1. McFarland HF, Martin R. Multiple sclerosis: a complicated pic-
+
+ture of autoimmunity. Nat Immunol. 2007;8:913–9.
+
+2. Sadiq SA. Multiple sclerosis. In: Rowland LP, editor. Merrit’s
+neurology. Philadelphia: Lippincott, William & Wilkins; 2005.
+p. 941–59.
+
+3. Confavreux C, Vukusic S, Adeleine P. Early clinical predictors
+and progression of irreversible disability in multiple sclerosis: an
+amnesic process. Brain. 2003;126:770–82.
+
+4. Pugliatti M, Rosati G, Carton H, Riise T, Drulovic J, Ve´csei L,
+Milanov I. The epidemiology of multiple sclerosis in Europe. Eur
+J Neurol. 2006;13:700–22.
+
+5. Lassmann H, Bru¨ck W, Lucchinetti CF. The immunopathology of
+
+multiple sclerosis: an overview. Brain Pathol. 2007;17:210–8.
+
+6. Spain RI, Cameron MH, Bourdette D. Recent developments in
+
+multiple sclerosis therapeutics. BMC Med. 2009;7:74.
+
+7. Curtin F, Hartung HP. Novel therapeutic options for multiple
+
+sclerosis. Expert Rev Clin Pharmacol. 2014;7:91–104.
+
+8. Kremer D, Ku¨ry P, Dutta R. Promoting remyelination in multiple
+sclerosis: current drugs and future prospects. Mult Scler.
+2015;21:541–9.
+
+9. Voisset C, Blancher A, Perron H, Mandrand B, Mallet F,
+Paranhos-Baccala G. Phylogeny of a novel family of human
+endogenous retrovirus sequences, HERV-W, in humans and other
+primates. AIDS Res Hum Retroviruses. 1999;15:1529–33.
+
+10. Belshaw R, Pereira V, Katzourakis A, Talbot G, Paces J, Burt A,
+Tristem M. Long-term reinfection of the human genome by endoge-
+nous retroviruses. Proc Natl Acad Sci USA. 2004;101:4894–9.
+
+11. Weiss RA. The discovery of endogenous retroviruses. Retrovi-
+
+rology. 2006;3:67.
+
+12. Volkman HE, Stetson DB. The enemy within: endogenous
+Immunol.
+
+disease. Nat
+
+retroelements
+2014;15:415–22.
+
+and
+
+autoimmune
+
+13. Feschotte C, Gilbert C. Endogenous viruses: insights into viral
+evolution and impact on host biology. Nat Rev Genet.
+2012;13:283–96.
+
+264
+
+F. Curtin et al.
+
+14. Perron H, Jouvin-Marche E, Michel M, Ounanian-Paraz A,
+Camelo S, Dumon A, Jolivet-Reynaud C, Marcel F, Souillet Y,
+Borel E, Gebuhrer L, Santoro L, Marcel S, Seigneurin JM,
+Marche PN, Lafon M. Multiple sclerosis retrovirus particles and
+recombinant envelope trigger an abnormal
+immune response
+in vitro, by inducing polyclonal Vbeta16 T-lymphocyte activa-
+tion. Virology. 2001;287:321–32.
+
+15. Rolland A, Jouvin-Marche E, Saresella M, Ferrante P, Cavaretta
+R, Cre´ange A, Marche P, Perron H. Correlation between disease
+severity and in vitro cytokine production mediated by MSRV
+(multiple sclerosis associated retroviral element) envelope protein
+in
+J Neuroimmunol.
+2005;160:195–203.
+
+patients with multiple
+
+sclerosis.
+
+16. Perron H, Dougier-Reynaud HL, Lomparski C, Popa I, Firouzi R,
+Bertrand JB, Marusic S, Portoukalian J, Jouvin-Marche E, Vil-
+liers CL, Touraine JL, Marche PN. Human endogenous retrovirus
+protein activates innate immunity and promotes experimental
+allergic encephalomyelitis in mice. PLoS One. 2013;8:e80128.
+
+17. Rolland A, Jouvin-Marche E, Viret C, Faure M, Perron H,
+Marche PN. The envelope protein of a human endogenous
+retrovirus-W family activates innate immunity through CD14/
+Immunol.
+TLR4
+2006;176:7636–44.
+
+promotes Th1-like
+
+responses.
+
+and
+
+J
+
+18. Saresella M, Rolland A, Marventano I, Cavarretta R, Caputo D,
+Marche P, Perron H, Clerici M. Multiple sclerosis–associated
+retroviral agent
+(MSRV)-stimulated cytokine production in
+patients with relapsing–remitting multiple sclerosis. Mult Scler.
+2009;15:443–7.
+
+19. Firouzi R, Rolland A, Michel M, Jouvin-Marche E, Hauw JJ,
+Malcus-Vocanson C, Lazarini F, Gebuhrer L, Seigneurin JM,
+Touraine JL, Sanhadji K, Marche PN, Perron H. Multiple scle-
+rosis–associated retrovirus particles cause T lymphocyte-depen-
+dent death with brain hemorrhage in humanized SCID mice
+model. J Neurovirol. 2003;9:79–93.
+
+20. Zhang J, Vandevyver C, Stinissen P, Mertens N, van den Berg-
+Loonen E, Raus J. Activation and clonal expansion of human
+myelin basic protein-reactive T cells by bacterial superantigens.
+J Autoimmun. 1995;8:615–32.
+
+21. Arad G, Levy R, Hillman D, Kaempfer R. Superantigen antag-
+onist protects against lethal shock and deﬁnes a new domain for
+T-cell activation. Nat Med. 2000;6:414–21.
+
+22. Wucherpfennig KW. Mechanisms for the induction of autoim-
+munity by infectious agents. J Clin Invest. 2001;108:1097–104.
+23. Sfriso P, Ghirardello A, Botsios C, Tonon M, Zen M, Bassi N,
+Bassetto F, Doria A. Infections and autoimmunity: the multi-
+faceted relationship. J Leukoc Biol. 2010;87:385–95.
+
+24. Delogu LG, Deidda S, Delitala G, Manetti R. Infectious diseases
+
+and autoimmunity. J Infect Dev Ctries. 2011;5:679–87.
+
+25. Kremer D, Schichel T, Fo¨rster M, Tzekova N, Bernard C, van der
+Valk P, van Horssen J, Hartung HP, Perron H, Ku¨ry P. Human
+endogenous retrovirus type W envelope protein inhibits oligo-
+dendroglial
+differentiation. Ann Neurol.
+2013;74:721–32.
+
+precursor
+
+cell
+
+26. Reynolds R, Dawson M, Papadopoulos D, Polito A, Di Bello IC,
+Pham-Dinh D, Levine J. The response of NG2-expressing
+oligodendrocyte progenitors to demyelination in MOG-EAE and
+MS. J Neurocytol. 2002;31:523–36.
+
+27. Polito A, Reynolds R. NG2-expressing cells as oligodendrocyte
+progenitors in the normal and demyelinated adult central nervous
+system. J Anat. 2005;207:707–16.
+
+28. Baumann N, Pham-Dinh D. Biology of oligodendrocyte and
+myelin in the mammalian central nervous system. Physiol Rev.
+2001;81:871–927.
+
+29. Bru¨ck W, Kuhlmann T, Stadelmann C. Remyelination in multiple
+
+sclerosis. J Neurol Sci. 2003;206:181–5.
+
+30. Aharoni R, Herschkovitz A, Eilam R, Blumberg-Hazan M, Sela
+M, Bruck W, Arnon R. Demyelination arrest and remyelination
+induced by glatiramer
+experimental
+autoimmune encephalomyelitis. Proc Natl Acad Sci USA.
+2008;105:11358–63.
+
+treatment of
+
+acetate
+
+31. Keough MB, Yong VW. Remyelination therapy for multiple
+
+sclerosis. Neurotherapeutics. 2013;10:44–54.
+
+32. Antony JM, van Marle G, Opii W, Butterﬁeld DA, Mallet F,
+Yong VW, Wallace JL, Deacon RM, Warren K, Power C. Human
+endogenous retrovirus glycoprotein-mediated induction of redox
+reactants causes oligodendrocyte death and demyelination. Nat
+Neurosci. 2004;7:1088–95.
+
+33. Perron H, Lazarini F, Ruprecht K, Pe´choux-Longin C, Seilhean
+D, Sazdovitch V, Cre´ange A, Battail-Poirot N, Sibaı¨ G, Santoro
+L, Jolivet M, Darlix JL, Rieckmann P, Arzberger T, Hauw JJ,
+Lassmann H. Human endogenous retrovirus (HERV)-W ENV
+and GAG proteins: physiological expression in human brain and
+pathophysiological modulation in multiple sclerosis lesions.
+J Neurovirol. 2005;11:23–33.
+
+34. Perron H, Germi R, Bernard C, Garcia-Montojo M, Deluen C,
+Farinelli L, Faucard R, Veas F, Stefas I, Fabriek BO, Van-
+Horssen J, Van-der-Valk P, Gerdil C, Mancuso R, Saresella M,
+Clerici M, Marcel S, Creange A, Cavaretta R, Caputo D, Arru G,
+Morand P, Lang AB, Sotgiu S, Ruprecht K, Rieckmann P, Vil-
+loslada P, Chofﬂon M, Boucraut J, Pelletier J, Hartung HP.
+Human endogenous retrovirus type W envelope expression in
+blood and brain cells provides new insights into multiple sclerosis
+disease. Mult Scler. 2012;18:1721–36.
+
+35. Perron H, Van Horssen J. HERV-W Env protein is strongly
+upregulated in inﬂammatory multiple sclerosis lesions [poster no.
+P355]. ECTRIMS Congress; Copenhagen; 2013.
+
+36. Curtin F, Perron H, Kromminga A, Porchet H, Lang AB. Pre-
+clinical and early clinical development of GNbAC1, a humanized
+IgG4 monoclonal antibody targeting endogenous
+retroviral
+MSRV-Env protein. MAbs. 2015;7:265–75.
+
+37. Kremer D, Fo¨rster M, Schichel T, Go¨ttle P, Hartung HP, Perron
+H, Ku¨ry P. The neutralizing antibody GNbAC1 abrogates HERV-
+W envelope protein-mediated
+oligodendroglial maturation
+blockade. Mult Scler. 2015;21:1200–3.
+
+38. Piaton G, Williams A, Seilhean D, Lubetzki C. Remyelination in
+
+multiple sclerosis. Prog Brain Res. 2009;175:453–64.
+
+39. Bonora M, De Marchi E, Patergnani S, Suski JM, Celsi F, Bononi
+A, Giorgi C, Marchi S, Rimessi A, Duszyn´ski J, Pozzan T,
+Wieckowski MR, Pinton P. Tumor necrosis factor-a impairs
+oligodendroglial differentiation through a mitochondria-depen-
+dent process. Cell Death Differ. 2014;21:1198–208.
+
+40. Perron H, Bertrand JB, Faucard R, Bernard C, Von Horssen J,
+Firouzi R, Potoukalian J, Germi R, Garcia-Montojo M, Morand P,
+Marche P, Sanhadji K, Tourraine JL, Lang A, Curtin F. Novel
+humanized antibody therapy in multiple sclerosis targeting
+immunopathogenic protein from endogenous retroviral element
+while preserving hosts’
+immune system [poster no. P470].
+ECTRIMS Congress; Lyon; 2012.
+
+41. Curtin F, Lang AB, Perron H, Laumonier M, Vidal V, Porchet
+HC, Hartung HP. GNbAC1, a humanized monoclonal antibody
+against
+the envelope protein of multiple sclerosis–associated
+endogenous retrovirus: a ﬁrst-in-humans randomized clinical
+study. Clin Ther. 2012;34:2268–78.
+
+42. Derfuss T, Curtin F, Guebelin C, Bridel C, Rasenack M, Matthey
+A, Pasquier RD, Schluep M, Desmeules J, Lang AB, Perron H,
+Faucard R, Porchet H, Hartung HP, Kappos L, Lalive PH. A
+phase IIa randomised clinical study of GNbAC1, a humanised
+monoclonal antibody against the envelope protein of multiple
+sclerosis–associated endogenous retrovirus in multiple sclerosis
+patients. Mult Scler. 2015;21:885–93.
+
+Treatment Against Human Endogenous Retrovirus
+
+265
+
+43. Derfuss T, Curtin F, Guebelin C, Bridel C, Rasenack M, Matthey A,
+Pasquier RD, Schluep M, Desmeules J, Lang AB, Perron H, Fau-
+card R, Porchet H, Hartung HP, Kappos L, Lalive PH. A phase IIa
+randomised clinical study of GNbAC1, a humanised monoclonal
+antibody against the envelope protein of multiple sclerosis–asso-
+ciated endogenous retrovirus in multiple sclerosis patients—a
+12-month extension. J Neuroimmunol. 2015;285:68–70.
+
+44. Zimmermann M, Sanderson N, Rasenack M, Lalive P, Curtin F,
+Lang A, Kappos L, Derfuss T. Immunomonitoring of a phase II
+study testing the monoclonal antibody GNbAC1 in multiple
+sclerosis patients [poster no. P1011]. ECTRIMS Congress;
+Copenhagen; 2013.
+
+45. Garson JA, Tuke PW, Giraud P, Paranhos-Baccala G, Perron H.
+Detection of virion-associated MSRV-RNA in serum of patients
+with multiple sclerosis. Lancet. 1998;351:33.
+
+46. Arru G, Mameli G, Astone V, Serra C, Huang YM, Link H,
+Fainardi E, Castellazzi M, Granieri E, Fernandez M, Villoslada P,
+Fois ML, Sanna A, Rosati G, Dolei A, Sotgiu S. Multiple scle-
+rosis and HERV-W/MSRV: a multicentric study. Int J Biomed
+Sci. 2007;3:292–7.
+
+47. Dolei A, Serra C, Mameli G, Pugliatti M, Sechi G, Cirotto MC,
+Rosati G, Sotgiu S. Multiple sclerosis–associated retrovirus
+(MSRV) in Sardinian MS patients. Neurology. 2002;58:471–3.
+
+48. Mameli G, Poddighe L, Astone V, Delogu G, Arru G, Sotgiu S,
+Serra C, Dolei A. Novel reliable real-time PCR for differential
+detection of MSRVenv and syncytin-1 in RNA and DNA from
+patients with multiple sclerosis. J Virol Methods. 2009;161:98–106.
+49. Garcia-Montojo M, Dominguez-Mozo M, Arias-Leal A, Garcia-
+Martinez A´ , De las Heras V, Casanova I, Faucard R, Gehin N,
+Madeira A, Arroyo R, Curtin F, Alvarez-Lafuente R, Perron H.
+The DNA copy number of human endogenous retrovirus-W
+(MSRV-type) is increased in multiple sclerosis patients and is
+inﬂuenced by gender
+severity. PLoS One.
+2013;8(1):e53623.
+
+and disease
+
+50. Sotgiu S, Serra C, Mameli G, Pugliatti M, Rosati G, Arru G,
+Dolei A. Multiple sclerosis–associated retrovirus and MS prog-
+nosis: an observational study. Neurology. 2002;59:1071–3.
+
+51. Sotgiu S, Arru G, Mameli G, Serra C, Pugliatti M, Rosati G,
+Dolei A. Multiple sclerosis–associated retrovirus in early multi-
+ple sclerosis: a six-year follow-up of a Sardinian cohort. Mult
+Scler. 2006;12:698–703.
+
+52. Sotgiu S, Mameli G, Serra C, Zarbo IR, Arru G, Dolei A. Mul-
+tiple sclerosis–associated retrovirus and progressive disability of
+multiple sclerosis. Mult Scler. 2010;16:1248–51.
+
+53. Roxburgh RH, Seaman SR, Masterman T, Hensiek AE, Sawcer SJ,
+Vukusic S, Achiti I, Confavreux C, Coustans M, le Page E, Edan
+G, McDonnell GV, Hawkins S, Trojano M, Liguori M, Cocco E,
+Marrosu MG, Tesser F, Leone MA, Weber A, Zipp F, Miterski B,
+Epplen JT, Oturai A, Sørensen PS, Celius EG, Lara NT, Montalban
+X, Villoslada P, Silva AM, Marta M, Leite I, Dubois B, Rubio J,
+Butzkueven H, Kilpatrick T, Mycko MP, Selmaj KW, Rio ME, Sa´
+M, Salemi G, Savettieri G, Hillert J, Compston DA. Multiple
+sclerosis severity score: using disability and disease duration to
+rate disease severity. Neurology. 2005;64:1144–51.
+
+54. Mameli G, Serra C, Astone V, Castellazzi M, Poddighe L, Fai-
+nardi E, Neri W, Granieri E, Dolei A. Inhibition of multiple-
+sclerosis-associated retrovirus as biomarker of interferon therapy.
+J Neurovirol. 2008;14:73–7.
+
+55. Arru G, Leoni S, Pugliatti M, Mei A, Serra C, Delogu LG,
+Manetti R, Dolei A, Sotgiu S, Mameli G. Natalizumab inhibits
+the expression of human endogenous retroviruses of the W family
+in multiple sclerosis patients: a longitudinal cohort study. Mult
+Scler. 2014;20:174–82.
+
+56. Committee for Medicinal Products for Human Use (CHMP).
+issues associated with
+
+Reﬂection paper on methodological
+
+pharmacogenomic biomarkers in relation to clinical development and
+patient selection. European Medicine Agency. 2011. http://www.ema.
+europa.eu/docs/en_GB/document_library/Scientiﬁc_guideline/2011/
+07/WC50010948672.pdf. Accessed 15 Jul 2015.
+
+57. US Food and Drug Administration. In vitro companion diagnostic
+devices: guidance for industry. US Food and Drug Administra-
+tion.
+http://www.fda.gov/downloads/medicaldevices/
+deviceregulationandguidance/guidancedocuments/ucm262327.
+pdf. Accessed 15 Jul 2015.
+
+2014.
+
+58. Committee for Medicinal Products for Human Use (CHMP).
+Guideline on clinical investigation of medicinal products for the
+treatment of multiple sclerosis. Euopean Medicines Agency. 2015.
+http://www.ema.europa.eu/docs/en_GB/document_library/Scientiﬁc_
+guideline/2015/03/WC500185161.pdf. Accessed 15 Jul 2015.
+
+59. Wingerchuk DM, Carter JL. Multiple sclerosis: current and
+emerging disease-modifying therapies and treatment strategies.
+Mayo Clin Proc. 2014;89:225–40.
+
+60. Perron H, Lang A. The human endogenous retrovirus link
+between genes and environment in multiple sclerosis and in
+multifactorial diseases associating neuroinﬂammation. Clin Rev
+Allergy Immunol. 2010;39:51–61.
+
+61. Rommer PS, Zettl UK, Kieseier B, Hartung HP, Menge T,
+Frohman E, Greenberg BM, Hemmer B, Stu¨ve O. Requirement
+for safety monitoring for approved multiple sclerosis therapies:
+an overview. Clin Exp Immunol. 2014;175:397–407.
+
+62. Harris VK, Sadiq SA. Biomarkers of therapeutic response in multiple
+
+sclerosis: current status. Mol Diagn Ther. 2014;18:605–17.
+
+63. Gotovac K, Hajnsˇek S, Pasˇic´ MB, Pivac N, Borovecˇki F. Per-
+sonalized medicine in neurodegenerative diseases: how far away?
+Mol Diagn Ther. 2014;18:17–24.
+
+64. Perron H, Hamdani N, Faucard R, Lajnef M, Jamain S, Daban-
+Huard C, Sarrazin S, LeGuen E, Houenou J, Delavest M, Moins-
+Teisserenc H, Bengoufa D, Yolken R, Madeira A, Garcia-Mon-
+tojo M, Gehin N, Burgelin I, Ollagnier G, Bernard C, Dumaine A,
+Henrion A, Gombert A, Le Dudal K, Charron D, Krishnamoorthy
+R, Tamouza R, Leboyer M. Molecular characteristics of human
+endogenous retrovirus type-W in schizophrenia and bipolar dis-
+order. Transl Psychiatry. 2012;2:e201.
+
+65. Faucard R, Madeira A, Panaite PA, Lesage C, Gehin N, Burgelin
+I, Curtin F, Lang AB, Steck A, Perron H, Kuntzer T, Cre´ange A.
+Multiple sclerosis associated retrovirus
+(MSRV) envelope
+expression in peripheral blood mononuclear cells is associated
+with CIDP [poster]. Saint-Malo: Peripheral Nerve Society
+Meeting; 2013.
+
+66. Perl A, Nagy G, Koncz A, Gergely P, Fernandez D, Doherty E,
+Telarico T, Bonilla E, Phillips PE. Molecular mimicry and
+immunomodulation by the HRES-1 endogenous retrovirus in
+SLE. Autoimmunity. 2008;41:287–97.
+
+67. Nelson PN, Roden D, Nevill A, Freimanis GL, Trela M, Ejtehadi
+HD, Bowman S, Axford J, Veitch AM, Tugnet N, Rylance PB.
+Rheumatoid arthritis is associated with IgG antibodies to human
+endogenous retrovirus gag matrix: a potential pathogenic mech-
+anism of disease? J Rheumatol. 2014;41:1952–60.
+
+68. Tugnet N, Rylance P, Roden D, Trela M, Nelson P. Human
+endogenous retroviruses (HERVs) and autoimmune rheumatic
+disease: is there a link? Open Rheumatol J. 2013;7:13–21.
+
+69. Douville R, Liu J, Rothstein J, Nath A. Identiﬁcation of active
+loci of a human endogenous retrovirus in neurons of patients with
+amyotrophic lateral sclerosis. Ann Neurol. 2011;69:141–51.
+
+70. Sander DM, Szabo S, Gallaher WR, Deas JE, Thompson JJ, Cao
+Y, Luo-Zhang H, Liu LG, Colmegna I, Koehler J, Espinoza LR,
+Alexander SS, Hart DJ, Tom DM, Fermin CD, Jaspan JJ, Kula-
+kosky PC, Tenenbaum SA, Wilson RB, Garry RF. Involvement
+of human intracisternal A-type retroviral particles in autoimmu-
+nity. Microsc Res Tech. 2005;68:222–34.
+
+

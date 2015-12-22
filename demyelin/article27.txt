@@ -1,0 +1,901 @@
+Vol 40, No 6, November 2015
+
+Original Article
+Progesterone Enhanced Remyelination in the 
+Mouse Corpus Callosum after Cuprizone 
+Induced Demyelination
+
+Iraj Ragerdi Kashani1, PhD; 
+Azim Hedayatpour1, PhD; 
+Parichehr Pasbakhsh1, PhD; 
+Laya Kafami2,3, PhD; 
+Behzad Khallaghi3, MSc; 
+Fatemeh Malek1, MSc
+
+1Department of Anatomical Sciences, 
+School of Medicine, Tehran University of 
+Medical Sciences, Tehran, Iran;
+2Department of Pathobiology, School of 
+Medicine, Alborz University of Medical 
+Sciences, Karaj, Iran;
+3Shefa Neurosciences Research Center, 
+Tehran, Iran
+
+Correspondence: 
+Iraj Ragerdi Kashani, PhD;
+Department of Anatomical Sciences,
+School of Medicine, Tehran University 
+of Medical Sciences, 16 Azar Street, 
+Poursina Street, Tehran, Iran
+Tel: +98 21 64053410
+Fax: +98 21 66419072
+Email: ragerdi@sina.tums.ac.ir
+Received: 19 October 2013
+Revised: 15 December 2013
+Accepted: 12 January 2014
+
+Abstract
+Background: Progesterone as a sex steroid hormone is thought 
+to affect and prevent demyelination, but its role in promoting 
+myelin repair is far less investigated. In this study, remyelinating 
+potential of progesterone in corpus callosum was evaluated on 
+an experimental model of MS. 
+Methods: In this experimental study, adult male C57BL/6 mice 
+were fed with 0.2% (w/w) cuprizone in ground breeder chow ad 
+libitum for 6 weeks. At day zero, after cuprizone removal, mice 
+were  divided  randomly  into  two  groups:  (a)  placebo  group, 
+which  received  saline  pellet  implant,  (b)  progesterone  group, 
+which received progesterone pellet implant. Some mice of the 
+same age were fed with their normal diet to serve as the healthy 
+control  group.  Two  weeks  after  progesterone  administration, 
+Myelin content was assessed by Luxol-fast blue staining. The 
+myelin  basic  protein  (MBP)  and  proteolipid  protein  (PLP) 
+expression were assessed using Western blot analysis and the 
+changes in the number of oligodendrocytes and oligodendroglial 
+progenitor cells were assessed by immunohistochemistry (IHC) 
+and flow cytometry.
+Results:  Luxol-fast  blue 
+enhanced 
+remyelination in the progesterone group when compared with 
+the placebo group. Densitometry measurements of immunoblots 
+demonstrated  that  MBP  and  PLP  proteins  contents  were 
+significantly  increased  in  the  progesterone  group  compared 
+with  the  placebo  group.  Flow  cytometry  and  IHC  analysis 
+showed  increases  in  Olig2  and  O4 cells  in  the  progesterone 
+group compared with the placebo group.
+Conclusion:  Overall,  our  results  indicate  that  progesterone 
+treatment  can  stimulate  myelin  production  and  that  it  may 
+provide  a  feasible  and  practical  way  for  remyelination  in 
+diseases such as multiple sclerosis.
+
+revealed 
+
+staining 
+
+Please cite this article as: Kashani IR, Hedayatpour A, Pasbakhsh P, Kafami L, 
+Khallaghi  B,  Malek  F.  Progesterone  Enhanced  Remyelination  in  the  Mouse 
+Corpus  Callosum  after  Cuprizone  Induced  Demyelination.  Iran  J  Med  Sci. 
+2015;40(6):507-514.
+
+Keywords ● Multiple sclerosis ● Remyelination ● Progesterone
+
+Introduction
+
+Multiple sclerosis, a chronic and debilitating inflammatory disease 
+of  the  CNS  is  characterized  by  myelin  damage.1  In  multiple 
+sclerosis,  although  resident  oligodendrocyte  progenitors  are 
+found  around  the  lesions,  they  remain  in  a  quiescent  state  and 
+remyelination  is  incomplete.2  Thus,  therapeutic  strategies  that 
+
+Iran J Med Sci November 2015; Vol 40 No 6 
+
+507
+
+promote remyelination are likely to have significant 
+beneficial effects. One approach is to enhance or 
+re-activate  the  endogenous  process.3  The  idea 
+that sex steroids are involved in MS and that they 
+might be a therapeutic option also originates from 
+retrospective  studies  revealing  that  pregnancy 
+has  a  favorable  trend  for  the  course  of  MS  on 
+a  short- and  long-term  basis.4  Remission  of 
+symptoms is seen during pregnancy, in particular 
+during  the  last  trimester  when  estrogens  and 
+progesterone plasma levels are at their maximum.5 
+Postpartum,  MS  symptoms  exacerbate  again.4 
+Recent  reports,  however,  have  shown 
+that 
+progesterone  decreases  neuropathology  when 
+given at the time of demyelination induction,1,3,6 but 
+its therapeutic role in promoting myelin repair after 
+induced demyelination is far less investigated.7-10 
+This  is  due  to  the  conflicting  results  obtained  in 
+the  experimental  autoimmune  encephalomyelitis 
+(EAE)  model,  which  indicated  negative  as  well 
+as  positive  effects  for  progesterone  on  disease 
+progression.7,8
+
+In vivo studies on animal models of MS have 
+drawn  the  attention  on  immune  modulatory 
+functions  of  sex  steroids  and  thus  EAE  model 
+has been used.1,7,8
+
+To  be  able 
+
+to  distinguish  between 
+
+the 
+immunomodulating  effects  of  progesterone 
+and  direct  effects  on  repair  capacity  of  the 
+brain,  we  used  the  potential  of  non-immune 
+driven  cuprizone 
+intoxication.  Demyelination 
+in  the  cuprizone  model  is  an  early  observable 
+event  without  damaging  other  CNS  cell 
+types;  besides  oligodendrocytes  and  without 
+provoking  the  breakdown  of  the  blood  brain 
+barrier  and  subsequently  causing  the  invasion 
+of  lymphocytes.1  In  addition,  the  cuprizone 
+model  shares  common 
+the 
+earliest  phases  of  MS  lesion  development  as 
+described by Barnett and Prineas.11 In this study, 
+remyelinating potential of progesterone in corpus 
+callosum was evaluated after cuprizone-induced 
+demyelination as an experimental model of MS.
+
+features  with 
+
+Materials and Methods
+
+Induction of Demyelination and Hormone 
+Administration
+
+A  total  of  20 male  C57BL/6  mice  (Pasteur 
+Institute  of  Iran)  were  fed  with  0.2%  (w/w) 
+cuprizone (Sigma, USA) in ground breeder chow 
+ad libitum for 6 weeks. This diet leads to selective 
+oligodendrocyte death followed by demyelination 
+of  axons  mainly  in  the  corpus  callosum.12  On 
+day zero after cuprizone removal, animals were 
+randomly  divided  into  two  groups:  (a)  placebo 
+group,  which  received  saline  pellet  implant 
+(n=10), (b) progesterone group, which received 
+
+progesterone pellet implant (n=10). Some mice 
+of the same age were fed with their normal diet to 
+serve as healthy control group (n=10). On day zero 
+after  cuprizone  removal,  progesterone  treated 
+mice were implanted with 14-day release pellets 
+containing  200 mg  progesterone  (Innovative 
+Research  of  America,  Sarasota,  USA).  Pellets 
+were implanted subcutaneously in the scapular 
+region  behind  the  neck  with  a  12-gauge  trocar 
+as described by the manufacturer. Placebo mice 
+were  implanted  with  saline  pellets  (Innovative 
+Research  of  America,  Sarasota,  USA).  Mice 
+were sacrificed at the end of the second week. 
+The  animal  experiments  were  approved  by  the 
+Ethics Committee of Tehran University of Medical 
+Sciences, Tehran, Iran.
+
+Tissue Preparation
+
+For  histological  and  immunohistochemical 
+studies, mice were intracardially perfused with 4% 
+paraformaldehyde (Merck, Germany) containing 
+picric  acid.  After  overnight  postfixation,  brains 
+were  dissected  and  processed  routinely  for 
+paraffin  (Merck,  Germany)  embedding.  Then, 
+10  μm  serial,  sagital  sections  were  prepared 
+from  corpus  callosum.  Among  these  serial 
+sections,  four  representative  sections  at  least 
+240 μm apart from each other were subject to 
+immunostaining with anti olig2 antibody.
+
+Myelin Staining
+
+To  stain  for  myelin  content,  tissue  sections 
+from mice were treated with Luxol fast blue (LFB, 
+Sigma,  USA).  Sections  were  stained  overnight 
+in LFP at 56°C and washed in 95% ethanol and 
+distilled water to remove excess blue stain. The 
+color was then differentiated (until white matter 
+was easily distinguishable from gray matter) in 
+lithium  carbonate  solution  (Merck,  Germany) 
+for 15 sec, followed by distilled water and three 
+washes  of  80%  alcohol.  Slides  were  passed 
+through  fresh  xylene  (Merck,  Germany)  twice, 
+mounted  with  Entellan  (Merck,  Germany)  and 
+cover slipped.3 In order to evaluate remyelination 
+in  LFB 
+cuprizone 
+demyelination  of  the  corpus  callosum  in  the 
+mice that received progesterone, three blinded 
+readers  scored  LFB  stained  sections  between 
+zero  and  three.  A score  of  three  is  equivalent 
+to  totally  myelinated  corpus  callosum  whereas 
+zero is equivalent to totally demyelinated corpus 
+callosum. A score of one or two corresponds to 
+one-third  or  two-third  fiber  myelination  of  the 
+corpus callosum, respectively.1
+
+sections  of 
+
+stained 
+
+Western Blotting
+
+Protein  extract  from  corpus  callosum  were 
+centrifuged  at  560 g  for  5 min;  then  stored 
+
+508 
+
+Iran J Med Sci November 2015; Vol 40 No 6
+
+at -20°C.  To  ensure  loading  of  equal  amounts 
+during  Western  blotting,  protein  concentration 
+of  each  sample  was  determined  with  Bradford 
+assay. Equivalent amounts of total protein extract 
+from each sample were mixed with sample buffer, 
+boiled, and loaded onto SDS polyacrylamide gels. 
+Electrophoretic  separation  of  the  extracts  was 
+typically performed on 7.5–15% gel. The proteins 
+were  then  transferred  to  polyvinylidene  (PVDF) 
+(Gibco,  CA)  and  probed  with  MBP  antibody 
+(1:3000 
+(Abcam,  USA) 
+and  PLP  antibody  (1:1000  in  blocking  buffer) 
+(Abcam, USA) for an overnight on shaker in 4°C. 
+Membranes were subsequently rinsed in blocking 
+buffer (4 times/3 min each time) and stained with 
+secondary  antibody  (1:1000  in  blocking  buffer) 
+(Abcam,  USA)  for  1  hour.  Then,  membranes 
+were washed with TBS Tween-20 blocking buffer 
+(3 times)  and  the  proteins  were  visualized  with 
+diaminobenzidine  (DAB)  kit  (Sigma,  USA).  The 
+membranes were scanned and the photos were 
+analyzed with image 2 software.
+
+in  blocking  buffer) 
+
+Immunohistochemistry
+Ten  μm  sections 
+
+from  body  of  corpus 
+incubated  with  10%  goat 
+callosum  were 
+serum  (Sigma,  USA)  for  45 min,  and  then 
+were incubated overnight with rabbit anti-Olig2 
+polyclonal  antibody  (1:2000;  Millipore,  CA, 
+USA).  The  next  day,  sections  were  incubated 
+with  biotinylated  secondary  antibody  (Sigma, 
+USA).  This  was  followed  by  1  h  incubation  at 
+RT  with  avidin-biotin-peroxidise  complex.  For 
+visualization,  the  DAB  was  used.  Finally,  the 
+sections were dehydrated in a graded series of 
+ethanol, cleared in xylene, and coverslipped with 
+Entellan (Merck, Germany) and examined with a 
+Nikon Eclipse 55i (Nikon, Germany) microscope. 
+Quantification  of  cell  numbers  was  performed 
+by  manual  counting  the  number  of  positive 
+cells using Image J software. Cell numbers are 
+expressed as cells/mm2.
+
+Flow Cytometry 
+
+The 
+
+corpus 
+
+complete 
+
+tissue  was  placed 
+
+callosum  was 
+microdissected 
+from  PBS-perfused  mice 
+14 days  after  progesterone  pellet  implantation. 
+The 
+into  a  Petri  dish 
+containing  2 ml  of  digestion  buffer,  1 mg/ml  of 
+Collagenase  D  (Roche,  Germany),  1 mg/ml  of 
+Neutral  Protease  (Worthington,  UK),  DNase 
+I  (Qiagen,  UK),  and  diced  into  small  pieces 
+with  a  razor  blade  before  incubation  at  37°C 
+for  30 min.  Following  the  incubation,  PBS  was 
+added to stop the enzymatic digestion and cells 
+washed through a 70 μm filter with FACS buffer 
+and centrifuged at 2,000 rpm for 5 min at 4°C. 
+Isolated  cells  were  incubated  on  ice  for  5 min 
+
+with  anti-Olig2  antibody  (1:100,  Millipore,  CA, 
+USA)  or  anti-O4  antibody  (1:50,  Millipore,  CA, 
+USA).  For  the  secondary  antibody,  goat  anti-
+mouse antibody IgG fluorescein isothiocyanate 
+(FITC) (1:100, Invitrogen, CA, USA) was used. 
+Samples  were  analyzed  with  a  FACSCalibur 
+flow cytometer (BD Biosciences).
+
+Statistics Analysis
+
+Statistical analysis was performed by one-way 
+analysis of variance (ANOVA) followed by Tukey’s 
+post-hoc  test.  Data  is  reported  as  mean±SEM. 
+P<0.05 were considered statistically significant.
+
+Results
+
+Light Microscope Examination 
+
+Histological  examination  of  tissue  sections 
+was  performed  two  weeks  after  treatment. 
+Luxol  fast  blue  histologic  stain  was  used  to 
+assess  the  extent  of  remyelination  in  corpus 
+callosum  after  implantation  of  progesterone 
+pellet. High intensity staining was evident in the 
+healthy  control  group  (Figure 1A).  Two  weeks 
+after  progesterone  implantation,  an  obvious 
+remyelination was seen (Figure 1C), while less 
+remyelination  was  seen  in  the  placebo  group 
+(Figure 1B).
+
+Quantification of myelin content in the body 
+of  corpus  callosum  (Figure 1D)  shows  that  in 
+progesterone pellet implanted mice there was a 
+further significant increase in the remyelination 
+score (1.65±0.1; P≤0.05), compared with saline 
+pellet  implanted  (placebo)  mice  (0.25±0.05; 
+P≤0.05).
+
+Western Blot Assay
+
+Densitometric measurements of immunoblots 
+demonstrated that MBP and PLP contents were 
+significantly lower in all treated groups compared 
+with the healthy control group (Figure 2A). In the 
+progesterone pellet implantation group, after two 
+weeks  of  hormone  administration,  there  were 
+significant  increase  in  MBP  (0.72±0.1;  P≤0.05) 
+contents  compared  with  the  placebo  group 
+(0.24±0.1;  P≤0.05)  but  less  than  the  healthy 
+control  group  (0.95±0.06;  P≤0.05)  (Figure  2B). 
+The PLP contents were significantly increased in 
+progesterone receiving group (0.8±0.09; P≤0.05) 
+compared  with  the  placebo  group  (0.1±0.03; 
+P≤0.05) but less than t  he healthy control group 
+(0.99±0.08; P≤0.05).
+
+Progesterone Treatment Increased the Number 
+of Oligodendrocyte and Oligodendroglial 
+Progenitor Cells
+
+As shown in Figure 3, progesterone treatment 
+cuprizone-induced 
+
+2 weeks 
+
+after 
+
+during 
+
+Iran J Med Sci November 2015; Vol 40 No 6 
+
+509
+
+Figure 1: Remyelination in the corpus callosum two weeks after progesterone administration. Myelin content was evaluated 
+by luxol fast blue staining. The photomicrographs were taken from sagital sections of body of corpus callosum two weeks after 
+treatment. Corpus callosum (CC) of a healthy control group (A), placebo group (B), and progesterone implantation group (C). 
+Quantification of myelin content in the body of corpus callosum (D) shows that in progesterone pellet implanted mice there 
+was a further significant increase in the remyelination score compared with saline pellet implanted (placebo) mice. Data are 
+represented as mean±SD (*P<0.05).
+
+control healthy groups (Figure 3D). In addition, 
+olig2 and O4 expression was quantified by flow 
+cytometry (Figure 4A). According to Figure 4C, 
+the  mean  percentages  of  expression  of  olig2 
+decreased  in  the  placebo  group  (4.27±1.2; 
+P≤0.05) when compared with the control health 
+group  (5.54±0.64;  P≤0.05)  without  reaching 
+statistical significant values. Such decrease was 
+significantly  reversed  in  animals  that  received 
+progesterone (40.06±1.4; P≤0.05).
+
+Likewise, 
+
+the  mean  percentages  of 
+expression  of  O4,  an  oligodendrocyte  marker, 
+was significantly increased in the progesterone 
+group  (24.4±0.6;  P≤0.05)  compared  with  the 
+placebo group (1.52±0.2; P≤0.05), but less than 
+the  healthy  control  group  (54.2±0.8;  P≤0.05) 
+(Figure 4B).
+
+Discussion
+
+Patients  suffering  from  MS  experience  a 
+significant decline in the rate of relapse during 
+the third trimester of pregnancy and a significant 
+increase during the first 3 months post-partum.13 
+Thus,  relapse  decrease  when  levels  of  many 
+hormones are elevated, and in particular those 
+of  progesterone,  and  increase  when  hormone 
+levels decline to pre-pregnancy levels following 
+delivery.14
+
+Our  study  attempted  to  investigate  the  role 
+of  progesterone  after  experimentally  induced 
+demyelination  in  the  male  corpus  callosum 
+using  cuprizone  as  toxic  agent.  To  induce  the 
+demyelination,  cuprizone  model  was  used 
+due  to  its  reproducibility,  simplicity,  and  low 
+mortality.15 Cuprizone feeding for several weeks 
+
+Figure 2: Protein expression of myelin basic protein (MBP) 
+and proteolipid protein (PLP) were measured by Western 
+blot and β actin was used as housekeeping control. A: The 
+representative  Western  blot  pictures  of  MBP  and  PLP 
+protein in corpus callosum of the healthy control, placebo 
+and  progesterone  administration  mice.  B:  Bar  chart 
+showing the relative quantities of MBP and PLP measured 
+densitometrically  from  the  Western  blots  in  different 
+groups. The value represented here as mean±SEM of 3 
+mice in each group (*P<0.05).
+
+increased 
+
+significantly 
+
+the 
+demyelination, 
+number  of  olig2+cells,  an  oligodendroglial 
+progenitor  cell  marker, 
+in  body  of  corpus 
+callosum  of  mice  (Figures 3A,  B,  and  C).  The 
+number  of  olig2+cells  displayed  a  tendency  to 
+be higher in the placebo group (131±15; P≤0.05) 
+when  compared  with  the  control  health  group 
+(116±14;  P≤0.05)  without  reaching  statistical 
+significant  values  (Figure  3D).  In  contrast,  the 
+number  of  olig2+cells  was  significantly  higher 
+in  progesterone 
+(327±17; 
+P≤0.05)  when  compared  with  the  placebo  and 
+
+receiving  group 
+
+510 
+
+Iran J Med Sci November 2015; Vol 40 No 6
+
+Figure 3: Effects of progesterone treatment on the number of olig2 positive cells (oligodendroglial progenitor cell) in the corpus 
+callosum of cuprizone induced demyelination mice after two weeks of injury. Light photomicrographs of immunohistochemistry 
+with anti-olig2 antibody (arrows) in healthy control group (A), placebo group (B), and progesterone implantation group (C). The 
+cell counting of olig2 positive cells in body of the corpus callosum (D) shows that in progesterone pellet implanted mice there 
+was a further significant increase in the number of olig2+ cells, compared with the healthy control and saline pellet implanted 
+(placebo) mice. The value represented here as mean±SEM of 3 mice in each group (*P<0.05). Scale bars: 100 μ.
+
+Figure 4:  Oligodendrocyte  and  oligodendroglial  progenitor  cell  numbers  are  markedly  increased  in  the  corpus  callosum  of 
+progesterone  receiving  mice.  Mononuclear  cells  were  isolated  from  corpus  callosum  and  the  frequencies  of  Olig2  positive 
+cells (oligodendroglial progenitor cell) and O4 positive cells (oligodendrocyte) determined using flow cytometry two weeks after 
+treatment. Data shown in the Figure A are representative of the three performed independent experiments. The total number 
+of O4 positive cells, shown in B, and the total number of Olig2 positive cells, shown in C of the healthy control, placebo, and 
+progesterone-receiving mice are shown. The data are presented as the average of the cell counts from three mice per group 
+±SEM in B and C (*P<0.05).
+
+causes massive demyelination of distinct white 
+and  grey  matter  brain  region,  including  the 
+corpus  callosum.16  Continued  ingestion  of  the 
+copper  chelator  cuprizone  results  in  a  white 
+
+matter pathology that is similar to pattern III MS 
+lesions.17
+
+Our results show that progesterone increase 
+in  corpus  callosum  after  a 
+
+remyelination 
+
+Iran J Med Sci November 2015; Vol 40 No 6 
+
+511
+
+instance,  some  authors  reported 
+
+demyelinating insult with cuprizone. A numerous 
+experimental  studies,  have  demonstrated 
+the  multiple  actions  of  progesterone  and  its 
+metabolites throughout the nervous system and 
+their  considerable  influence  on  the  functioning 
+of the glial cells.18 The influence of progesterone 
+administration on the course of demyelination in 
+experimental models for MS is well documented. 
+For 
+that 
+administration  of  progesterone  could  attenuate 
+demyelination  in  the  lysolecithin-injured  spinal 
+cord.3,10,19  Others  have  shown  the  application 
+of  progesterone  possesses  the  capacity  of 
+inhibiting  mature  oligodendrocyte  damage  and 
+reduced  demyelination  in  cuprizone  provoked 
+demyelination of corpus callosum.1,6 A particular 
+asset  of  progesterone  is  that  it  not  only  could 
+attenuate  demyelination,  but  also  promotes 
+myelin  formation  either  during  development  or 
+during the remyelination of axons in the adult.18
+Labombarda  et  al.  demonstrated  that  short 
+PROG treatment increased the number of OPC, 
+increased the expression of MBP, and enhanced 
+the  expression  of 
+the  Olig2  and  Nkx2.2 
+transcription factors involved in specification and 
+differentiation  of  the  oligodendrocyte  lineage.19 
+In another study, mice were induced with EAE 
+and treated with progesterone had a decreased 
+clinical  severity  and  enhanced  expression  of 
+transcription factors essential for oligodendrocyte 
+and  myelin  protein  transcripts.20  Hussain  et  al. 
+showed  that  progesterone  strongly  increased 
+the reappearance of cells of the oligodendroglial 
+lineage in the demyelinated area.9
+
+Although the cellular mechanisms responsible 
+for  the  therapeutic  effects  of  progesterone  on 
+remyelination  remain  unclear,  however 
+two 
+hypotheses need to be considered. Progesterone 
+as  a  neurosteroid  hormone  may  participate  to 
+remyelination by either stimulating the proliferation 
+and maturation of oligodendrocyte progenitor cells 
+into  mature  oligodendrocytes  able  to  form  new 
+myelin1,3,6 or indirectly by modulating autoimmune 
+and 
+in 
+cuprizone-induced  demyelination,  an  invasion 
+of T  or  B  cells  is  not  observed.1 Therefore,  our 
+study clearly shows that progesterone treatment 
+is able to enhance remyelination of injured corpus 
+callosum  also  independent  of  a  B  and  T  cell 
+initiated autoimmune reaction.
+
+inflammatory  processes.21  However, 
+
+flow  cytometry  analysis  show 
+
+In this study, results of immunohistochemistry 
+and 
+that 
+progesterone treatment after cuprizone induced 
+demyelination significantly increased the number 
+of  olig2+  cells  (an  oligodendroglial  progenitor 
+cell marker) and O4+ cells (an oligodendrocyte 
+marker) in corpus callosum of mice. In addition, 
+Western blot analysis shows that progesterone 
+
+the 
+
+increased expression of MBP and PLP proteins. 
+The  remyelination  of  corpus  callosum  involves 
+initially 
+recruitment  of  oligodendrocyte 
+progenitors  from  the  surrounding  intact  white 
+matter into the area of demyelination and their 
+subsequent  differentiation 
+into  remyelinating 
+oligodendrocytes.3  The  improvements  of  the 
+remyelination rate that we find in progesterone 
+treated animals may result from an enhancement in 
+either or both of the recruitment and differentiation 
+phases of remyelination. However, the signaling 
+mechanisms involved in the myelinating actions 
+of progesterone are not well defined. This is an 
+important  question  since  progesterone  acts  on 
+multiple  targets  within  the  nervous  system.18 
+Although the molecular mechanisms employed 
+by progesterone to improve remyelination after 
+cuprizone demyelination induction were beyond 
+the scope of our current study, some possibilities 
+are  worth  mentioning.  It  has  been  shown  that 
+oligodendrocytes  generation  is  a  multiple-step 
+process  in  which  oligodendroglial  progenitor 
+cells  proliferate,  migrate,  and  differentiate  into 
+mature  oligodendrocytes.22 
+In  a  chemically 
+induced multiple sclerosis model, remyelination 
+is due to differentiation and maturation of adult 
+oligodendroglial progenitor cells instead of pre-
+existing  oligodendrocytes  that  suffer  apoptotic 
+cell death.19 A stimulatory effect of progesterone 
+on  myelination  was  observed  in  cerebellar 
+slices.18 Progesterone was shown to stimulate the 
+proliferation  and  maturation  of  oligodendrocyte 
+progenitor  cells  in  these  slices.  Recently,  it 
+was  reported  that  progesterone  increased  the 
+number  of  new  oligodendrocytes1,3,6  and  this 
+results supports the idea that the progesterone 
+imposes  a  milieu  favoring  differentiation  of 
+proliferating progenitors into mature forms.19
+
+Conclusion
+
+The  results  obtained  in  the  present  study 
+indicate  that  progesterone  therapy  enhanced 
+remyelination of demyelinated corpus callosum 
+axons in cuprizone model of MS.
+
+Acknowledgment
+
+This study was supported by Tehran University of 
+Medical Sciences and Health Services, Tehran, 
+Iran (grant No. 10926-30-02-89).
+
+Conflict of interest: None declared.
+
+References
+
+1.  Acs  P,  Kipp  M,  Norkute  A,  Johann  S, 
+Clarner T, Braun A, et al. 17beta-estradiol and 
+
+512 
+
+Iran J Med Sci November 2015; Vol 40 No 6
+
+progesterone  prevent  cuprizone  provoked 
+demyelination  of  corpus  callosum  in  male 
+mice.  Glia.  2009;57:807-14.  doi:  10.1002/
+glia.20806. PubMed PMID: 19031445.
+
+3. 
+
+functional 
+
+2.  Crawford DK, Mangiardi M, Song B, Patel R, 
+Du S, Sofroniew MV, et al. Oestrogen receptor 
+beta  ligand:  a  novel  treatment  to  enhance 
+endogenous 
+remyelination. 
+Brain.  2010;133:2999-3016.  doi:  10.1093/
+brain/awq237.  PubMed  PMID:  20858739; 
+PubMed Central PMCID: PMC2947430.
+Ibanez C, Shields SA, El-Etr M, Baulieu EE, 
+Schumacher  M,  Franklin  RJ.  Systemic 
+progesterone  administration 
+in 
+a  partial  reversal  of  the  age-associated 
+decline 
+following 
+toxin-induced  demyelination  in  male  rats. 
+Neuropathol Appl  Neurobiol.  2004;30:80-9. 
+doi: 
+10.1046/j.0305-1846.2003.00515.x. 
+PubMed PMID: 14720179.
+
+in  CNS  remyelination 
+
+results 
+
+4.  Kipp  M,  Beyer  C.  Impact  of  sex  steroids 
+on  neuroinflammatory  processes  and 
+experimental  multiple  sclerosis.  Front 
+Neuroendocrinol.  2009;30:188-200.  doi: 
+10.1016/j.yfrne.2009.04.004. 
+PubMed 
+PMID: 19393685.
+
+5.  Houtchens  MK.  Pregnancy  and  multiple 
+sclerosis.  Semin  Neurol.  2007;27:434-41. 
+doi: 
+PubMed 
+PMID: 17940922.
+
+10.1055/s-2007-991127. 
+
+6.  Ye  JN,  Chen  XS,  Su  L,  Liu  YL,  Cai  QY, 
+Zhan XL, et al. Progesterone alleviates neural 
+behavioral  deficits  and  demyelination  with 
+reduced  degeneration  of  oligodendroglial 
+cells 
+in  cuprizone-induced  mice.  PLoS 
+One.  2013;8:e54590.  doi:  10.1371/journal.
+pone.0054590.  PubMed  PMID:  23359803; 
+PubMed Central PMCID: PMC3554738.
+
+deficits 
+
+7.  Yu HJ, Fei J, Chen XS, Cai QY, Liu HL, Liu GD, 
+et al. Progesterone attenuates neurological 
+experimental 
+behavioral 
+autoimmune  encephalomyelitis 
+through 
+remyelination  with  nucleus-sublocalized 
+Olig1 protein. Neurosci Lett. 2010;476:42-5. 
+doi:  10.1016/j.neulet.2010.03.079.  PubMed 
+PMID: 20381586.
+
+8.  Giatti  S,  Caruso  D,  Boraso  M,  Abbiati F, 
+Ballarini  E,  Calabrese  D, 
+al. 
+Neuroprotective  effects  of  progesterone 
+in 
+autoimmune 
+J Neuroendocrinol. 
+encephalomyelitis. 
+10.1111/j.1365-
+2012;24:851-61. 
+2826.2012.02284.x. 
+PMID: 
+22283602.
+
+experimental 
+
+PubMed 
+
+chronic 
+
+9.  Hussain R, El-Etr M, Gaci O, Rakotomamonjy 
+J, Macklin WB, Kumar N, et al. Progesterone 
+and Nestorone facilitate axon remyelination: 
+a 
+receptors. 
+
+progesterone 
+
+role 
+
+doi: 
+
+for 
+
+of 
+
+et 
+
+doi: 
+Endocrinology. 
+10.1210/en.2011-1219.  PubMed  PMID: 
+21828184.
+
+2011;152:3820-31. 
+
+10. Garay L, Tungler V, Deniselle MC, Lima A, 
+Roig  P,  De  Nicola  AF.  Progesterone 
+attenuates  demyelination  and  microglial 
+reaction  in  the  lysolecithin-injured  spinal 
+cord.  Neuroscience. 
+2011;192:588-97. 
+doi: 
+10.1016/j.neuroscience.2011.06.065. 
+PubMed PMID: 21736923.
+
+11.  Barnett  MH,  Prineas  JW.  Relapsing  and 
+remitting  multiple  sclerosis:  pathology 
+of  the  newly  forming  lesion.  Ann  Neurol. 
+2004;55:458-68.  doi:  10.1002/ana.20016. 
+PubMed PMID: 15048884.
+
+12. Matsushima GK, Morell P. The neurotoxicant, 
+cuprizone, as a model to study demyelination 
+and  remyelination  in  the  central  nervous 
+system.  Brain  Pathol.  2001;11:107-16. 
+doi: 
+10.1111/j.1750-3639.2001.tb00385.x. 
+PubMed PMID: 11145196.
+
+13. Gregg  C,  Shikar  V,  Larsen  P,  Mak  G, 
+Chojnacki A, Yong VW, et al. White matter 
+plasticity and enhanced remyelination in the 
+maternal CNS. J Neurosci. 2007;27:1812-23. 
+doi: 
+10.1523/JNEUROSCI.4441-06.2007. 
+PubMed PMID: 17314279.
+
+14. Schumacher  M,  Guennoun  R,  Stein  DG, 
+De  Nicola  AF.  Progesterone:  therapeutic 
+opportunities for neuroprotection and myelin 
+repair.  Pharmacol  Ther.  2007;116:77-106. 
+doi: 
+10.1016/j.pharmthera.2007.06.001. 
+PubMed PMID: 17659348.
+
+15. Zendedel A,  Beyer  C,  Kipp  M.  Cuprizone-
+induced  demyelination  as  a  tool  to  study 
+remyelination  and  axonal  protection.  J Mol 
+Neurosci.  2013;51:567-72.  doi:  10.1007/
+s12031-013-0026-4. 
+PMID: 
+23666824.
+
+PubMed 
+
+16. Clarner  T,  Diederichs  F,  Berger  K, 
+Denecke B,  Gan  L,  van  der  Valk  P,  et al. 
+Myelin  debris 
+inflammatory 
+responses in an experimental demyelination 
+animal model and multiple sclerosis lesions. 
+Glia.  2012;60:1468-80.  doi:  10.1002/
+glia.22367. PubMed PMID: 22689449.
+
+regulates 
+
+remyelination 
+
+17. Steelman  AJ,  Thompson  JP,  Li  J. 
+Demyelination 
+in 
+anatomically  distinct  regions  of  the  corpus 
+callosum  following  cuprizone  intoxication. 
+Neurosci  Res. 
+doi: 
+10.1016/j.neures.2011.10.002. 
+PubMed 
+PMID: 22015947; PubMed Central PMCID: 
+PMC3230728.
+
+2012;72:32-42. 
+
+18. Schumacher M, Guennoun R, Ghoumari A, 
+Massaad C, Robert F, El-Etr M, et al. Novel 
+perspectives  for  progesterone  in  hormone 
+replacement therapy, with special reference 
+
+and 
+
+Iran J Med Sci November 2015; Vol 40 No 6 
+
+513
+
+the  nervous  system.  Endocr  Rev. 
+to 
+2007;28:387-439.  doi:  10.1210/er.2006-
+0050. PubMed PMID: 17431228.
+
+19. Labombarda F, Gonzalez SL, Lima A, Roig P, 
+Guennoun R, Schumacher M, et al. Effects of 
+progesterone on oligodendrocyte progenitors, 
+oligodendrocyte 
+factors, 
+and  myelin  proteins  following  spinal  cord 
+injury.  Glia.  2009;57:884-97.  doi:  10.1002/
+glia.20814. PubMed PMID: 19053058.
+
+transcription 
+
+20. Garay  LI,  Gonzalez  Deniselle  MC, 
+Brocca ME, Lima A, Roig P, De Nicola AF. 
+Progesterone  down-regulates  spinal  cord 
+inflammatory  mediators  and 
+increases 
+myelination  in  experimental  autoimmune 
+
+Neuroscience. 
+encephalomyelitis. 
+2012;226:40-50. 
+10.1016/j.
+neuroscience.2012.09.032.  PubMed  PMID: 
+23000619.
+
+doi: 
+
+21. El-Etr  M,  Ghoumari  A,  Sitruk-Ware  R, 
+Schumacher  M.  Hormonal  influences  in 
+multiple sclerosis: new therapeutic benefits 
+for  steroids.  Maturitas.  2011;68:47-51.  doi: 
+10.1016/j.maturitas.2010.09.014.  PubMed 
+PMID: 21035281.
+
+22. Baumann  N,  Pham-Dinh  D.  Biology 
+of  oligodendrocyte  and  myelin 
+the 
+mammalian central nervous system. Physiol 
+Rev.  2001;81:871-927.  PubMed  PMID: 
+11274346.
+
+in 
+
+514 
+
+Iran J Med Sci November 2015; Vol 40 No 6
+
+

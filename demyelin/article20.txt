@@ -1,0 +1,2713 @@
+Free Radical Biology and Medicine 88 (2015) 253–267
+
+Contents lists available at ScienceDirect
+
+Free Radical Biology and Medicine
+
+journal homepage: www.elsevier.com/locate/freeradbiomed
+
+Nrf2—a therapeutic target for the treatment of neurodegenerative
+diseases
+Delinda A. Johnson n, Jeffrey A. Johnson n
+School of Pharmacy, University of Wisconsin—Madison, Madison, WI 53705, USA
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 7 May 2015
+Received in revised form
+19 July 2015
+Accepted 20 July 2015
+Available online 14 August 2015
+
+Keywords:
+Nrf2
+Oxidative stress
+Alzheimer’s disease
+Parkinson’s disease
+Amyotrophic lateral sclerosis
+Huntington’s disease
+Multiple sclerosis
+
+Contents
+
+The brain is very sensitive to changes in redox status; thus maintaining redox homeostasis in the brain is
+critical for the prevention of accumulating oxidative damage. Aging is the primary risk factor for de-
+veloping neurodegenerative diseases. In addition to age, genetic and environmental risk factors have also
+been associated with disease development. The primary reactive insults associated with the aging pro-
+cess are a result of oxidative stress (OS) and nitrosative stress (NS). Markers of increased oxidative stress,
+protein and DNA modiﬁcation, inﬂammation, and dysfunctional proteostasis have all been implicated in
+contributing to the progression of neurodegeneration. The ability of the cell to combat OS/NS and
+maintain a clearance mechanism for misfolded aggregating proteins determines whether or not it will
+survive. A critical pathway in this regard is the Nrf2 (nuclear factor erythroid 2-related factor 2)- anti-
+oxidant response element (ARE) pathway. Nrf2 activation has been shown to mitigate a number of pa-
+thologic mechanisms associated with Alzheimer’s disease, Parkinson’s disease, amyotrophic lateral
+sclerosis, Huntington’s disease, and multiple sclerosis. This review will focus on the role of Nrf2 in these
+diseases and the potential for Nrf2 activation to attenuate disease progression.
+
+& 2015 Elsevier Inc. All rights reserved.
+
+1.
+
+3.1.
+3.2.
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 254
+OS/NS in neurodegenerative diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 254
+1.1.
+1.2.
+Keap1-Nrf2-ARE pathway . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 254
+2. Nrf2 in Alzheimer’s disease. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 255
+Nrf2 and Nrf2-dependent genes in AD brains . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 255
+Nrf2 and animal models of AD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 255
+3. Nrf2 in Parkinson’s disease . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+Nrf2 and Nrf2-dependent genes in PD brains . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+Nrf2 and animal models of PD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+4. Nrf2 in amyotrophic lateral sclerosis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 257
+Nrf2 and Nrf2-dependent genes in ALS brains. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 258
+Nrf2 in animal models of ALS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 258
+5. Nrf2 in Huntington’s disease. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259
+Nrf2 and Nrf2-dependent genes in HD brains . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259
+Nrf2 in animal models of HD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259
+6. Nrf2 in multiple sclerosis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259
+Nrf2 and Nrf2-dependent genes in MS brain lesions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 260
+Nrf2 and animal models of MS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 260
+7. Nrf2 and neuroinﬂammation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 260
+
+6.1.
+6.2.
+
+2.1.
+2.2.
+
+4.1.
+4.2.
+
+5.1.
+5.2.
+
+n Corresponding authors.
+
+E-mail addresses: dajohnson@pharmacy.wisc.edu (D.A. Johnson),
+
+jajohnson@pharmacy.wisc.edu (J.A. Johnson).
+
+http://dx.doi.org/10.1016/j.freeradbiomed.2015.07.147
+0891-5849/& 2015 Elsevier Inc. All rights reserved.
+
+254
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+8. NFE2L2 and Keap1 associated haplotypes and neurodegenerative diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 262
+9.
+Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 262
+Acknowledgments. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 263
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 263
+
+1.
+
+Introduction
+
+1.1. OS/NS in neurodegenerative diseases
+
+The brain is very sensitive to changes in redox status; thus
+maintaining redox homeostasis in the brain is critical for the
+prevention of accumulating oxidative damage. Aging is the pri-
+mary risk factor for developing neurodegenerative diseases. In
+addition to age, genetic and environmental risk factors have also
+been associated with disease development. The primary reactive
+insults associated with the aging process are a result of oxidative
+stress (OS) and nitrosative stress (NS). OS/NS are produced en-
+dogenously via enzymatic and spontaneous reactions through a
+variety of sources and normal physiological functions [1, 2].
+
+Downstream markers of OS/NS have been identiﬁed clearly in
+all neurodegenerative diseases. Signs of lipid peroxidation, such as
+aldehydes including 4-hydroxynonenol (4-HNE), are increased in
+Parkinson’s disease (PD) [3–5], Alzheimer’s disease (AD) [6–8], and
+amyotrophic lateral sclerosis (ALS) [9, 10]. There is also a correla-
+tion between the affected brain regions and 4-HNE adducted
+proteins [11–13]. Another major marker of OS production is pro-
+tein carbonyls, representing protein oxidation. Carbonyls are pre-
+sent in the substantia nigra (SN) in PD [14, 15], AD [16], and ALS
+[17] and in affected brain regions in other diseases [18–21]. Oxi-
+dative damage to DNA/RNA has been evaluated by measuring
+8-hydroxy-2-deoxyguanosine (8-OHDG) and is increased in cen-
+tral and peripheral nervous systems of patients with neurode-
+generative diseases [22–30]. Post-translational modiﬁcation pro-
+teins modify protein structure and function. Protein structure and
+function can be altered by phosphorylation, nitration, ubiquitina-
+tion, and glycosylation. Such modiﬁcations have been observed in
+alpha-synuclein (SYN) in patients with synucleinopathies includ-
+ing PD and dementia with Lewy bodies (DLB) [31–33]. Nitration
+and phosphorylation of tau protein has been found in the hippo-
+campus and neocortex of patients with AD and other tau pathol-
+ogies [34, 35]. Nitrotyrosine-modiﬁed proteins are elevated eight-
+fold in the hippocampus and neocortex of AD brains [36, 37].
+These region-speciﬁc protein modiﬁcations correlate with areas of
+increased OS/NS in the brain. Furthermore, such modiﬁcations are
+thought to contribute to protein misfolding and subsequent ag-
+gregate/inclusion formation. Because most neurodegenerative
+diseases have characteristic misfolded protein aggregates, such as
+SYN in PD, beta-amyloid (Aβ) plaques and hyperphosphorylated
+tau neuroﬁbrillary tangles (NFTs) in AD, huntingtin (Htt) in Hun-
+tington’s disease (HD), and superoxide dismutase 1 (SOD1) in ALS,
+protein aggregation and regulation of misfolded protein clearance
+by the proteasome and autophagy appear
+to
+pathogenesis.
+
+to be vital
+
+1.2. Keap1-Nrf2-ARE pathway
+
+One of the primary endogenous sources of OS is the mi-
+tochondrial electron transport chain.
+Increased mitochondrial
+dysfunction associated with neurodegenerative diseases leads to
+increased OS generation and reduction in the production of ATP. In
+addition and associated with neuroinﬂammation, the enzymes of
+the NADPH oxidase system generate superoxide anions. The
+combination of superoxide anion with nitric oxide, produced by
+
+nitric oxide synthase, generates the highly reactive NS peroxyni-
+trite. Combating OS/NS is dependent upon the cell’s ability to
+maintain cellular redox homeostasis. A critical pathway in this
+regard is the Nrf2 (nuclear factor erythroid 2-related factor 2)-
+antioxidant response element (ARE) pathway. The ARE is an en-
+hancer element having the consensus sequence RTGACnnnGC,
+which is located in the 5’ ﬂanking region of many phase II de-
+toxifying and antioxidant genes [38, 39]. Nrf2 is a cytoplasmic
+protein sequestered by the actin-bound protein Keap1 (Kelch ECH
+associating protein) [40, 41]. Keap1, a Cul3-based E3 ligase, poly-
+ubiquitinates Nrf2, targeting it for subsequent proteasomal de-
+gradation [42, 43]. Oxidative stress or exposure to electrophilic
+agents that react with Keap1 stabilize Nrf2, leading to increased
+Nrf2 protein levels and nuclear accumulation of Nrf2. Once in the
+nucleus, Nrf2 dimerizes with small Maf proteins and binds to the
+ARE, transcriptionally driving expression of several detoxifying
+and antioxidant genes [44, 45].
+
+Nrf2 contains six well-conserved Nrf2-ECH homologous (Neh)
+domains that support molecular functions. The CNC (cap’n’ collar)
+and DNA binding regions are located in the Neh1 domain, as is the
+Maf dimerization site. Neh4 and Neh5 are necessary for recruit-
+ment of transcription factors and other canonical proteins required
+for gene expression [46]. Molecular studies have determined that
+the Neh2 domain is required for the cytoplasmic localization of
+Nrf2, because deletion of Neh2 leads to continuous nuclear
+translocation of Nrf2 to the nucleus. Yeast two-hydridization
+screening using the Neh2 domain from Nrf2 as bait identiﬁed
+Keap1 as an Nrf2 binding protein. Eighty percent of the in-
+dependently isolated clones screened were Keap1 positive, sug-
+gesting speciﬁcity of the Keap1–Nrf2 interaction [40]. Keap1 has
+two canonical domains, the Kelch domain and the bric-a-brac,
+tramtrack, broad-complex (BTB) domain. The Kelch domain binds
+actin and thus tethers the Keap1–Nrf2 complex to the cytoskele-
+ton. The BTB domain is important for protein dimerization of
+Keap1 molecules. There are many cysteine residues in the Keap1
+protein that potentially function as sensors of oxidants and elec-
+trophiles; humans have 27 and rat and mouse have 25 [44, 47].
+The “hinge and latch” model proposes that two Keap1 molecules
+bind Nrf2 at high- and low-afﬁnity sites located in the Neh2 do-
+main [48]. The hinge domain, EGTE, supports high afﬁnity and the
+latch domain, DLG, low afﬁnity. When Keap1 senses oxidative or
+electrophilic stress, the low-afﬁnity domain binding Nrf2 is abol-
+ished and proteosomal degradation of Nrf2 is disrupted [49]. In
+addition to Keap1, Nrf2 turnover can be regulated by GSK3β/β-
+TrCP- and Hrd1-dependent mechanisms in different pathological
+states [50, 51]. GSK3β phosphorylates the Neh6 domain of Nrf2.
+This facilitates binding of the β-TrCP/Cul1 E3 ligase complex to
+Nrf2. Nrf2 is then ubiquitinated and degraded through β-TrCP-
+mediated proteasomal degradation. Hrd1 is another E3 ubiquitin
+ligase that resides in the endoplasmic reticulum membrane. Hrd1
+directly interacts with Nrf2 at the Neh4-5 domains by binding to
+the cytoplasmic C-terminal region of Hrd1, leading to Nrf2 ubi-
+quitination and degradation.
+
+In addition, there are endogenous proteins that have been
+shown to interact with Keap1 and activate the Nrf2 pathway. An
+initial screen using Nrf2-dependent ARE-luciferase activity iden-
+tiﬁed seven activating proteins: sequestosome 1 (SQSTM1 or p62),
+(DBP),
+D-site
+
+promoter
+
+binding
+
+of
+
+albumin
+
+protein
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+255
+
+dipeptidylpeptidase 3 (DPP3), BCL2-like 1 (BCL2L1 or Bcl-xL), the
+kinesin family member 26B (KIF26B), cAMP-responsive element
+binding protein-regulated transcription coactivator 1 (TORC1),
+myeloid cell leukemia sequence 1 (Mcl1), and the splicing factor
+arginine/serine-rich 10 (SFRS10) [52]. Subsequently, both SQSTM1
+and DPP3 were shown to interact with Keap1 [53, 54]. The Wilms
+tumor gene on the X chromosome (WTX) and PALB2, a major
+BRCA2 binding partner, also bind to Keap1, whereas p21 directly
+binds to Nrf2, leading to inhibition of Nrf2 ubiquitination and in-
+creased Nrf2-dependent gene expression [55–57]. This review will
+focus on the role of Nrf2 in neurodegeneration and the potential
+for Nrf2 activation to mitigate progression of neurological diseases.
+
+2. Nrf2 in Alzheimer’s disease
+
+AD is an age-associated progressive neurodegenerative dis-
+order characterized by memory loss and cognitive dysfunction. It
+is the most common form of dementia. There are currently over
+5 million AD patients in the United States and it is projected that,
+without the development of disease-modifying therapies, the
+number will increase to approximately 13.8 million by 2050 [58].
+Pathological hallmarks of AD include brain atrophy due to neu-
+ronal and synapse loss, senile plaques predominantly consisting of
+ﬁbrillar amyloid beta (Aβ)-peptide, and neuroﬁbrillary tangles
+(NFT) of hyperphosphorylated tau, a cytoskeletal protein. Aβ is
+generated from the cleavage of amyloid precursor protein (APP) by
+β- and γ-secretases, and it is believed that small oligomers of this
+self-aggregating peptide are responsible for the neuronal cell
+death in AD [59]. The major risk factor for developing AD is aging
+and most AD is sporadic; however, a small fraction of AD is familial
+in origin. Mutations in APP, presenilin 1 (PS1), and presenilin 2 are
+associated with early onset familial disease [60]. In addition to the
+plaques and NFT, the AD brain is characterized by mitochondrial
+dysfunction, reactive gliosis, and oxidative damage to lipids and
+proteins [36, 226–229].
+
+2.1. Nrf2 and Nrf2-dependent genes in AD brains
+
+Initial studies demonstrated that NAD(P)H:quinone oxidor-
+eductase 1 (NQO1) is increased in AD compared to control tissues
+[61–63]. The same was found for glutathione reductase, glu-
+tathione peroxidase, and heme oxygenase 1 (HO-1) [64–66]. In
+addition, p62, HO-1, and glutamate cysteine ligase modiﬁer sub-
+unit (GCLM) were increased in AD brains [67]. Tanji and colleagues
+[67] also demonstrated that Keap1 and p62 interact with each
+other and are present in both the soluble and insoluble protein
+fractions in AD brain, as well as showing co-localization of Keap1
+with NFT. A study that examined Nrf2 via immunohistochemistry
+found that Nrf2 is present in both the nucleus and cytoplasm of
+neurons in normal hippocampi, with greater intensity in the nu-
+cleus; however, in AD, Nrf2 was conﬁned to the cytoplasm [68]. In
+contrast to the previous studies, this suggests that there is reduced
+Nrf2 activation in the AD brain. Indeed, studies have shown that
+some of the same Nrf2-dependent genes discussed above are re-
+duced or do not change in AD [69–71]. These contradictory ﬁnd-
+ings are not surprising and could be very dependent on the stage
+of disease at the time of tissue collection. In addition, our la-
+boratory has unpublished and published data indicating that the
+vast majority of Nrf2-dependent genes and proteins, as well as
+glutathione (GSH) levels in the brain and spinal cord, are not de-
+creased in Nrf2-/- mice [72, 73].
+
+2.2. Nrf2 and animal models of AD
+
+Multiple papers have demonstrated that Nrf2 activation can
+
+protect against Aβ-mediated toxicity in vitro, so the following
+discussion will focus primarily on the in vivo data generated that
+support a role Nrf2 in modulating AD. The ﬁrst study to examine
+Nrf2 in a mouse model of AD (APP/PS1; APPSwe/PS1ΔE9) demon-
+strated a decrease in mRNA levels of GCLM, glutamate cysteine
+ligase catalytic subunit (GCLC), and NQO1 at 6 months of age, as
+well as a reduction in Nrf2 at 16 months, using im-
+munohistochemistry [74]. However, recent work in 7-month-old
+APP/PS1 mice did not see any signiﬁcant changes in mRNA levels
+of these same genes [73]. At the protein level, there was a modest
+but signiﬁcant increase of GCLC with no change in Keap1, NQO1, or
+GCLM in the APP/PS1 mice. Studies using the 3xTG model of AD
+also found a signiﬁcant increase in NQO1 protein in hippocampus
+and cortex at 2 months of age, but by 6 months of age, NQO1 levels
+were actually signiﬁcantly reduced in hippocampus [75]. Finally,
+nuclear Nrf2 levels were increased at 3 months and decreased at
+15 months in the male cortex but unchanged in the female cortex
+of 3xTG mice [76]. In spite of these observations, there was no
+increase in GCLC and there were decreases in SOD1 (superoxide
+dismutase 1), HO-1, and Prdx-1 (peroxiredoxin-1) mRNA in the
+3-month-old male 3xTG cortex. Overall, it is hard to argue that
+there are consistent changes in protein or mRNA in mouse models
+of AD, which is similar to the observations in human tissue.
+
+Nrf2-/- mice crossed with APP/PS1 mice showed signiﬁcant
+increases in intracellular Aβ, APP fragments, and full-length APP in
+CA1 neurons in APP/PS1/Nrf2-/- compared with APP/PS1 mice,
+without a clear change in plaque load [73]. Furthermore, levels of
+Aβ, APP fragments, and full-length APP in the insoluble protein
+fraction from hippocampus were increased in APP/PS1/Nrf2-/-
+mice. It has been suggested that Nrf2 is involved in regulation of
+autophagy via increasing p62 [77–79]. Interestingly, the same APP/
+PS1/Nrf2-/- had punctate staining patterns for p62 versus a more
+diffuse staining in APP/PS1 mice, implying that the lack of Nrf2 in
+APP/PS1 mice drives p62 into more insoluble aggregates. There
+was an increase in the ratio of phospho-mTOR/total mTOR, as well
+as an increase in the ratio of phospho-p70S6k/total p70S6k in
+hippocampus of APP/PS1/Nrf2-/- mice compared with littermate
+controls,
+indicative of autophagy inhibition. More evidence of
+autophagy inhibition in APP/PS1/Nrf2-/- mice was the increase in
+multivesicular bodies, endosomes, and lysosomes in CA1 neuron
+compared with APP/PS1 mice. Jo and co-workers published that
+tau and phosphorylated tau increase spontaneously in 6-month-
+old Nrf2 knockout mice [80]. Although there was no change in tau
+kinase or phosphatase activities in Nrf2-/- mice, there was a sig-
+niﬁcant reduction in NDP52 (an autophagy adaptor protein). The
+NDP52 promoter contains ARE sequences and is induced by Nrf2
+activating compounds that lead to a reduction of phosphorylated
+tau. In contrast to these data, Joshi and co-workers [73] found no
+increase in tau or phosphorylated tau in either the 7-month-old
+Nrf2-/- mice or APP/PS1/Nrf2-/- (unpublished data).
+
+An antisense oligonucleotide approach targeting GSK3β has
+been done in the SAMP8 AD model [81]. As mentioned earlier,
+Nrf2 turnover can be regulated by the GSK3β/β-TrCP pathway, and
+inhibition of GSK3β-mediated phosphorylation of Nrf2 would
+prevent the binding of β-TrCP and subsequent Nrf2 degradation via
+this pathway. The treatment increased nuclear Nrf2 and glu-
+tathione s-transferase (GST) levels. This correlated with improved
+behavior, reduced nuclear and cytoplasmic GSK3β, reduced protein
+carbonyl and protein bound 4-hydroxynonenal (HNE), and re-
+duced phospho-tau. Lentivirus (LV) was used to deliver Nrf2 in-
+trahippocampally in a mouse model of AD [82]. LV-Nrf2 was ste-
+reotactically injected bilaterally into the hippocampus of 9-month-
+old transgenic APP/PS1 mice. Spatial learning deﬁcits of aged APP/
+PS1 mice in a Morris water maze were signiﬁcantly improved by
+LV-Nrf2 compared with LV-GFP. There was also a reduction in as-
+trocytic but not microglial activation and increased neuronal HO-1
+
+256
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+up to 6 months postinjection. Finally, earlier studies in our la-
+boratory had demonstrated that Nrf2 activation in astrocytes could
+confer protection from oxidative-stress-induced death of neurons
+[83, 84]. Based on these observations and to further address the
+potential role of astrocytic Nrf2 activation providing neuropro-
+tection in neurodegenerative diseases, transgenic mice were gen-
+erated that selectively overexpressed Nrf2 in astrocytes [85]. The
+glial ﬁbrillary acidic protein (GFAP) promoter was used to drive
+Nrf2 expression in astrocytes. These GFAP–Nrf2 mice are currently
+being crossed with APP/PS1 and mutant tau mice to determine if
+astrocytic Nrf2 activation can mitigate the AD-like pathogenesis in
+these mouse models.
+
+Many compounds and natural products have been identiﬁed as
+Nrf2 activators. CDDO-methylamide (CDDO-MA) improved mem-
+ory and decreased plaques, Aβ(1–42), and markers of oxidative
+stress in the Tg19959 mice [86]. Puerarin, a phytoestrogen with
+antioxidant properties, was shown to improve the phenotype of
+APP/PS1 mice [87]. The effect was attributed to preventing the
+activation of GSK3β, thus preventing proteasomal degradation of
+Nrf2 through the β-TrCP pathway. Gracilins A and C, Spongionella-
+derived compounds shown to activate Nrf2 and have antioxidant
+properties, have shown some beneﬁt in 3xTG mice [88]. A number
+of recent papers have used what they refer to as an acute model of
+AD by directly injecting Aβ(1–40) or Aβ(1–42) into the hippo-
+campus. When compounds were administered prior to the injec-
+tion of Aβ, beneﬁcial effects were noted for SuHeXiang essential oil
+[89], sulforaphane [90, 91], β-hydoxybutyrate [92], orientin [93],
+and baicalin [94]. A major caveat to all the studies discussed in this
+section is that none of them were done in Nrf2-/- or knockdown
+mice to clearly demonstrate that these same compounds require
+Nrf2 for their therapeutic effects.
+
+3. Nrf2 in Parkinson’s disease
+
+PD is the most common neurodegenerative movement dis-
+order, characterized by motor symptoms such as tremor, brady-
+kinesia, posture instability, and rigidity, as well as a number of
+nonmotor neuropsychiatric problems [95]. One pathological hall-
+mark of PD is the loss of dopaminergic neurons in the substantia
+nigra pars compacta (SN), resulting in reduced levels of dopamine
+in nerve terminals projecting to the striatum. A second hallmark is
+the formation of intracellular inclusions made up primarily of al-
+pha-synuclein (SYN) bound to ubiquitin, also referred to as Lewy
+bodies (LB) [96–98]. As with AD, the majority of PD cases are
+sporadic, with familial cases accounting for about 15% of PD [99].
+Numerous genes are associated with familial PD, including SYN,
+parkin, leucine-rich repeat kinase 2 (LRRK2), PTEN-induced puta-
+tive kinase 1 (PINK1), and DJ-1 [100]. Similarly to sporadic and
+familial cases of AD, the pathologic hallmarks for PD are present in
+both sporadic and most cases of familial cases of PD. Thus, the
+familial cases of PD and AD are, for the most part, an accelerated
+early onset version of sporadic disease.
+
+3.1. Nrf2 and Nrf2-dependent genes in PD brains
+
+It has been noted that NQO1 is up-regulated in astrocytes,
+endothelial cells, and dopaminergic neurons in human PD brain
+[101]. A similar pattern is observed with HO-1 and peroxiredoxin
+in SN of PD patients [102–104]. Immunostaining for Nrf2 de-
+monstrated nuclear localization of Nrf2 in dopaminergic neurons
+of PD brains [68]. Oxidative stress has been implicated in PD along
+with mitochondrial dysfunction, protein carbonyls, and oxidative
+DNA damage in the SN [4, 14, 22]. GSH levels are also reduced in
+PD brain [105, 106]. In addition, Keap1 is co-localized with SYN
+and p62 in LB of PD brain [67]. A recent study in induced
+
+pluripotent stem cells (iPSC)-derived from PD and control patients
+also supports Nrf2 involvement in PD. Neurons differentiated from
+the PD iPSC had reduced GSH, increased oxidative stress, increased
+Nrf2 activation, and increased NQO1 levels [107].
+
+3.2. Nrf2 and animal models of PD
+
+In the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)
+model, Chen and colleagues determined changes in mRNA and
+measured NQO1 and hPAP (human placental alkaline phospha-
+tase) activity [108]. The ARE-hPAP reporter mice have a 51-base-
+pair segment of rat NQO1 promoter containing the core ARE that
+was inserted into a TATA-Inr minimal promoter:hPAP reporter
+gene construct [109]. The SN had increased hPAP and NQO1 ac-
+tivity, as well as increased mRNA levels of Nrf2, NQO1, GCLC,
+GCLM, and HO-1 following MPTP [108]. In contrast, hPAP and
+NQO1 activity were reduced in striatum, along with decreased
+mRNA for Nrf2 and NQO1. GCLC, GCLM, and HO-1 remained un-
+changed. Another study found an increase in striatal protein levels
+of Nrf2 and increased mRNA amounts for GCLC, GCLM, and HO-1
+[110]. Finally, Innamorato et al. showed increases in NQO1, GCLM,
+GCLC, and HO-1 protein, as well as HO-1 mRNA level in striatum
+[111]. These discrepancies may be due to the method of MPTP
+administration. In the ﬁrst study, MPTP (30 mg/kg) was adminis-
+tered once a day for ﬁve days, with tissues being harvested seven
+days after the last dose [108]. The second study administered
+MPTP (4 mg/kg) for 20 days [110] and the third used 30 mg/kg,
+once a day, for ﬁve days with tissue being harvested immediately
+after the last dose [111]. Others have directly injected MPPþ into
+the brain and shown decreased SN levels of Nrf2 and GCLC protein
+[112]. Using the same MPPþ method, another group found de-
+creased Nrf2 DNA binding, no change in Nrf2 or GCLC, and in-
+creased HO-1 protein levels in SN [113]. They also determined that
+there was no change in Nrf2 DNA binding, decreased Nrf2 and
+GCLC protein, but increased HO-1 protein in striatum. In the
+6-hydroxydopamine (6-OHDA) model of PD, only a few studies
+could be identiﬁed. One study using ARE-hPAP mice demonstrated
+increased Nrf2 activity in striatum seven days following injection
+[114]. A second study determined that protein levels of both Keap1
+and Nrf2 were decreased in striatum [115]. Obviously, the data are
+not consistent and more studies need to be performed to sort out
+how the Nrf2 pathway is responding to the toxin models of PD.
+
+In transgenic mouse models of PD, only two papers could be
+found that directly investigated how familial protein over-
+expression affected the Nrf2 pathway [116, 117]. Gan and co-
+workers used the Thy1-hSYNA53T PD mouse model and evaluated
+changes at two and six months of age (nonsymptomatic and
+symptomatic). Since the synucleinopathy in these mice presents in
+spinal cord with motor neuron loss, only the spinal cords were
+examined.
+In nonsymptomatic mice, signiﬁcant but modest
+changes were noted. There was a 15% increase in GCLM, increased
+NQO1 (1.5-fold mRNA; 2.6-fold protein), and a 10% increase in
+GSH. In symptomatic mice, a trend of reduced GSH that correlated
+with a 20–30% reduction in GCLM and GCLC mRNA levels was
+observed [116]. These same mice were also crossed with the ARE-
+hPAP reporter mice, which demonstrated increased hPAP staining
+in the ventral horn of the spinal cord. The second study used mice
+with the tyrosine hydroxylase (TH) promoter driving hSYNWT for
+targeted expression in the dopaminergic neurons [117]. At one
+month of age NQO1, GCLM, GCLC, and HO-1 were increased ran-
+ging from 1.6- to 2.0-fold in the SN and 2.1- to 2.5-fold in striatum.
+However, by the age of six months, all changes returned to control
+levels.
+
+Early experiments utilized Nrf2-/- mice to show increased
+sensitivity to the dopaminergic toxins MPTP and 6-OHDA [118,
+119]. The increased sensitivity of the Nrf2-/- mice to MPTP has
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+257
+
+been repeated in multiple laboratories [108, 111, 120–122]. In
+general, there is a greater loss of TH and reduction of dopamine
+(DA), as well as
+the dopamine metabolites 3,4-dihydrox-
+yphenylaceticacid (DOPAC) and homovanillic acid (HVA). There is
+increased neuroinﬂammation associated with greater astrocyte
+(GFAP) and microglial (Iba-1; ionized calcium binding adaptor
+molecule 1) activation in Nrf2-/- mice. It is also important to note
+that the basal level of mRNA expression and protein content of
+Nrf2-dependent genes remained unchanged [108, 121] or slightly
+reduced [122] in striatum and SN (ventral midbrain) of the Nrf2-/-
+compared to control mice. This strongly suggests that the primary
+role for Nrf2 in the central nervous system is to respond to insults
+by activation of gene expression. Thus, the lack of an Nrf2 response
+in Nrf2-/- mice leads to greater damage in the mouse brain. In-
+terestingly, it is hypothesized that Nrf2 responsiveness is atte-
+nuated with age, reducing the endogenous Nrf2 response to oxi-
+dative stress similarly to what is most likely occurring in the
+Nrf2-/- mice.
+
+Adeno-associated virus (AAV) has been used to deliver hSYNWT
+(AAV-hSYNWT) to Nrf2þ/þ and Nrf2-/- mice [123]. AAV-hSYNWT
+was stereotactically injected into the ventral midbrain and tissues
+were harvested 2 months after injection. There was a small but
+signiﬁcant loss of TH-positive neurons in both Nrf2þ/þ and
+Nrf2-/-, with slightly more loss (23% more) in the Nrf2-/- mice.
+However, there were no changes in DA, DOPAC, or HVA. The au-
+thors speculate that the Nrf2 pathway may be involved in SYN
+degradation through the ubiquitin–proteasome system (UPS) but
+the mRNA levels of the proteasome subunits PSMB7, PSMC3, and
+PSMC4 in the ventral midbrain were not signiﬁcantly different
+between Nrf2þ/þ and Nrf2-/- mice. Immunohistochemical ana-
+lysis for PSMB7 allowed evaluation of the dopaminergic neurons,
+which stained positive for hSYNWT and PSMB7. These data did
+suggest that there are differences in neuronal PSMB7 in Nrf2þ/þ
+and Nrf2-/- mice. There were also changes in astrocytic and mi-
+croglial activation based on cellular morphology without bio-
+chemical validation.
+
+Based on early studies showing the importance of Nrf2 acti-
+vation in astrocytes [83, 84], Jakel and co-workers transduced
+astrocytes in vitro with adenovirus containing Nrf2 (Ad-Nrf2) or
+GFP (Ad-GFP) and then transplanted these Nrf2-overexpressing
+and control GFP astrocytes into the ipsilateral and contralateral
+striatum, respectively, by stereotactic injection [119]. Five weeks
+later, bilateral injection 6-OHDA toxicity revealed a signiﬁcantly
+reduced lesion volume in the Nrf2 astrocyte striatum. To better
+understand if astrocytic Nrf2 activation can modulate PD, GFAP-
+Nrf2 mice were treated with MPTP. Dramatic protection of the
+dopaminergic neurons was observed in the GFAP-Nrf2 mice fol-
+lowing MPTP administration, which was sustained when the
+GFAP-Nrf2 mice were on an Nrf2-/- background [108]. GFAP-Nrf2
+mice were then crossed with the Thy1-hSYNA53T to evaluate if Nrf2
+overexpression in astrocytes could modulate hSYNA53T aggregation
+and proteostasis [116]. The median survival of the hSYNA53T mice
+was dramatically extended by Nrf2 overexpression in astrocytes
+from 206.5
+in
+hSYNA53T/GFAP-Nrf2 double transgenic mice. During pathogenesis,
+hSYNA53T shifted from the soluble to the insoluble/aggregated
+protein fraction. Six-month-old symptomatic hSYNA53T mice had a
+signiﬁcant increase in insoluble/aggregated hSynA53T that was
+completely reversed by overexpression of Nrf2 in astrocytes. The
+insoluble hSYNA53T was also highly phosphorylated (Ser129)
+(p-hSYNA53T) and immunohistochemically co-localized with
+hSYNA53T aggregates and p62. Again, these observations were
+completely reversed by GFAP-Nrf2. Autophagic dysfunction was
+also observed in the in hSYNA53T mice. Reduced macroautophagy,
+as well as impaired chaperone-mediated autophagy, was noted in
+the hSYNA53T mice. Astrocytic Nrf2 activation prevented neuronal
+
+hSYNA53Tmice
+
+272.0
+
+days
+
+in
+
+to
+
+days
+
+Table 1
+Chemical activators of Nrf2 that have been tested in animal models of PD.
+
+Compound
+
+PD model
+
+Species
+
+Nrf2-/-
+
+Reference
+
+3H-1,2-Dithiole-3-thione
+CDDO-MA
+Sulforaphane
+S-Allyl cysteine
+S-Allyl cysteine
+Gly-Pro-Glu bound to L-dopa
+siKeap1
+Puerarin
+CDDO-EA
+CDDO-TFEA
+(RS)-Glucoraphanin
+Phloroglucinol
+Tetramethylpyrazine
+Naringenin
+Gastrodin
+Vinyl sulfones
+VSC2
+Dimethyl fumarate
+KMS04014
+Protocatechuic acidþChrysin
+Fasudil
+
+MPTP
+MPTP
+MPTP
+6-OHDA
+MPTP
+MPTP
+MPTP
+6-OHDA
+MPTP
+MPTP
+MPTP
+6-OHDA
+MPPþ
+6-OHDA
+MPTP
+MPTP
+MPTP
+6-OHDA
+MPTP
+6-OHDA
+MPTP
+
+Mouse
+Mouse
+Mouse
+Rat
+Mouse
+Mouse
+Mouse
+Rat
+Mouse
+Mouse
+Mouse
+Rat
+Rat
+Mouse
+Mouse
+Mouse
+Mouse
+Mouse
+Mouse
+Mouse
+Mouse
+
+Yes
+No
+Yes
+No
+No
+No
+No
+No
+Yes
+Yes
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+
+[118]
+[164]
+[121]
+[213]
+[214]
+[110]
+[215]
+[115]
+[122]
+[122]
+[216]
+[217]
+[11]
+[218]
+[219]
+[220]
+[221]
+[222]
+[223]
+[224]
+[225]
+
+autophagic dysfunction and correlated with increased lifespan and
+reduced hSYNA53T aggregation in the hSYNA53T/GFAP-Nrf2 mice.
+These data suggest that Nrf2 activation in astrocytes stabilizes
+proteostasis and reduces oxidative stress in neurons over-
+expressing hSYNA53T. The question of how this works mechan-
+istically remains to be answered.
+
+Numerous Nrf2-activating compounds have been tested in
+
+animal models of PD (Table 1).
+
+In general, the data show different degrees of protection of
+dopaminergic neurons in rats or mice. Three papers used Nrf2-/-
+mice to show that the protective effects of the chemical being
+tested were Nrf2-dependent [118, 121, 122]. Burton and colleagues
+demonstrated that activation of the Nrf2 pathway by oral admin-
+istration of 3 H-1,2-dithiole-3-thione (D3T) to wild-type mice
+partially protected them from MPTP-induced neurotoxicity. This
+protective effect was not observed in Nrf2-/- mice. Sulforaphane
+treatment also showed partial protection in Nrf2þ/þ mice that
+was not observed in Nrf2-/- mice [121]. In addition, of the veriﬁed
+Nrf2-dependent compounds, CDDO-EA (CDDO-EA) and CDDO-
+triﬂuoroethylamide (CDDO-TFEA) had signiﬁcant effects across all
+endpoints measured in an MPTP study [122]. A more recent study
+did not examine a compound but evaluated whether treadmill
+exercise could regulate Nrf2 and modulate MPPþ pathology in rats
+[113]. Exercised rats were run 60 min/day, 5 days a week, for
+4 weeks. Sedentary rats were placed on the treadmill for 60 min/
+day without running. MPPþ was injected into the striatum and the
+rats were harvested 1 week after injection. The loss of TH-positive
+neurons and TH protein levels was completely reversed by ex-
+ercise. LV-shNrf2 striatal injection 1 week prior to MPPþ injection
+reversed the protective effects of exercise.
+
+4. Nrf2 in amyotrophic lateral sclerosis
+
+Amyotrophic lateral sclerosis (ALS) is the most common adult-
+onset motor neuron disease, caused by the progressive degen-
+eration of motor neurons in the spinal cord, brain stem, and motor
+cortex [[124]. Motor neurons contain ubiquitin-positive hyaline
+and skein-like inclusions [125]. These inclusions contain SOD1 that
+co-localizes with p62 [126]. TDP-43 (TAR DNA-binding protein)-
+and FUS-positive inclusions have also been identiﬁed in ALS [127,
+128]. As with AD and PD, the majority of ALS cases are sporadic
+
+258
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+(sALS), with approximately 10–15% of cases associated with fa-
+milial mutations (fALS). The ﬁrst mutant gene identiﬁed in fALS
+was Cu/Zn-superoxide dismutase 1 (SOD1) and the mutation
+caused disease through a toxic gain of function [129]. Over 150
+mutations have been identiﬁed in SOD1. Rodents overexpressing
+mutated forms of hSOD1 generally develop an ALS-like phenotype
+[130, 131]. Although the molecular mechanism underlying this
+toxic gain of function remains unknown, toxicity to motor neurons
+requires mutant SOD1 expression in non-neuronal cells as well as
+in motor neurons [132]. In recent years, 24 additional genes have
+been associated with sALS and fALS [133] including p62 [134],
+which has a direct link to Keap1/Nrf2 and autophagy.
+
+4.1. Nrf2 and Nrf2-dependent genes in ALS brains
+
+Nrf2 and Keap1 have been examined in the primary motor
+cortex and spinal cord of ALS patients [135]. There was a reduction
+in Nrf2 mRNA and protein in ALS patient tissue relative to Nrf2
+levels in control tissues, but Keap1 mRNA and protein levels did
+not change. Nrf2-dependent genes were not evaluated. In addition,
+Keap1 has been shown to co-localize with intracellular inclusions
+in motor neurons of postmortem ALS spinal cord [67].
+
+4.2. Nrf2 in animal models of ALS
+
+Initial studies in the hSOD1G93A rat model of ALS demonstrated
+that both the mRNA and protein levels of HO-1 and Nrf2 were
+increased in spinal cord compared to those in nontransgenic lit-
+termate controls [136]. Interestingly, both Nrf2 and HO-1 co-lo-
+calized with reactive astrocytes in the degenerating spinal cord of
+hSOD1G93A rats, leading to speculation that Nrf2 activation in as-
+trocytes may be involved in determining motor neuron fate in ALS.
+This concept was tested in vitro by demonstrating that Nrf2 acti-
+vation in primary astrocytes increased survival of co-plated pur-
+iﬁed primary motor neurons and protected the motor neurons
+from a variety of insults causing motor neuron death [85, 136–
+138]. In the hSOD1G93A mouse, protein levels of Nrf2, thioredoxin,
+HSP-70, HO-1, NQO1, GCLC, and GCLM increased with disease
+progression in lumbar spinal cord but not cortex [139, 140]. Finally,
+the hSOD1G93A and hSOD1H46R/H48Q ALS models were both crossed
+with the ARE-hPAP reporter mice [141]. The earliest and most
+signiﬁcant activation of this genetic sensor of Nrf2 activation oc-
+curred in the distal muscles of both mutant SOD mice. Subse-
+quently, Nrf2 activation proceeded pathology in a retrograde
+fashion along the motor pathway. In the muscles of hSOD1G93A
+mice, gastrocnemius was the ﬁrst muscle to show activation at 30
+days, followed by the triceps at 60 days, and intercostal muscles at
+110 days. Interestingly, Nrf2 activation was isolated to type I ﬁbers,
+which are known to be more resistant to degeneration than type II
+ﬁber in ALS patients. Signiﬁcantly increased hPAP staining was
+also observed in the motor neurons and astrocytes in the ventral
+horn of the spinal cord. Thus, it appears that Nrf2 activation in the
+muscle is in response to denervation and occurs prior to Nrf2 ac-
+tivation in spinal cord.
+
+Nrf2 knockout mice have been crossed with the hSOD1G93A and
+hSOD1G85R models of ALS [140, 142]. The ﬁrst study found a
+modest decrease in lifespan by six days in male and seven day in
+female hSOD1G93A mice on an Nrf2-/- background [140]. In the
+second study, Nrf2 knockout had no effect on lifespan or onset in
+the hSOD1G93A and hSOD1G85R mice [142].
+
+Viral-mediated therapy was performed using intramuscular
+injection of AAV6-Nrf2. The virus can transduce axons at the
+neuromuscular junction, followed by axonal retrograde transport
+and expression of Nrf2 in motor neuron cell bodies [143]. The
+hSOD1G93A mice were injected with either AAV6-Nrf2 or AAV6-
+GFP at 30 days of age in multiple muscles (facial, tongue,
+
+intercostal, diaphragm, and hind limbs). No effect on lifespan,
+onset, motor neuron survival, or rotarod performance was ob-
+served. The negative results were attributed to low viral trans-
+duction efﬁciency of motor neurons. Although this may be the
+case, another study using transgenic mice to drive Nrf2 over-
+expression in neurons also resulted in a negative outcome [142].
+Here, these investigators crossed the Thy1-cre, hSOD1G93A, and
+caNrf2 mice. The caNrf2 mice carry an Nrf2 transgene that lacks
+the N-terminal Neh2 domain responsible for binding to Keap1
+under control of the chicken β-actin promoter. Between the pro-
+moter and caNrf2 lies a transcription/translation STOP cassette
+ﬂanked by loxP sites. In the presence of cre recombinase the STOP
+is removed and caNrf2 is expressed. Thy1 promoter is a neuronal
+selective promoter driving the expression of cre recombinase,
+which allowed the overexpression of caNrf2 in neurons. Although
+neuronal overexpression of caNrf2 in hSOD1G93A led to a sig-
+niﬁcant seven-day delay in onset, there was no signiﬁcant effect
+on survival.
+
+Based on the ARE-hPAP expression proﬁle in hSOD1G93A mice
+discussed earlier, overexpression of Nrf2 in the degenerating type
+II ﬁber was hypothesized. Transgenic mice were generated using
+the MLC1 (myosin light chain 1) promoter driving expression of
+Nrf2 selectively in type II ﬁber of skeletal muscle [142]. Similarly to
+the neuronal overexpression of Nrf2, there was a signiﬁcant eight-
+day delay in onset, but no signiﬁcant effect on survival.
+
+The most compelling data come from experiments using
+transgenic GFAP-Nrf2 mice that overexpress Nrf2 only in astro-
+cytes [85]. Crossing these mice with the hSOD1G93A mice sig-
+niﬁcantly delayed onset by 17 days and extended lifespan by 20.5
+days. Furthermore, a delay in astrogliosis, but more importantly a
+signiﬁcant attenuation of microglial activation, was observed. Fi-
+nally, there was reduced neuronal loss and muscle denervation in
+the GFAP-Nrf2/hSOD1G93A mice.
+
+The published data on Nrf2-activating compounds is more
+limited in ALS than in PD. This may be a reﬂection of either a lack
+of experimental studies using Nrf2-activating compounds or the
+failure of these compounds with no subsequent publications. For
+example, sulforaphane has been used and failed without publica-
+tion (personal communication). Some of the same compounds
+used in PD models, CDDO-EA and CDDO-TFEA, have been used in
+ALS models [144]. These compounds were fed in the diet and
+feeding was initiated at 30 and at 75 days of age (onset) to
+hSOD1G93A mice. The former treatment protocol resulted in an
+extension of lifespan by 20.6 days for CDDO-EA and 17.6 days for
+CDDO-TFEA. The latter treatment protocol resulted in an extension
+of lifespan by 17.5 days for CDDO-EA and 16 days for CDDO-TFEA.
+Feng and colleagues tested DL-3-n-butylphthalide in hSOD1G93A
+mice [145]. The compound was administered by gavage once a day
+starting at onset, and there was a signiﬁcant extension of lifespan
+at the highest dose of approximately 18 days. This was accom-
+panied by increased neuronal survival and suppression of neu-
+roinﬂammation (astrocytic and microglial activation). S-[þ]-apo-
+morphine was identiﬁed as an Nrf2 activator in a compound
+screen and used to treat hSOD1G93A mice [146]. Drug treatment
+was started at 21 days and continued until end stage. Although,
+there was some delay in onset and behavioral outcome measures,
+there was no effect on lifespan. CPN-9 was identiﬁed through an in
+silico drug screen to identify compounds that suppress oxidative
+stress-induced cell death and was subsequently shown to be an
+Nrf2-activating compound [147]. hSOD1H46R mice were treated
+with CPN-9 by gavage at the day of onset, demonstrating a small,
+but signiﬁcant, sixday extension of lifespan at the highest dose of
+CPN-9. Finally, the same group produced a novel acylaminoimi-
+dazole derivative, WN1316, based on the structure of CPN-9 that
+retained Nrf2 activity [148]. The hope was to develop a compound
+with better pharmacokinetics for the treatment of ALS. Again,
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+259
+
+treatment was initiated at onset in both the hSOD1H46R and
+hSOD1G93A mice and a signiﬁcant extension of survival of
+hSOD1H46R by nine days and hSOD1G93A by eight days was seem at
+the highest dose of WN1316. There was also a delay in neuronal
+loss, as well as reduced astrocytic and microglial activation.
+
+5. Nrf2 in Huntington’s disease
+
+HD is an autosomal dominant neurodegenerative disease that
+is associated with expansion of a CAG repeat in the gene encoding
+the Htt protein [149]. This results in a stretch of N-terminal glu-
+tamine residues, and the severity and onset of disease correlates
+with the length of this polyglutamine repeat. Furthermore, a
+conformational change in the Htt increases self–aggregation as-
+sociated with intracellular inclusion formation [150]. HD is pa-
+thologically characterized by degeneration in neostriatal (caudate
+and putamen) and cerebral cortex that is believed to be the un-
+derlying contributor to motor impairment, cognitive decline, and
+psychiatric symptoms, which worsen as the disease progresses.
+Oxidative stress due to mitochondrial dysfunction has been im-
+plicated in human patients [151]. Defects in mitochondrial com-
+plex II, III, and IV were observed in striatum of postmortem HD
+brain [152, 153].
+
+5.1. Nrf2 and Nrf2-dependent genes in HD brains
+
+Surprisingly little work has been done on HD tissues and Nrf2.
+There has been only one study examining Nrf2 or Nrf2-dependent
+genes in postmortem HD brains [154],
+in which HO-1 im-
+munohistochemical staining was increased in HD brain.
+
+5.2. Nrf2 in animal models of HD
+
+Malonate and 3-nitropropionic acid (3NP), mitochondrial
+complex II inhibitors, produce striatal medium spiny neuron de-
+generation, a characteristic feature observed in HD [155, 156].
+Malonate-treated ARE-hPAP reporter mice show signiﬁcant in-
+creases in hPAP activity in astrocytes that form the border of the
+penumbra [157, 158]. Malonate also increased Nrf2 and HO-1
+mRNA levels in mouse striatum seven days after injection into
+striatum [158]. In the 3NP model, HO-1 and NQO1 protein levels
+were increased in rat striatum [159]. However, another study using
+3NP did not demonstrate changes in Nrf2 protein or mRNA levels
+of NQO1, HO-1, GCLM, or glutathione-S-transferase P1 [160]. The
+- (a cystine transport sys-
+Nrf2-depdendent subunit of system xc
+tem), xCT, is reduced in R6/2 striatum, suggesting the possible
+disruption of Nrf2 activity in the mouse model [161]. Expanding
+on the role of Nrf2 in the malonate and 3NP HD models, Nrf2-/-
+mice exposed to these agents had more signiﬁcant lesion volumes
+at doses that had little or no effect in wild type mice [157, 162,
+163].
+
+In addition, Calkins and colleagues demonstrated that Ad-
+Nrf2-, in contrast to Ad-GFP-transduced primary astrocyte and
+mouse neural progenitor cells transplanted into the mouse stria-
+tum had signiﬁcant protection from malonate toxicity [157, 158].
+Four to ﬁve weeks after transplantation of both cell types, the mice
+were injected with malonate and Ad-Nrf2 transplanted striatum
+had an 80–90% reduction in lesion volume. Direct injection of Ad-
+Nrf2 into the striatum also conferred signiﬁcant but less protection
+against 3NP toxicity [162]. Malonate was also injected into the
+striatum of GFAP-Nrf2 mice, and similarly, the GFAP-Nrf2 mice
+were more resistant to malonate [158]. Interestingly, there was no
+difference in baseline levels of Nrf2-dependent genes in GFAP-Nrf2
+striatum. In addition, astrocytic and microglial activation were not
+attenuated. However, there was dramatic acceleration and robust
+
+Nrf2 activation that occurred within 24 h of malonate dosing in
+the GFAP-Nrf2 mice. In contrast, the wild type mice had virtually
+no increased Nrf2, suggesting that activation of the Nrf2 pathway
+after a toxic insult could be beneﬁcial.
+
+Similar to PD and ALS models, CDDO-MA has been tested in the
+3NP model, whereas CDDO-EA and CDDO-TFEA have been tested
+using the N171-82Q mouse model of HD [164, 165]. In all cases,
+signiﬁcant protection was observed. The N171-28Q mice were
+started on diets containing the CDDO compounds at 30 days of
+age. Lifespan was increased 34 and 29 days for CDDO-EA and
+CDDO-TFEA, respectively. However, Nrf2-/- mice were not used in
+these studies. Another group fed tert-butylhydroquinone (tBHQ), a
+well-known Nrf2-activating compound, to Nrf2þ/- and Nrf2-/-
+mice followed by 3NP administration [162]. tBHQ was started
+1 week prior to initiating the 3NP, and the data showed protection
+with tBHQ in Nrf2þ/- but not Nrf2-/- mice. A similar experiment
+gave cystamine once daily for seven days to Nrf2þ/þ and Nrf2-/-
+mice prior to starting 3NP dosing [163]. The Nrf2þ/þ mice given
+cystamine did not have any striatal lesions, and in the Nrf2-/-,
+cystamine actually signiﬁcantly increased lesion volume. The R6/2
+and YAC128 models of HD were treated with dimethylfumarate
+(DMF), another known Nrf2-activating compound [166]. DMF
+dosing twice daily via gavage began at 4 weeks of age in the R6/2
+mice. Survival was extended from 94 to 100.5 days and was as-
+sociated with preserved muscle function and body weight, as well
+as increased number of intact neurons. Formation of intracellular
+ubiquitin-positive Htt aggregates, however, was not affected by
+DMF treatment. DMF treatment of YAC128 mice resulted in re-
+duced clasping score and neuronal loss in the striatum and cortex
+at 1 year of age. Two additional compounds, naringin, a ﬂavonone
+from grapefruit, and protopanaxtriol, a compound isolated from
+ginseng, protect against 3NP-induced neurodegeneration [159,
+160]. Much more work is required in the HD and genetic HD
+models to better understand how Nrf2 can modulate HD pathol-
+ogy. Current work in our laboratory is examining the protective
+effects of neuronal versus astrocytic Nrf2 overexpression in R6/2
+transgenic and zQ175 knockin mice.
+
+6. Nrf2 in multiple sclerosis
+
+It is estimated that as many as 400,000 people in the United
+States and more than 2.3 million people worldwide are affected by
+multiple sclerosis (MS). MS is a chronic neuroinﬂammatory dis-
+ease onset by activation of peripheral CD4þ T cells that traverse
+the blood–brain barrier and mount a damaging autoimmune at-
+tack on myelin and oligodendrocytes in the central nervous system
+(CNS) [167]. Neurological deﬁcits manifest in heterogenic condi-
+tions that include but are not limited to vision loss, dyscoordina-
+tion, weakness, sensory loss, and cognitive changes, as well as
+bladder and bowel dysfunction. Pathology of MS is attributed to
+the pathogenic attack on myelin sheathing and oligodendrocytes
+by autoreactive CD4þ Th1 and Th17 cells, as well as inﬁltrating
+macrophages and resident microglia, resulting in axonal retraction
+and astrogliosis. The reactive microglia and astrocytes, in turn,
+secrete inﬂammatory mediators that not only include cytokines
+and chemokines, but also produce reactive oxygen and nitrogen
+species that contribute to oxidative stress, exacerbating the al-
+ready deleterious effects of the neuroinﬂammatory-associated
+tissue damage contributing to the disease progression [168, 169].
+Today, there are currently eight therapies approved by the FDA for
+the treatment of relapsing remitting MS, the most common (∼87%
+of MS patients) of the four clinical forms of this disease, which
+focus primarily on preventing the penetration of immune cells
+across the blood–brain barrier. However, the extreme complexity
+and heterogeneity of the disease, therapy resistance developed
+
+260
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+over time, and the more current dogma that oxidative stress
+contributes to the disease, warrants further investigation to im-
+prove and/or contribute to existing treatments [170].
+
+6.1. Nrf2 and Nrf2-dependent genes in MS brain lesions
+
+Severe oxidative damage has been observed in lesions from MS
+brain tissue and attributed to the inﬂammatory-mediated gen-
+eration of reactive oxygen and nitrogen species. Expression of
+antioxidant proteins and enzymes, as well as Nrf2 protein, coin-
+cided with cellular stress markers in active lesions when com-
+pared with normal-appearing white matter (NAWM) and white
+matter tissue from non-neurological control brains [171–173].
+Thus, activation of an Nrf2-mediated antioxidant response may
+reﬂect protective cellular defense mechanisms against the oxida-
+tive stress-mediated damage associated with persistent
+in-
+ﬂammation. Initial studies identiﬁed NQO1, a well-known Nrf2-
+regulated enzyme, as highly up-regulated in active and highly
+active MS lesions, particularly in hypertrophic astrocytes and
+myelin-laden macrophages. Oligodendrocytes sporadically dis-
+played NQO1 immunnoreactivity, while neuronal NQO1 staining
+was rarely observed [171]. Subsequent studies identiﬁed active MS
+lesions as being immunoreactive for the oxidative stress markers
+4-HNE, 8-hydroxydeoxyguanosine, and nitrotyrosine,with these
+same active lesions coexpressing the antioxidant enzymes HO-1,
+SOD1, SOD2, and catalase. Similarly to the expression of NQO1, this
+staining was morphologically and histochemically identiﬁed as
+being present in hypertrophic astrocytes and myelin-laden mac-
+rophages with modest or no staining in NAWM. Consistent with
+the expression of antioxidants, up-regulation of Nrf2 in MS lesions
+was localized to both the nucleus and cytoplasm of inﬁltrating
+macrophages and reactive astrocytes, with weak expression in
+oligodendrocytes bordering active lesions [173].
+
+6.2. Nrf2 and animal models of MS
+
+Studies using mouse models of multiple sclerosis indicate the
+importance of Nrf2 in the progress and/or prevention of this de-
+myelinating neuroinﬂammatory disease. For
+instance, Nrf2
+knockout mice immunized with myelin oligodendrocytic protein
+(MOG 35–55) to induce an acute autoimmune experimental au-
+toimmune encephalomyelitis (EAE), a humanized model of MS in
+mice, demonstrated a more severe course of disease, a more rapid
+onset, and a greater percentage of Nrf2 knockout mice with EAE. In
+spines from diseased mice, there were more severe demyelination
+and increased immune cell inﬁltration and glia cell activation, as
+well as increased mRNA expression of inﬂammatory enzymes
+(iNOS, phox-47, gp91-phox, and phox-67), cytokines (IFN-gamma,
+IL1-b, and IL-12) and chemokines (BLC and MIG), in Nrf2-deﬁcient
+mice than in WT mice, further suggesting that Nrf2 can modulate
+autoimmune neuroinﬂammatory responses [174].
+
+More recently, compound- or natural product-mediated acti-
+vation of the Nrf2 signaling pathway has been found to ameliorate
+oxidative stress and neuroinﬂammation in EAE and MS [175–178],
+supporting the notion that induction of Nrf2 in both mouse and
+human can prevent or alleviate the pathogenesis associated with
+MS and EAE. Remarkable examples are the fumaric acid esters
+(FAE), methyl hydrogen fumarate (MHF), and DMF. These were
+previously used for effective treatment of the autoimmune skin
+disorder psoriasis via immunomodulation and immunosuppres-
+sion. Treatment with DMF also had a signiﬁcant therapeutic effect
+on clinical scores of disease and reduced macrophage inﬂamma-
+tion in spinal cords of EAE mice versus control treatments [179].
+Interestingly, in early studies using murine primary astrocytes,
+DMF, a strong glutathione-depleting agent, had been shown to
+activate the Nrf2-ARE pathway [180]. Both DMF and MMF
+
+(monomethyl fumarate; a primary metabolite of DMF) have been
+shown to react with the Keap1 cysteine 151 residue (cys151) in
+studies using Keap1-C151S mutant macrophages and mass spec-
+trometric analysis of astrocytes, respectively [175, 181]. It was
+further demonstrated that the FAE indeed had neuroprotective
+effects in EAE via activation of the Nrf2 pathway. Preventative or
+therapeutic (after disease was initiated) application of DMF atte-
+nuated disease severity and improved preservation of myelin,
+axons, and neurons, which did not occur in Nrf2-/- mice. Im-
+munoreactivity for protein nitrosylated tyrosines, indicative of
+oxidative stress, was reduced in spinal cord sections from mice
+with EAE by treatment with DMF. Furthermore, induction of Nrf2
+in neurons of the motor cortex and brainstem, astrocytes of spinal
+cord gray matter, and oligodendrocytes from spinal cord white
+matter was observed [175]. Treatments of animals or primary
+cultures of CNS cells with DMF or MMF resulted in increased levels
+of Nrf2 nuclear localization, as well as increased levels of canonical
+antioxidant target genes that were not observed in Nrf2 knockout
+mice [182]. DMF (BG-12) has proved effective in Phase III clinical
+trials for the treatment of relapsing MS and was approved for use
+by the FDA in March of 2013. Importantly, biopsies from a patient
+with MS, as well as three psoriasis patients with progressive
+multifocal leukoencephalopathy (single cases in connection with
+FAE treatments), identiﬁed astrocytes as staining positive for both
+nuclear and cytoplasmic Nrf2, whereas oligodendrocytes had
+mostly cytoplasmic staining and only on single occasions nuclear
+Nrf2 staining [183]. Thus, although FAE indeed modulates immune
+function in MS, activation of the Nrf2 signaling pathway may also
+be an important mechanism of action for the prevention of oxi-
+dative-stress-induced neuronal toxicity.
+
+In addition to the FAE, several more recent studies using nat-
+ural compounds such as sulforaphane, an organosulfur compound
+found in cruciferous vegetables, and matrine, a quinolizidine al-
+kaloid derived from the herb Sophora ﬂavescens, as well as CDDO-
+TFEA, a derivative of the natural triterpene oleanolic acid, have all
+been identiﬁed as attenuating EAE through Nrf2-modulatory, as
+well as immunomodulatory mechanisms [176–178]. More speci-
+ﬁcally, sulforaphane was shown to ameliorate EAE by preserving
+the blood–brain barrier, reducing the levels of the autoimmune T
+cell, Th17, in addition to antagonizing oxidative stress via activa-
+tion of Nrf2, as evidenced by increased expression of NQO1 and
+HO-1 in brain tissues of treated mice [177]. Matrine treatments
+also were effective in EAE, by which tissue from spinal cord im-
+munohistochemically identiﬁed increased protein levels of Nrf2
+and HO-1 in treated mice [178]. Last, CDDO-TFEA completely
+suppressed EAE disease in mice, presumably through suppression
+of inﬂammatory cytokines, speciﬁcally IL-17, and induction of
+Nrf2-dependent antioxidant gene expression in both CNS and
+peripheral lymphocytes. In addition, CDDO-TFEA enhanced myelin
+repair in a lysophosphatidylcholine-induced model of demyelina-
+tion [176]. Alleviation of neuroinﬂammatory-induced oxidative
+stress through activation of Nrf2 and induction of antioxidant is
+thus an important therapeutic target for prevention of oxidative
+stress associated with MS, other autoimmune disorders, as well as
+neuroinﬂammation associated with other neurodegenerative
+diseases.
+
+7. Nrf2 and neuroinﬂammation
+
+A pathological hallmark feature of neurodegenerative disease is
+neuroinﬂammation, mediated primarily by activated resident in-
+nate immune cells, the microglia. When activated, microglia secrete
+cytotoxic reactive oxygen and nitrogen species, contributing to
+the deleterious affects on neurons, especially in cases of microglial
+overactivation and dysregulation. Furthermore, components of
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+261
+
+dead or damaged neurons also activate microglia (reactive micro-
+gliosis) via pattern recognition receptors (e.g., toll-like receptors),
+resulting in a perpetuating cycle of neuronal cell death [184, 185]. In
+an adult human brain, cell densities of microglia are brain-region-
+dependent and range from 0.5 to 16.6%. Under normal conditions,
+they reside predominantly in a resting ramiﬁed-like morphology in
+the gray matter, with the highest concentrations found in hippo-
+campus, olfactory telencephalon, basal ganglia, and substantia nigra
+[185, 186]. Thus, it comes as no surprise that these brain regions
+may be more susceptible to reactive microgliosis, as observed in
+several neurodegenerative diseases, such as AD, PD, HD, and ALS
+[187].
+
+The most abundant source of reactive species produced by
+microglia is initiation of the NADPH oxidase (NOX) system gen-
+erating superoxide anions (O2 ). Upon activation by various sti-
+muli, including pathogen-associated molecular patterns (PAMPs),
+inﬂammatory cytokines, and/or neurotoxins,
+the membrane-
+bound NOX enzyme complex innately promotes microbial killing,
+as well as changes in morphology, cellular migration, and regula-
+tion of proinﬂammatory gene expression. However, persistent
+activation of NOX results in peroxidation of lipids and other
+macromolecules and activation of apoptosis,
+thus promoting
+neuronal cell death and degeneration. Similarly, inducible nitric
+oxide synthase (iNOS) enzyme is induced and its activation results
+in generation of nitric oxide (NO), which like O2  is neurotoxic
+at continuously high levels. High concentrations of NO unbalance
+redox homeostasis, and NO can also react with O2 , resulting in
+a more toxic reactive species, peroxynitrite (ONNO ) [188].
+Under resting conditions, microglia continuously survey the
+surrounding environment in search of pathogens, sick cells, or
+cellular debris, as well as participating in synaptic remodeling and/
+or maintenance. However, upon activation by hazardous compo-
+nents, microglia become active and in turn secrete proin-
+ﬂammatory mediators such as TNF, interleukin (IL)-1, IL-6, IL-12,
+and IL-23. This phase of microglia activation is commonly known
+as the classical proinﬂammatory phase and termed M1. Following
+the M1 phase is a longer-lasting anti-inﬂammatory or alternative
+phase, M2. Microglia in this phase are activated by anti-in-
+ﬂammatory cytokines, which include IL-4, IL-10, and IL-13. Sub-
+sequently, these same cytokines are produced, in addition to in-
+creased expression of genes involved in wound healing, such as
+arginase-1 (ARG1), mannose receptors (MMC),
+found in in-
+ﬂammatory zone 1 (FIZZ1), and chitinase-3-like-1 (Ym1 in ro-
+dents). Under normal conditions however, the microglia anti-
+oxidant machinery maintains cellular homeostasis and thus mi-
+croglia are maintained in steady state surveillance mode [185].
+
+The master regulator of the inﬂammatory responses to brain
+infections and environmental and cellular damage is the tran-
+scription factor NF-kappaB (NF-kß), and it is the redox state of
+microglia that controls regulatory kinases upstream of NF-kß, as
+well as NF-kß nuclear levels (recently reviewed in [185]). Microglia
+function normally when basal levels of OS are managed by anti-
+oxidant machinery; however, persistent OS or NS continuously
+activates the NF-kß signaling pathway, amplifying the proin-
+ﬂammatory function of microglia and thus contributing to mi-
+croglial overactivation and neurotoxic consequences. Thus, the
+transcription factor Nrf2, associated with activation of antioxidant
+genes and redox homeostasis, is the master regulator of microglia
+fate, protecting microglia from oxidative stress and overactivation
+of the M1 phenotype. More speciﬁcally, activation of Nrf2 drives
+expression levels of genes involved in: 1) OS clearance - SOD3,
+GPx, and Prx; 2) reducing factor production - GCLM/C; 3) NADPH
+generation - glucose-6-phosphate dehydrogenase and/or phos-
+phogluconate dehydrogenase; 4) regeneration of reduced cofac-
+tors and proteins - GR, Trx-TrxR, Prx/sulﬁredoxin, or redox trans-
+ferritin; and
+porters, xCT; 5) metal chelation - MT1/2 or
+
+6) antioxidant activity - HO-1, NQO1, and Trx, and inhibition of the
+expression of the Trx inhibitor, TXNIP [185].
+
+Several studies have described Nrf2 as a therapeutic target
+for the alleviation of brain inﬂammation associated with neuro-
+degeneration and subsequent neuronal protection. In one study,
+Nrf2-/- mice injected with lipopolysaccharide (LPS), a common
+inﬂammogen, were hypersensitive to LPS-induced neuroin-
+ﬂammation in hippocampal tissue. Protein and mRNA for the
+cellular microglia marker F4/80 were increased in hippocampi of
+Nrf2-/- mice compared with WT mice, as were the inﬂammatory
+markers iNOS, IL-6, and TNF-α. Additionally, mice treated with SFN
+displayed a two- to three-fold increase in HO-1, a reduced abun-
+dance of microglia, and an attenuated production of these same
+inﬂammatory markers in response to LPS [189]. SFN-treated rats
+subjected to spinal cord injury had signiﬁcantly increased levels of
+Nrf2 and GCL and decreased levels of the inﬂammatory cytokines,
+IL-1ß and TNF-α, resulting in reduced contusion volume and im-
+proved coordination [190].
+
+In a mouse model of PD, inoculation of MPTP in Nrf2-/- mice
+demonstrated hypersensitivity to OS, with basal ganglia of these
+mice exhibiting more severe dopaminergic dysfunction when
+compared with WT littermate controls. Although Cd11b-positive/
+CD45 highly stained cells, indicative of peripheral macrophage
+inﬁltration, were not signiﬁcantly different between WT and
+Nrf2-/- mice, the latter mice exhibited more astro- and micro-
+gliosis, as determined by increased expression levels of message
+and protein for GFAP and F4/80 [120]. This validated earlier studies
+showing increased neuroinﬂammation associated with astrocytic
+(GFAP) and microglia (Iba-1) activation in Nrf2-/- mice exposed to
+MPTP [108]. Furthermore, inﬂammatory markers for classically
+activated microglia (M1), COX2, iNOS, IL-6, and TNF-α were also
+increased, while markers for alternatively activated microglia
+(M2), FIZZ-1, YM-1, arginase-1, and IL-4, were decreased. These
+results demonstrate a critical role of Nrf2 in the modulation of
+neuroinﬂammation secondary to a neurotoxic insult [120].
+
+In hippocampus of mice that were stereotactically injected
+with an adeno-associated viral vector expressing TAUP301L (indu-
+cing a mouse model of tauopathy), Nrf2-/- mice showed increased
+microgliosis and astrogliosis. This was veriﬁed by mRNA levels for
+TNF and IL-6 in hippocampus, as well as immunohistochemical
+staining for Iba-1 and GFAP. In contrast to WT mice, hippocampal
+mRNA levels for HO-1 and GCLC did not increase in the Nrf2-/- nor
+did cellular staining for HO-1. This suggests that the Nrf2 signaling
+pathway was activated by TAUP301L-induced pathology in an at-
+tempt to modulate the inﬂammatory response. Based on these
+observations, as well as studies demonstrating that neuronal ex-
+pression of the chemokine fractalkine (CX3CL1) modulates TAU-
+mediated neuroinﬂammation, these same authors demonstrated
+that CX3CL1 secreted by injured neurons acted on CX3CR1 re-
+ceptors (exclusive to microglia), activating the Nrf2-ARE signaling
+pathway and attenuating TAUP301L -induced microgliosis. The lat-
+ter studies were supported by observations of increased hippo-
+campal microgliosis in CX3CR1-deﬁcient mice in response to
+TAUP301L, when compared with WT controls, in addition to the
+complete loss of the Nrf2-dependent HO-1 immunohistochemical
+staining in this same cohort. Thus, the release of the chemokine
+CX3CL1 by injured neurons in turn communicates to microglia via
+the CX3CR1 receptor, subsequently activating the Nrf2-ARE path-
+way, to dampen the neuroinﬂammatory response to injury [191].
+In another study using mouse primary neuronal microglia-
+conditioned media and co-culture experiments, the release of the
+milk fat globule-EGF factor 8 (MFG-E8) from microglia in response
+to signals from degenerating neurons exposed to neurotoxic oli-
+gomeric Aß enhanced the phagocytic activity of microglia. Ad-
+ditionally, microglia treated with MFG-E8 activated the Nrf2 sig-
+naling pathway and HO-1. However, in neuronal–microglia co-
+
+262
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+cultures, the neuroprotection afforded by MFG-E8 was reversed
+with the HO-1 inhibitor, Tin (IV)-mesoporphyrin IX dichloride
+(SnMP) treatment, suggesting the importance of HO-1 increase in
+microglia and subsequent protection of neurons from toxicity
+[192]. These studies suggest that cellular communication between
+neurons and microglia and activation of the Nrf2 signaling path-
+way may be a novel therapeutic approach in the protection of
+neurons, particularly in neurodegenerative diseases.
+
+8. NFE2L2 and Keap1 associated haplotypes and neurodegen-
+erative diseases
+
+Based on substantial evidence (as discussed in this review) that
+neurodegenerative effects of OS/NS in diseases such as PD, AD, and
+ALS can be modulated and/or prevented by up-regulation of Nrf2,
+genomic studies have been undertaken to ascertain if common
+genetic variations exist in the genes encoding Nrf2 and its re-
+pressor protein Keap1, NFE2L2 and Keap1, thus contributing to the
+onset or risk of these diseases. Interestingly, based on compilation
+of publicly available SNPs and other genetic variations, it is esti-
+mated that the mutagenic frequency of human NFE2L2 is 1 per
+72 bp, suggesting that several polymorphisms of this gene may
+exist [193]. In initial case-controlled studies of patients with PD,
+von Otter et al. identiﬁed a protective NFE2L2 haplotype, GAG-
+CAAAA, which included a fully functional variant of the Nrf2
+promoter associated with high transcriptional activity in Swedish
+and Polish material [194]. In the Swedish case study, the GAAAA
+haplotype allele was associated with an estimated increased age at
+onset (AAO) of PD of approximately ﬁve years per haplotype allele
+(p¼0.001); while in the Polish study, the full protective haplotype,
+GAGCAAAA, showed a decrease in risk of PD with odds ratios of
+0.4 and 0.2 for heterozygous and homozygous carriers, respec-
+tively (p¼2  10 6). Additionally, the Swedish material identiﬁed
+the haplotypes GAGGG and GAAAG in association with increased
+risk of PD with odds of 2.4 and 3.7 per allele, respectively. Inter-
+estingly, the promoter haplotype AGA showed a tendency toward
+increased risk of PD and full risk with the full promoter haplotype
+GAGAAGGG (odds ratio of 2.8 per haplotype allele). However, the
+full haplotype allele, GAGCAAAA, was estimated to delay PD AAO
+per haplotype allele. No individual SNPs alone, however, sig-
+niﬁcantly affected risk of PD in either Swedish or Polish material.
+In addition, genetic variations of Keap1 were also analyzed; how-
+ever, no associations to AAO or risk of PD were detected [194].
+
+A more recent meta-analysis of genetic associations of Nrf2-
+encoding NFE2L2 variants in PD using the above data in addition to
+four new independent European patient-control materials (from
+Malta, Germany, Italy, and a second Swedish study) also demon-
+strated an association of haplotype GAGCAAAA (including the fully
+functional promoter haplotype AGC) with decreased risk (odds
+ratio (OR) of 0.8 per allele, p¼0.012) and delayed onset of (þ1.1
+years per allele, p¼0.048) of PD [195]. These results supported the
+initial haplotype study that associated variations in the NFE2L2
+gene with pathogenesis of PD. The latter study also described four
+single nucleic acid polymorphisms (SNPs) included in the haplo-
+types that were associated with AAO of PD (three SNPs that pro-
+moted onset included: rs7557529 G4A, -1.0 years per allele,
+p¼0.042; rs35652124 A4G, -1.1 years per allele, p¼0.045;
+rs2886161 A4G, -1.2 years per allele, p¼0.021; and delayed onset
+SNP: rs1806649 G4A, þ1.2 years per allele). Of note, SNP
+rs35652124 is fully functional and located in the NFE2L2 promoter
+[195].
+
+In contrast with the above PD studies, genetic analysis of
+the NFE2L2 promoter did not show variation in a Taiwanese
+patient controlled PD study. Three SNPs located in the NFE2L2
+promoter, rs35652124, rs6706649, and rs6721961, were analyzed
+
+independently or with haplotype variants that were associated
+with PD susceptibility, yet did not correlate with PD susceptibility.
+The authors concluded that the disparity between the Taiwanese
+and European studies might be attributed to genomic differences
+in ethnicity and environmental factors in different geographical
+regions [196].
+
+Similar studies using AD Swedish case-controlled material did not
+support NFE2L2 or Keap1 single SNPs or haplotypes as risk suscept-
+ibility genes for AD [197]. However, haplotype analysis of age at AD
+onset showed a signiﬁcant association of haplotype GAAAA with
+2 years earlier age at AD onset (p¼0.013), suggesting that common
+variants of the NFE2L2 gene may affect AD progression thus altering
+clinically recognized disease onset. Gene variants of NFE2L2 or Keap1
+were not associated with results of mini-mental state examination
+(MMSE) or CSF biomarker levels of total tau protein and Aß 1–42
+in these same AD case-control studies [197].
+
+Swedish case-control studies of NFE2L2 and Keap1 in ALS dis-
+ease identiﬁed one NFE2L2 haplotype (GGGAC) associated with
+decreased risk of sporadic ALS (OR¼0.62 per allele, p¼0.015) and
+one haplotype in Keap1 (CGC) correlated with delayed sporadic
+ALS onset (þ3.4 years per allele, p¼0.015). In addition, further
+stratiﬁcation of ALS into subgroups identiﬁed one subgroup having
+an NFE2L2-associated haplotype of GAGCAGA, which included
+three functional promoter SNPs associated with high levels of Nrf2
+protein expression, with 4.0 years delayed onset of ALS per allele
+(p¼0.008) [198]. In one other case-controlled study in Italian ALS
+patients, three NFE2L2 promoter polymorphisms (SNP -653 A/G,
+-651 G/A, and -617 C/A), no signiﬁcant differences were observed
+between ALA cases and controls. The -653 A/G promoter poly-
+morphism was slightly higher in patients than in controls, but it
+did not attain signiﬁcance. Furthermore, oxidative stress bio-
+markers assessed in this same study did not associate with and
+were independent from the NFE2L2 promoter polymorphisms
+surveyed [193]. Similar studies have not yet been conducted on HD
+or MS patients.
+
+9. Conclusions
+
+Based on the information provided herein, the Nrf2-ARE
+pathway is a high-value therapeutic target for neurodegenerative
+diseases. The existing data are strongest for PD, ALS, and MS, but
+ongoing experiments in AD and HD should provide more insight
+into how important Nrf2 is in these diseases as well. Numerous
+cell-based and in silico high-throughput screens have identiﬁed
+novel Nrf2-activating compounds [199–205]. The most promising
+approach may be to ﬁnd compounds that noncovalently disrupt
+the DLG or ETGE motif interactions with Keap1 [206, 207]. Cur-
+rently, DMF (BG-12) from Biogen Idec has been FDA-approved for
+treating MS. As discussed above, DMF has also been tested in
+preclinical models of HD; however, only the CDDO compounds
+have been tested in preclinical models of the all diseases discussed
+in this review. Reata Pharmaceuticals moved the ﬁrst CDDO
+compound (Bardoxolone methyl; CDDO methyl ester) into a Phase
+III clinical trial for the treatment of chronic kidney disease. Un-
+fortunately, the trial was stopped in 2012 due to a higher rate of
+cardiovascular events observed in the bardoxolone methyl group
+compared to placebo [208]. A new CDDO derivative (RTA 408) is
+already developed and being tested in clinical trials for a variety of
+non-neurodegenerative diseases,
+[209–212]. More recently, a
+clinical trial using RTA 408 was initiated for Friedreich’s ataxia, a
+neurodegenerative condition responsible for cerebellar ataxia due
+to impaired production of the protein frataxin leading to profound
+deﬁciencies in mitochondrial respiration (ClinicalTrials.gov Iden-
+tiﬁer NCT02255435). Movement of these next generation CDDO
+compounds into the major neurodegenerative diseases could be an
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+263
+
+important step forward, based on the preclinical data from earlier
+generation CDDO compounds.
+
+An interesting new twist to therapeutic approaches targeting
+this pathway is that one cell type may be better than another at
+protecting neurons from degeneration. The lack of protection
+in vivo by overexpression of Nrf2 in neurons or muscle, but pro-
+tection by overexpression in astrocytes in ALS models, as well as
+PD models, highlights this concept that not only the pharmaco-
+logical target, but also the cell type targeted may be relevant when
+an Nrf2-dependent therapeutic approach is considered.
+
+Acknowledgments
+
+This work was supported by Grants R01 ES08089 and R01
+ES10042 from the National
+Institute of Environmental Health
+Sciences, Grants R01 AG033493 and P50 AG033514 from the Na-
+tional Institute on Aging, and the CHDI Foundation.
+
+References
+
+[18] A.C. Bowling, J.B. Schulz, R.H. Brown Jr., M.F. Beal, Superoxide dismutase
+
+activity, oxidative damage, and mitochondrial energy metabolism in familial
+
+[41] L.M. Zipper, R.T. Mulcahy, The Keap1 BTB/POZ dimerization function is re-
+
+quired to sequester Nrf2 in cytoplasm’, J Biol Chem 277 (2002)
+
+and sporadic amyotrophic lateral sclerosis, J Neurochem 61 (1993)
+2322–2325.
+
+[19] K. Hensley, N. Hall, R. Subramaniam, P. Cole, M. Harris, M. Aksenov,
+
+M. Aksenova, S.P. Gabbita, J.F. Wu, J.M. Carney, et al., Brain regional corre-
+spondence between Alzheimer’s disease histopathology and biomarkers of
+protein oxidation, J Neurochem 65 (1995) 2146–2156.
+
+[20] L. Lyras, N.J. Cairns, A. Jenner, P. Jenner, B. Halliwell, An assessment of oxi-
+
+dative damage to proteins, lipids, and DNA in brain from patients with
+Alzheimer’s disease, J Neurochem 68 (1997) 2061–2069.
+
+[21] R. Pamplona, E. Dalfo, V. Ayala, M.J. Bellmunt, J. Prat, I. Ferrer, M. Portero-
+Otin, Proteins in human brain cortex are modiﬁed by oxidation, glycoxida-
+tion, and lipoxidation. Effects of Alzheimer disease and identiﬁcation of li-
+poxidation targets’, J Biol Chem 280 (2005) 21522–21530.
+
+[22] Z.I. Alam, A. Jenner, S.E. Daniel, A.J. Lees, N. Cairns, C.D. Marsden, P. Jenner,
+B. Halliwell, Oxidative DNA damage in the parkinsonian brain: an apparent
+selective increase in 8-hydroxyguanine levels in substantia nigra, J Neu-
+rochem 69 (1997) 1196–1203.
+
+[23] M.C. Polidori, P. Mecocci, S.E. Browne, U. Senin, M.F. Beal, Oxidative damage
+to mitochondrial DNA in Huntington’s disease parietal cortex, Neurosci Lett
+272 (1999) 53–56.
+
+[24] N. Shibata, R. Nagai, S. Miyata, T. Jono, S. Horiuchi, A. Hirano, S. Kato,
+
+S. Sasaki, K. Asayama, M. Kobayashi, Nonoxidative protein glycation is im-
+plicated in familial amyotrophic lateral sclerosis with superoxide dismutase-
+1 mutation, Acta Neuropathol 100 (2000) 275–284.
+
+[25] M.A. Lovell, W.R. Markesbery, Ratio of 8-hydroxyguanine in intact DNA to
+free 8-hydroxyguanine is increased in Alzheimer disease ventricular cere-
+brospinal ﬂuid, Arch Neurol 58 (2001) 392–396.
+
+[26] A. Kikuchi, A. Takeda, H. Onodera, T. Kimpara, K. Hisanaga, N. Sato,
+
+A. Nunomura, R.J. Castellani, G. Perry, M.A. Smith, Y. Itoyama, Systemic in-
+crease of oxidative nucleic acid damage in Parkinson’s disease and multiple
+system atrophy, Neurobiol Dis 9 (2002) 244–248.
+
+[27] Y. Ihara, K. Nobukuni, H. Takata, T. Hayabara, Oxidative stress and metal
+content in blood and cerebrospinal ﬂuid of amyotrophic lateral sclerosis
+patients with and without a Cu, Zn-superoxide dismutase mutation, Neurol
+Res 27 (2005) 105–108.
+
+[28] C.M. Chen, Y.R. Wu, M.L. Cheng, J.L. Liu, Y.M. Lee, P.W. Lee, B.W. Soong, D.
+
+T. Chiu, Increased oxidative damage and mitochondrial abnormalities in the
+peripheral blood of Huntington’s disease patients, Biochem Biophys Res
+Commun 359 (2007) 335–340.
+
+[29] T. Murata, C. Ohtsuka, Y. Terayama, Increased mitochondrial oxidative da-
+
+mage and oxidative DNA damage contributes to the neurodegenerative
+process in sporadic amyotrophic lateral sclerosis, Free Radic Res 42 (2008)
+221–225.
+
+[30] O. Zengi, A. Karakas, U. Ergun, M. Senes, L. Inan, D. Yucel, Urinary 8-hydroxy-
+2’-deoxyguanosine level and plasma paraoxonase 1 activity with Alzheimer’s
+disease, Clin Chem Lab Med 50 (2012) 529–534.
+
+[31] B.I. Giasson, J.E. Duda, I.V. Murray, Q. Chen, J.M. Souza, H.I. Hurtig,
+
+H. Ischiropoulos, J.Q. Trojanowski, V.M. Lee, Oxidative damage linked to
+neurodegeneration by selective alpha-synuclein nitration in synucleinopathy
+lesions, Science 290 (2000) 985–989.
+
+[32] H. Shimura, M.G. Schlossmacher, N. Hattori, M.P. Frosch, A. Trockenbacher,
+R. Schneider, Y. Mizuno, K.S. Kosik, D.J. Selkoe, Ubiquitination of a new form
+of alpha-synuclein by parkin from human brain: implications for Parkinson’s
+disease, Science 293 (2001) 263–269.
+
+[33] H. Fujiwara, M. Hasegawa, N. Dohmae, A. Kawashima, E. Masliah, M.
+
+S. Goldberg, J. Shen, K. Takio, T. Iwatsubo, alpha-Synuclein is phosphorylated
+in synucleinopathy lesions, Nat Cell Biol 4 (2002) 160–164.
+
+[34] G.T. Bramblett, J.Q. Trojanowski, V.M. Lee, Regions with abundant neuroﬁ-
+brillary pathology in human brain exhibit a selective reduction in levels of
+binding-competent tau and accumulation of abnormal tau-isoforms (A68
+proteins), Lab Invest 66 (1992) 212–222.
+
+[35] T. Horiguchi, K. Uryu, B.I. Giasson, H. Ischiropoulos, R. LightFoot, C. Bellmann,
+C. Richter-Landsberg, V.M. Lee, J.Q. Trojanowski, Nitration of tau protein is
+linked to neurodegeneration in tauopathies, Am J Pathol 163 (2003)
+1021–1031.
+
+[36] M.A. Smith, P.L. Richey Harris, L.M. Sayre, J.S. Beckman, G. Perry, Widespread
+peroxynitrite-mediated damage in Alzheimer’s disease, J Neurosci 17 (1997)
+2653–2657.
+
+[37] K. Hensley, M.L. Maidt, Z. Yu, H. Sang, W.R. Markesbery, R.A. Floyd, Electro-
+
+chemical analysis of protein nitrotyrosine and dityrosine in the Alzheimer
+brain indicates region-speciﬁc accumulation, J Neurosci 18 (1998)
+8126–8132.
+
+[38] T.H. Rushmore, C.B. Pickett, Transcriptional regulation of the rat glutathione
+
+S-transferase Ya subunit gene. Characterization of a xenobiotic-responsive
+element controlling inducible expression by phenolic antioxidants, J Biol
+Chem 265 (1990) 14648–14653.
+
+[39] T.H. Rushmore, M.R. Morton, C.B. Pickett, The antioxidant responsive ele-
+
+ment. Activation by oxidative stress and identiﬁcation of the DNA consensus
+sequence required for functional activity, J Biol Chem 266 (1991)
+11632–11639.
+
+[40] K. Itoh, N. Wakabayashi, Y. Katoh, T. Ishii, K. Igarashi, J.D. Engel,
+
+M. Yamamoto, Keap1 represses nuclear activation of antioxidant responsive
+elements by Nrf2 through binding to the amino-terminal Neh2 domain,
+Genes Dev 13 (1999) 76–86.
+
+[1] M. Valko, D. Leibfritz, J. Moncol, M.T. Cronin, M. Mazur, J. Telser, Free radicals
+and antioxidants in normal physiological functions and human disease, Int J
+Biochem Cell Biol 39 (2007) 44–84.
+
+[2] K. Dasuri, L. Zhang, J.N. Keller, Oxidative stress, neurodegeneration, and the
+
+balance of protein degradation and protein synthesis, Free Radic Biol Med
+(2012).
+
+[3] D.T. Dexter, C.J. Carter, F.R. Wells, F. Javoy-Agid, Y. Agid, A. Lees, P. Jenner, C.
+D. Marsden, Basal lipid peroxidation in substantia nigra is increased in Par-
+kinson’s disease, J Neurochem 52 (1989) 381–389.
+
+[4] D.T. Dexter, A.E. Holley, W.D. Flitter, T.F. Slater, F.R. Wells, S.E. Daniel, A.J. Lees,
+P. Jenner, C.D. Marsden, Increased levels of lipid hydroperoxides in the par-
+kinsonian substantia nigra: an HPLC and ESR study, Mov Disord 9 (1994)
+92–97.
+
+[5] A. Yoritaka, N. Hattori, K. Uchida, M. Tanaka, E.R. Stadtman, Y. Mizuno, Im-
+munohistochemical detection of 4-hydroxynonenal protein adducts in Par-
+kinson disease, Proc Natl Acad Sci U S A 93 (1996) 2696–2701.
+
+[6] Y. Ando, T. Brannstrom, K. Uchida, N. Nyhlin, B. Nasman, O. Suhr,
+
+T. Yamashita, T. Olsson, M. El Salhy, M. Uchino, M. Ando, Histochemical de-
+tection of 4-hydroxynonenal protein in Alzheimer amyloid, J Neurol Sci 156
+(1998) 172–176.
+
+[7] W.R. Markesbery, M.A. Lovell, Four-hydroxynonenal, a product of lipid per-
+oxidation, is increased in the brain in Alzheimer’s disease, Neurobiol Aging
+19 (1998) 33–36.
+
+[8] T.I. Williams, B.C. Lynn, W.R. Markesbery, M.A. Lovell, Increased levels of
+
+4-hydroxynonenal and acrolein, neurotoxic markers of lipid peroxidation, in
+the brain in Mild Cognitive Impairment and early Alzheimer’s disease,
+Neurobiol Aging 27 (2006) 1094–1099.
+
+[9] R.G. Smith, Y.K. Henry, M.P. Mattson, S.H. Appel, Presence of 4-hydro-
+
+xynonenal in cerebrospinal ﬂuid of patients with sporadic amyotrophic lat-
+eral sclerosis, Ann Neurol 44 (1998) 696–699.
+
+[10] E.P. Simpson, Y.K. Henry, J.S. Henkel, R.G. Smith, S.H. Appel, Increased lipid
+peroxidation in sera of ALS patients: a potential biomarker of disease burden,
+Neurology 62 (2004) 1758–1765.
+
+[11] K.S. Montine, P.J. Kim, S.J. Olson, W.R. Markesbery, T.J. Montine, 4-hydroxy-2-
+nonenal pyrrole adducts in human neurodegenerative disease, J Neuropathol
+Exp Neurol 56 (1997) 866–871.
+
+[12] L.M. Sayre, D.A. Zelasko, P.L. Harris, G. Perry, R.G. Salomon, M.A. Smith, 4-
+Hydroxynonenal-derived advanced lipid peroxidation end products are in-
+creased in Alzheimer’s disease, J Neurochem 68 (1997) 2092–2097.
+
+[13] W.A. Pedersen, W. Fu, J.N. Keller, W.R. Markesbery, S. Appel, R.G. Smith,
+E. Kasarskis, M.P. Mattson, Protein modiﬁcation by the lipid peroxidation
+product 4-hydroxynonenal in the spinal cords of amyotrophic lateral
+sclerosis patients, Ann Neurol 44 (1998) 819–824.
+
+[14] Z.I. Alam, S.E. Daniel, A.J. Lees, D.C. Marsden, P. Jenner, B. Halliwell, A gen-
+
+eralised increase in protein carbonyls in the brain in Parkinson’s but not
+incidental Lewy body disease, J Neurochem 69 (1997) 1326–1329.
+
+[15] E. Floor, M.G. Wetzel, Increased protein oxidation in human substantia nigra
+
+pars compacta in comparison with basal ganglia and prefrontal cortex
+measured with an improved dinitrophenylhydrazine assay, J Neurochem 70
+(1998) 268–275.
+
+[16] M.Y. Aksenov, M.V. Aksenova, D.A. Butterﬁeld, J.W. Geddes, W.R. Markesbery,
+
+Protein oxidation in the brain in Alzheimer’s disease, Neuroscience 103
+(2001) 373–383.
+
+[17] M.F. Beal, Oxidatively modiﬁed proteins in aging and disease’, Free Radic Biol
+
+Med 32 (2002) 797–803.
+
+264
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+neurodegenerative diseases, J Neuropathol Exp Neurol 66 (2007) 75–85.
+
+[69] M.A. Lovell, C. Xie, W.R. Markesbery, Decreased glutathione transferase ac-
+
+tivity in brain and ventricular ﬂuid in Alzheimer’s disease, Neurology 51
+(1998) 1562–1566.
+
+[70] M.A. Ansari, S.W. Scheff, Oxidative stress in the progression of Alzheimer
+
+disease in the frontal cortex, J Neuropathol Exp Neurol 69 (2010) 155–167.
+
+[71] S. Saharan, P.K. Mandal, The emerging role of glutathione in Alzheimer’s
+
+disease, J Alzheimers Dis 40 (2014) 519–529.
+
+[72] A.D. Kraft, J.M. Lee, D.A. Johnson, Y.W. Kan, J.A. Johnson, Neuronal sensitivity
+to kainic acid is dependent on the Nrf2-mediated actions of the antioxidant
+response element, J Neurochem 98 (2006) 1852–1865.
+
+[73] G. Joshi, K.A. Gan, D.A. Johnson, J.A. Johnson, Increased Alzheimer’s disease-
+
+like pathology in the APP/ PS1DeltaE9 mouse model lacking Nrf2 through
+modulation of autophagy, Neurobiol Aging 36 (2015) 664–679.
+
+[74] K. Kanninen, T.M. Malm, H.K. Jyrkkanen, G. Goldsteins, V. Keksa-Goldsteine,
+H. Tanila, M. Yamamoto, S. Yla-Herttuala, A.L. Levonen, J. Koistinaho, Nuclear
+factor erythroid 2-related factor 2 protects against beta amyloid, Mol Cell
+Neurosci 39 (2008) 302–313.
+
+[75] V. Torres-Lista, C. Parrado-Fernandez, I. Alvarez-Monton, J. Frontinan-Rubio,
+
+M. Duran-Prado, J.R. Peinado, B. Johansson, F.J. Alcain, L. Gimenez-Llort,
+Neophobia, NQO1 and SIRT1 as premorbid and prodromal indicators of AD in
+3xTg-AD mice, Behav Brain Res 271 (2014) 140–146.
+
+[76] S.I. Mota, R.O. Costa, I.L. Ferreira, I. Santana, G.L. Caldeira, C. Padovano, A.
+
+C. Fonseca, I. Baldeiras, C. Cunha, L. Letra, C.R. Oliveira, C.M. Pereira, A.C. Rego,
+Oxidative stress involving changes in Nrf2 and ER stress in early stages of
+Alzheimer’s disease, Biochim Biophys Acta. (2015).
+
+[77] A. Jain, T. Lamark, E. Sjottem, K.B. Larsen, J.A. Awuh, A. Overvatn,
+
+M. McMahon, J.D. Hayes, T. Johansen, .’p62/SQSTM1 is a target gene for
+transcription factor Nrf2 and creates a positive feedback loop by inducing
+antioxidant response element-driven gene transcription, J Biol Chem 285
+(2010) 22576–22591.
+
+[78] B.E. Riley, S.E. Kaiser, R.R. Kopito, Autophagy inhibition engages Nrf2-p62
+
+Ub-associated signaling, Autophagy 7 (2010) 338–340.
+
+[79] K. Fujita, D. Maeda, Q. Xiao, S.M. Srinivasula, Nrf2-mediated induction of p62
+
+controls Toll-like receptor-4-driven aggresome-like induced structure for-
+mation and autophagic degradation, Proc Natl Acad Sci U S A 108 (2011)
+1427–1432.
+
+[80] C. Jo, S. Gundemir, S. Pritchard, Y.N. Jin, I. Rahman, G.V. Johnson, Nrf2 reduces
+levels of phosphorylated tau protein by inducing autophagy adaptor protein
+NDP52, Nat Commun 5 (2014) 3496.
+
+[81] S.A. Farr, J.L. Ripley, R. Sultana, Z. Zhang, M.L. Niehoff, T.L. Platt, M.P. Murphy,
+
+J.E. Morley, V. Kumar, D.A. Butterﬁeld, Antisense oligonucleotide against
+GSK-3beta in brain of SAMP8 mice improves learning and memory and de-
+creases oxidative stress: Involvement of transcription factor Nrf2 and im-
+plications for Alzheimer disease, Free Radic Biol Med 67 (2014) 387–395.
+[82] K. Kanninen, R. Heikkinen, T. Malm, T. Rolova, S. Kuhmonen, H. Leinonen,
+
+S. Yla-Herttuala, H. Tanila, A.L. Levonen, M. Koistinaho, J. Koistinaho, In-
+trahippocampal injection of a lentiviral vector expressing Nrf2 improves
+spatial learning in a mouse model of Alzheimer’s disease, Proc Natl Acad Sci
+U S A 106 (2009) 16505–16510.
+
+[83] A.Y. Shih, D.A. Johnson, G. Wong, A.D. Kraft, L. Jiang, H. Erb, J.A. Johnson, T.
+H. Murphy, Coordinate regulation of glutathione biosynthesis and release by
+Nrf2-expressing glia potently protects neurons from oxidative stress, J
+Neurosci 23 (2003) 3394–3406.
+
+[84] A.D. Kraft, D.A. Johnson, J.A. Johnson, Nuclear factor E2-related factor 2-de-
+pendent antioxidant response element activation by tert-butylhydroquinone
+and sulforaphane occurring preferentially in astrocytes conditions neurons
+against oxidative insult, J Neurosci 24 (2004) 1101–1112.
+
+[85] M.R. Vargas, D.A. Johnson, D.W. Sirkis, A. Messing, J.A. Johnson, Nrf2 acti-
+
+vation in astrocytes protects against neurodegeneration in mouse models of
+familial amyotrophic lateral sclerosis, J Neurosci 28 (2008) 13574–13581.
+
+K. Liby, M. Sporn, C. Nathan, M. Flint Beal, M.T. Lin, Triterpenoid CDDO-
+methylamide improves memory and decreases amyloid plaques in a trans-
+genic mouse model of Alzheimer’s disease, J Neurochem 109 (2009)
+502–512.
+
+[87] Y. Zhou, N. Xie, L. Li, Y. Zou, X. Zhang, M. Dong, Puerarin alleviates cognitive
+
+impairment and oxidative stress in APP/PS1 transgenic mice, Int J Neu-
+ropsychopharmacol 17 (2014) 635–644.
+
+[88] M. Leiros, E. Alonso, M.E. Rateb, W.E. Houssen, R. Ebel, M. Jaspars, A. Alfonso,
+L.M. Botana, Gracilins: Spongionella-derived promising compounds for Alz-
+heimer disease, Neuropharmacology 93 (2015) 285–293.
+
+[89] S. Jeon, J. Hur, H.J. Jeong, B.S. Koo, S.C. Pak, SuHeXiang Wan essential oil
+
+alleviates amyloid beta induced memory impairment through inhibition of
+tau protein phosphorylation in mice, Am J Chin Med 39 (2011) 917–932.
+
+[90] H.V. Kim, H.Y. Kim, H.Y. Ehrlich, S.Y. Choi, D.J. Kim, Y. Kim, Amelioration of
+
+Alzheimer’s disease by neuroprotective effect of sulforaphane in animal
+model, Amyloid 20 (2013) 7–12.
+
+[91] R. Zhang, Q.W. Miao, C.X. Zhu, Y. Zhao, L. Liu, J. Yang, L. An, Sulforaphane
+
+Ameliorates Neurobehavioral Deﬁcits and Protects the Brain From Amyloid
+beta Deposits and Peroxidation in Mice With Alzheimer-Like Lesions, Am J
+Alzheimers Dis Other Demen 30 (2015) 183–191.
+
+[92] G. Xie, W. Tian, T. Wei, F. Liu, The neuroprotective effects of beta-hydro-
+
+xybutyrate on Abeta-injected rat hippocampus in vivo and in Abeta-treated
+PC-12 cells in vitro, Free Radic Res 49 (2015) 139–150.
+
+[93] L. Yu, S. Wang, X. Chen, H. Yang, X. Li, Y. Xu, X. Zhu, Orientin alleviates
+
+[60] R. Sandbrink, T. Hartmann, C.L. Masters, K. Beyreuther, Genes contributing to
+
+[86] M. Dumont, E. Wille, N.Y. Calingasan, D. Tampellini, C. Williams, G.K. Gouras,
+
+36544–36552.
+
+[42] K. Itoh, N. Wakabayashi, Y. Katoh, T. Ishii, T. O’Connor, M. Yamamoto, Keap1
+
+regulates both cytoplasmic-nuclear shuttling and degradation of Nrf2 in
+response to electrophiles, Genes Cells 8 (2003) 379–391.
+
+[43] M. McMahon, K. Itoh, M. Yamamoto, J.D. Hayes, Keap1-dependent protea-
+somal degradation of transcription factor Nrf2 contributes to the negative
+regulation of antioxidant response element-driven gene expression, J Biol
+Chem 278 (2003) 21592–21600.
+
+[44] T.W. Kensler, N. Wakabayashi, S. Biswal, Cell survival responses to environ-
+
+mental stresses via the Keap1-Nrf2-ARE pathway, Annu Rev Pharmacol
+Toxicol 47 (2007) 89–116.
+
+[45] G.P. Sykiotis, D. Bohmann, Stress-activated cap’n’collar transcription factors
+
+in aging and human disease, Sci Signal (2010) 3: re3.
+
+[46] D.D. Zhang, Mechanistic studies of the Nrf2-Keap1 signaling pathway, Drug
+
+Metab Rev 38 (2006) 769–789.
+
+[47] A.T. Dinkova-Kostova, W.D. Holtzclaw, R.N. Cole, K. Itoh, N. Wakabayashi,
+
+Y. Katoh, M. Yamamoto, P. Talalay, Direct evidence that sulfhydryl groups of
+Keap1 are the sensors regulating induction of phase 2 enzymes that protect
+against carcinogens and oxidants, Proc Natl Acad Sci U S A 99 (2002)
+11908–11913.
+
+[48] K.I. Tong, A. Kobayashi, F. Katsuoka, M. Yamamoto, Two-site substrate re-
+
+cognition model for the Keap1-Nrf2 system: a hinge and latch mechanism,
+Biol Chem 387 (2006) 1311–1320.
+
+[49] K.I. Tong, Y. Katoh, H. Kusunoki, K. Itoh, T. Tanaka, M. Yamamoto, Keap1 re-
+cruits Neh2 through binding to ETGE and DLG motifs: characterization of the
+two-site molecular recognition model, Mol Cell Biol 26 (2006) 2887–2900.
+[50] P. Rada, A.I. Rojo, S. Chowdhry, M. McMahon, J.D. Hayes, A. Cuadrado, SCF/
+{beta}-TrCP promotes glycogen synthase kinase 3-dependent degradation of
+the Nrf2 transcription factor in a Keap1-independent manner, Mol Cell Biol
+31 (2011) 1121–1133.
+
+[51] T. Wu, F. Zhao, B. Gao, C. Tan, N. Yagishita, T. Nakajima, P.K. Wong,
+
+E. Chapman, D. Fang, D.D. Zhang, Hrd1 suppresses Nrf2-mediated cellular
+protection during liver cirrhosis, Genes Dev 28 (2014) 708–722.
+
+[52] Y. Liu, J.T. Kern, J.R. Walker, J.A. Johnson, P.G. Schultz, H. Luesch, A genomic
+screen for activators of the antioxidant response element, Proc Natl Acad Sci
+U S A 104 (2007) 5205–5210.
+
+[53] M. Komatsu, H. Kurokawa, S. Waguri, K. Taguchi, A. Kobayashi, Y. Ichimura, Y.
+
+S. Sou, I. Ueno, A. Sakamoto, K.I. Tong, M. Kim, Y. Nishito, S.I. Iemura,
+T. Natsume, T. Ueno, E. Kominami, H. Motohashi, K. Tanaka, M. Yamamoto,
+The selective autophagy substrate p62 activates the stress responsive tran-
+scription factor Nrf2 through inactivation of Keap1, Nat Cell Biol. (2010).
+
+[54] B.E. Hast, D. Goldfarb, K.M. Mulvaney, M.A. Hast, P.F. Siesser, F. Yan, D.
+
+N. Hayes, M.B. Major, Proteomic analysis of ubiquitin ligase Keap1 reveals
+associated proteins that inhibit Nrf2 ubiquitination, Cancer Res 73 (2013)
+2199–2210.
+
+[55] W. Chen, Z. Sun, X.J. Wang, T. Jiang, Z. Huang, D. Fang, D.D. Zhang, Direct
+
+interaction between Nrf2 and p21(Cip1/WAF1) upregulates the Nrf2-medi-
+ated antioxidant response, Mol Cell 34 (2009) 663–673.
+
+[56] N.D. Camp, R.G. James, D.W. Dawson, F. Yan, J.M. Davison, S.A. Houck, X. Tang,
+
+N. Zheng, M.B. Major, R.T. Moon, Wilms tumor gene on X chromosome
+(WTX) inhibits degradation of Nrf2 protein through competitive binding to
+Keap1 protein, J Biol Chem 287 (2012) 6539–6550.
+
+[57] J. Ma, H. Cai, T. Wu, B. Sobhian, Y. Huo, A. Alcivar, M. Mehta, K.L. Cheung,
+S. Ganesan, A.N. Kong, D.D. Zhang, B. Xia, PALB2 interacts with Keap1 to
+promote Nrf2 nuclear accumulation and function, Mol Cell Biol 32 (2012)
+1506–1517.
+
+[58] Alzheimer’sAssociation, 2014 Alzheimer’s disease facts and ﬁgures, Alzhei-
+
+mers Dement 10 (2014) e47–e92.
+
+[59] W.L. Klein, G.A. Krafft, C.E. Finch, Targeting small Abeta oligomers: the so-
+
+lution to an Alzheimer’s disease conundrum? Trends Neurosci 24 (2001)
+219–224.
+
+Alzheimer’s disease, Mol Psychiatry 1 (1996) 27–40.
+
+[61] A.K. Raina, D.J. Templeton, J.C. Deak, G. Perry, M.A. Smith, Quinone reductase
+(NQO1), a sensitive redox indicator, is increased in Alzheimer’s disease, Re-
+dox Rep 4 (1999) 23–27.
+
+[62] Y. Wang, K. Santa-Cruz, C. DeCarli, J.A. Johnson, NAD(P)H:quinone oxidor-
+
+eductase activity is increased in hippocampal pyramidal neurons of patients
+with Aalzheimer’s disease, Neurobiol Aging 21 (2000) 525–531.
+
+[63] K.S. SantaCruz, E. Yazlovitskaya, J. Collins, J. Johnson, C. DeCarli, Regional NAD
+
+(P)H:quinone oxidoreductase activity in Alzheimer’s disease, Neurobiol
+Aging 25 (2004) 63–69.
+
+[64] H.M. Schipper, S. Cisse, E.G. Stopa, Expression of heme oxygenase-1 in the
+senescent and Alzheimer-diseased brain, Ann Neurol 37 (1995) 758–768.
+
+[65] H.M. Schipper, H. Chertkow, K. Mehindate, D. Frankel, C. Melmed,
+
+H. Bergman, Evaluation of heme oxygenase-1 as a systemic biological marker
+of sporadic AD, Neurology 54 (2000) 1297–1304.
+
+[66] M.Y. Aksenov, W.R. Markesbery, Changes in thiol content and expression of
+
+glutathione redox system genes in the hippocampus and cerebellum in
+Alzheimer’s disease, Neurosci Lett 302 (2001) 141–145.
+
+[67] K. Tanji, A. Maruyama, S. Odagiri, F. Mori, K. Itoh, A. Kakita, H. Takahashi,
+
+K. Wakabayashi, Keap1 is localized in neuronal and glial cytoplasmic inclu-
+sions in various neurodegenerative diseases, J Neuropathol Exp Neurol 72
+(2013) 18–28.
+
+[68] C.P. Ramsey, C.A. Glass, M.B. Montgomery, K.A. Lindl, G.P. Ritson, L.A. Chia, R.
+
+L. Hamilton, C.T. Chu, K.L. Jordan-Sciutto, Expression of Nrf2 in
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+265
+
+cognitive deﬁcits and oxidative stress in Abeta1-42-induced mouse model of
+Alzheimer’s disease, Life Sci 121 (2015) 104–109.
+
+[94] C. Chen, X. Li, P. Gao, Y. Tu, M. Zhao, J. Li, S. Zhang, H. Liang, Baicalin at-
+
+tenuates alzheimer-like pathological changes and memory deﬁcits induced
+by amyloid beta1-42 protein, Metab Brain Dis 30 (2015) 537–544.
+
+[95] M.F. Beal, Therapeutic approaches to mitochondrial dysfunction in Parkin-
+
+son’s disease, Parkinsonism Relat Disord 15 (Suppl 3) (2009) S189–S194.
+
+[96] M.G. Spillantini, M.L. Schmidt, V.M. Lee, J.Q. Trojanowski, R. Jakes,
+
+M. Goedert, Alpha-synuclein in Lewy bodies, Nature 388 (1997) 839–840.
+
+[97] M.C. Irizarry, W. Growdon, T. Gomez-Isla, K. Newell, J.M. George, D.F. Clayton,
+B.T. Hyman, Nigral and cortical Lewy bodies and dystrophic nigral neurites in
+Parkinson’s disease and cortical Lewy body disease contain alpha-synuclein
+immunoreactivity, J Neuropathol Exp Neurol 57 (1998) 334–337.
+
+[98] M.G. Spillantini, R.A. Crowther, R. Jakes, M. Hasegawa, M. Goedert, alpha-
+
+Synuclein in ﬁlamentous inclusions of Lewy bodies from Parkinson’s disease
+and dementia with lewy bodies, Proc Natl Acad Sci U S A 95 (1998)
+6469–6473.
+
+[99] A. Samii, J.G. Nutt, B.R. Ransom, Parkinson’s disease, Lancet 363 (2004)
+
+1783–1793.
+
+[100] S. Lesage, A. Brice, Parkinson’s disease: from monogenic forms to genetic
+
+susceptibility factors, Hum Mol Genet 18 (2009) R48–R59.
+
+[101] F.L. van Muiswinkel, R.A. de Vos, J.G. Bol, G. Andringa, E.N. Jansen Steur,
+D. Ross, D. Siegel, B. Drukarch, Expression of NAD(P)H:quinone oxidor-
+eductase in the normal and Parkinsonian substantia nigra, Neurobiol Aging
+25 (2004) 1253–1262.
+
+[102] R. Castellani, M.A. Smith, P.L. Richey, G. Perry, Glycoxidation and oxidative
+
+stress in Parkinson disease and diffuse Lewy body disease, Brain Res 737
+(1996) 195–200.
+
+[103] H.M. Schipper, A. Liberman, E.G. Stopa, Neural heme oxygenase-1 expression
+
+in idiopathic Parkinson’s disease, Exp Neurol 150 (1998) 60–68.
+
+[104] M. Basso, S. Giraudo, D. Corpillo, B. Bergamasco, L. Lopiano, M. Fasano, Pro-
+teome analysis of human substantia nigra in Parkinson’s disease, Proteomics
+4 (2004) 3943–3952.
+
+[105] T.L. Perry, V.W. Yong, Idiopathic Parkinson’s disease, progressive supra-
+
+nuclear palsy and glutathione metabolism in the substantia nigra of patients,
+Neurosci Lett 67 (1986) 269–274.
+
+[106] G.D. Zeevalk, R. Razmpour, L.P. Bernard, Glutathione and Parkinson’s disease:
+is this the elephant in the room, Biomed Pharmacother 62 (2008) 236–249.
+[107] Y. Imaizumi, Y. Okada, W. Akamatsu, M. Koike, N. Kuzumaki, H. Hayakawa,
+
+T. Nihira, T. Kobayashi, M. Ohyama, S. Sato, M. Takanashi, M. Funayama,
+A. Hirayama, T. Soga, T. Hishiki, M. Suematsu, T. Yagi, D. Ito, A. Kosakai,
+K. Hayashi, M. Shouji, A. Nakanishi, N. Suzuki, Y. Mizuno, N. Mizushima,
+M. Amagai, Y. Uchiyama, H. Mochizuki, N. Hattori, H. Okano, Mitochondrial
+dysfunction associated with increased oxidative stress and alpha-synuclein
+accumulation in PARK2 iPSC-derived neurons and postmortem brain tissue,
+Mol Brain 5 (2012) 35.
+
+[108] P.C. Chen, M.R. Vargas, A.K. Pani, R.J. Smeyne, D.A. Johnson, Y.W. Kan, J.
+
+A. Johnson, Nrf2-mediated neuroprotection in the MPTP mouse model of
+Parkinson’s disease: Critical role for the astrocyte, Proc Natl Acad Sci U S A
+106 (2009) 2933–2938.
+
+[109] D.A. Johnson, G.K. Andrews, W. Xu, J.A. Johnson, Activation of the antioxidant
+response element in primary cortical neuronal cultures derived from trans-
+genic reporter mice, J Neurochem 81 (2002) 1233–1241.
+
+[110] A. Minelli, C. Conte, I. Cacciatore, C. Cornacchia, F. Pinnen, Molecular me-
+
+chanism underlying the cerebral effect of Gly-Pro-Glu tripeptide bound to L:
+-dopa in a Parkinson’s animal model, Amino Acids. (2012).
+
+[111] N.G. Innamorato, A. Jazwa, A.I. Rojo, C. Garcia, J. Fernandez-Ruiz, A. Grochot-
+
+Przeczek, A. Stachurska, A. Jozkowicz, J. Dulak, A. Cuadrado, Different sus-
+ceptibility to the Parkinson’s toxin MPTP in mice lacking the redox master
+regulator Nrf2 or its target gene heme oxygenase-1, PLoS One 5 (2010)
+e11838.
+
+[112] C. Lu, J. Zhang, X. Shi, S. Miao, L. Bi, S. Zhang, Q. Yang, X. Zhou, M. Zhang,
+
+Y. Xie, Q. Miao, S. Wang, Neuroprotective effects of tetramethylpyrazine
+against dopaminergic neuron injury in a rat model of Parkinson’s disease
+induced by MPTP, Int J Biol Sci 10 (2014) 350–357.
+
+[113] Y.H. Tsou, C.T. Shih, C.H. Ching, J.Y. Huang, C.J. Jen, L. Yu, Y.M. Kuo, F.S. Wu, J.
+I. Chuang, Treadmill exercise activates Nrf2 antioxidant system to protect the
+nigrostriatal dopaminergic neurons from MPPþ toxicity, Exp Neurol 263
+(2015) 50–62.
+[114] R.J. Jakel, J.T. Kern, D.A. Johnson, J.A. Johnson, Induction of the protective
+
+antioxidant response element pathway by 6-hydroxydopamine in vivo and in
+vitro, Toxicol Sci 87 (2005) 176–186.
+
+[115] R. Li, T. Liang, L. Xu, N. Zheng, K. Zhang, X. Duan, Puerarin attenuates neuronal
+degeneration in the substantia nigra of 6-OHDA-lesioned rats through reg-
+ulating BDNF expression and activating the Nrf2/ARE signaling pathway,
+Brain Res 1523 (2013) 1–9.
+
+[116] L. Gan, M.R. Vargas, D.A. Johnson, J.A. Johnson, Astrocyte-speciﬁc over-
+expression of Nrf2 delays motor pathology and synuclein aggregation
+throughout the CNS in the alpha-synuclein mutant (A53T) mouse model, J
+Neurosci 32 (2012) 17775–17787.
+
+[117] D. Beraud, H.A. Hathaway, J. Trecki, S. Chasovskikh, D.A. Johnson, J.A. Johnson,
+H.J. Federoff, M. Shimoji, T.R. Mhyre, K.A. Maguire-Zeiss, Microglial activation
+and antioxidant responses induced by the Parkinson’s disease protein alpha-
+synuclein, J Neuroimmune Pharmacol 8 (2013) 94–117.
+
+[118] N.C. Burton, T.W. Kensler, T.R. Guilarte, In vivo modulation of the Parkinso-
+
+nian phenotype by Nrf2, Neurotoxicology 27 (2006) 1094–1100.
+
+[119] R.J. Jakel, J.A. Townsend, A.D. Kraft, J.A. Johnson, Nrf2-mediated protection
+
+against 6-hydroxydopamine, Brain Res 1144 (2007) 192–201.
+
+[120] A.I. Rojo, N.G. Innamorato, A.M. Martin-Moreno, M.L. De Ceballos,
+
+M. Yamamoto, A. Cuadrado, Nrf2 regulates microglial dynamics and neu-
+roinﬂammation in experimental Parkinson’s disease, Glia 58 (2010) 588–598.
+[121] A. Jazwa, A.I. Rojo, N.G. Innamorato, M. Hesse, J. Fernandez-Ruiz, A. Cuadrado,
+Pharmacological targeting of the transcription factor Nrf2 at the basal ganglia
+provides disease modifying therapy for experimental parkinsonism, Antioxid
+Redox Signal 14 (2011) 2347–2360.
+
+[122] N.A. Kaidery, R. Banerjee, L. Yang, N.A. Smirnova, D.M. Hushpulian, K.T. Liby,
+C.R. Williams, M. Yamamoto, T.W. Kensler, R.R. Ratan, M.B. Sporn, M.F. Beal, I.
+G. Gazaryan, B. Thomas, Targeting Nrf2-mediated gene transcription by ex-
+tremely potent synthetic triterpenoids attenuate dopaminergic neurotoxicity
+in the MPTP mouse model of Parkinson’s disease, Antioxid Redox Signal 18
+(2013) 139–157.
+
+[123] I. Lastres-Becker, A. Ulusoy, N.G. Innamorato, G. Sahin, A. Rabano, D. Kirik,
+A. Cuadrado, alpha-Synuclein expression and Nrf2 deﬁciency cooperate to
+aggravate protein aggregation, neuronal death and inﬂammation in early-
+stage Parkinson’s disease, Hum Mol Genet 21 (2012) 3173–3192.
+
+[124] L.P. Rowland, N.A. Shneider, Amyotrophic lateral sclerosis, N Engl J Med 344
+
+(2001) 1688–1700.
+
+[125] S. Murayama, Y. Ookawa, H. Mori, I. Nakano, Y. Ihara, S. Kuzuhara,
+
+M. Tomonaga, Immunocytochemical and ultrastructural study of Lewy body-
+like hyaline inclusions in familial amyotrophic lateral sclerosis, Acta Neuro-
+pathol 78 (1989) 143–152.
+
+[126] Y. Mizuno, M. Amari, M. Takatama, H. Aizawa, B. Mihara, K. Okamoto, Im-
+
+munoreactivities of p62, an ubiqutin-binding protein, in the spinal anterior
+horn cells of patients with amyotrophic lateral sclerosis, J Neurol Sci 249
+(2006) 13–18.
+
+[127] C.F. Tan, H. Eguchi, A. Tagawa, O. Onodera, T. Iwasaki, A. Tsujino,
+
+M. Nishizawa, A. Kakita, H. Takahashi, TDP-43 immunoreactivity in neuronal
+inclusions in familial amyotrophic lateral sclerosis with or without SOD1
+gene mutation, Acta Neuropathol 113 (2007) 535–542.
+
+[128] C. Vance, B. Rogelj, T. Hortobagyi, K.J. De Vos, A.L. Nishimura, J. Sreedharan,
+
+X. Hu, B. Smith, D. Ruddy, P. Wright, J. Ganesalingam, K.L. Williams,
+V. Tripathi, S. Al-Saraj, A. Al-Chalabi, P.N. Leigh, I.P. Blair, G. Nicholson, J. de
+Belleroche, J.M. Gallo, C.C. Miller, C.E. Shaw, Mutations in FUS, an RNA pro-
+cessing protein, cause familial amyotrophic lateral sclerosis type 6, Science
+323 (2009) 1208–1211.
+
+[129] D.R. Rosen, T. Siddique, D. Patterson, D.A. Figlewicz, P. Sapp, A. Hentati,
+
+D. Donaldson, J. Goto, J.P. O’Regan, H.X. Deng, et al., Mutations in Cu/Zn su-
+peroxide dismutase gene are associated with familial amyotrophic lateral
+sclerosis, Nature 362 (1993) 59–62.
+
+[130] M.E. Gurney, H. Pu, A.Y. Chiu, M.C. Dal Canto, C.Y. Polchow, D.D. Alexander,
+
+J. Caliendo, A. Hentati, Y.W. Kwon, H.X. Deng, et al., Motor neuron degen-
+eration in mice that express a human Cu,Zn superoxide dismutase mutation,
+Science 264 (1994) 1772–1775.
+
+[131] D.S. Howland, J. Liu, Y. She, B. Goad, N.J. Maragakis, B. Kim, J. Erickson, J. Kulik,
+L. DeVito, G. Psaltis, L.J. DeGennaro, D.W. Cleveland, J.D. Rothstein, Focal loss
+of the glutamate transporter EAAT2 in a transgenic rat model of SOD1 mu-
+tant-mediated amyotrophic lateral sclerosis (ALS), Proc Natl Acad Sci U S A 99
+(2002) 1604–1609.
+
+[132] A.M. Clement, M.D. Nguyen, E.A. Roberts, M.L. Garcia, S. Boillee, M. Rule, A.
+P. McMahon, W. Doucette, D. Siwek, R.J. Ferrante, R.H. Brown Jr., J.P. Julien, L.
+S. Goldstein, D.W. Cleveland, Wild-type nonneuronal cells extend survival of
+SOD1 mutant motor neurons in ALS mice, Science 302 (2003) 113–117.
+
+[133] G. Marangi, B.J. Traynor, Genetic causes of amyotrophic lateral sclerosis: New
+genetic analysis methodologies entailing new opportunities and challenges,
+Brain Res 1607 (2015) 75–93.
+
+[134] F. Fecto, J. Yan, S.P. Vemula, E. Liu, Y. Yang, W. Chen, J.G. Zheng, Y. Shi,
+
+N. Siddique, H. Arrat, S. Donkervoort, S. Ajroud-Driss, R.L. Suﬁt, S.L. Heller, H.
+X. Deng, T. Siddique, SQSTM1 mutations in familial and sporadic amyotrophic
+lateral sclerosis, Arch Neurol 68 (2011) 1440–1446.
+
+[135] A. Sarlette, K. Krampﬂ, C. Grothe, N. Neuhoff, R. Dengler, S. Petri, Nuclear
+
+erythroid 2-related factor 2-antioxidative response element signaling path-
+way in motor cortex and spinal cord in amyotrophic lateral sclerosis, J
+Neuropathol Exp Neurol 67 (2008) 1055–1062.
+
+[136] M.R. Vargas, M. Pehar, P. Cassina, L. Martinez-Palma, J.A. Thompson, J.
+
+S. Beckman, L. Barbeito, Fibroblast growth factor-1 induces heme oxygenase-
+1 via nuclear factor erythroid 2-related factor 2 (Nrf2) in spinal cord astro-
+cytes: consequences for motor neuron survival, J Biol Chem 280 (2005)
+25571–25579.
+
+[137] M.R. Vargas, M. Pehar, P. Cassina, J.S. Beckman, L. Barbeito, Increased glu-
+
+tathione biosynthesis by Nrf2 activation in astrocytes prevents p75NTR-de-
+pendent motor neuron apoptosis, J Neurochem 97 (2006) 687–696.
+
+[138] M. Pehar, M.R. Vargas, K.M. Robinson, P. Cassina, P.J. Diaz-Amarilla, T.
+
+M. Hagen, R. Radi, L. Barbeito, J.S. Beckman, Mitochondrial superoxide pro-
+duction and nuclear factor erythroid 2-related factor 2 activation in p75
+neurotrophin receptor-induced motor neuron apoptosis, J Neurosci 27 (2007)
+7777–7785.
+
+[139] T. Mimoto, K. Miyazaki, N. Morimoto, T. Kurata, K. Satoh, Y. Ikeda, K. Abe,
+
+Impaired antioxydative Keap1/Nrf2 system and the downstream stress pro-
+tein responses in the motor neuron of ALS model mice, Brain Res 1446 (2012)
+109–118.
+
+[140] Y. Guo, Y. Zhang, D. Wen, W. Duan, T. An, P. Shi, J. Wang, Z. Li, X. Chen, C. Li,
+The modest impact of transcription factor Nrf2 on the course of disease in an
+
+266
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+ALS animal model, Lab Invest 93 (2013) 825–833.
+
+[141] A.D. Kraft, J.M. Resch, D.A. Johnson, J.A. Johnson, Activation of the Nrf2-ARE
+
+pathway in muscle and spinal cord during ALS-like pathology in mice ex-
+pressing mutant SOD1, Exp Neurol 207 (2007) 107–117.
+
+[142] M.R. Vargas, N.C. Burton, J. Kutzke, L. Gan, D.A. Johnson, M. Schafer,
+
+S. Werner, J.A. Johnson, Absence of Nrf2 or its selective overexpression in
+neurons and muscle does not affect survival in ALS-linked mutant hSOD1
+mouse models, PLoS One 8 (2013) e56625.
+
+[143] A. Nanou, A. Higginbottom, C.F. Valori, M. Wyles, K. Ning, P. Shaw, M. Azzouz,
+Viral delivery of antioxidant genes as a therapeutic strategy in experimental
+models of amyotrophic lateral sclerosis, Mol Ther, 21, (2013) 1486–1496.
+[144] A. Neymotin, N.Y. Calingasan, E. Wille, N. Naseri, S. Petri, M. Damiano, K.
+
+T. Liby, R. Risingsong, M. Sporn, M.F. Beal, M. Kiaei, Neuroprotective effect of
+Nrf2/ARE activators, CDDO ethylamide and CDDO triﬂuoroethylamide, in a
+mouse model of amyotrophic lateral sclerosis, Free Radic Biol Med 51 (2011)
+88–96.
+
+[145] X. Feng, Y. Peng, M. Liu, L. Cui, DL-3-n-butylphthalide extends survival by
+
+attenuating glial activation in a mouse model of amyotrophic lateral sclerosis,
+Neuropharmacology 62 (2012) 1004–1010.
+
+[146] R.J. Mead, A. Higginbottom, S.P. Allen, J. Kirby, E. Bennett, S.C. Barber, P.
+
+R. Heath, A. Coluccia, N. Patel, I. Gardner, A. Brancale, A.J. Grierson, P.J. Shaw,
+S[þ] Apomorphine is a CNS penetrating activator of the Nrf2-ARE pathway
+with activity in mouse and patient ﬁbroblast models of amyotrophic lateral
+sclerosis, Free Radic Biol Med 61 (2013) 438–452.
+
+[147] T. Kanno, K. Tanaka, Y. Yanagisawa, K. Yasutake, S. Hadano, F. Yoshii,
+
+N. Hirayama, J.E. Ikeda, A novel small molecule, N-(4-(2-pyridyl)(1,3-thiazol-
+2-yl))-2-(2,4,6-trimethylphenoxy) acetamide, selectively protects against
+oxidative stress-induced cell death by activating the Nrf2-ARE pathway:
+therapeutic implications for ALS, Free Radic Biol Med 53 (2012) 2028–2042.
+
+[148] K. Tanaka, T. Kanno, Y. Yanagisawa, K. Yasutake, S. Inoue, N. Hirayama, J.
+
+E. Ikeda, A novel acylaminoimidazole derivative, WN1316, alleviates disease
+progression via suppression of glial inﬂammation in ALS mouse model, PLoS
+One 9 (2014) e87728.
+
+[149] The Huntington’s Disease Collaborative Research Group, A novel gene con-
+taining a trinucleotide repeat that is expanded and unstable on Huntington’s
+disease chromosomes, Cell 72 (1993) 971–983.
+
+[150] G. Bates, Huntingtin aggregation and toxicity in Huntington’s disease, Lancet
+
+361 (2003) 1642–1644.
+
+[166] G. Ellrichmann, E. Petrasch-Parwez, D.H. Lee, C. Reick, L. Arning, C. Saft,
+
+R. Gold, R.A. Linker, Efﬁcacy of fumaric acid esters in the R6/2 and YAC128
+models of Huntington’s disease, PLoS One 6 (2011) e16172.
+
+[167] National Multiple Sclerosis Society. 2015.’‘Who Gets MS?’, Accessed 15 Feb.
+
+〈http://www.nationalmssociety.org/What-is-MS/Who-Gets-MS〉.
+
+[168] S. Dhib-Jalbut, Pathogenesis of myelin/oligodendrocyte damage in multiple
+
+sclerosis, Neurology 68 (2007), S13-21; discussion S43-54.
+
+[169] H. Hofstetter, R. Gold, H.P. Hartung, Th17 Cells in MS and Experimental Au-
+
+toimmune Encephalomyelitis, Int MS J 16 (2009) 12–18.
+
+[170] V. Chiurchiu, Novel targets in multiple sclerosis: to oxidative stress and be-
+
+yond, Curr Top Med Chem 14 (2014) 2590–2599.
+
+[171] J. van Horssen, G. Schreibelt, L. Bo, L. Montagne, B. Drukarch, F.L. van Muis-
+
+winkel, H.E. de Vries, NAD(P)H:quinone oxidoreductase 1 expression in
+multiple sclerosis lesions, Free Radic Biol Med 41 (2006) 311–317.
+
+[172] J. van Horssen, G. Schreibelt, J. Drexhage, T. Hazes, C.D. Dijkstra, P. van der
+
+Valk, H.E. de Vries, Severe oxidative damage in multiple sclerosis lesions
+coincides with enhanced antioxidant enzyme expression, Free Radic Biol
+Med 45 (2008) 1729–1737.
+
+[173] J. van Horssen, J.A. Drexhage, T. Flor, W. Gerritsen, P. van der Valk, H.E. de
+Vries, Nrf2 and DJ1 are consistently upregulated in inﬂammatory multiple
+sclerosis lesions, Free Radic Biol Med 49 (2010) 1283–1289.
+
+[174] D.A. Johnson, S. Amirahmadi, C. Ward, Z. Fabry, J.A. Johnson, The absence of
+the pro-antioxidant transcription factor Nrf2 exacerbates experimental au-
+toimmune encephalomyelitis, Toxicol Sci 114 (2010) 237–246.
+
+[175] R.A. Linker, D.H. Lee, S. Ryan, A.M. van Dam, R. Conrad, P. Bista, W. Zeng,
+X. Hronowsky, A. Buko, S. Chollate, G. Ellrichmann, W. Bruck, K. Dawson,
+S. Goelz, S. Wiese, R.H. Scannevin, M. Lukashev, R. Gold, Fumaric acid esters
+exert neuroprotective effects in neuroinﬂammation via activation of the Nrf2
+antioxidant pathway, Brain 134 (2011) 678–692.
+
+[176] T.K. Pareek, A. Belkadi, S. Kesavapany, A. Zaremba, S.L. Loh, L. Bai, M.L. Cohen,
+
+C. Meyer, K.T. Liby, R.H. Miller, M.B. Sporn, J.J. Letterio, Triterpenoid mod-
+ulation of IL-17 and Nrf-2 expression ameliorates neuroinﬂammation and
+promotes remyelination in autoimmune encephalomyelitis, Sci Rep 1 (2011)
+201.
+
+[177] B. Li, W. Cui, J. Liu, R. Li, Q. Liu, X.H. Xie, X.L. Ge, J. Zhang, X.J. Song, Y. Wang,
+
+L. Guo, Sulforaphane ameliorates the development of experimental auto-
+immune encephalomyelitis by antagonizing oxidative stress and Th17-re-
+lated inﬂammation in mice, Exp Neurol 250 (2013) 239–249.
+
+[151] S.E. Browne, M.F. Beal, Oxidative damage in Huntington’s disease patho-
+
+[178] N. Liu, Q.C. Kan, X.J. Zhang, Y.M. Xv, S. Zhang, G.X. Zhang, L. Zhu, Upregulation
+
+genesis, Antioxid Redox Signal 8 (2006) 2061–2073.
+
+[152] A. Johri, A. Chandra, M.F. Beal, PGC-1alpha, mitochondrial dysfunction, and
+
+Huntington’s disease, Free Radic Biol Med 62 (2013) 37–46.
+
+[153] P.H. Reddy, Increased mitochondrial ﬁssion and neuronal dysfunction in
+
+Huntington’s disease: implications for molecular inhibitors of excessive mi-
+tochondrial ﬁssion, Drug Discov Today 19 (2014) 951–955.
+
+[154] S.E. Browne, R.J. Ferrante, M.F. Beal, Oxidative stress in Huntington’s disease,
+
+Brain Pathol 9 (1999) 147–163.
+
+of immunomodulatory molecules by matrine treatment in experimental
+autoimmune encephalomyelitis, Exp Mol Pathol 97 (2014) 470–476.
+
+[179] S. Schilling, S. Goelz, R. Linker, F. Luehder, R. Gold, Fumaric acid esters are
+effective in chronic experimental autoimmune encephalomyelitis and sup-
+press macrophage inﬁltration, Clin Exp Immunol 145 (2006) 101–107.
+
+[180] T.H. Murphy, J. Yu, R. Ng, D.A. Johnson, H. Shen, C.R. Honey, J.A. Johnson,
+
+Preferential expression of antioxidant response element mediated gene ex-
+pression in astrocytes, J Neurochem 76 (2001) 1670–1678.
+
+[155] M.F. Beal, E. Brouillet, B. Jenkins, R. Henshaw, B. Rosen, B.T. Hyman, Age-
+
+[181] K. Takaya, T. Suzuki, H. Motohashi, K. Onodera, S. Satomi, T.W. Kensler,
+
+dependent striatal excitotoxic lesions produced by the endogenous mi-
+tochondrial inhibitor malonate, J Neurochem 61 (1993) 1147–1150.
+
+[156] C.V. Borlongan, T.K. Koutouzis, P.R. Sanberg, 3-Nitropropionic acid animal
+
+model and Huntington’s disease, Neurosci Biobehav Rev 21 (1997) 289–293.
+[157] M.J. Calkins, R.J. Jakel, D.A. Johnson, K. Chan, Y.W. Kan, J.A. Johnson, Protection
+
+from mitochondrial complex II inhibition in vitro and in vivo by Nrf2-
+mediated transcription, Proc Natl Acad Sci U S A 102 (2005) 244–249.
+[158] M.J. Calkins, M.R. Vargas, D.A. Johnson, J.A. Johnson, Astrocyte-speciﬁc
+
+overexpression of Nrf2 protects striatal neurons from mitochondrial complex
+II inhibition, Toxicol Sci 115 (2010) 557–568.
+
+[159] Y. Gao, S.F. Chu, J.P. Li, Z. Zhang, J.Q. Yan, Z.L. Wen, C.Y. Xia, Z. Mou, Z.Z. Wang,
+
+W.B. He, X.F. Guo, G.N. Wei, N.H. Chen, Protopanaxtriol protects against
+3-nitropropionic acid-induced oxidative stress in a rat model of Huntington’s
+disease, Acta Pharmacol Sin 36 (2015) 311–322.
+
+[160] K. Gopinath, G. Sudhandiran, Naringin modulates oxidative stress and in-
+
+ﬂammation in 3-nitropropionic acid-induced neurodegeneration through the
+activation of nuclear factor-erythroid 2-related factor-2 signalling pathway,
+Neuroscience 227 (2012) 134–143.
+
+[161] N.M. Frederick, J. Bertho, K.K. Patel, G.T. Petr, E. Bakradze, S.B. Smith, P.
+
+A. Rosenberg, Dysregulation of system xc(-) expression induced by mutant
+huntingtin in a striatal neuronal cell line and in R6/2 mice, Neurochem Int 76
+(2014) 59–69.
+
+[162] A.Y. Shih, S. Imbeault, V. Barakauskas, H. Erb, L. Jiang, P. Li, T.H. Murphy, In-
+
+duction of the Nrf2-driven antioxidant response confers neuroprotection
+during mitochondrial stress in vivo, J Biol Chem 280 (2005) 22925–22936.
+[163] M.J. Calkins, J.A. Townsend, D.A. Johnson, J.A. Johnson, Cystamine protects
+from 3-nitropropionic acid lesioning via induction of nf-e2 related factor
+2 mediated transcription, Exp Neurol 224 (2010) 307–317.
+
+[164] L. Yang, N.Y. Calingasan, B. Thomas, R.K. Chaturvedi, M. Kiaei, E.J. Wille, K.
+
+T. Liby, C. Williams, D. Royce, R. Risingsong, E.S. Musiek, J.D. Morrow,
+M. Sporn, M.F. Beal, Neuroprotective effects of the triterpenoid, CDDO methyl
+amide, a potent inducer of Nrf2-mediated transcription, PLoS One 4 (2009)
+e5757.
+
+[165] C. Stack, D. Ho, E. Wille, N.Y. Calingasan, C. Williams, K. Liby, M. Sporn,
+M. Dumont, M.F. Beal, Triterpenoids CDDO-ethyl amide and CDDO-tri-
+ﬂuoroethyl amide improve the behavioral phenotype and brain pathology in
+a transgenic mouse model of Huntington’s disease, Free Radic Biol Med 49
+(2010) 147–158.
+
+M. Yamamoto, Validation of the multiple sensor mechanism of the Keap1-
+Nrf2 system, Free Radic Biol Med 53 (2012) 817–827.
+
+[182] R.H. Scannevin, S. Chollate, M.Y. Jung, M. Shackett, H. Patel, P. Bista, W. Zeng,
+S. Ryan, M. Yamamoto, M. Lukashev, K.J. Rhodes, Fumarates promote cyto-
+protection of central nervous system cells against oxidative stress via the
+nuclear factor (erythroid-derived 2)-like 2 pathway, J Pharmacol Exp Ther
+341 (2012) 274–284.
+
+[183] I. Metz, S. Traffehn, K. Strassburger-Krogias, K. Keyvani, M. Bergmann,
+
+K. Nolte, M.S. Weber, T. Bartsch, R. Gold, W. Bruck, Glial cells express nuclear
+nrf2 after fumarate treatment for multiple sclerosis and psoriasis, Neurol
+Neuroimmunol Neuroinﬂamm 2 (2015) e99.
+
+[184] M.L. Block, L. Zecca, J.S. Hong, Microglia-mediated neurotoxicity: uncovering
+
+the molecular mechanisms, Nat Rev Neurosci 8 (2007) 57–69.
+
+[185] A.I. Rojo, G. McBean, M. Cindric, J. Egea, M.G. Lopez, P. Rada, N. Zarkovic,
+A. Cuadrado, Redox control of microglial function: molecular mechanisms
+and functional signiﬁcance, Antioxid Redox Signal 21 (2014) 1766–1801.
+
+[186] L.J. Lawson, V.H. Perry, P. Dri, S. Gordon, Heterogeneity in the distribution and
+morphology of microglia in the normal adult mouse brain, Neuroscience 39
+(1990) 151–170.
+
+[187] M.E. Lull, M.L. Block, Microglial activation and chronic neurodegeneration,
+
+Neurotherapeutics 7 (2010) 354–365.
+
+[188] M.L. Block, J.S. Hong, Microglia and inﬂammation-mediated neurodegen-
+eration: multiple triggers with a common mechanism, Prog Neurobiol 76
+(2005) 77–98.
+
+[189] N.G. Innamorato, A.I. Rojo, A.J. Garcia-Yague, M. Yamamoto, M.L. de Ceballos,
+
+A. Cuadrado, The transcription factor Nrf2 is a therapeutic target against
+brain inﬂammation, J Immunol 181 (2008) 680–689.
+
+[190] X. Wang, J.P. de Rivero Vaccari, H. Wang, P. Diaz, R. German, A.E. Marcillo, R.
+
+W. Keane, Activation of the nuclear factor E2-related factor 2/antioxidant
+response element pathway is neuroprotective after spinal cord injury, J
+Neurotrauma 29 (2012) 936–945.
+
+[191] I. Lastres-Becker, N.G. Innamorato, T. Jaworski, A. Rabano, S. Kugler, F. Van
+
+Leuven, A. Cuadrado, Fractalkine activates Nrf2/NFE2L2 and heme oxygenase
+1 to restrain tauopathy-induced microgliosis, Brain 137 (2014) 78–91.
+
+[192] E. Li, M. Noda, Y. Doi, B. Parajuli, J. Kawanokuchi, Y. Sonobe, H. Takeuchi,
+
+T. Mizuno, A. Suzumura, The neuroprotective effects of milk fat globule-EGF
+factor 8 against oligomeric amyloid beta toxicity’, J Neuroinﬂammation 9
+(2012) 148.
+
+D.A. Johnson, J.A. Johnson / Free Radical Biology and Medicine 88 (2015) 253–267
+
+267
+
+[196] Y.C. Chen, Y.R. Wu, Y.C. Wu, G.J. Lee-Chen, C.M. Chen, Genetic analysis of
+
+[214] E. Garcia, R. Santana-Martinez, C.A. Silva-Islas, A.L. Colin-Gonzalez, S. Galvan-
+
+[193] A. LoGerfo, L. Chico, L. Borgia, L. Petrozzi, A. Rocchi, A.D. Amelio, C. Carlesi,
+E. Caldarazzo Ienco, M. Mancuso, G. Siciliano, Lack of association between
+nuclear factor erythroid-derived 2-like 2 promoter gene polymorphisms and
+oxidative stress biomarkers in amyotrophic lateral sclerosis patients, Oxid
+Med Cell Longev 2014 (2014) 432626.
+
+[194] M. von Otter, S. Landgren, S. Nilsson, D. Celojevic, P. Bergstrom, A. Hakansson,
+
+H. Nissbrandt, M. Drozdzik, M. Bialecka, M. Kurzawski, K. Blennow,
+M. Nilsson, O. Hammarsten, H. Zetterberg, Association of Nrf2-encoding
+NFE2L2 haplotypes with Parkinson’s disease, BMC Med Genet 11 (2010) 36.
+
+[195] M. von Otter, P. Bergstrom, A. Quattrone, E.V. De Marco, G. Annesi,
+
+P. Soderkvist, S.B. Wettinger, M. Drozdzik, M. Bialecka, H. Nissbrandt, C. Klein,
+M. Nilsson, O. Hammarsten, S. Nilsson, H. Zetterberg, Genetic associations of
+Nrf2-encoding NFE2L2 variants with Parkinson’s disease-a multicenter study,
+BMC Med Genet, 1 5: 13 (2014) 1.
+
+NFE2L2 promoter variation in Taiwanese Parkinson’s disease, Parkinsonism
+Relat Disord 19 (2013) 247–250.
+
+[197] M. von Otter, S. Landgren, S. Nilsson, M. Zetterberg, D. Celojevic, P. Bergstrom,
+L. Minthon, N. Bogdanovic, N. Andreasen, D.R. Gustafson, I. Skoog, A. Wallin,
+G. Tasa, K. Blennow, M. Nilsson, O. Hammarsten, H. Zetterberg, Nrf2-encod-
+ing NFE2L2 haplotypes inﬂuence disease progression but not risk in Alzhei-
+mer’s disease and age-related cataract, Mech Ageing Dev 131 (2010) 105–110.
+[198] P. Bergstrom, M. von Otter, S. Nilsson, A.C. Nilsson, M. Nilsson, P.M. Andersen,
+O. Hammarsten, H. Zetterberg, Association of NFE2L2 and Keap1 haplotypes
+with amyotrophic lateral sclerosis, Amyotroph Lateral Scler Frontotemporal
+Degener 15 (2014) 130–137.
+
+[199] L. Wang, T. Lewis, Y.L. Zhang, C. Khodier, S. Magesh, L. Chen, D. Inoyama,
+Y. Chen, J. Zhen, L. Hu, L.J. Beamer, P.W. Faloon, S. Dandapani, J.R. Perez,
+B. Munoz, M. Palmer, S. Schreiber, ’‘The identiﬁcation and characterization of
+non-reactive inhibitor of Keap1-Nrf2 interaction through HTS using a ﬂuor-
+escence polarization assay.’, in, Probe Reports from the NIH Molecular Libraries
+Program (Bethesda (MD)) (2010) [PubMed PMID:24260785].
+
+[200] T.P. Williamson, S. Amirahmadi, G. Joshi, N.K. Kaludov, M.N. Martinov, D.
+
+A. Johnson, J.A. Johnson, Discovery of potent, novel Nrf2 inducers via quan-
+tum modeling, virtual screening, and in vitro experimental validation, Chem
+Biol Drug Des 80 (2012) 810–820.
+
+[201] K.C. Wu, P.R. McDonald, J.J. Liu, R. Chaguturu, C.D. Klaassen, Implementation
+of a high-throughput screen for identifying small molecules to activate the
+Keap1-Nrf2-ARE pathway, PLoS One 7 (2012) e44686.
+
+[202] M. Schaap, R. Hancock, A. Wilderspin, G. Wells, Development of a steady-
+
+state FRET-based assay to identify inhibitors of the Keap1-Nrf2 protein-
+protein interaction, Protein Sci 22 (2013) 1812–1819.
+
+[203] R. Wang, D.E. Mason, K.P. Choe, A.S. Lewin, E.C. Peters, H. Luesch, In vitro and
+in vivo characterization of a tunable dual-reactivity probe of the Nrf2-ARE
+pathway, ACS Chem Biol 8 (2013) 1764–1774.
+
+[204] T. Shen, X.M. Chen, B. Harder, M. Long, X.N. Wang, H.X. Lou, G.T. Wondrak, D.
+
+M. Ren, D.D. Zhang, Plant extracts of the family Lauraceae: a potential re-
+source for chemopreventive agents that activate the nuclear factor-erythroid
+2-related factor 2/antioxidant response element pathway, Planta Med 80
+(2014) 426–434.
+
+[205] S.C. van der Linden, A.R. von Bergh, B.M. van Vught-Lussenburg, L.R. Jonker,
+
+M. Teunis, C.A. Krul, B. van der Burg, Development of a panel of high-
+throughput reporter-gene assays to detect genotoxicity and oxidative stress,
+Mutat Res Genet Toxicol Environ Mutagen 760 (2014) 23–32.
+
+[206] R. Hancock, H.C. Bertrand, T. Tsujita, S. Naz, A. El-Bakry, J. Laoruchupong, J.
+D. Hayes, G. Wells, Peptide inhibitors of the Keap1-Nrf2 protein-protein in-
+teraction, Free Radic Biol Med 52 (2012) 444–451.
+
+[207] C. Zhuang, Z. Miao, C. Sheng, W. Zhang, Updated Research and Applications
+
+of Small Molecule Inhibitors of Keap1-Nrf2 Protein-Protein Interaction: a
+Review, Curr Med Chem. (2014).
+
+[208] D. de Zeeuw, T. Akizawa, P. Audhya, G.L. Bakris, M. Chin, H. Christ-Schmidt,
+A. Goldsberry, M. Houser, M. Krauth, H.J. Lambers Heerspink, J.J. McMurray,
+C.J. Meyer, H.H. Parving, G. Remuzzi, R.D. Toto, N.D. Vaziri, C. Wanner,
+J. Wittes, D. Wrolstad, G.M. Chertow, Beacon Trial Investigators, Bardoxolone
+methyl in type 2 diabetes and stage 4 chronic kidney disease, N Engl J Med
+369 (2013) 2492–2503.
+
+[209] S.A. Reisman, K.W. Ward, C.D. Klaassen, C.J. Meyer, CDDO-9,11-dihydro-tri-
+ﬂuoroethyl amide (CDDO-dhTFEA) induces hepatic cytoprotective genes and
+increases bile ﬂow in rats, Xenobiotica 43 (2013) 571–578.
+
+[210] B. Li, A. Abdalrahman, Y. Lai, J.S. Janicki, K.W. Ward, C.J. Meyer, X.L. Wang,
+
+D. Tang, T. Cui, Dihydro-CDDO-triﬂuoroethyl amide suppresses inﬂammatory
+
+responses in macrophages via activation of Nrf2, Biochem Biophys Res
+Commun 444 (2014) 555–561.
+
+[211] S.A. Reisman, C.Y. Lee, C.J. Meyer, J.W. Proksch, K.W. Ward, Topical application
+
+of the synthetic triterpenoid RTA 408 activates Nrf2 and induces cytopro-
+tective genes in rat skin, Arch Dermatol Res 306 (2014) 447–454.
+
+[212] B.L. Probst, I. Trevino, L. McCauley, R. Bumeister, I. Dulubova, W.C. Wigley, D.
+A. Ferguson, RTA 408, A Novel Synthetic Triterpenoid with Broad Anticancer
+and Anti-Inﬂammatory Activity, PLoS One 10 (2015) e0122942.
+
+[213] J.C. Tobon-Velasco, G. Vazquez-Victorio, M. Macias-Silva, E. Cuevas, S.F. Ali, P.
+
+D. Maldonado, M.E. Gonzalez-Trujano, A. Cuadrado, J. Pedraza-Chaverri,
+A. Santamaria, S-allyl cysteine protects against 6-hydroxydopamine-induced
+neurotoxicity in the rat striatum: involvement of Nrf2 transcription factor
+activation and modulation of signaling kinase cascades, Free Radic Biol Med
+53 (2012) 1024–1040.
+
+Arzate, Y. Heras, P.D. Maldonado, J. Sotelo, A. Santamaria, S-allyl cysteine
+protects against MPTP-induced striatal and nigral oxidative neurotoxicity in
+mice: participation of Nrf2, Free Radic Res 48 (2014) 159–167.
+
+[215] T.P. Williamson, D.A. Johnson, J.A. Johnson, Activation of the Nrf2-ARE
+
+pathway by siRNA knockdown of Keap1 reduces oxidative stress and pro-
+vides partial protection from MPTP-mediated neurotoxicity, Neurotoxicology
+33 (2012) 272–279.
+
+[216] M. Galuppo, R. Iori, G.R. De Nicola, P. Bramanti, E. Mazzon, Anti-inﬂammatory
+
+and anti-apoptotic effects of (RS)-glucoraphanin bioactivated with myr-
+osinase in murine sub-acute and acute MPTP-induced Parkinson’s disease,
+Bioorg Med Chem 21 (2013) 5532–5547.
+
+[217] J. Ryu, R. Zhang, B.H. Hong, E.J. Yang, K.A. Kang, M. Choi, K.C. Kim, S.J. Noh, H.
+S. Kim, N.H. Lee, J.W. Hyun, H.S. Kim, Phloroglucinol attenuates motor func-
+tional deﬁcits in an animal model of Parkinson’s disease by enhancing Nrf2
+activity, PLoS One 8 (2013) e71178.
+
+[218] H. Lou, X. Jing, X. Wei, H. Shi, D. Ren, X. Zhang, Naringenin protects against
+
+6-OHDA-induced neurotoxicity via activation of the Nrf2/ARE signaling
+pathway, Neuropharmacology 79 (2014) 380–388.
+
+[219] X.L. Wang, G.H. Xing, B. Hong, X.M. Li, Y. Zou, X.J. Zhang, M.X. Dong, Gastrodin
+
+prevents motor deﬁcits and oxidative stress in the MPTP mouse model of
+Parkinson’s disease: involvement of ERK1/2-Nrf2 signaling pathway, Life Sci
+114 (2014) 77–85.
+
+[220] S.Y. Woo, J.H. Kim, M.K. Moon, S.H. Han, S.K. Yeon, J.W. Choi, B.K. Jang, H.
+
+J. Song, Y.G. Kang, J.W. Kim, J. Lee, D.J. Kim, O. Hwang, K.D. Park, Discovery of
+vinyl sulfones as a novel class of neuroprotective agents toward Parkinson’s
+disease therapy, J Med Chem 57 (2014) 1473–1487.
+
+[221] J.A. Lee, J.H. Kim, S.Y. Woo, H.J. Son, S.H. Han, B.K. Jang, J.W. Choi, D.J. Kim, K.
+D. Park, O. Hwang, A novel compound VSC2 has anti-inﬂammatory and an-
+tioxidant properties in microglia and in Parkinson’s disease animal model, Br
+J Pharmacol 172 (2015) 1087–1100.
+
+[222] X. Jing, H. Shi, C. Zhang, M. Ren, M. Han, X. Wei, X. Zhang, H. Lou, Dimethyl
+fumarate attenuates 6-OHDA-induced neurotoxicity in SH-SY5Y cells and in
+animal model of Parkinson’s disease by enhancing Nrf2 activity, Neu-
+roscience 286 (2015) 131–140.
+
+[223] H.J. Son, J.H. Choi, J.A. Lee, D.J. Kim, K.J. Shin, O. Hwang, Induction of NQO1
+and Neuroprotection by a Novel Compound KMS04014 in Parkinson’s Dis-
+ease Models, J Mol Neurosci. (2015).
+
+[224] Z. Zhang, G. Li, S.S. Szeto, C. Chong, Q. Quan, C. Huang, W. Cui, B. Guo,
+
+Y. Wang, Y. Han, K.W. Michael Siu, S.M. Yuen Lee, I.K. Chu, Examining the
+neuroprotective effects of protocatechuic acid and chrysin on in vitro and
+in vivo models of Parkinson disease, Free Radic Biol Med. 84 (2015) 331–343.
+[225] Y.F. Zhao, Q. Zhang, J.Y. Xi, Y.H. Li, C.G. Ma, B.G. Xiao, Multitarget intervention
+of Fasudil in the neuroprotection of dopaminergic neurons in MPTP-mouse
+model of Parkinson’s disease, J Neurol Sci. (2015).
+
+[226] D.R. Marshak, S.A. Pesce, L.C. Stanley, W.S. Grifﬁn, Increased S100 beta neu-
+rotrophic activity in Alzheimer's disease temporal lobe, Neurobiol Aging 13
+(1992) 1–7.
+
+[227] H.M. Schipper, D.A. Bennett, A. Liberman, J.L. Bienias, J.A. Schneider, J. Kelly,
+Z. Arvanitakis, Glial heme oxygenase-1 expression in Alzheimer disease and
+mild cognitive impairment, Neurobiol Aging 27 (2006) 252–261.
+
+[228] S.S. Shaftel, W.S. Grifﬁn, M.K. O'Banion, The role of interleukin-1 in neu-
+
+roinﬂammation and Alzheimer disease: an evolving perspective, J Neuroin-
+ﬂammation 5 (2008) 7.
+
+[229] X. Wang, B. Su, G. Perry, M.A. Smith, X. Zhu, Insights into amyloid-beta-in-
+duced mitochondrial dysfunction in Alzheimer disease, Free Radic Biol Med
+43 (2007) 1569–1573.
+
+

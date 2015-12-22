@@ -1,0 +1,1692 @@
+REVIEW
+published: 29 July 2015
+doi: 10.3389/fnins.2015.00264
+
+The unfolded protein response in
+multiple sclerosis
+
+Sarrabeth Stone 1, 2 and Wensheng Lin 1, 2*
+
+1 Department of Neuroscience, University of Minnesota, Minneapolis, MN, USA, 2 Institute for Translational Neuroscience,
+University of Minnesota, Minneapolis, MN, USA
+
+The unfolded protein response (UPR) occurs in response to endoplasmic reticulum (ER)
+stress caused by the accumulation of unfolded or misfolded proteins in the ER. The
+UPR is comprised of three signaling pathways that promote cytoprotective functions to
+correct ER stress; however, if ER stress cannot be resolved the UPR results in apoptosis
+of affected cells. The UPR is an important feature of various human diseases, including
+multiple sclerosis (MS). Recent studies have shown several components of the UPR are
+upregulated in the multiple cell types in MS lesions, including oligodendrocytes, T cells,
+microglia/macrophages, and astrocytes. Data from animal model studies, particularly
+studies of experimental autoimmune encephalomyelitis (EAE) and the cuprizone model,
+imply an important role of the UPR activation in oligodendrocytes in the development of
+MS. In this review we will cover current literature on the UPR and the evidence for its role
+in the development of MS.
+
+Keywords: unfolded protein response, endoplasmic reticulum stress, pancreatic endoplasmic reticulum kinase,
+multiple sclerosis, experimental autoimmune encephalomyelitis, oligodendrocytes, demyelination, remyelination
+
+ER Stress and UPR
+
+The endoplasmic reticulum (ER) is one of the largest cellular organelles in eukaryotic cells, and
+consists of two types, rough ER and smooth ER (Kaufman, 1999; Csala et al., 2006; Schröder,
+2008). Secretory and membrane proteins that are synthesized by ribosomes on the cytosolic surface
+of the rough ER are properly modiﬁed and folded inside the ER lumen. The cytoplasmic side
+of the smooth ER membrane is the site of biosynthesis of steroids, cholesterol, and other lipids.
+Additionally, the ER lumen is the major storage site for cellular calcium. Perturbations in ER
+homeostasis, such as elevated rates of secretory or membrane protein biosynthesis, elevated rates
+of lipid biosynthesis, and decreased calcium concentration, can disrupt protein modiﬁcation and
+folding, resulting in the accumulation of unfolded or misfolded proteins in the ER lumen. This
+build up of unfolded or misfolded proteins is known as ER stress and results in the activation
+of the unfolded protein response (UPR, Figure 1) (Marciniak and Ron, 2006; Walter and Ron,
+2011; Wang and Kaufman, 2012). Three ER-transmembrane proteins have been identiﬁed as
+the transducers of the UPR, pancreatic endoplasmic reticulum kinase (PERK), inositol-requiring
+enzyme 1 (IRE1), and activating transcription factor 6 (ATF6). The primary function of the UPR
+is to restore ER homeostasis and to adapt cells to ER-stressed condition; however, if the adaptive
+measures fail to restore ER homeostasis, the UPR triggers apoptosis programs to eliminate stressed
+cells.
+
+The PERK protein contains an ER transmembrane domain, a cytosolic kinase domain, and
+a regulatory luminal domain (Harding et al., 1999, 2002). The regulatory luminal domain
+senses ER stress and induces PERK activation via oligomerization and autophosphorylation.
+
+Edited by:
+Astrid E. Cardona,
+The University of Texas at San
+Antonio, USA
+
+Reviewed by:
+Monique Stins,
+Johns Hopkins University, USA
+Christian Gonzalez-Billault,
+Universidad de Chile, Chile
+
+*Correspondence:
+Wensheng Lin,
+Institute for Translational
+Neuroscience, University of
+Minnesota, 2101 6th Street SE,
+WMBB4-140, Minneapolis,
+MN 55455, USA
+linw@umn.edu
+
+Specialty section:
+This article was submitted to
+Neurodegeneration,
+a section of the journal
+Frontiers in Neuroscience
+
+Received: 27 March 2015
+Accepted: 14 July 2015
+Published: 29 July 2015
+
+Citation:
+Stone S and Lin W (2015) The
+unfolded protein response in multiple
+sclerosis. Front. Neurosci. 9:264.
+doi: 10.3389/fnins.2015.00264
+
+Frontiers in Neuroscience | www.frontiersin.org
+
+1
+
+July 2015 | Volume 9 | Article 264
+
+Stone and Lin
+
+UPR in MS
+
+FIGURE 1 | The unfolded protein response. (A) The PERK pathway.
+Under conditions of ER stress the PERK protein becomes activated by
+homodimerization and autophosphorylation. p-PERK phosphorylates eIF2α
+which represses eIF2B, resulting in reduced ER load through inhibition of
+global protein synthesis and inducation of cytoprotective genes by
+preferentially stimulating translation of ATF4. ATF4 also enhances the
+expression of CHOP, which negatively regulates p-eIF2α levels through the
+production of GADD34 that binds PP1 and dephosphorylates eIF2α. (B) The
+
+IRE1 pathway. IRE1 is activated by homodimerization and
+autophosphorylation in conditions of ER stress. p-IRE1 splices XBP1 mRNA
+to produce the sXBP1, which induces cytoprotective genes and ER
+expansion. IRE1 also induces mRNA degradation via RIDD to help reduce
+ER load. (C) The ATF6 pathway. ER stress results in the translocation of
+ATF6 to the Golgi complex where it is activated by proteolytic cleavage by
+the proteases S1P and S2P resulting in the 50 kDa cleaved ATF6 fragment,
+which stimulates the expression of chaperones.
+
+Phosphorylated PERK (p-PERK) then phosphorylates the α
+subunit of eukaryotic translation initiation factor 2 (eIF2α).
+Phosphorylation of eIF2α inhibits global protein biosynthesis by
+suppressing the activity of eIF2B, with the two proteins forming a
+non-productive phosphorylated eIF2α (p-eIF2α)-eIF2B complex;
+the outcome of this pathway is a reduction in ER load through
+inhibition of nascent peptide production, preventing further
+ER stress (Pavitt and Proud, 2009). Despite inhibiting global
+protein synthesis, p-eIF2α preferentially stimulates translation
+of the transcription factor ATF4. Induction of ATF4 increases
+the expression of certain cytoprotective genes (Harding et al.,
+2001, 2003). In addition, ATF4 also induces CAATT enhancer
+binding protein homologous protein (CHOP) expression, which
+in turn induces growth arrest and DNA damage 34 (GADD34)
+expression (Marciniak et al., 2004). GADD34 functions as a
+regulatory subunit of a phosphatase complex that also contains
+protein phosphatase 1 (PP1), which speciﬁcally dephosphorylates
+p-eIF2α (Novoa et al., 2001). This forms a tight negative feedback
+loop to down-regulate the PERK-eIF2α pathway, resulting in the
+restoration of protein synthesis. PERK activation adapts cells to
+ER-stressed conditions through moderate inhibition of global
+protein biosynthesis and induction of cytoprotective genes.
+
+Nevertheless, PERK activation can also trigger cell apoptosis
+through strong inhibition of global protein biosynthesis and
+induction of CHOP, which function as a pro-apoptotic
+transcription factor (Tabas and Ron, 2011; Hetz, 2012).
+
+Similarly to PERK, IRE1 is activated through oligomerization
+and autophosphorylation during ER stress. Activated IRE1
+splices the mRNA of the transcription factor X-box binding
+protein 1 (XBP1) by its endoribonuclease activity to produce
+the active transcription factor spliced XBP1 (sXBP1). sXBP1
+enhances the expression of chaperones and certain cytoprotective
+genes, and promotes ER expansion (Chen and Brandizzi,
+2013; Maurel et al., 2014). Activated IRE1 also promotes the
+degradation of certain mRNAs to reduce the ER load through
+regulated IRE1-dependent decay (RIDD). Moreover, activated
+IRE1 can induce activation of the JUN amino-terminal kinase
+(JNK) and the apoptosis signal-regulating kinase 1 (ASK1) by
+binding to certain adaptor proteins. The third transducer of the
+UPR, ATF6, transits to the Golgi complex during ER stress,
+where it is cleaved by the proteases S1P and S2P. Cleaved ATF6
+functions as a transcription factor that enhances the expression
+of chaperones and certain cytoprotective genes (Shen et al., 2002;
+Glembotski, 2014).
+
+Frontiers in Neuroscience | www.frontiersin.org
+
+2
+
+July 2015 | Volume 9 | Article 264
+
+Stone and Lin
+
+UPR in MS
+
+Activation of the UPR in MS and EAE
+Lesions
+
+characterized by inﬂammation, oligodendrocyte
+
+Multiple sclerosis (MS) is a T cell-mediated autoimmune
+demyelinating disease of the central nervous system (CNS)
+(Frohman et al., 2006; Bradl and Lassmann, 2010). The
+pathological hallmark of MS is the presence of multiple
+in the CNS white matter, which
+demyelinated plaques
+are
+loss,
+demyelination, and axon degeneration. Although the etiology
+of MS remains unknown, MS is thought to be initiated by an
+autoimmune reaction against oligodendrocytes and myelin.
+It is generally believed that T cells are activated by myelin
+components in the peripheral immune system in MS patients,
+and then myelin reactive T cells cross the blood-brain barrier,
+entering the CNS where they initiate inﬂammation. CNS
+inﬂammation in MS includes inﬁltration of T cells, B cells, and
+monocytes, activation of macrophages and microglia, gliosis,
+upregulation of major histocompatibility complex (MHC)
+molecules, and elevated levels of
+inﬂammatory cytokines,
+and reactive oxygen and nitrogen species. This inﬂammatory
+environment leads to oligodendrocyte death, demyelination,
+and
+inﬂammation decreases,
+oligodendrocytes
+and remyelination can
+occur in the demyelinated lesion. However, this remyelination
+is insuﬃcient to repair myelin damage, resulting in a loss of
+neurological function in MS patients (Franklin, 2002; Franklin
+and Ffrench-Constant, 2008).
+
+axon degeneration. Once
+can regenerate
+
+Experimental autoimmune encephalomyelitis (EAE) is the
+primary animal model used in MS research that displays many
+of the clinical, pathological, and immunological features of MS
+(Steinman, 1999; Gold et al., 2006). Unlike MS, which is a
+spontaneous disease of unknown etiology, EAE is induced by
+immunizing animals (most commonly mice) with myelin or
+myelin components, such as proteolipid protein (PLP), myelin
+basic protein (MBP) or myelin oligodendrocyte glycoprotein
+(MOG) (Merrill et al., 1992; Baxter, 2007). This leads to exposure
+of the peripheral immune cells to myelin components and results
+in activation of myelin speciﬁc T cells, which then migrate into
+the CNS where they induce inﬂammatory demyelination in a
+manner similar to that seen in MS lesions (Mor and Cohen, 1992;
+Baxter, 2007). EAE has successfully been used to develop several
+drugs for the treatment of MS, including glatiramer acetate, and
+natalizumab (Baxter, 2007).
+
+The primary function of oligodendrocytes is to produce
+the myelin sheath which wraps around axons, insulating and
+protecting them (Bankston et al., 2013; Nave and Werner, 2014).
+Several lines of evidence have suggested that oligodendrocyte
+death induced by inﬂammatory attacks contributes signiﬁcantly
+to the development of MS and EAE (Prineas and Parratt, 2012;
+Lin et al., 2013). Oligodendrocyte apoptosis has been identiﬁed
+as the earliest structural change in newly forming demyelinating
+lesions in both MS and EAE by a number of studies (Barnett
+and Prineas, 2004; Lin et al., 2013). Both oligodendrocyte-speciﬁc
+expression of anti-apoptotic proteins (such as p35, a viral caspase
+inhibitor) and oligodendrocyte-speciﬁc deletion of pro-apoptotic
+proteins (such as tumor necrosis factor receptor 1; TNF-R1,
+
+Fas, and Fas-Associated protein with Death Domain; FADD)
+protect oligodendrocytes against inﬂammatory attacks, resulting
+in attenuation of EAE disease severity and amelioration of
+demyelination, axonal degeneration, and inﬂammation in EAE
+lesions (Hisahara et al., 2000, 2003; Hövelmeyer et al., 2005;
+McGuire et al., 2010). A number of reports have also shown
+that enhancing survival signaling pathways in oligodendrocytes
+protects mice against EAE, while impairing survival signaling
+pathways in oligodendrocytes renders mice susceptible to EAE
+(Balabanov et al., 2007; Ren et al., 2011; Lin et al., 2013; Hussien
+et al., 2014). Additionally, oligodendrocyte regeneration in
+demyelinated lesions is essential and necessary for remyelination
+and restoration of neurological
+functions in MS and EAE
+(Franklin, 2002; Franklin and Ffrench-Constant, 2008).
+
+The UPR plays a critical role in inﬂammatory diseases
+(Zhang and Kaufman, 2008; Kitamura, 2011). Elevated levels
+of inﬂammatory mediators, such as immune cytokines, reactive
+oxygen species, and reactive nitrogen species, can activate
+the UPR in tissue resident cells and inﬁltrated inﬂammatory
+cells in inﬂammatory lesions. Activation of the UPR has been
+observed in multiple cell types in MS and EAE lesions (Lin
+and Popko, 2009). Microarray analysis revealed elevated levels
+of the UPR-responsive genes ATF4 and heat shock protein 70
+in MS demyelinated lesions (Cwiklinska et al., 2003; Mycko
+et al., 2004). Real-time PCR analysis showed increased mRNA
+levels of the UPR makers ATF4, immunoglobulin-heavy-chain-
+binding protein (BiP), and CHOP in normal-appearing white
+matter and demyelinating lesions in the CNS of MS patients
+(Cunnea et al., 2011). Using biopsy specimens and post-
+mortem samples, immunohistochemistry analysis demonstrated
+increased expression of the UPR markers CHOP and BiP in
+oligodendrocytes, astrocytes, T cells and macrophages/microglia
+in MS lesions (Mháille et al., 2008; Cunnea et al., 2011; McMahon
+et al., 2012; Ní Fhlathartaigh et al., 2013). Moreover, elevated
+levels of several UPR markers, including p-PERK, p-eIF2α, BiP,
+and CHOP, have been demonstrated in oligodendrocytes, T cells,
+astrocytes, and macrophages/microglia during the course of EAE
+(Chakrabarty et al., 2004, 2005; Lin et al., 2007; Deslauriers et al.,
+2011; Ní Fhlathartaigh et al., 2013; Meares et al., 2014).
+
+The Dual Roles of IFN-γ in Models of MS
+are Mediated by the UPR
+
+It has been well-documented that the T cell-derived pleiotropic
+cytokine interferon-γ (IFN-γ) plays a critical role in the
+development of MS and EAE (Popko et al., 1997; Lees and Cross,
+2007; Goverman, 2009). A large number of studies have shown
+that IFN-γ promotes myelin damage and oligodendrocyte death
+in immune-mediated demyelinating diseases by stimulating
+inﬂammation, including activation of macrophages/microglia,
+upregulation of MHC molecules, and induction of inﬂammatory
+mediators (reviewed in Goverman, 2009 as well as Popko and
+Baerwald, 1999). Indeed, treatment of MS patients with IFN-
+γ results in exacerbation of symptoms (Panitch et al., 1987).
+Nevertheless, another set of reports showed that IFN-γ has
+protective eﬀects during EAE (Mühl and Pfeilschifter, 2003;
+
+Frontiers in Neuroscience | www.frontiersin.org
+
+3
+
+July 2015 | Volume 9 | Article 264
+
+Stone and Lin
+
+UPR in MS
+
+Wheeler and Owens, 2005). Both IFN-γ deﬁcient mice and
+IFN-γ receptor (IFN-γR) deﬁcient mice develop a more severe
+EAE disease course compared to wild type control mice (Ferber
+et al., 1996; Willenborg et al., 1996). Using transgenic mice
+that allow for temporally regulated expression of IFN-γ in the
+CNS using a tetracycline controllable system (Lin et al., 2004),
+studies have shown that the beneﬁcial or detrimental eﬀects
+of IFN-γ on the development of EAE are dependent on the
+timing of its presence in the CNS (Lin et al., 2006, 2007).
+CNS-expression of IFN-γ before EAE onset ameliorates the
+disease course and prevents EAE-induced oligodendrocyte loss,
+demyelination, and axon degeneration (Lin et al., 2007). In
+contrast, CNS-expression of IFN-γ at the recovery stage of EAE
+impairs the disease recovery and suppresses oligodendrocyte
+regeneration and remyelination in demyelinated lesions (Lin
+et al., 2006). Importantly, these studies also demonstrated that
+both the beneﬁcial and detrimental eﬀects of IFN-γ on the
+development of EAE are mediated, at least in part, by activation
+of the PERK-eIF2α pathway in oligodendrocytes (Lin et al., 2006,
+2007).
+
+Lin et al. (2007) reported that CNS-expression of IFN-γ before
+EAE onset almost completely blocked oligodendrocyte death,
+demyelination, and axonal degeneration in the CNS of EAE
+mice. Modest activation of the PERK-eIF2α pathway is detected
+in the oligodendrocytes of control EAE mice; CNS-expression
+of IFN-γ before EAE onset markedly enhances activation of
+the PERK-eIF2α pathway in oligodendrocytes (Lin et al., 2007).
+Importantly, CNS delivery of IFN-γ before EAE onset does not
+ameliorate the severity of disease course or prevent EAE-induced
+oligodendrocyte loss, demyelination, and axon degeneration in
+mice on the PERK heterozygous deﬁcient background. In fact,
+MBP immunohistochemistry and toluidine blue staining show
+there is more severe myelin damage in the CNS of PERK
+heterozygous deﬁcient mice that express transgenic IFN-γ in the
+CNS before EAE onset than the control EAE mice (Lin et al.,
+2007). However, PERK heterozygous deﬁciency alone does not
+alter EAE disease course, tissue damage in the CNS, or the
+immune responses in the peripheral immune system or CNS.
+Thus, these results demonstrate that the beneﬁcial eﬀect of IFN-γ
+in EAE is dependent on PERK signaling (Lin et al., 2007).
+
+It is generally believed that remyelination in demyelinated
+lesions in adult animals largely recapitulates developmental
+myelination (Fancy et al., 2011). Several reports have shown
+that CNS-expression of IFN-γ during development causes
+myelinating oligodendrocyte death, hypomyelination,
+and
+inﬂammation (Corbin et al., 1996; LaFerla et al., 2000;
+Lin et al., 2008; Lin and Lin, 2010). Interestingly, a paper
+showed that the presence of IFN-γ in the CNS activates the
+PERK-eIF2α pathway in myelinating oligodendrocytes and
+that PERK heterozygous deﬁciency exacerbates IFN-γ-induced
+myelinating oligodendrocyte death and hypomyelination in
+young, developing mice (Lin et al., 2005). Moreover, another
+report demonstrated that GADD34 inactivation elevates the
+level of p-eIF2α in myelinating oligodendrocytes and attenuates
+myelinating oligodendrocyte death and hypomyelination in
+young, developing mice that express IFN-γ in the CNS (Lin et al.,
+2008).
+
+treatment,
+
+almost
+
+followed by
+
+the corpus callosum. After
+
+Feeding of cuprizone (bis-cyclohexanone oxaldihydrazone)
+to young adult mice induces a synchronous consistent
+demyelination (Matsushima and Morell, 2001; Stidworthy
+et al., 2003). Oligodendrocytes undergo apoptosis in response
+complete
+to cuprizone
+demyelination of
+removal of
+cuprizone, oligodendrocytes
+regenerate and remyelination
+takes place over the course of a few weeks. The cuprizone
+model
+is considered to be one of the best mouse models
+to study the mechanisms of remyelination in MS (Denic
+et al., 2011; van der Star et al., 2012). The presence of IFN-γ
+in the CNS suppresses oligodendrocyte regeneration and
+remyelination in cuprizone-induced demyelinated lesions
+(Lin et al., 2006). Importantly, the presence of IFN-γ in the
+CNS activates
+the PERK-eIF2α pathway in remyelinating
+oligodendrocytes and PERK heterozygous deﬁciency exacerbates
+IFN-γ-induced apoptosis of remyelinating oligodendrocytes and
+remyelination failure in cuprizone-induced demyelinated lesions
+(Lin et al., 2006). Taken together, these results demonstrate that
+activation of the PERK-eIF2α pathway protects (re)myelinating
+oligodendrocytes against the detrimental eﬀects of IFN-γ in
+immune-mediated demyelinating diseases.
+
+The mechanisms by which IFN-γ induces ER stress and
+activates the UPR in oligodendrocytes in immune-mediated
+demyelinating diseases remain unknown.
+IFN-γ exerts its
+functions by binding to its receptors, IFN-γR1 and IFN-γR2
+(Ramana et al., 2002). Binding of IFN-γ leads to oligomerization
+of its receptors and activation of the Janus kinases (JAK)1 and
+JAK2, resulting in trans-phosphorylation of the JAKs and the
+intracellular domain of the receptors, allowing interaction with
+STAT1. STAT1 is activated via phosphorylation of tyrosine 701,
+and then translocates to the nucleus where it stimulates the
+expression of IFN-γ-responsive genes. In vitro studies show that
+IFN-γ can induce ER stress and activate the UPR in multiple cell
+types, including oligodendrocytes (Lin et al., 2005; Gade et al.,
+2012). Using STAT1 knockout mice, a study reported that STAT1
+deletion diminishes the ability of IFN-γ to activate the UPR in
+oligodendrocytes in the CNS (Lin and Lin, 2010). However, this
+study also shows that STAT1 deletion diminishes the ability of
+IFN-γ to induce inﬂammation in the CNS. Many inﬂammatory
+mediators induced by IFN-γ, such as tumor necrosis factor-α,
+nitrogen oxide, and hydrogen peroxide, are capable of activating
+the UPR in cells (Hu et al., 2006; Cao and Kaufman, 2014).
+Therefore, it is likely that the presence of IFN-γ in the CNS
+activates the UPR in oligodendrocytes in immune-mediated
+demyelinating diseases through both its direct actions on the cells
+and through induction of inﬂammation.
+
+The Protective Effects of Moderate Perk
+Activation on Oligodendrocytes in Models
+of MS
+
+the precise role of PERK signaling in
+To further dissect
+oligodendrocytes
+demyelinated
+diseases, a mouse model (PLP/Fv2E-PERK mice) that allows for
+temporally controlled activation of PERK signaling speciﬁcally
+
+immune-mediated
+
+during
+
+Frontiers in Neuroscience | www.frontiersin.org
+
+4
+
+July 2015 | Volume 9 | Article 264
+
+Stone and Lin
+
+UPR in MS
+
+in oligodendrocytes has been generated (Lin et al., 2013).
+This mouse model expresses Fv2E-PERK, an artiﬁcial PERK
+derivative, under the control of the proteolipid protein (PLP)
+promoter, thus restricting its expression to oligodendrocytes
+in the CNS (Lin et al., 2013). Fv2E-PERK contains the eﬀector
+domain of PERK (eIF2α-kinase domain) fused to two modiﬁed
+FK506 binding domains (Fv2E) (Lu et al., 2004). Treatment with
+the ligand for the Fv2E domain (AP20187) results in dimerization
+and autophosphorylation of the eIF2α-kinase domain allowing
+activation of PERK signaling to be controlled and isolated from
+ER stress. Importantly, AP20187 treatment activates PERK
+signaling in oligodendrocytes of PLP/Fv2E-PERK mice in a dose
+dependent manner. ER stress and activation of the UPR are
+believed to be moderate under physiological and pathological
+conditions (Qi et al., 2011). To mimic the moderate PERK
+activation under normal and disease conditions, heterozygous
+PLP/Fv2E-PERK mice are treated with a low dose of AP20187
+to induce moderate activation of PERK signaling speciﬁcally in
+oligodendrocytes. Moderate PERK activation has no eﬀect on
+mature oligodendrocytes in fully myelinated adult mice (Lin
+et al., 2013). Moreover, moderate PERK activation does not
+aﬀect the viability or function of myelinating oligodendrocytes
+in young, developing mice or remyelinating oligodendrocytes in
+cuprizone-induced demyelinated lesions (Lin et al., 2014a).
+
+Using this unique mouse model, a study demonstrated
+that moderate PERK activation in mature oligodendrocytes
+is cytoprotective and protects mice against EAE (Lin et al.,
+2013). Treating heterozygous PLP/Fv2E-PERK mice with a
+low dose of AP20187 starting before EAE onset, at post-
+immunization day (PID) 10, elevates the level of p-eIF2α
+exclusively in oligodendrocytes, signiﬁcantly ameliorates the
+severity of EAE clinical symptoms, and attenuates EAE-induced
+oligodendrocytes loss, demyelination, and axon degeneration
+in the CNS. Oligodendrocyte loss is one of the ﬁrst signs of
+pathological changes in EAE and can occur before demyelinating
+lesions are identiﬁable. Importantly, the low dose of AP20187
+treatment
+the number of apoptotic
+oligodendrocytes in the CNS of heterozygous PLP/Fv2E-PERK
+mice before the onset of clinical disease and the formation of
+demyelinating lesions (at PID12). Moreover, moderate PERK
+activation in mature oligodendrocytes does not signiﬁcantly
+aﬀect the immune responses in CNS or peripheral immune
+system during EAE (Lin et al., 2013).
+
+signiﬁcantly reduces
+
+inﬂammation and is detrimental
+
+Similarly, using the same mouse model, another study
+demonstrated that moderate PERK activation promotes
+survival and remyelination
+remyelinating oligodendrocyte
+in demyelinated lesions
+in models of MS (Lin et al.,
+2014a). It has been shown that the presence of IFN-γ in
+the CNS stimulates
+to
+in young, developing mice
+myelinating oligodendrocytes
+and to remyelinating oligodendrocytes
+in demyelinated
+lesions in the cuprizone models (Lin et al., 2005, 2006,
+2008). This study showed that moderate PERK activation
+speciﬁcally in myelinating oligodendrocytes protects both
+oligodendrocytes and myelin against the detrimental eﬀects
+of
+altering
+the inﬂammatory response induced by the cytokine (Lin
+
+IFN-γ in young, developing mice, without
+
+apoptosis
+
+and remyelination failure
+
+et al., 2014a). Moderate PERK activation speciﬁcally in
+oligodendrocytes also attenuates IFN-γ-induced remyelinating
+oligodendrocyte
+in
+cuprizone-induced demyelinated lesions. Moreover, moderate
+PERK activation speciﬁcally
+in oligodendrocytes during
+the recovery stage of EAE does not change the severity of
+clinical symptoms, but signiﬁcantly enhances oligodendrocyte
+regeneration and remyelination in EAE demyelination
+lesions. Additionally, moderate PERK activation speciﬁcally
+in oligodendrocytes has no eﬀect on the inﬂammatory response
+in both cuprizone and EAE demyelination lesions (Lin et al.,
+2014a).
+
+PERK
+
+appear
+
+PERK deletion
+
+oligodendrocyte-speciﬁc
+
+exhibit normal myelination in the CNS
+
+In parallel to the above ﬁndings, Hussien et al. (2014)
+deletion
+that
+showed
+the susceptibility of mice to EAE. Mice with
+increases
+healthy
+oligodendrocyte-speciﬁc
+under
+and
+physiological conditions. However,
+these mice develop a
+signiﬁcantly more severe EAE disease course as compared
+to the
+control mice. Moreover, oligodendrocyte-speciﬁc
+PERK deletion exacerbates EAE-induced oligodendrocyte
+loss, demyelination and axon degeneration in the CNS.
+Additionally,
+there is no evidence that oligodendrocyte-
+speciﬁc PERK deletion alters the immune response in EAE
+mice.
+
+the
+
+in
+
+cell
+
+speciﬁcally
+
+survival under
+
+responsible for
+
+oligodendrocytes
+
+allow for manipulation of
+
+Data from these cell-speciﬁc conditional mouse models
+activity of PERK
+that
+signaling
+demonstrate
+that moderate PERK activation acts cell-autonomously to
+protect oligodendrocytes
+(both mature and remyelinating
+oligodendrocytes) against inﬂammatory attacks in immune-
+mediated demyelinating diseases (Lin et al., 2013, 2014a;
+Hussien et al., 2014). Although it is generally believed that
+PERK activation promotes
+cytotoxic
+conditions through global attenuation of protein translation
+and induction of stress-induced cytoprotective genes (Marciniak
+and Ron, 2006; Walter and Ron, 2011), the precise molecular
+mechanisms
+the cytoprotective eﬀects of
+PERK signaling on oligodendrocytes in these diseases remain
+unknown. Several lines of evidence have suggested that PERK
+the NF-κB pathway by repressing the
+signaling activates
+translation of
+the NF-κB inhibitor IκBα during ER stress
+(Jiang et al., 2003; Deng et al., 2004). Activation of NF-
+κB, which is increasingly recognized as an anti-apoptotic
+transcription factor (Karin and Lin, 2002; Mincheva-Tasheva
+and Soler, 2013), has been observed in oligodendrocytes
+in MS and EAE lesions (Yan and Greer, 2008; McGuire
+et al., 2013). Interestingly, recent studies have shown that
+PERK activation in oligodendrocytes activates
+the NF-κB
+pathway in the cells in vitro and in vivo (Lin et al., 2012,
+2013). These data raise the possibility that NF-κB activation
+to the protective eﬀects of PERK signaling
+contributes
+on oligodendrocytes
+in immune-mediated demyelinating
+diseases. A mouse model
+controllable
+activation of PERK and inactivation of NF-κB speciﬁcally
+in oligodendrocytes would be the ideal model system to test this
+possibility.
+
+that
+
+allows
+
+for
+
+Frontiers in Neuroscience | www.frontiersin.org
+
+5
+
+July 2015 | Volume 9 | Article 264
+
+Stone and Lin
+
+UPR in MS
+
+Unique Features of the UPR in
+Oligodendrocytes
+
+The myelin sheath is an enormous lipid-rich membrane
+structure. Each myelinating oligodendrocytes must synthesize
+vast amounts of myelin membrane proteins and membrane lipids
+through the ER to assemble the myelin sheath (Pfeiﬀer et al.,
+1993; Anitei and Pfeiﬀer, 2006). Not surprising, evidence suggest
+that oligodendrocytes are highly sensitive to disruptions in ER
+homeostasis (Lin and Popko, 2009). Recent studies showed that
+ER stress and the UPR play a critical role in a number of
+myelin disorders in the CNS, including MS (as described above),
+Pelizaeus-Merzbacher disease, vanishing white matter disease
+(VWMD), and spinal cord injury (D’Antonio et al., 2009; Lin
+and Popko, 2009; Ohri et al., 2013). Interestingly, the UPR in
+oligodendrocytes has its unique features.
+
+Data from VWMD, a disease caused by mutations in
+the genes encoding the ﬁve subunits of eIF2B,
+suggest
+that oligodendrocytes are hyper-sensitive to activation of the
+PERK-eIF2α-eIF2B pathway (Scheper et al., 2006; Lin, 2015).
+VWMD patients exhibit profound myelin loss in the CNS
+white matter; however, the gray matter and other organs are
+generally spared. eIF2B acts as a guanine nucleotide exchange
+factor and participates in each translation initiation event in
+eukaryotic cells. The activity of eIF2B is tightly regulated by
+the level of p-eIF2α. A large number of studies have shown
+that eIF2B mutations in VWMD patients reduce its activity
+(reviewed in Pavitt and Proud, 2009). Interestingly, a very recent
+study demonstrated that impaired eIF2B activity speciﬁcally
+in oligodendrocytes during the active phase of myelination
+reproduces the characteristic features of VWMD in mice,
+including hypomyelinating phenotypes, premature death, foamy
+oligodendrocytes, and myelin loss (Lin et al., 2014b). Taken
+together, these data indicate that impairment of eIF2B induced by
+VWMD mutations predominately aﬀects oligodendrocytes and
+subsequently results in the selective white matter pathology in
+most cases of VWMD (Lin, 2015).
+
+the ATF6 branch of
+
+Of the three key transducers of the UPR the role of PERK
+signaling in oligodendrocytes has been the best characterized.
+Additionally,
+there is evidence (such as induction of BiP)
+suggesting activation of
+the UPR in
+oligodendrocytes (Lin et al., 2005, 2013; Mháille et al., 2008; Ní
+Fhlathartaigh et al., 2013). However, although the IRE1-XBP1
+branch is the most conserved part of the UPR, there is no
+evidence that this pathway plays a major role in oligodendrocytes.
+Despite considerable eﬀorts, we and other groups have never
+found activation of the IRE1-XBP1 pathway in oligodendrocytes
+in vitro or in vivo under physiological or pathological conditions.
+It is known that activation of PERK signaling and ATF6 signaling
+is notoriously diﬃcult to detect either in vitro or in vivo. In
+contrast, PCR-based assays that examine XBP1 splicing are highly
+sensitive methods for detection of activation of the IRE1-XBP1
+pathway (Cox et al., 2011). Failure to detect XBP1 splicing in
+oligodendrocytes suggests a minimal role for the IRE1-XBP1
+pathway in oligodendrocytes.
+
+A large number of studies have demonstrated that CHOP, an
+eﬀector of the PERK-eIF2α pathway, functions as a pro-apoptosis
+
+transcription factor in many cell types during ER stress (Tabas
+and Ron, 2011; Hetz, 2012). In contrast, evidence suggests
+that CHOP induction is not detrimental to oligodendrocytes
+(Gow and Wrabetz, 2009). Southwood et al. (2002) showed that
+UPR markers such as CHOP, BiP, and ATF3 are upregulated
+in oligodendrocytes of PLP1 mutant mice and that CHOP
+deletion exacerbates the clinical symptom and oligodendrocyte
+apoptosis in PLP1 mutant mice. It has also been shown that
+upregulation of CHOP induced by moderate PERK activation
+in oligodendrocytes of heterozygous PLP/Fv2E-PERK mice does
+not have a detrimental eﬀect on the cells under normal
+or disease conditions (Lin et al., 2013, 2014a). Moreover, a
+recent study showed that treating homozygous PLP/Fv2E-PERK
+mice with a high dose of AP20187 strongly activates PERK
+signaling speciﬁcally in oligodendrocytes, resulting in strong
+inhibition of protein biosynthesis and upregulation of CHOP
+in the cells. Notably, strong PERK activation inhibits the
+myelinating function of oligodendrocytes in young developing
+mice by suppressing protein translation, but does not aﬀect
+oligodendrocyte viability. Intriguingly, strong PERK activation
+in mature oligodendrocytes of fully-myelinated adult mice had
+minimal eﬀects on the function and viability of the cells (Lin
+et al., 2014b). Consistent with these studies, a report showed
+that CHOP deletion does not alter the disease severity of EAE
+in mice (Deslauriers et al., 2011). Collectively, these data suggest
+that CHOP does not act as a pro-apoptosis transcript factor in
+oligodendrocytes.
+
+Therapeutic Potential of the UPR in MS
+
+It is well-documented that the UPR inﬂuences the development
+of a number of human diseases,
+including inﬂammatory
+diseases, neurodegenerating diseases, myelin disorders, and
+tumors (Zhang and Kaufman, 2008; Lin and Popko, 2009; Hetz
+and Mollereau, 2014; Wang and Kaufman, 2014). Recent studies
+suggest that manipulation of the UPR pathways has therapeutic
+potential (Hetz et al., 2013). A number of small chemical
+compounds that selectively modulate the PERK-eIF2α pathway
+have been documented (Figure 2). PERK inhibitors GSK2606414
+and GSK2656157 are high aﬃnity ligands of the eIF2α kinase
+domain of the PERK protein and suppress PERK-mediated eIF2α
+phosphorylation by competing for ATP (Axten et al., 2012;
+Harding et al., 2012; Atkins et al., 2013). Salburinal, a selective
+inhibitor of the phosphatase complexes that dephosphorylate p-
+eIF2α, elevates the level of p-eIF2α in ER-stressed mice (Boyce
+et al., 2005). Guanabenz selectively binds to GADD34 and
+inhibits the activity of GADD34/PP1 complex, attenuating p-
+eIF2α dephosphorylation during ER stress (Tsaytler et al., 2011).
+The PERK activator CCT020312 stimulates PERK-mediated
+eIF2α phosphorylation in the absence of ER stress (Stockwell
+et al., 2012). Interestingly, the therapeutic potential of these
+modulators of the PERK-eIF2α pathway has been tested in
+animal models of human diseases. Treatment with the PERK
+inhibitor GSK2606414 attenuates protein translation inhibition
+induced by PERK activation and abrogates neurodegeneration
+and clinical symptoms in a mouse model of prion disease
+(Moreno et al., 2013). Administration of the PERK inhibitor
+
+Frontiers in Neuroscience | www.frontiersin.org
+
+6
+
+July 2015 | Volume 9 | Article 264
+
+Stone and Lin
+
+UPR in MS
+
+attenuates IFN-γ-induced myelinating oligodendrocyte death
+and myelin loss in hippocampal slice cultures, an in vitro model
+of myelination (Lin et al., 2008). Moreover, a very recent report
+showed that Guanabenz treatment increases the level of p-
+eIF2α and protects myelinating oligodendrocytes against the
+detrimental eﬀects of IFN-γ in cerebellar slice cultures and in
+transgenic mice that express IFN-γ in the CNS. This report
+also showed that Guanabenz treatment elevates the level of p-
+eIF2α, ameliorates EAE disease severity, and attenuates EAE-
+induced oligodendrocyte death and demyelination in the CNS
+(Way et al., 2015). Additionally, Guanabenz treatment does not
+alter T cell proliferation or cytokine production in the peripheral
+immune system, but suppresses CD4 T cell activation in the CNS
+during EAE. Although data derived from mouse models of MS
+are compelling, it is a formidable challenge to develop eﬀective
+therapeutic strategies to activate the PERK-eIF2α pathway for MS
+treatment, without causing side eﬀects.
+
+Future Directions
+
+FIGURE 2 | Modulators of the PERK-eIF2α pathway. (A) CCT020312
+activates PERK, inducing activation of the PERK-eIF2α pathway independently
+of ER stress. (B) GSK2606414 and GSK2656157 both selectively suppress
+PERK-mediated eIF2α phosphorylation. (C) Salburinal selectively inhibits of the
+activity of phosphatase complexes that dephosphorylate p-eIF2α, including
+both GADD34/PP1 complex and CReP (constitutive repressor of eIF2a
+phosphorylation)/PP1 complex. Guanabenz selectively binds to GADD34 and
+inhibits the activity of GADD34/PP1 complex, attenuating eIF2α
+dephosphorylation.
+
+GSK2656157 inhibits multiple human tumor xenografts growth
+in mice by suppressing angiogenesis (Atkins et al., 2013).
+Salubrinal treatment reduces ER accumulation of α-synuclein in
+neurons and extends the life span of A53T α-synuclein transgenic
+mice, a mouse model of Parkinson’s disease (Colla et al., 2012).
+Guanabenz treatment increases the level of p-eIF2α, reduces
+accumulation of mutant superoxide dismutase type 1 (mtSOD1),
+attenuates motor neuron death, and prolongs survival of
+mtSOD1 transgenic mice, a mouse model of amyotrophic lateral
+sclerosis (Wang et al., 2014).
+
+Using genetic approaches, the studies described above well-
+documented the cytoprotective eﬀects of
+the PERK-eIF2α
+pathway on both mature and remyelinating oligodendrocytes
+in mouse models of MS (Lin et al., 2013, 2014a; Hussien
+et al., 2014). Oligodendrocytes are not only highly sensitive
+to activation of the PERK-eIF2α pathway but also tolerate
+the activation extremely well
+(Lin and Popko, 2009; Lin
+et al., 2014b; Lin, 2015). Importantly, CHOP, a major pro-
+apoptotic transcription factor induced by PERK activation, has
+no signiﬁcant eﬀect on oligodendrocyte viability (Gow and
+Wrabetz, 2009; Lin et al., 2014b). These genetic studies indicate
+that the PERK-eIF2α pathway would be an ideal target to
+develop therapeutic strategies for oligodendrocyte protection in
+MS patients. Consistently, data from studies using small chemical
+compounds suggest the therapeutic potential of activation of
+the PERK-eIF2α pathway in models of MS. A report showed
+that Salburinal treatment elevates the level of p-eIF2α and
+
+regulate
+
+into antibody-secreting cells
+
+The ER is essential for the biosynthesis of myelin lipids and
+proteins. The volume of the ER increases dramatically in the
+cytoplasm of oligodendrocytes during the active phase of
+myelination (Wollmann et al., 1981). However, the mechanisms
+that
+the ER expansion during oligodendrocyte
+development remain unexplored. Recent studies suggest the
+UPR plays a role in the ER biogenesis (Brewer and Hendershot,
+2005; Aragon et al., 2012). Activation of the IRE1-XBP1 pathway
+directs the expansion of the ER during the diﬀerentiation
+of B lymphocytes
+(Iwakoshi
+et al., 2003; Sriburi et al., 2004). Activation of ATF6 also has
+the ability to drive the ER expansion independent of sXBP1
+(Bommiasamy et al., 2009).
+the PERK-eIF2α
+pathway does not participate in ER expansion during the
+development of antibody-secreting cells (Gass et al., 2008;
+Aragon et al., 2012). Although activation of PERK and ATF6
+has been observed in oligodendrocytes, deletion of either
+PERK or ATF6 has no discernible eﬀect on oligodendrocyte
+development (Yamamoto et al., 2010; Hussien et al., 2014). Since
+the functions of the PERK pathway and the ATF6 pathway
+overlap considerably (Marciniak and Ron, 2006; Walter and
+Ron, 2011), the minimal eﬀect of either PERK or ATF6 deletion
+on oligodendrocyte development might
+they
+compensate for each other. It would be interesting to determine
+the role of the UPR in the ER biogenesis during oligodendrocyte
+development using PERK and ATF6 double knock-out
+mice.
+
+In contrast,
+
+suggest
+
+that
+
+While the actions of PERK activation in oligodendrocytes
+in immune-mediated demyelinating diseases have been studied
+extensively, the underlying mechanisms through which PERK
+mediates protection remain unknown and deserve further
+investigation. Moreover, activation of the PERK pathway has
+been observed in other cell types in MS and EAE demyelinating
+lesions, including T cells, microglia/macrophages, and astrocytes
+(Chakrabarty et al., 2004; Mháille et al., 2008; Cunnea et al.,
+2011). A number of studies have shown that the PERK pathway
+regulates the functions of T cells, macrophages, and astrocytes
+
+Frontiers in Neuroscience | www.frontiersin.org
+
+7
+
+July 2015 | Volume 9 | Article 264
+
+Stone and Lin
+
+UPR in MS
+
+(Woo et al., 2009; Wheatley et al., 2011; Meares et al., 2014).
+Therefore, it would be important to dissect the precise role
+of PERK signaling in these cell types in the pathogenesis of
+EAE using cell-speciﬁc PERK knock-out mice. Moreover, future
+studies will need to assess the role of the ATF6 pathway in
+oligodendrocytes and other cell types in models of MS.
+
+For many years, the focus of MS research has been on T
+cell-mediated demyelination of the white matter. Recent studies,
+however, have shown that neurodegeneration is not only an early
+event but also the primary cause of chronic disability in MS
+(Dutta and Trapp, 2011; Popescu and Lucchinetti, 2012). It is
+well-documented that axon transection and loss occur early in
+the CNS of MS patients (Trapp and Nave, 2008). Signiﬁcant
+neuron loss has also been observed in the CNS gray matter
+of MS patients, including the cerebral cortex, hippocampus,
+thalamus, and spinal cord (Papadopoulos et al., 2009; Vogt
+et al., 2009). Moreover, magnetic resonance image studies show
+that progressive brain atrophy in MS patients correlates well
+with disability (Vigeveno et al., 2012). Interestingly, several
+studies have shown that both axon degeneration and neuron
+loss occur early in the EAE disease course (Lassmann, 2010).
+Although the current predominant view is that inﬂammation
+is ultimately responsible for neurodegeneration in MS and
+EAE (Glass et al., 2010; Siﬀrin et al., 2010), the actual steps
+leading from the immune attack on oligodendrocytes and myelin
+to neurodegeneration remain elusive. A number of studies
+
+have shown that the UPR inﬂuences, positively or negatively,
+neuron viability in various neurodegenerating diseases, including
+Alzheimer’s disease, Parkinson’s disease, amyotrophic lateral
+sclerosis, and prion disease (Doyle et al., 2011; Hetz and
+Mollereau, 2014). Importantly, a report showed that the levels of
+p-eIF2α and CHOP are increased in neurons in the CNS of EAE
+mice as compared to naïve mice (Ní Fhlathartaigh et al., 2013).
+Thus, there is a possibility that the UPR regulates neuron viability
+in MS and EAE. It is therefore important to determine the role of
+the individual branches of the UPR in neurons during EAE using
+neuron-speciﬁc knock-out mice.
+
+In summary, previous
+
+studies have demonstrated the
+cytoprotective eﬀects of the PERK branch of the UPR on
+oligodendrocytes in models of MS. Future studies will need to
+assess the role of other branches of the UPR in oligodendrocytes
+and the roles of individual branches of the UPR in other cell
+types involved in MS, particularly neurons,
+in this disease.
+The knowledge gained from these studies would provide a
+foundation to develop therapeutic strategies that protects both
+oligodendrocytes and neurons in patients with MS.
+
+Acknowledgments
+
+WL was supported by grants from the National Multiple Sclerosis
+Society (RG4813-A-2 and RG5239-A-3) and the National
+Institutes of Health (NS073132).
+
+References
+
+Anitei, M., and Pfeiﬀer, S. E. (2006). Myelin biogenesis: sorting out protein
+
+Boyce, M., Bryant, K. F., Jousse, C., Long, K., Harding, H. P., Scheuner, D., et al.
+(2005). A selective inhibitor of eIF2alpha dephosphorylation protects cells from
+ER stress. Science 307, 935–939. doi: 10.1126/science.1101902
+
+traﬃcking. Curr. Biol. 16, R418–R421. doi: 10.1016/j.cub.2006.05.010
+
+Bradl, M., and Lassmann, H. (2010). Oligodendrocytes: biology and pathology.
+
+Aragon, I. V., Barrington, R. A., Jackowski, S., Mori, K., and Brewer, J. W.
+(2012). The specialized unfolded protein response of B lymphocytes: ATF6α-
+independent development of antibody-secreting B cells. Mol. Immunol. 51,
+347–355. doi: 10.1016/j.molimm.2012.04.001
+
+Atkins, C., Liu, Q., Minthorn, E., Zhang, S. Y., Figueroa, D. J., Moss, K., et al.
+(2013). Characterization of a novel PERK kinase inhibitor with antitumor
+and antiangiogenic activity. Cancer. Res. 73, 1993–2002. doi: 10.1158/0008-
+5472.CAN-12-3109
+
+Axten, J. M., Medina, J. R., Feng, Y., Shu, A., Romeril, S. P., Grant, S. W., et al.
+(2012). Discovery of 7-methyl-5-(1-{[3-(triﬂuoromethyl)phenyl]acetyl}-2,3-
+dihydro-1H-indol-5-yl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine (GSK2606414),
+a potent and selective ﬁrst-in-class inhibitor of protein kinase R (PKR)-like
+endoplasmic reticulum kinase (PERK). J. Med. Chem. 55, 7193–7207. doi:
+10.1021/jm300713s
+
+Balabanov, R., Strand, K., Goswami, R., McMahon, E., Begolka, W., Miller, S. D.,
+et al. (2007). Interferon-gamma-oligodendrocyte interactions in the regulation
+of experimental autoimmune encephalomyelitis. J. Neurosci. 27, 2013–2024.
+doi: 10.1523/JNEUROSCI.4689-06.2007
+
+Bankston, A. N., Mandler, M. D., and Feng, Y. (2013). Oligodendroglia and
+neurotrophic factors in neurodegeneration. Neurosci. Bull. 29, 216–228. doi:
+10.1007/s12264-013-1321-3
+
+Barnett, M. H., and Prineas, J. W. (2004). Relapsing and remitting multiple
+sclerosis: pathology of the newly forming lesion. Ann. Neurol. 55, 458–468. doi:
+10.1002/ana.20016
+
+Baxter, A. G. (2007). The origin and application of experimental autoimmune
+
+encephalomyelitis. Nat. Rev. Immunol. 7, 904–912. doi: 10.1038/nri2190
+
+Acta Neuropathol. 119, 37–53. doi: 10.1007/s00401-009-0601-5
+
+Brewer, J. W., and Hendershot, L. M. (2005). Building an antibody factory: a job
+for the unfolded protein response. Nat. Immunol. 6, 23–29. doi: 10.1038/ni1149
+Cao, S. S., and Kaufman, R. J. (2014). Endoplasmic reticulum stress and oxidative
+stress in cell fate decision and human disease. Antioxid. Redox Signal. 21,
+396–413. doi: 10.1089/ars.2014.5851
+
+Chakrabarty, A., Danley, M. M., and LeVine, S. M. (2004). Immunohistochemical
+localization of phosphorylated protein kinase R and phosphorylated eukaryotic
+initiation factor-2 alpha in the central nervous system of SJL mice with
+experimental allergic encephalomyelitis. J. Neurosci. Res. 76, 822–833. doi:
+10.1002/jnr.20125
+
+Chakrabarty, A., Fleming, K. K., Marquis, J. G., and LeVine, S. M. (2005).
+Quantifying immunohistochemical staining of phospho-eIF2alpha, heme
+oxygenase-2 and NADPH cytochrome P450 reductase in oligodendrocytes
+during experimental autoimmune encephalomyelitis. J. Neurosci. Methods 144,
+227–234. doi: 10.1016/j.jneumeth.2004.11.010
+
+Chen, Y., and Brandizzi, F. (2013). IRE1: ER stress sensor and cell fate executor.
+
+Trends Cell Biol. 23, 547–555. doi: 10.1016/j.tcb.2013.06.005
+
+Colla, E., Jensen, P. H., Pletnikova, O., Troncoso, J. C., Glabe, C., and Lee, M.
+K. (2012). Accumulation of toxic α-synuclein oligomer within endoplasmic
+reticulum occurs in α-synucleinopathy in vivo. J. Neurosci. 32, 3301–3305. doi:
+10.1523/JNEUROSCI.5368-11.2012
+
+Corbin, J. G., Kelly, D., Rath, E. M., Baerwald, K. D., Suzuki, K., and Popko, B.
+(1996). Targeted CNS expression of interferon-gamma in transgenic mice leads
+to hypomyelination, reactive gliosis, and abnormal cerebellar development.
+Mol. Cell Neurosci. 7, 354–370. doi: 10.1006/mcne.1996.0026
+
+Bommiasamy, H., Back, S. H., Fagone, P., Lee, K., Meshinchi, S., Vink, E., et al.
+(2009). ATF6alpha induces XBP1-independent expansion of the endoplasmic
+reticulum. J. Cell. Sci. 122, 1626–1636. doi: 10.1242/jcs.045625
+
+Cox, D. J., Strudwick, N., Ali, A. A., Paton, A. W., Paton, J. C., and Schröder,
+M. (2011). Measuring signaling by the unfolded protein response. Methods
+Enzymol. 491, 261–292. doi: 10.1016/B978-0-12-385928-0.00015-8
+
+Frontiers in Neuroscience | www.frontiersin.org
+
+8
+
+July 2015 | Volume 9 | Article 264
+
+Stone and Lin
+
+UPR in MS
+
+Csala, M., Bánhegyi, G.,
+
+Endoplasmic
+reticulum: a metabolic compartment. FEBS Lett. 580, 2160–2165. doi:
+10.1016/j.febslet.2006.03.050
+
+and Benedetti, A.
+
+(2006).
+
+Gow, A., and Wrabetz, L. (2009). CHOP and the endoplasmic reticulum
+stress response in myelinating glia. Curr. Opin. Neurobiol. 19, 505–510. doi:
+10.1016/j.conb.2009.08.007
+
+Cunnea, P., Mháille, A. N., McQuaid, S., Farrell, M., McMahon, J., and
+FitzGerald, U. (2011). Expression proﬁles of endoplasmic reticulum stress-
+related molecules in demyelinating lesions and multiple sclerosis. Mult. Scler.
+17, 808–818. doi: 10.1177/1352458511399114
+
+Cwiklinska, H., Mycko, M. P., Luvsannorov, O., Walkowiak, B., Brosnan, C. F.,
+Raine, C. S., et al. (2003). Heat shock protein 70 associations with myelin basic
+protein and proteolipid protein in multiple sclerosis brains. Int. Immunol. 15,
+241–249. doi: 10.1093/intimm/dxg022
+
+D’Antonio, M., Feltri, M. L., and Wrabetz, L. (2009). Myelin under stress.
+
+J. Neurosci. Res. 87, 3241–3249. doi: 10.1002/jnr.22066
+
+Deng, J., Lu, P. D., Zhang, Y., Scheuner, D., Kaufman, R. J., Sonenberg, N.,
+et al. (2004). Translational repression mediates activation of nuclear factor
+kappa B by phosphorylated translation initiation factor 2. Mol. Cell. Biol. 24,
+10161–10168. doi: 10.1128/MCB.24.23.10161-10168.2004
+
+Denic, A., Johnson, A. J., Bieber, A. J., Warrington, A. E., Rodriguez, M., and
+Pirko, I. (2011). The relevance of animal models in multiple sclerosis research.
+Pathophysiology 18, 21–29. doi: 10.1016/j.pathophys.2010.04.004
+
+Deslauriers, A. M., Afkhami-Goli, A., Paul, A. M., Bhat, R. K., Acharjee, S., Ellestad,
+K. K., et al. (2011). Neuroinﬂammation and endoplasmic reticulum stress
+are coregulated by crocin to prevent demyelination and neurodegeneration.
+J. Immunol. 187, 4788–4799. doi: 10.4049/jimmunol.1004111
+
+Doyle, K. M., Kennedy, D., Gorman, A. M., Gupta, S., Healy, S. J., and
+Samali, A. (2011). Unfolded proteins and endoplasmic reticulum stress
+in neurodegenerative disorders. J. Cell. Mol. Med. 15, 2025–2039. doi:
+10.1111/j.1582-4934.2011.01374.x
+
+Dutta, R., and Trapp, B. D. (2011). Mechanisms of neuronal dysfunction
+and degeneration in multiple sclerosis. Prog. Neurobiol. 93, 1–12. doi:
+10.1016/j.pneurobio.2010.09.005
+
+Fancy, S. P., Chan, J. R., Baranzini, S. E., Franklin, R. J., and Rowitch, D. H. (2011).
+Myelin regeneration: a recapitulation of development? Annu. Rev. Neurosci. 34,
+21–43. doi: 10.1146/annurev-neuro-061010-113629
+
+Ferber, I. A., Brocke, S., Taylor-Edwards, C., Ridgway, W., Dinisco, C., Steinman,
+L., et al. (1996). Mice with a disrupted IFN-gamma gene are susceptible to the
+induction of experimental autoimmune encephalomyelitis (EAE). J. Immunol.
+156, 5–7.
+
+Franklin, R. J. (2002). Why does remyelination fail in multiple sclerosis? Nat. Rev.
+
+Neurosci. 3, 705–714. doi: 10.1038/nrn917
+
+Franklin, R. J., and Ffrench-Constant, C. (2008). Remyelination in the CNS: from
+
+biology to therapy. Nat. Rev. Neurosci. 9, 839–855. doi: 10.1038/nrn2480
+
+Frohman, E. M., Racke, M. K., and Raine, C. S. (2006). Multiple sclerosis–
+J. Med. 354, 942–955. doi:
+
+the plaque and its pathogenesis. N. Engl.
+10.1056/NEJMra052130
+
+Gade, P., Ramachandran, G., Maachani, U. B., Rizzo, M. A., Okada, T.,
+Prywes, R., et al. (2012). An IFN-γ-stimulated ATF6-C/EBP-β-signaling
+pathway critical for the expression of Death Associated Protein Kinase 1 and
+induction of autophagy. Proc. Natl. Acad. Sci. U.S.A. 109, 10316–10321. doi:
+10.1073/pnas.1119273109
+
+Gass,
+
+Jiang, H. Y., Wek, R. C., and Brewer,
+protein
+B-lymphocytes:
+
+J. W.
+(2008). The
+J. N.,
+unfolded
+PERK-independent
+development of antibody-secreting cells. Mol. Immunol. 45, 1035–1043.
+doi: 10.1016/j.molimm.2007.07.029
+
+response
+
+of
+
+Glass, C. K., Saijo, K., Winner, B., Marchetto, M. C., and Gage, F. H.
+(2010). Mechanisms underlying inﬂammation in neurodegeneration. Cell 140,
+918–934. doi: 10.1016/j.cell.2010.02.016
+
+Glembotski, C. C. (2014). Roles for ATF6 and the sarco/endoplasmic reticulum
+protein quality control system in the heart. J. Mol. Cell Cardiol. 71, 11–15. doi:
+10.1016/j.yjmcc.2013.09.018
+
+Gold, R., Linington, C., and Lassmann, H. (2006). Understanding pathogenesis
+and therapy of multiple sclerosis via animal models: 70 years of merits and
+culprits in experimental autoimmune encephalomyelitis research. Brain 129,
+1953–1971. doi: 10.1093/brain/awl075
+
+Goverman, J. (2009). Autoimmune T cell responses in the central nervous system.
+
+Nat. Rev. Immunol. 9, 393–407. doi: 10.1038/nri2550
+
+Harding, H. P., Calfon, M., Urano, F., Novoa,
+
+Transcriptional and translational control
+protein response. Annu. Rev. Cell. Dev. Biol.
+10.1146/annurev.cellbio.18.011402.160624
+
+I., and Ron, D. (2002).
+in the mammalian unfolded
+575–599. doi:
+
+18,
+
+Harding, H. P., Novoa, I., Bertolotti, A., Zeng, H., Zhang, Y., Urano, F., et al. (2001).
+Translational regulation in the cellular response to biosynthetic load on the
+endoplasmic reticulum. Cold Spring Harb. Symp. Quant. Biol. 66, 499–508. doi:
+10.1101/sqb.2001.66.499
+
+Harding, H. P., Zhang, Y., and Ron, D. (1999). Protein translation and folding are
+coupled by an endoplasmic-reticulum-resident kinase. Nature 397, 271–274.
+doi: 10.1038/16729
+
+Harding, H. P., Zhang, Y., Zeng, H., Novoa, I., Lu, P. D., Calfon, M., et al. (2003).
+An integrated stress response regulates amino acid metabolism and resistance
+to oxidative stress. Mol. Cell. 11, 619–633. doi: 10.1016/S1097-2765(03)00105-9
+Harding, H. P., Zyryanova, A. F., and Ron, D. (2012). Uncoupling proteostasis
+and development in vitro with a small molecule inhibitor of the pancreatic
+endoplasmic reticulum kinase, PERK. J. Biol. Chem. 287, 44338–44344. doi:
+10.1074/jbc.M112.428987
+
+Hetz, C. (2012). The unfolded protein response: controlling cell fate decisions
+under ER stress and beyond. Nat. Rev. Mol. Cell. Biol. 13, 89–102. doi:
+10.1038/nrm3270
+
+Hetz, C., Chevet, E., and Harding, H. P. (2013). Targeting the unfolded protein
+response in disease. Nat. Rev. Drug Discov. 12, 703–719. doi: 10.1038/nrd3976
+Hetz, C., and Mollereau, B. (2014). Disturbance of endoplasmic reticulum
+proteostasis in neurodegenerative diseases. Nat. Rev. Neurosci. 15, 233–249. doi:
+10.1038/nrn3689
+
+Hisahara, S., Araki, T., Sugiyama, F., Yagami, K., Suzuki, M., Abe, K., et al. (2000).
+Targeted expression of baculovirus p35 caspase inhibitor in oligodendrocytes
+protects mice against autoimmune-mediated demyelination. EMBO J. 19,
+341–348. doi: 10.1093/emboj/19.3.341
+
+Hisahara, S., Okano, H., and Miura, M. (2003). Caspase-mediated oligodendrocyte
+cell death in the pathogenesis of autoimmune demyelination. Neurosci. Res. 46,
+387–397. doi: 10.1016/S0168-0102(03)00127-5
+
+Hövelmeyer, N., Hao, Z., Kranidioti, K., Kassiotis, G., Buch, T., Frommer, F., et al.
+(2005). Apoptosis of Oligodendrocytes via Fas and TNF-R1 Is a Key Event in
+the Induction of Experimental Autoimmune Encephalomyelitis. J. Immunol.
+175, 5875–5884. doi: 10.4049/jimmunol.175.9.5875
+
+Hu, P., Han, Z., Couvillon, A. D., Kaufman, R. J., and Exton, J. H. (2006).
+Autocrine tumor necrosis factor alpha links endoplasmic reticulum stress
+to the membrane death receptor pathway through IRE1alpha-mediated NF-
+kappaB activation and down-regulation of TRAF2 expression. Mol. Cell. Biol.
+26, 3071–3084. doi: 10.1128/MCB.26.8.3071-3084.2006
+
+Hussien, Y., Cavener, D. R., and Popko, B. (2014). Genetic inactivation of PERK
+signaling in mouse oligodendrocytes: normal developmental myelination with
+increased susceptibility to inﬂammatory demyelination. Glia 62, 680–691. doi:
+10.1002/glia.22634
+
+Iwakoshi, N. N., Lee, A. H., Vallabhajosyula, P., Otipoby, K. L., Rajewsky, K., and
+Glimcher, L. H. (2003). Plasma cell diﬀerentiation and the unfolded protein
+response intersect at the transcription factor XBP-1. Nat. Immunol. 4, 321–329.
+doi: 10.1038/ni907
+
+Jiang, H. Y., Wek, S. A., McGrath, B. C., Scheuner, D., Kaufman, R. J., Cavener,
+D. R., et al. (2003). Phosphorylation of the alpha subunit of eukaryotic
+initiation factor 2 is required for activation of NF-kappaB in response to diverse
+cellular stresses. Mol. Cell. Biol. 23, 5651–5663. doi: 10.1128/MCB.23.16.5651-
+5663.2003
+
+Karin, M., and Lin, A. (2002). NF-kappaB at the crossroads of life and death. Nat.
+
+Immunol. 3, 221–227. doi: 10.1038/ni0302-221
+
+Kaufman, R. J. (1999). Stress signaling from the lumen of the endoplasmic
+reticulum: coordination of gene transcriptional and translational controls.
+Genes Dev. 13, 1211–1233. doi: 10.1101/gad.13.10.1211
+
+Kitamura, M. (2011). Control of NF-κB and inﬂammation by the unfolded
+protein response. Int. Rev. Immunol. 30, 4–15. doi: 10.3109/08830185.2010.5
+22281
+
+Frontiers in Neuroscience | www.frontiersin.org
+
+9
+
+July 2015 | Volume 9 | Article 264
+
+Stone and Lin
+
+UPR in MS
+
+LaFerla, F. M., Sugarman, M. C., Lane, T. E., and Leissring, M. A. (2000).
+Regional hypomyelination and dysplasia in transgenic mice with astrocyte-
+directed expression of interferon-gamma. J. Mol. Neurosci. 15, 45–59. doi:
+10.1385/JMN:15:1:45
+
+Lassmann, H. (2010). Axonal and neuronal pathology in multiple sclerosis:
+from animal models. Exp. Neurol. 225, 2–8. doi:
+
+what have we learnt
+10.1016/j.expneurol.2009.10.009
+
+Lees, J. R., and Cross, A. H. (2007). A little stress is good: IFN-gamma,
+demyelination, and multiple sclerosis. J. Clin. Invest. 117, 297–299. doi:
+10.1172/JCI31254
+
+Lin, W. (2015). Impaired eIF2B activity in oligodendrocytes contributes to VWMD
+
+pathogenesis. Neural. Regen. Res. 10, 195–197 doi: 10.4103/1673-5374.152366
+
+Lin, W., Bailey, S. L., Ho, H., Harding, H. P., Ron, D., Miller, S. D., et al.
+(2007). The integrated stress response prevents demyelination by protecting
+oligodendrocytes against immune-mediated damage. J. Clin. Invest. 117,
+448–456. doi: 10.1172/JCI29571
+
+Lin, W., Harding, H. P., Ron, D., and Popko, B.
+
+(2005). Endoplasmic
+reticulum stress modulates the response of myelinating oligodendrocytes to
+the immune cytokine interferon-gamma. J. Cell. Biol. 169, 603–612. doi:
+10.1083/jcb.200502086
+
+Lin, W., Kemper, A., Dupree, J. L., Harding, H. P., Ron, D., and Popko, B. (2006).
+Interferon-gamma inhibits central nervous system remyelination through a
+process modulated by endoplasmic reticulum stress. Brain 129, 1306–1318. doi:
+10.1093/brain/awl044
+
+Lin, W., Kemper, A., McCarthy, K. D., Pytel, P., Wang, J. P., Campbell, I. L.,
+et al. (2004). Interferon-gamma induced medulloblastoma in the developing
+cerebellum. J. Neurosci. 24, 10074–10083. doi: 10.1523/JNEUROSCI.2604-
+04.2004
+
+Lin, W., Kunkler, P. E., Harding, H. P., Ron, D., Kraig, R. P., and Popko, B. (2008).
+Enhanced integrated stress response promotes myelinating oligodendrocyte
+survival in response to interferon-gamma. Am. J. Pathol. 173, 1508–1517. doi:
+10.2353/ajpath.2008.080449
+
+Lin, W., and Lin, Y. (2010). Interferon-γ inhibits central nervous system
+and STAT1-independent
+
+myelination through both STAT1-dependent
+pathways. J. Neurosci. Res. 88, 2569–2577. doi: 10.1002/jnr.22425
+
+Lin, W., Lin, Y., Li, J., Fenstermaker, A. G., Way, S. W., Clayton, B., et al. (2013).
+Oligodendrocyte-speciﬁc activation of PERK signaling protects mice against
+experimental autoimmune encephalomyelitis. J. Neurosci. 33, 5980–5991. doi:
+10.1523/JNEUROSCI.1636-12.2013
+
+Lin, W., and Popko, B. (2009). Endoplasmic reticulum stress in disorders of
+
+myelinating cells. Nat. Neurosci. 12, 379–385. doi: 10.1038/nn.2273
+
+Lin, Y., Huang, G.,
+
+Jamison, S., Li,
+
+J., Harding, H. P., Ron, D., et al.
+(2014a). PERK activation preserves the viability and function of remyelinating
+oligodendrocytes in immune-mediated demyelinating diseases. Am. J. Pathol.
+184, 507–519. doi: 10.1016/j.ajpath.2013.10.009
+
+Lin, Y., Jamison, S., and Lin, W. (2012). Interferon-γ activates nuclear factor-κ B in
+oligodendrocytes through a process mediated by the unfolded protein response.
+PLoS ONE 7:e36408. doi: 10.1371/journal.pone.0036408
+
+Lin, Y., Pang, X., Huang, G., Jamison, S., Fang, J., Harding, H. P., et al. (2014b).
+Impaired eukaryotic translation initiation factor 2B activity speciﬁcally in
+oligodendrocytes reproduces the pathology of vanishing white matter disease
+in mice. J. Neurosci. 34, 12182–12191. doi: 10.1523/JNEUROSCI.1373-14.2014
+Lu, P. D., Jousse, C., Marciniak, S. J., Zhang, Y., Novoa, I., Scheuner, D.,
+et al. (2004). Cytoprotection by pre-emptive conditional phosphorylation
+of
+doi:
+10.1038/sj.emboj.7600030
+
+2. EMBO J.
+
+translation
+
+23,
+
+169–179.
+
+initiation
+
+factor
+
+Marciniak, S. J., and Ron, D. (2006). Endoplasmic reticulum stress signaling in
+
+disease. Physiol. Rev. 86, 1133–1149. doi: 10.1152/physrev.00015.2006
+
+Marciniak, S. J., Yun, C. Y., Oyadomari, S., Novoa, I., Zhang, Y., Jungreis,
+R., et al. (2004). CHOP induces death by promoting protein synthesis and
+oxidation in the stressed endoplasmic reticulum. Genes Dev. 18, 3066–3077.
+doi: 10.1101/gad.1250704
+
+Matsushima, G. K., and Morell, P. (2001). The neurotoxicant, cuprizone, as a
+model to study demyelination and remyelination in the central nervous system.
+Brain Pathol. 11, 107–116. doi: 10.1111/j.1750-3639.2001.tb00385.x
+
+Maurel, M., Chevet, E., Tavernier, J., and Gerlo, S. (2014). Getting RIDD of
+RNA: IRE1 in cell fate regulation. Trends Biochem. Sci. 39, 245–554. doi:
+10.1016/j.tibs.2014.02.008
+
+McGuire, C., Prinz, M., Beyaert, R., and van Loo, G. (2013). Nuclear factor kappa
+B (NF-κB) in multiple sclerosis pathology. Trends Mol. Med. 19, 604–613. doi:
+10.1016/j.molmed.2013.08.001
+
+McGuire, C., Volckaert, T., Wolke, U., Sze, M., de Rycke, R., Waisman, A.,
+et al. (2010). Oligodendrocyte-speciﬁc FADD deletion protects mice from
+autoimmune-mediated demyelination.
+J. Immunol. 185, 7646–7653. doi:
+10.4049/jimmunol.1000930
+
+McMahon, J. M., McQuaid, S., Reynolds, R., and FitzGerald, U. F. (2012).
+Increased expression of ER stress- and hypoxia-associated molecules in
+grey matter lesions in multiple sclerosis. Mult. Scler. 18, 1437–1447. doi:
+10.1177/1352458512438455
+
+Meares, G. P., Liu, Y., Rajbhandari, R., Qin, H., Nozell, S. E., Mobley, J. A.,
+et al. (2014). PERK-dependent activation of JAK1 and STAT3 contributes
+to endoplasmic reticulum stress-induced inﬂammation. Mol. Cell Biol. 34,
+3911–3925. doi: 10.1128/MCB.00980-14
+
+Merrill, J. E., Kono, D. H., Clayton, J., Ando, D. G., Hinton, D. R., and Hofman,
+F. M. (1992). Inﬂammatory leukocytes and cytokines in the peptide-induced
+disease of experimental allergic encephalomyelitis in SJL and B10.PL mice. Proc.
+Natl. Aacd. Sci. U.S.A. 89, 574–578. doi: 10.1073/pnas.89.2.574
+
+Mháille, A. N., McQuaid, S., Windebank, A., Cunnea, P., McMahon, J., Samali,
+A., et al. (2008). Increased expression of endoplasmic reticulum stress-related
+signaling pathway molecules in multiple sclerosis lesions. J. Neuropathol. Exp.
+Neurol. 67, 200–211. doi: 10.1097/NEN.0b013e318165b239
+
+Mincheva-Tasheva, S., and Soler, R. M. (2013). NF-κB signaling pathways: role
+in nervous system physiology and pathology. Neuroscientist 19, 175–194. doi:
+10.1177/1073858412444007
+
+Mor, F., and Cohen, I. R. (1992). T cells in the lesion of experimental autoimmune
+encephalomyelitis. Enrichment for reactivities to myelin basic protein and to
+heat shock proteins. J. Clin. Invest. 90, 2447–2455. doi: 10.1172/JCI116136
+
+Moreno, J. A., Halliday, M., Molloy, C., Radford, H., Verity, N., Axten, J. M.,
+et al. (2013). Oral treatment targeting the unfolded protein response prevents
+neurodegeneration and clinical disease in prion-infected mice. Sci. Transl. Med.
+5, 206ra138. doi: 10.1126/scitranslmed.3006767
+
+Mühl, H., and Pfeilschifter, J. (2003). Anti-inﬂammatory properties of pro-
+inﬂammatory interferon-gamma. Int. Immunopharmacol. 3, 1247–1255. doi:
+10.1016/S1567-5769(03)00131-0
+
+Mycko, M. P., Papoian, R., Boschert, U., Raine, C. S., and Selmaj, K. W.
+(2004). Microarray gene expression proﬁling of chronic active and inactive
+lesions in multiple sclerosis. Clin. Neurol. Neurosurg. 106, 223–229. doi:
+10.1016/j.clineuro.2004.02.019
+
+Nave, K. A., and Werner, H. B. (2014). Myelination of the nervous system:
+mechanisms and functions. Annu. Rev. Cell Dev. Biol. 30, 503–533. doi:
+10.1146/annurev-cellbio-100913-013101
+
+Ní Fhlathartaigh, M., McMahon,
+
+J., Reynolds, R., Connolly, D., Higgins,
+E., Fitzgerald, U., et al. (2013). Calreticulin and other components of
+endoplasmic reticulum stress in rat and human inﬂammatory demyelination.
+Acta Neuropathol. Commun. 1:37. doi: 10.1186/2051-5960-1-37
+
+Novoa, I., Zeng, H., Harding, H. P., and Ron, D. (2001). Feedback inhibition of
+the unfolded protein response by GADD34-mediated dephosphorylation of
+eIF2alpha. J. Cell. Biol. 153, 1011–1022. doi: 10.1083/jcb.153.5.1011
+
+Ohri, S. S., Hetman, M., and Whittemore, S. R. (2013). Restoring endoplasmic
+reticulum homeostasis improves functional recovery after spinal cord injury.
+Neurobiol. Dis. 58, 29–37. doi: 10.1016/j.nbd.2013.04.021
+
+Panitch, H. S., Hirsch, R. L., Schindler,
+
+(1987).
+Treatment of multiple sclerosis with gamma interferon: exacerbations
+associated with activation of the immune system. Neurology 37, 1097–1102. doi:
+10.1212/WNL.37.7.1097
+
+J., and Johnson, K. P.
+
+Papadopoulos, D., Dukes, S., Patel, R., Nicholas, R., Vora, A., and Reynolds,
+R. (2009). Substantial archaeocortical atrophy and neuronal loss in multiple
+sclerosis. Brain Pathol. 19, 238–253. doi: 10.1111/j.1750-3639.2008.00177.x
+
+Pavitt, G. D., and Proud, C. G. (2009). Protein synthesis and its control in neuronal
+cells with a focus on vanishing white matter disease. Biochem. Soc. Trans. 37,
+1298–1310. doi: 10.1042/BST0371298
+
+Pfeiﬀer, S. E., Warrington, A. E., and Bansal, R. (1993). The oligodendrocyte and
+its many cellular processes. Trends Cell. Biol. 3, 191–197. doi: 10.1016/0962-
+8924(93)90213-K
+
+Popescu, B. F., and Lucchinetti, C. F. (2012). Pathology of demyelinating diseases.
+
+Annu. Rev. Pathol. 7, 185–217. doi: 10.1146/annurev-pathol-011811-132443
+
+Frontiers in Neuroscience | www.frontiersin.org
+
+10
+
+July 2015 | Volume 9 | Article 264
+
+Stone and Lin
+
+UPR in MS
+
+Popko, B., and Baerwald, K. D. (1999). Oligodendroglial response to the
+immune cytokine interferon gamma. Neurochem. Res. 24, 331–338. doi:
+10.1023/A:1022586726510
+
+Popko, B., Corbin, J. G., Baerwald, K. D., Dupree, J., and Garcia, A. M. (1997). The
+eﬀects of interferon-gamma on the central nervous system. Mol. Neurobiol. 14,
+19–35. doi: 10.1007/BF02740619
+
+Prineas, J. W., and Parratt, J. D. (2012). Oligodendrocytes and the early multiple
+
+sclerosis lesion. Ann. Neurol. 72, 18–31. doi: 10.1002/ana.23634
+
+Qi, L., Yang, L., and Chen, H. (2011). Detecting and quantitating physiological
+reticulum stress. Methods Enzymol. 490, 137–146. doi:
+
+endoplasmic
+10.1016/B978-0-12-385114-7.00008-8
+
+Ramana, C. V., Gil, M. P., Schreiber, R. D., and Stark, G. R. (2002). Stat1-
+dependent and -independent pathways in IFN-gamma-dependent signaling.
+Trends Immunol. 23, 96–101. doi: 10.1016/S1471-4906(01)02118-4
+
+Ren, Z., Wang, Y., Tao, D., Liebenson, D., Liggett, T., Goswami, R., et al.
+(2011). Overexpression of the dominant-negative form of interferon regulatory
+factor 1 in oligodendrocytes protects against experimental autoimmune
+encephalomyelitis. J. Neurosci. 31, 8329–8341. doi: 10.1523/JNEUROSCI.1028-
+11.2011
+
+Scheper, G. C., Proud, C. G., and van der Knaap, M. S. (2006). Defective translation
+initiation causes vanishing of cerebral white matter. Trends Mol. Med. 12,
+159–166. doi: 10.1016/j.molmed.2006.02.006
+
+Schröder, M. (2008). Endoplasmic reticulum stress responses. Cell Mol. Life Sci. 65,
+
+862–894. doi: 10.1007/s00018-007-7383-5
+
+Shen, J., Chen, X., Hendershot, L., and Prywes, R. (2002). ER stress regulation
+of ATF6 localization by dissociation of BiP/GRP78 binding and unmasking
+of Golgi
+localization signals. Dev. Cell 3, 99–111. doi: 10.1016/S1534-
+5807(02)00203-4
+
+Siﬀrin, V., Vogt, J., Radbruch, H., Nitsch, R., and Zipp, F. (2010). Multiple
+sclerosis - candidate mechanisms underlying CNS atrophy. Trends Neurosci.
+33, 202–210. doi: 10.1016/j.tins.2010.01.002
+
+Southwood, C. M., Garbern, J., Jiang, W., and Gow, A. (2002). The unfolded
+protein response modulates disease severity in Pelizaeus-Merzbacher disease.
+Neuron 36, 585–596. doi: 10.1016/S0896-6273(02)01045-0
+
+Sriburi, R., Jackowski, S., Mori, K., and Brewer, J. W. (2004). XBP1: a link
+between the unfolded protein response, lipid biosynthesis, and biogenesis of
+the endoplasmic reticulum. J. Cell. Biol. 167, 35–41. doi: 10.1083/jcb.200406136
+Steinman, L. (1999). Assessment of animal models for MS and demyelinating
+therapy. Neuron 24, 511–514. doi:
+
+disease in the design of rational
+10.1016/S0896-6273(00)81107-1
+
+Stidworthy, M. F., Genoud, S., Suter, U., Mantei, N., and Franklin, R. J.
+(2003). Quantifying the early stages of remyelination following cuprizone-
+induced demyelination. Brain Pathol. 13, 329–339. doi: 10.1111/j.1750-
+3639.2003.tb00032.x
+
+Stockwell, S. R., Platt, G., Barrie, S. E., Zoumpoulidou, G., Te Poele, R. H.,
+Aherne, G. W., et al. (2012). Mechanism-based screen for G1/S checkpoint
+activators identiﬁes a selective activator of EIF2AK3/PERK signalling. PLoS
+ONE 7:e28568. doi: 10.1371/journal.pone.0028568
+
+Tabas,
+
+(2011).
+
+I., and Ron, D.
+
+Integrating the mechanisms of apoptosis
+induced by endoplasmic reticulum stress. Nat. Cell. Biol. 13, 184–190. doi:
+10.1038/ncb0311-184
+
+Trapp, B. D., and Nave, K. A.
+
+(2008). Multiple sclerosis: an immune
+or neurodegenerative disorder? Annu. Rev. Neurosci. 31, 247–269. doi:
+10.1146/annurev.neuro.30.051606.094313
+
+Tsaytler, P., Harding, H. P., Ron, D., and Bertolotti, A. (2011). Selective inhibition
+of a regulatory subunit of protein phosphatase 1 restores proteostasis. Science
+332, 91–94. doi: 10.1126/science.1201396
+
+van der Star, B. J., Vogel, D. Y., Kipp, M., Puentes, F., Baker, D., and Amor, S.
+(2012). In vitro and in vivo models of multiple sclerosis. CNS Neurol. Disord.
+Drug Targets 11, 570–588. doi: 10.2174/187152712801661284
+
+Vigeveno, R. M., Wiebenga, O. T., Wattjes, M. P., Geurts, J. J., and Barkhof, F.
+(2012). Shifting imaging targets in multiple sclerosis: from inﬂammation to
+neurodegeneration. J. Magn. Reson. Imaging. 36, 1–19. doi: 10.1002/jmri.23578
+Vogt, J., Paul, F., Aktas, O., Müller-Wielsch, K., Dörr, J., Dörr, S., et al. (2009).
+Lower motor neuron loss in multiple sclerosis and experimental autoimmune
+encephalomyelitis. Ann. Neurol. 66, 310–322. doi: 10.1002/ana.21719
+
+Walter, P., and Ron, D.
+
+from
+stress pathway to homeostatic regulation. Science 334, 1081–1086. doi:
+10.1126/science.1209038
+
+(2011). The unfolded protein response:
+
+Wang, L., Popko, B., Tixier, E., and Roos, R. P.
+
+(2014). Guanabenz,
+which enhances the unfolded protein response, ameliorates mutant SOD1-
+induced amyotrophic lateral sclerosis. Neurobiol. Dis. 71, 317–324. doi:
+10.1016/j.nbd.2014.08.010
+
+Wang, M., and Kaufman, R. J. (2014). The impact of the endoplasmic reticulum
+protein-folding environment on cancer development. Nat. Rev. Cancer 14,
+581–597. doi: 10.1038/nrc3800
+
+Wang, S., and Kaufman, R. J. (2012). The impact of the unfolded protein response
+
+on human disease. J. Cell. Biol. 197, 857–867. doi: 10.1083/jcb.201110131
+
+Way, S. W., Podojil,
+
+J. R., Clayton, B. L., Zaremba, A., Collins, T. L.,
+Kunjamma, R. B., et al. (2015). Pharmaceutical integrated stress response
+enhancement protects oligodendrocytes and provides a potential multiple
+sclerosis therapeutic. Nat. Commun. 6, 6532. doi: 10.1038/ncomms7532
+
+Wheatley, A. K., Kramski, M., Alexander, M. R., Toe, J. G., Center, R. J., and Purcell,
+D. F. (2011). Co-expression of miRNA targeting the expression of PERK, but
+not PKR, enhances cellular immunity from an HIV-1 Env DNA vaccine. PLoS
+ONE 6:e18225. doi: 10.1371/journal.pone.0018225
+
+Wheeler, R. D., and Owens, T. (2005). The changing face of cytokines in
+the brain: perspectives from EAE. Curr. Pharm. Des. 11, 1031–1037. doi:
+10.2174/1381612053381657
+
+Willenborg, D. O., Fordham, S., Bernard, C. C., Cowden, W. B., and Ramshaw, I. A.
+(1996). IFN-gamma plays a critical down-regulatory role in the induction and
+eﬀector phase of myelin oligodendrocyte glycoprotein-induced autoimmune
+encephalomyelitis. J. Immunol. 157, 3223–3227.
+
+Wollmann, R. L., Szuchet, S., Barlow, J., and Jerkovic, M. (1981). Ultrastructural
+changes accompanying the growth of isolated oligodendrocytes. J. Neurosci.
+Res. 6, 757–769. doi: 10.1002/jnr.490060610
+
+Woo, C. W., Cui, D., Arellano, J., Dorweiler, B., Harding, H., Fitzgerald, K. A.,
+et al. (2009). Adaptive suppression of the ATF4-CHOP branch of the unfolded
+protein response by toll-like receptor signalling. Nat. Cell. Biol. 11, 1473–1480.
+doi: 10.1038/ncb1996
+
+Yamamoto, K., Takahara, K., Oyadomari, S., Okada, T., Sato, T., Harada, A., et al.
+(2010). Induction of liver steatosis and lipid droplet formation in ATF6alpha-
+knockout mice burdened with pharmacological endoplasmic reticulum stress.
+Mol. Biol. Cell. 21, 2975–2986. doi: 10.1091/mbc.E09-02-0133
+
+Yan, J., and Greer, J. M. (2008). NF-kappa B, a potential therapeutic target for the
+treatment of multiple sclerosis. CNS Neurol. Disord. Drug Targets 7, 536–557.
+doi: 10.2174/187152708787122941
+
+Zhang, K., and Kaufman, R. J. (2008). From endoplasmic-reticulum stress to the
+
+inﬂammatory response. Nature 454, 455–462. doi: 10.1038/nature07203
+
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relationships that could
+be construed as a potential conﬂict of interest.
+
+Copyright © 2015 Stone and Lin. This is an open-access article distributed under the
+terms of the Creative Commons Attribution License (CC BY). The use, distribution or
+reproduction in other forums is permitted, provided the original author(s) or licensor
+are credited and that the original publication in this journal is cited, in accordance
+with accepted academic practice. No use, distribution or reproduction is permitted
+which does not comply with these terms.
+
+Frontiers in Neuroscience | www.frontiersin.org
+
+11
+
+July 2015 | Volume 9 | Article 264
+
+

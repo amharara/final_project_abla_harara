@@ -1,0 +1,598 @@
+bs_bs_banner
+
+Neuropathology 2015; 35, 481–486
+
+doi:10.1111/neup.12216
+
+Workshop: New perspectives in MS, NMO, and PML
+Signiﬁcance of gray matter brain lesions in multiple
+
+sclerosis and neuromyelitis optica
+
+Izumi Kawachi and Masatoyo Nishizawa
+
+Department of Neurology, Brain Research Institute, Niigata University, Niigata, Japan
+
+Multiple sclerosis (MS) and neuromyelitis optica (NMO) are
+the two main autoimmune diseases of the CNS. In patients
+with NMO, the target antigen is aquaporin-4 (AQP4), the
+most abundant water channel protein in the CNS. AQP4 is
+mainly expressed on astrocytic endfoot processes at the
+blood-brain barrier and in subpial and subendymal regions.
+MS and NMO are distinct diseases, but they have some com-
+mon clinical features: both have long been considered auto-
+immune diseases that primarily affect the white matter
+(WM). However, because WM demyelination by itself
+cannot explain the full extent of the clinical disabilities,
+including cognitive decline in patients with MS and NMO,
+renewed interest in gray matter (GM) pathology in MS
+and NMO is emerging. Important hallmarks of WM and
+GM lesions in MS and NMO may differentially inﬂuence
+neuronal degeneration and demyelination in the brain and
+spinal cord, given different detrimental effects, including
+cytokine diffusion, disruption of water homeostasis associ-
+ated with or without AQP4 (the target antigen in NMO)
+dynamics, or other unidentiﬁed mechanisms. An increase
+in knowledge of the structure of GM and WM lesions in
+MS and NMO will result in more targeted therapeutic
+approaches to these two diseases.
+
+Key words: gray matter lesions, neurodegeneration, neuromy-
+elitis optica, multiple sclerosis, white matter lesions.
+
+INTRODUCTION
+
+Neuromyelitis optica (NMO) and multiple sclerosis (MS)
+are the two main autoimmune diseases of the CNS typically
+following a relapsing and remitting course.1,2 In patients
+with NMO, the speciﬁc autoantibody targets the water chan-
+nel aquaporin-4 (AQP4).3,4 Details of the disease mecha-
+nisms, pathology and clinical characteristics of NMO have
+emerged. Currently, NMO is widely recognized as a distinct,
+
+Correspondence: Izumi Kawachi, MD, PhD, Department of Neurology,
+Brain Research Institute, Niigata University, 1-757 Asahimachi,
+Chuo-ku, Niigata 951-8585, Japan. Email: ikawachi@bri.niigata-u.ac.jp
+and accepted 5 April 2015;
+
+Received 7 February 2015; revised
+
+published online 16 June 2015.
+© 2015 Japanese Society of Neuropathology
+
+relapsing, autoimmune disease that can be distinguished
+from MS based on epidemiological, clinical, radiological, im-
+munological and pathological evidence.2,5,6 NMO is charac-
+terized by three major lesions:2,5 (i) myelopathy in NMO is
+associated with spinal cord lesions detected with MRI that
+extend more than three spinal segments (longitudinally ex-
+tensive spinal cord lesions (LEM)) and that primarily in-
+volve the central part of the spinal cord on axial sections5,7;
+(ii) optic neuritis in NMO is bilateral and severe and is asso-
+ciated with swollen optic nerves, a chiasmatic lesion, or an al-
+titudinal scotoma, as well as a thin retinal nerve ﬁber layer
+that is observed with optical coherence tomography5,8; and
+(iii) periaqueductal medullary lesions in NMO are associ-
+ated with intractable hiccoughs or nausea/vomiting that are
+present for > 2 days.5,9 More recently, supratentorial lesions
+have been reported in NMO including extensive white mat-
+ter (WM) lesions,10 cortical gray matter (GM) lesions,11
+brainstem lesions, or cerebellar lesions. Thus, CNS lesions
+in NMO may be much more widespread than previously
+thought. To address the region-speciﬁc and disease-speciﬁc
+mechanisms of NMO and MS pathogenesis in the CNS, we
+summarized and reviewed the current concepts of WM and
+GM lesions in NMO and MS and further clariﬁed some con-
+troversial issues (Fig. 1).6,11–13
+
+GM INVOLVEMENT IN MS
+
+MS has long been considered an autoimmune disease that
+primarily affects the WM. However, because WM demye-
+lination by itself cannot explain the full extent of clinical
+disabilities, including cognitive decline in patients with
+MS, renewed interest in GM pathology in MS14,15 is
+emerging.
+
+From a historical perspective, GM lesions in MS were
+disregarded for a long time since their description by the
+neuropathologist James W. Dawson in 1916.16 In 1962,
+Brownell et al. reported that among a total of 1594 cerebral
+plaques in 22 postmortem MS brains, 80 (5%), 65 (4%), 265
+(17%) and 1184 (74%) plaques were found in cortical GM,
+central GM, the junction of cortical GM and WM and
+WM, respectively, according to pathological assessment
+
+482
+
+I Kawachi and M Nishizawa
+
+Fig. 1 Models of lesion formation in multiple sclerosis (MS) (A) and neuromyelitis optica (NMO) (B). Demyelination in cortical gray matter
+(GM) is evident in MS (A), but not in NMO (B). The pathological hallmarks of cortical GM lesions in MS are largely restricted to demyelin-
+ation, subtle neuroaxonal degeneration, transection of neurites, and synaptic loss. On the other hand, cortical GM lesions are evident in NMO
+brains and are distinct from lesions in MS brains. Neuropathological assessment has demonstrated neuronal loss in cortical layers II, III and IV
+with nonlytic reaction of aquaporin-4 (AQP4)-negative astrocytes in layer I, massive activation of microglia in layer II and meningeal inﬂam-
+mation in NMO brains. No NMO cases showed evidence of cortical GM demyelination or ectopic B-cell follicle-like structures in the meninges.
+These data indicate that pathological processes consist not only of inﬂammatory demyelinating events characterized by pattern-speciﬁc loss of
+AQP4 immunoreactivity in the spinal cord and optic nerves, but also cortical neurodegeneration in NMO brains.
+
+using conventional myelin staining such as Luxol Fast-Blue
+or Klüver-Barrera staining.17 Recent studies using more
+sensitive immunohistochemical staining with antibodies
+against myelin basic protein, myelin oligodendrocyte glyco-
+protein, or proteolipid protein demonstrated that GM de-
+myelination was much more extensive in patients with MS
+than previously thought.18
+
+Cortical GM demyelination in MS is classiﬁed into four
+lesion types:19,20 Type I lesions are mixed GM/WM lesions;
+Type II lesions are located within the cortical GM and do
+not extend to the surface of the brain; Type III lesions are
+subpial lesions, which reach from the pia downwards into
+the cortical GM but do not reach the WM-GM border; and
+Type IV lesions extend throughout the full width of the cor-
+tical GM, but do not reach into the subcortical WM.19,20
+Pathological studies using postmortem samples have shown
+that the percentages of total demyelinated lesions are 14%,
+1%, 67% and 17% in Types I, II, III and IV, respectively.19
+A pathological study using biopsy samples in a cohort of
+patients with early-stage MS, including deﬁnite MS and clin-
+ically isolated syndrome, indicated that cortical demyelin-
+ation is also evident in 38% of samples and that the
+percentages of total demyelinated lesions are 50%, 16%,
+34% and 0%, in Types I, II, III and IV, respectively.14
+Band-like subpial demyelination (Type III lesion) is invari-
+ably oriented toward the pial surface of the cortex and pen-
+etrates into the cortex at variable depths, is particularly
+
+widespread in deep infoldings of the brain surface, affects
+the largest cortical areas and several adjacent gyri, is associ-
+ated with inﬂammatory inﬁltrates in the meninges, and is
+mainly found in patients with secondary progressive (SPMS)
+or primary progressive MS (PPMS).21 On the other hand,
+Type I or II lesions are present in all stages and courses of
+MS,
+including acute MS, relapsing and remitting MS
+(RRMS), PPMS and SPMS.21 The pathology of cortical
+GM lesions is distinct from that of WM lesions in MS brains;15
+the typical pathological hallmarks of WM lesions, including
+lymphocyte and macrophage inﬁltration, complement depo-
+sition, microglial activation, and blood-brain barrier disrup-
+in cortical GM lesions.19,20,22,23
+tion, are all unusual
+However, these differences may be dependent on lesion
+stage, because most of the cortical demyelination in pa-
+tients with early-stage MS shows parenchymal inﬂamma-
+inﬁltrates and
+tory inﬁltrates
+macrophage-associated demyelination with meningeal
+inﬂammation,14 which was much more extensive than
+previously thought in cohorts of most patients with SPMS
+or PPMS.19,20,22,23 A focal experimental autoimmune
+encephalitis model of cortical demyelination, which is in-
+duced by stereotactically targeting the cerebral cortex by
+injecting proinﬂammatory mediators into myelin oligoden-
+drocyte glycoprotein-sensitized rats, shows more rapid res-
+olution of inﬂammation and more extensive remyelination
+of GM demyelination compared to WM demyelination.24
+© 2015 Japanese Society of Neuropathology
+
+including CD3+ T-cell
+
+Gray matter lesions in MS and NMO
+
+483
+
+More recently, a clear gradient of neuronal loss was evident
+not only in GM demyelination but also in normal-
+appearing GM when accompanied by meningeal B-cell
+follicle-like structures.25 These data indicate that some
+neurodegeneration in the cortex may be independent of
+demyelination and may more diffusely occur.25
+
+Deep GM demyelination is also present in patients with
+MS, as shown by pathological assessment of postmortem
+brains.26,27 Deep GM demyelination is most often seen in
+the thalamus, hypothalamus and caudate nuclei, but is also
+present in the putamen, pallidum, claustrum, amygdala and
+substantia nigra. Deep GM inﬂammation is intermediate
+between low inﬂammatory cortical lesions and active WM
+lesions.27 The deep GM in MS shows not only focal
+demyelinated plaques, but also diffuse neurodegeneration27
+analogous with cortical GM lesions. Moreover, non-
+neocortical lesions with prominent GM pathology are also
+present in the hippocampus.28 Demyelinated hippocampi
+show minimal neuronal loss, but signiﬁcant decreases in syn-
+aptic density. Neuronal proteins essential for axonal trans-
+port,
+synaptic plasticity, glutamate neurotransmission,
+glutamate homeostasis and memory, are signiﬁcantly de-
+creased in demyelinated hippocampi, but not in demyelinated
+motor cortices in MS brains.28
+
+Conventional MRI are usually not optimal for detecting
+cortical GM lesions in MS brains.29 Recently, a multi-slab
+three-dimensional (3D) double inversion recovery (DIR)
+technique has been developed and has enabled around a
+ﬁve-fold increase in the detection of cortical GM lesions in
+MS brains compared to conventional MRI.15,29–34 However,
+in a postmortem veriﬁcation study, 3D-DIR detected only
+9.1% of all intracortical GM lesions (Types II, III and IV le-
+sions) that were identiﬁed with pathological methods, sug-
+gesting that 3D-DIR has poor sensitivity for detecting
+intracortical GM lesions, although it has excellent patholog-
+ical speciﬁcity.31 Importantly, band-like subpial demyelin-
+ation (Type III lesions), which is the most common type of
+cortical GM lesion in MS autopsied brains, is still undetect-
+able with DIR sequences.30,31 Future radiological assess-
+ment methods are needed to improve the detection of
+cortical GM lesions.6
+
+GM INVOLVEMENT IN NMO
+
+NMO is an autoimmune astrocytopathy characterized by se-
+vere attacks of optic neuritis and LEM.3,4 The target antigen
+in patients with NMO is AQP4,3,4 the most abundant water
+channel protein in the CNS that is mainly expressed on as-
+trocytic endfoot processes at the blood-brain barrier and in
+subpial and subependymal regions.35 Historically, severe
+optic neuritis and LEM with a negative brain MRI are con-
+sidered common features of NMO.7 LEM primarily involves
+central GM.5,35 However, increasing evidence indicates that
+© 2015 Japanese Society of Neuropathology
+
+typical/atypical MS-type brain lesions are present
+in
+NMO.10,36–40 Sixty percent of NMO patients have brain
+abnormalities on MRI, most of which are nonspeciﬁc.
+However, 10% have MS-typical
+lesions, and 8% have
+MS-atypical lesions such as diencephalic, brainstem or cere-
+bral lesions.10 Moreover, magnetization transfer and diffu-
+sion tensor MRI studies of patients with NMO have found
+abnormalities in normal-appearing GM as well as normal
+ﬁndings or minimal changes in normal-appearing WM, re-
+gardless of abnormalities seen with conventional MRI.36–40
+These ﬁndings suggest that brain and spinal cord abnormal-
+ities, including not only WM, but also GM, are evident in
+NMO. The reason may be because the GM of the brain
+and spinal cord shows high AQP4 expression.
+
+The pathological hallmarks of NMO are pattern-speciﬁc
+loss of AQP4 immunoreactivity and intense vasculocentric
+immune complex depositions with activated comple-
+ment.41–43 These ﬁndings in the spinal cord and optic nerves
+of the deﬁnite form of NMO are identical in the limited form
+of NMO.12 Recently, we revealed that cortical GM lesions
+are evident in NMO brains and are distinct from MS
+brains.11,44 Neuropathological assessments have demon-
+strated neuronal loss in cortical layers II, III and IV, with
+nonlytic reaction of AQP4-negative astrocytes in layer I,
+massive activation of microglia in layer II, and meningeal in-
+ﬂammation in NMO brains.11 Importantly, all NMO cases
+show no evidence of cortical GM demyelination or ectopic
+B-cell follicle-like structures in the meninges.11,44 These data
+indicate that pathological processes consist not only of in-
+ﬂammatory demyelinating events characterized by pattern-
+speciﬁc loss of AQP4 immunoreactivity in the spinal cord
+and optic nerves, but also of cortical neurodegeneration in
+NMO brains.11
+
+Irrespective of abnormalities seen with conventional
+MRI, examinations using magnetization transfer and diffu-
+sion tensor MRI have demonstrated that patients with
+NMO show a reduced magnetization transfer ratio and an
+increased mean diffusivity of
+the normal-appearing
+GM.36–38,40 Two voxel-based morphometry studies have
+shown regional atrophy in the sensorimotor, visual and
+frontotemporal cortices.39,40 These data provide evidence
+that GM pathology is present during the disease processes
+of NMO. Moreover, consistent with our pathological ﬁnd-
+ings indicating that unique cortical GM lesions are evident,
+but that cortical GM demyelination is absent,11,44 a previ-
+ous paper45 demonstrated that DIR sequences did not de-
+tect any cortical GM lesions in NMO brains. 3D-DIR has
+poor sensitivity for detecting cortical GM lesions, in partic-
+ular, subpial lesions in MS.30,31 Because NMO brains have
+unique cortical GM lesions without any cortical demyelin-
+ation and more severe damage in the subpial layers than
+deep layers,11 cortical GM lesions in NMO may not be de-
+tected with DIR sequences.
+
+484
+
+I Kawachi and M Nishizawa
+
+CONCLUSIONS
+
+The involvement of not only WM, but also GM in the brain
+and spinal cord is seen in MS and NMO. However, studies of
+GM involvement in MS and NMO have only just begun, and
+no direct evidence of clinical relevance for GM involvement,
+including cognitive and physical impairment in MS and
+NMO, has been reported. As an example of the clinical rel-
+evance of GM involvement, common cognitive impair-
+ments, including impairment in attention, processing speed,
+executive functioning, and memory, are seen in MS46 and
+NMO.11 With radiological and clinical assessments, a corre-
+lation between cortical atrophy and cognitive decline in pa-
+tients with MS47–49 has been observed, and cortical GM
+lesions detected with DIR sequences are considered to be
+a better predictor of cognitive impairment than WM lesions
+in patients with RRMS.49–52 However, 3D-DIR has poor
+sensitivity for detecting cortical GM demyelinating lesions
+in MS31 and neurodegeneration in cortical GM in NMO,45
+because band-like subpial demyelination (Type III lesion)
+is the most common type of cortical GM lesions in MS
+brains, and NMO brains have unique cortical GM lesions
+without cortical demyelination and more severe damage in
+the subpial layers than in deep layers.11,44 Full understand-
+ing of the relationships among GM lesions, cognitive impair-
+ment and disease progression awaits future studies.
+
+ACKNOWLEDGEMENTS
+
+This work was supported in part by JSPS KAKENHI Grant
+Number 26461289 (IK), and a Health and Labour Sciences
+Research Grant on Rare and Intractable Diseases (Evi-
+dence-based Early Diagnosis and Treatment Strategies for
+Neuroimmunological Diseases) from the Ministry of Health,
+Labour and Welfare of Japan (MN).
+
+We wish to thank S. Kawaguchi and M. Kaneko (Depart-
+ment of Neurology, Brain Research Institute, Niigata Uni-
+versity, Japan) for technical assistances.
+
+REFERENCES
+
+1. Frohman EM, Racke MK, Raine CS. Multiple
+sclerosis--the plaque and its pathogenesis. N Engl J
+Med 2006; 354: 942–955.
+
+2. Wingerchuk DM, Lennon VA, Lucchinetti CF, Pittock
+SJ, Weinshenker BG. The spectrum of neuromyelitis
+optica. Lancet Neurol 2007; 6: 805–815.
+
+3. Lennon VA, Kryzer TJ, Pittock SJ, Verkman AS,
+Hinson SR. IgG marker of optic-spinal multiple sclero-
+sis binds to the aquaporin-4 water channel. J Exp Med
+2005; 202: 473–477.
+
+4. Lennon VA, Wingerchuk DM, Kryzer TJ et al. A serum
+autoantibody marker of neuromyelitis optica: distinction
+from multiple sclerosis. Lancet 2004; 364: 2106–2112.
+
+5. Polman CH, Reingold SC, Banwell B et al. Diagnostic
+criteria for multiple sclerosis: 2010 revisions to the
+McDonald criteria. Ann Neurol 2011; 69: 292–302.
+
+6. Kawachi I, Nishizawa M. Gray matter involvement in
+multiple sclerosis and neuromyelitis optica. Clin Exp
+Neuroimmunol 2014; 5: 69–76.
+
+7. Wingerchuk DM, Hogancamp WF, O’Brien PC,
+Weinshenker BG. The clinical course of neuromyelitis
+optica (Devic’s syndrome). Neurology 1999; 53: 1107–1114.
+8. Naismith RT, Tutlam NT, Xu J et al. Optical coherence
+tomography differs in neuromyelitis optica compared
+with multiple sclerosis. Neurology 2009; 72: 1077–1082.
+9. Popescu BF, Lennon VA, Parisi JE et al. Neuromyelitis
+optica unique area postrema lesions: nausea, vomiting,
+and pathogenic implications. Neurology 2011; 76:
+1229–1237.
+
+10. Pittock SJ, Lennon VA, Krecke K, Wingerchuk DM,
+Lucchinetti CF, Weinshenker BG. Brain abnormalities
+in neuromyelitis optica. Arch Neurol 2006; 63: 390–396.
+11. Saji E, Arakawa M, Yanagawa K et al. Cognitive impair-
+ment and cortical degeneration in neuromyelitis optica.
+Ann Neurol 2013; 73: 65–76.
+
+12. Yanagawa K, Kawachi I, Toyoshima Y et al. Pathologic
+and immunologic proﬁles of a limited form of neuromy-
+elitis optica with myelitis. Neurology 2009; 73: 1628–1637.
+13. Kawachi I. Deep grey matter involvement in multiple
+sclerosis: key player or bystander? J Neurol Neurosurg
+Psychiatry. 2014.
+
+14. Lucchinetti CF, Popescu BF, Bunyan RF et al. Inﬂam-
+matory cortical demyelination in early multiple sclero-
+sis. N Engl J Med 2011; 365: 2188–2197.
+
+15. Geurts JJ, Barkhof F. Grey matter pathology in multiple
+
+sclerosis. Lancet Neurol 2008; 7: 841–851.
+
+16. Geurts JJ, Stys PK, Minagar A, Amor S, Zivadinov R.
+Gray matter pathology in (chronic) MS: modern views
+on an early observation. J Neurol Sci 2009; 282: 12–20.
+17. Brownell B, Hughes JT. The distribution of plaques in
+the cerebrum in multiple sclerosis. J Neurol Neurosurg
+Psychiatry 1962; 25: 315–320.
+
+18. Kutzelnigg A, Lucchinetti CF, Stadelmann C et al. Cor-
+tical demyelination and diffuse white matter injury in
+multiple sclerosis. Brain 2005; 128: 2705–2712.
+
+19. Bo L, Vedeler CA, Nyland HI, Trapp BD, Mork SJ.
+Subpial demyelination in the cerebral cortex of multiple
+sclerosis patients. J Neuropathol Exp Neurol 2003; 62:
+723–732.
+
+20. Bo L, Vedeler CA, Nyland H, Trapp BD, Mork SJ.
+Intracortical multiple sclerosis lesions are not associated
+with increased lymphocyte inﬁltration. Mult Scler 2003;
+9: 323–331.
+
+21. Kutzelnigg A, Lassmann H. Cortical demyelination in
+multiple sclerosis: a substrate for cognitive deﬁcits? J
+Neurol Sci 2006; 245: 123–126.
+
+© 2015 Japanese Society of Neuropathology
+
+Gray matter lesions in MS and NMO
+
+485
+
+22. Brink BP, Veerhuis R, Breij EC, van der Valk P, Dijkstra
+CD, Bo L. The pathology of multiple sclerosis is
+location-dependent: no signiﬁcant complement activa-
+tion is detected in purely cortical lesions. J Neuropathol
+Exp Neurol 2005; 64: 147–155.
+
+23. van Horssen J, Brink BP, de Vries HE, van der Valk P,
+Bo L. The blood-brain barrier in cortical multiple sclero-
+sis lesions. J Neuropathol Exp Neurol 2007; 66: 321–328.
+24. Merkler D, Ernsting T, Kerschensteiner M, Bruck W,
+Stadelmann C. A new focal EAE model of cortical de-
+myelination: multiple sclerosis-like lesions with rapid
+resolution of inﬂammation and extensive remyelination.
+Brain 2006; 129: 1972–1983.
+
+25. Magliozzi R, Howell OW, Reeves C et al. A Gradient of
+neuronal loss and meningeal inﬂammation in multiple
+sclerosis. Ann Neurol 2010; 68: 477–493.
+
+26. Vercellino M, Masera S, Lorenzatti M et al. Demyelin-
+ation, inﬂammation, and neurodegeneration in multiple
+sclerosis deep gray matter. J Neuropathol Exp Neurol
+2009; 68: 489–502.
+
+27. Haider L, Simeonidou C, Steinberger G et al. Multiple
+sclerosis deep grey matter: the relation between demye-
+lination, neurodegeneration,
+inﬂammation and iron.
+J Neurol Neurosurg Psychiatry 2014; 85: 1386–1395.
+
+28. Dutta R, Chang A, Doud MK et al. Demyelination
+causes synaptic alterations in hippocampi from multiple
+sclerosis patients. Ann Neurol 2011; 69: 445–454.
+
+29. Geurts JJ, Pouwels PJ, Uitdehaag BM, Polman CH,
+Barkhof F, Castelijns JA. Intracortical lesions in multi-
+ple sclerosis:
+improved detection with 3D double
+inversion-recovery MR imaging. Radiology 2005; 236:
+254–260.
+
+30. Geurts JJ, Roosendaal SD, Calabrese M et al. Consen-
+sus recommendations for MS cortical lesion scoring
+using double inversion recovery MRI. Neurology 2011;
+76: 418–424.
+
+31. Seewann A, Kooi EJ, Roosendaal SD et al. Postmortem
+veriﬁcation of MS cortical lesion detection with 3D
+DIR. Neurology 2012; 78: 302–308.
+
+32. Pouwels PJ, Kuijer JP, Mugler JP, 3rd, Guttmann CR,
+Barkhof F. Human gray matter: feasibility of single-
+slab 3D double
+inversion-recovery high-spatial-
+resolution MR imaging. Radiology 2006; 241: 873–879.
+33. Mike A, Glanz BI, Hildenbrand P et al. Identiﬁcation
+and clinical impact of multiple sclerosis cortical lesions
+as assessed by routine 3T MR imaging. AJNR Am J
+Neuroradiol 2011; 32: 515–521.
+
+34. Bagnato F, Butman JA, Gupta S et al. In vivo detection
+of cortical plaques by MR imaging in patients with
+multiple sclerosis. AJNR Am J Neuroradiol 2006; 27:
+2161–2167.
+
+35. Lucchinetti CF, Guo Y, Popescu BF, Fujihara K,
+Itoyama Y, Misu T. The pathology of an autoimmune
+
+© 2015 Japanese Society of Neuropathology
+
+astrocytopathy:
+optica. Brain Pathol 2014; 24: 83–97.
+
+lessons learned from neuromyelitis
+
+36. Rocca MA, Agosta F, Mezzapesa DM et al. Magnetiza-
+tion transfer and diffusion tensor MRI show gray matter
+damage in neuromyelitis optica. Neurology 2004; 62:
+476–478.
+
+37. Yu C, Lin F, Li K et al. Pathogenesis of normal-
+appearing white matter damage in neuromyelitis optica:
+diffusion-tensor MR imaging. Radiology 2008; 246:
+222–228.
+
+38. Yu CS, Lin FC, Li KC et al. Diffusion tensor imaging in
+the assessment of normal-appearing brain tissue dam-
+age in relapsing neuromyelitis optica. AJNR Am J
+Neuroradiol 2006; 27: 1009–1015.
+
+39. Duan Y, Liu Y, Liang P et al. Comparison of grey matter
+atrophy between patients with neuromyelitis optica and
+multiple sclerosis: a voxel-based morphometry study.
+Eur J Radiol 2012; 81: e110–e114.
+
+40. Pichiecchio A, Tavazzi E, Poloni G et al. Advanced
+magnetic resonance imaging of neuromyelitis optica:
+a multiparametric approach. Mult Scler 2012; 18:
+817–824.
+
+41. Roemer SF, Parisi JE, Lennon VA et al. Pattern-speciﬁc
+loss of aquaporin-4 immunoreactivity distinguishes neu-
+romyelitis optica from multiple sclerosis. Brain 2007;
+130: 1194–1205.
+
+42. Misu T, Fujihara K, Kakita A et al. Loss of aquaporin 4
+in lesions of neuromyelitis optica: distinction from mul-
+tiple sclerosis. Brain 2007; 130: 1224–1234.
+
+43. Lucchinetti CF, Mandler RN, McGavern D et al. A role
+for humoral mechanisms in the pathogenesis of Devic’s
+neuromyelitis optica. Brain 2002; 125: 1450–1461.
+
+44. Popescu BF, Parisi JE, Cabrera-Gomez JA et al. Ab-
+sence of cortical demyelination in neuromyelitis optica.
+Neurology 2010; 75: 2103–2109.
+
+45. Calabrese M, Oh MS, Favaretto A et al. No MRI evi-
+dence of cortical lesions in neuromyelitis optica. Neurol-
+ogy 2012; 79: 1671–1676.
+
+46. Chiaravalloti ND, DeLuca J. Cognitive impairment in
+
+multiple sclerosis. Lancet Neurol 2008; 7: 1139–1151.
+
+47. Piras MR, Magnano I, Canu ED et al. Longitudinal
+study of cognitive dysfunction in multiple sclerosis: neu-
+ropsychological, neuroradiological, and neurophysio-
+logical ﬁndings. J Neurol Neurosurg Psychiatry 2003;
+74: 878–885.
+
+48. Christodoulou C, Krupp LB, Liang Z et al. Cognitive
+performance and MR markers of cerebral injury in cog-
+nitively impaired MS patients. Neurology 2003; 60:
+1793–1798.
+
+49. Calabrese M, Agosta F, Rinaldi F et al. Cortical lesions
+and atrophy associated with cognitive impairment in
+relapsing-remitting multiple sclerosis. Arch Neurol
+2009; 66: 1144–1150.
+
+486
+
+I Kawachi and M Nishizawa
+
+50. Calabrese M, Rocca MA, Atzori M et al. Cortical le-
+sions in primary progressive multiple sclerosis: a 2-year
+longitudinal MR study. Neurology 2009; 72: 1330–1336.
+51. Nelson F, Datta S, Garcia N et al. Intracortical lesions by
+3T magnetic resonance imaging and correlation with
+
+cognitive impairment in multiple sclerosis. Mult Scler
+2011; 17: 1122–1129.
+
+52. Roosendaal SD, Moraal B, Pouwels PJ et al. Accumula-
+tion of cortical lesions in MS: relation with cognitive im-
+pairment. Mult Scler 2009; 15: 708–714.
+
+© 2015 Japanese Society of Neuropathology
+
+

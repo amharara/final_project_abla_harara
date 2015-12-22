@@ -1,0 +1,1073 @@
+Journal of Neuroimmunology 285 (2015) 4–12
+
+Contents lists available at ScienceDirect
+
+Journal of Neuroimmunology
+
+j ournal homepage: www.el sevier.c om/l ocate/ jneuroim
+
+Reduction of inﬂammation and preservation of neurological function by
+anti-CD52 therapy in murine experimental
+autoimmune encephalomyelitis
+Michael J. Turner a,⁎, Petti T. Pang a, Nathalie Chretien a, Evis Havari a, Michael J. LaMorte a, Julian Oliver b,
+Nilesh Pande a, Elizabeth Masterjohn c, Karen Carter c, David Reczek c, William Brondyk c, Bruce L. Roberts a,
+Johanne M. Kaplan a, William M. Siders a
+a Neuroimmunology Research, Genzyme, a Sanoﬁ company, 49 New York Avenue, Framingham, MA 01701, United States
+b Pathology, Genzyme, a Sanoﬁ company, 49 New York Avenue, Framingham, MA 01701, United States
+c Biologics Discovery, Genzyme, a Sanoﬁ company, 49 New York Avenue, Framingham, MA 01701, United States
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Alemtuzumab, a monoclonal antibody directed against human CD52, is used in the treatment of MS. To charac-
+terize the impact of anti-CD52 administration, a monoclonal antibody to mouse CD52 (anti-muCD52) was gen-
+erated and evaluated in EAE mouse models of MS. A single course of anti-muCD52 provided a therapeutic beneﬁt
+accompanied by a reduction in the frequency of autoreactive T lymphocytes and production of pro-inﬂammatory
+cytokines. Examination of the CNS revealed a decrease in inﬁltrating lymphocytes, demyelination and axonal loss.
+Electrophysiological assessment showed preservation of axonal conductance in the spinal cord. These ﬁndings
+suggest that anti-CD52 therapy may help preserve CNS integrity.
+
+© 2015 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Article history:
+Received 26 March 2015
+Received in revised form 14 May 2015
+Accepted 18 May 2015
+
+Keywords:
+Multiple sclerosis
+Experimental autoimmune encephalomyelitis
+CD52
+Mouse
+Alemtuzumab
+
+1. Introduction
+
+Multiple sclerosis (MS) is a chronic, autoimmune disorder of the
+central nervous system (CNS) leading to demyelination and associated
+neurological symptoms.
+
+The exact etiology of MS remains unclear but is generally believed to
+involve a combination of genetic and environmental factors that lead to
+the development of CNS autoimmunity and progression of disease in
+susceptible individuals. Experimental and clinical data suggest that in
+MS, peripheral activation of T cells reactive against CNS antigens results
+in upregulation of adhesion molecules and ability of the T cells to cross
+the blood–brain barrier. Once in the CNS, autoreactive T cells are activat-
+ed locally by CNS antigens and cause inﬂammation and damage through
+the release of pro-inﬂammatory cytokines and chemokines that recruit
+and activate other effector cells (e.g. macrophages) (Friese et al., 2014).
+B lymphocytes are also postulated to participate in disease pathogenesis
+through the production of autoantibodies, presentation of CNS antigens
+to T lymphocytes and/or production of cytokines (Krumbholz et al.,
+
+Abbreviations: MS, multiple sclerosis; EAE, experimental autoimmune
+
+encephalomyelitis; mu, murine; SMEP, spinal motor evoked potential.
+
+⁎ Corresponding author.
+
+E-mail address: michael.turner@genzyme.com (M.J. Turner).
+
+2012). But perhaps the strongest evidence for a pathogenic role of lym-
+phocytes in MS is the observed efﬁcacy of disease-modifying therapies
+targeted at T and/or B cells.
+
+Over the past few years, a number of therapies designed to inhibit
+the proliferation, function or migration of T lymphocytes have been ap-
+proved for the treatment of RRMS (Ransohoff et al., 2015). Recent clin-
+ical trial data with B cell depleting agents (rituximab, ocrelizumab) also
+suggest that targeting B lymphocytes may provide a clinical beneﬁt thus
+supporting a role of B lymphocytes in MS disease pathogenesis
+(Castillo-Trivino et al., 2013). Alemtuzumab, a humanized monoclonal
+antibody that targets both T and B lymphocytes was recently approved
+in over 40 countries. Alemtuzumab is speciﬁc for CD52, an antigen pres-
+ent at high levels on the surface of T and B lymphocytes and at lower
+levels on other immune cells (Hale et al., 1990; Rao et al., 2012). Pivotal
+phase 3 trials conducted in treatment-naïve relapsing–remitting
+(RRMS) patients (CARE-MS I) and in RRMS patients who relapsed on
+prior therapy (CARE-MS II) indicated that alemtuzumab administered
+as two annual courses of treatment (12 mg intravenously on 5 consec-
+utive days at study start and 3 days a year later) provided superior efﬁ-
+cacy compared to interferon-β1a (IFN-β1a) administered three times
+per week (44 μg subcutaneously) (Cohen et al., 2012; Coles et al.,
+2012a). In addition, long-term follow-up of patients from a phase 2
+study (CAMMS223) suggested that alemtuzumab provides a durable
+
+http://dx.doi.org/10.1016/j.jneuroim.2015.05.018
+0165-5728/© 2015 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+M.J. Turner et al. / Journal of Neuroimmunology 285 (2015) 4–12
+
+5
+
+beneﬁt as it lowered the risk of sustained accumulation of disability by
+72% and the rate of relapse by 69% compared to IFNβ-1a out to 4 years
+after the last alemtuzumab treatment (Coles et al., 2012b). The mecha-
+nism by which alemtuzumab exerts its therapeutic effect in MS is not
+fully understood but may involve rebalancing of the immune system
+through the depletion and repopulation of lymphocytes. In clinical stud-
+ies, the administration of alemtuzumab results in rapid depletion of
+lymphocytes from the circulation which may reduce the inﬂammatory
+processes associated with MS (Cox et al., 2005; Thompson et al.,
+2010). This is followed by a prolonged period of lymphocyte repopula-
+tion and clinical research ﬁndings suggest that the number, proportions
+and properties of lymphocyte subsets are altered during the repopula-
+tion process. An enrichment in regulatory T (Treg) cells as well as a
+shift in the CD4+ T cell cytokine proﬁle, characterized by a decrease in
+the production of pro-inﬂammatory cytokines and an increase in anti-
+inﬂammatory cytokines, have been observed in repopulating lympho-
+cytes post-alemtuzumab (Cox et al., 2005; Zhang et al., 2013). Such
+changes may lead to a rebalancing of the immune system that persists
+long after clearance of the antibody and which may contribute to the
+observed long-lived therapeutic beneﬁt in MS patients.
+
+While studies in MS patients have allowed characterization of the
+impact of alemtuzumab on blood lymphocyte populations and on CNS
+parameters via imaging, mouse models afford the opportunity to collect
+tissues not accessible in humans and allow for the conduct of additional
+in vivo assays to further our understanding of the mechanism of action
+and effects of anti-CD52 treatment. In previous studies, we took advan-
+tage of the ability to perform immunological challenges and collect lym-
+phoid organs in the mouse to conduct an in-depth characterization of
+the functionality of the immune system following treatment with
+anti-CD52 (Hu et al., 2009; Turner et al., 2013). In the current studies,
+the impact of anti-CD52 therapy was evaluated in mouse models of ex-
+perimental autoimmune encephalomyelitis (EAE) with a particular
+focus on the CNS compartment.
+
+2. Materials and methods
+
+2.1. Anti-mouse CD52 monoclonal antibody
+
+Anti-mouse CD52 (muCD52) monoclonal antibodies were generat-
+ed by immunizing human CD52 knock-in/murine CD52 knockout
+mice. Animals received three subcutaneous (s.c.) immunizations with
+a muCD52 peptide (GQATTAASGTNKNSTSTKKTPLKS) conjugated to
+keyhole limpet hemocyanin (KLH) emulsiﬁed in Titermax Gold
+(Sigma-Aldrich; St. Louis, MO) followed by intraperitoneal (i.p.) immu-
+nization with wild type C57BL/6 mouse splenocytes as a source of natu-
+rally occurring CD52. Four days prior to the collection of spleen cells,
+animals were rechallenged i.p. with muCD52-KLH peptide and the fol-
+lowing day with the same peptide-KLH intravenously (i.v.). Spleen
+cells were fused to SP0/2 cells to generate monoclonal antibodies,
+serum titers assessed by peptide and/or muCD52 fusion protein-based
+ELISA, and clones screened for muCD52 speciﬁcity by ﬂow cytometry.
+The characteristics of the clone selected for these studies are described
+in Section 3.1.
+
+2.2. Experimental autoimmune encephalomyelitis (EAE) mouse models
+
+All experimental procedures were approved by and performed in ac-
+cordance with the Genzyme Institutional Animals Care and Use Commit-
+tee (IACUC) and conducted in Genzyme's Association for Assessment and
+Accreditation of Laboratory Animal Care (AAALAC)-accredited facility.
+EAE was induced by immunizing C57BL/6ByJ and SJLByJ mice (Jackson
+Laboratories Bar Harbor, ME) s.c. with 200 μg of MOG35–55, MOG1–121, or
+PLP131–153 peptides emulsiﬁed in complete Freund's adjuvant (Chondrex,
+Redmond, WA) containing 4 mg/ml Mycobacterium tuberculosis
+(Stromnes and Goverman, 2006). Pertussis toxin (200 ng: Sigma-
+Aldrich; St. Louis, MO) was given i.v. on days 0 and 2. Clinical symptoms
+
+of EAE were evaluated using a 5 point scale as follows: 0 no clinical dis-
+ease, 1.0 complete tail paralysis, 2.0 tail paralysis with hind limb weak-
+ness, 3.0 hind limb paralysis, 4.0 hind limb paralysis and fore limb
+weakness, 5.0 moribund/death. Vehicle (phosphate-buffered saline:
+ThermoFisher Scientiﬁc Inc., Waltham, MA) or anti-muCD52 treatment
+was given s.c. for ﬁve consecutive days as described in each individual ﬁg-
+ure legend. A dose level of 10 mg/kg of anti-muCD52 was selected based
+on its ability to achieve levels of lymphocyte depletion and kinetics of re-
+population comparable to those observed with alemtuzumab administra-
+tion in human CD52 transgenic mice (Hu et al., 2009; Turner et al., 2013)
+and patients.
+
+2.3. Flow cytometry analysis of immune cell populations and cytokine
+expression
+
+Quantitation of lymphocyte populations from the spleen and periph-
+eral blood was performed by ﬂow cytometry analysis of single cell sus-
+pensions as previously described (Turner et al., 2013). Isolation of
+resident CNS (brain and spinal cord) lymphocytes was performed as de-
+scribed (Rothhammer et al., 2011). Brieﬂy, CNS tissue from perfused an-
+imals was digested with collagenase and DNAse followed by
+mononuclear cell separation by Percoll density gradient centrifugation
+(Sigma-Aldrich; St. Louis, MO). Mononuclear cells were collected and
+used for ﬂow cytometry analysis. Staining of immune cells was per-
+formed by incubating 1 × 106 cells with ﬂuorescently-labeled antibod-
+ies against mouse cell surface markers including CD4 (RM4-5), CD8
+(53–6.7) CD44 (1M7), CD62L (Mel-14), CD25 (PC61.5), FR4 (12A5),
+B220 (RA3-6B2), NK1.1 (PK136), and, GR-1 (RB6.8C5) purchased from
+Ebioscience (San Diego, CA) or BD Bioscience (San Jose, CA). Peripheral
+blood was evaluated by staining 50 μl of whole blood with the indicated
+antibodies followed by removal of contaminating red blood cells with
+FACs lysis buffer (BD Bioscience) as described by the manufacturer. Fluo-
+rescence intensities were determined using an LSR-II ﬂow cytometer (BD
+Bioscience) and data analysis was performed using Flowjo software
+(Treestar Inc., Ashland, OR).
+
+Quantitation of absolute numbers of speciﬁc cell populations in the
+spleen and CNS was determined by multiplying the percentage of the
+FACS-identiﬁed cellular population by the total number of cells present
+in each organ. Numbers of speciﬁc cell populations per microliter of pe-
+ripheral blood were quantiﬁed using Countbright Absolute Counting
+Beads (Invitrogen Life Technologies, Grand Island, NY) as described by
+the manufacturer (number of cells/μl = number of cells counted / num-
+ber of beads counted × number of beads added). Percent control for all
+tissues was calculated by dividing the number of total cells for each pop-
+ulation by the mean total number of the same cellular population from
+the vehicle-treated control group [total cells in test animal/mean of total
+cells in control group × 100].
+
+Intracellular cytokine staining was performed by culturing
+splenocytes in vitro with 1 μg/ml of MOG35–55 peptide for 5 h in the
+presence of GolgiStop (BD Bioscience; San Jose, CA) as described by
+the manufacturer. Cells were co-stained with anti-CD4, anti-IFNγ and
+anti-IL-17 antibodies (Ebioscience, San Diego, CA).
+
+Levels of cytokine release were evaluated by culturing splenocytes
+in vitro for 48 h with 1 μg of MOG35–55 peptide or irrelevant peptide
+(Ova323–339). Supernatants were then collected and analyzed for IL-1β,
+IL-2, IL-4, IL-5, IL-6, IL-10, IL-17, IFNγ and TNFα using an Aushon multi-
+plex array (Aushon Biosystems, Billerica, MA) following the
+manufacturer's instructions.
+
+2.4. Immunohistochemistry
+
+Spinal cord tissue samples were processed and sectioned by Mass His-
+tology (Worcester, MA). Tissues were processed using a standard protocol
+consisting of formalin ﬁxation and parafﬁn embedding, followed by cut-
+ting of 5 μm thick sections. Hematoxylin and eosin (H&E) staining was
+performed on deparafﬁnized and rehydrated sections. Hematoxylin and
+
+6
+
+M.J. Turner et al. / Journal of Neuroimmunology 285 (2015) 4–12
+
+eosin-stained slides were used for pathological scoring of inﬂammatory
+cell inﬁltrates as described below.
+
+Staining for myelin basic protein (MBP) was performed on
+deparafﬁnized and rehydrated slides, followed by endogenous per-
+oxidase blocking using Peroxidazed-1 (Biocare Medical PX968M,
+Concord, CA). Tissues were blocked with serum-free Protein Block
+(Dako X0909, Carpinteria, CA) and primary rat anti-mouse MBP anti-
+body (Abcam Ab7349, Cambridge, MA) or control rat IgG (Vector
+Laboratories I-4000, Burlingame, CA) was added. Secondary rabbit
+anti-rat IgG antibody (Vector Laboratories AI-4001) was incubated
+at 1 μg/ml and signal ampliﬁcation was performed using Rabbit EnVi-
+sion HRP polymer R.T.U. (Dako K4002, Carpinteria, CA). Binding was
+detected using 3,3′-Diaminobenzidine (Dako K3467, Carpinteria,
+CA) followed by counterstaining with Hematoxylin Gill's no. 1
+(Sigma-Aldrich GHS1128, St. Louis, MO) and Tacha's Bluing Solution
+(Biocare Medical HTBLU-MX, Concord, CA). The degree of demyelin-
+ation was scored as described below.
+
+Axonal damage was evaluated by staining for non-phosphorylated
+neuroﬁlament heavy chain (SMI-32). Tissues were deparafﬁnized and
+rehydrated followed by heat-induced antigen retrieval in Decloaking
+Chamber™ NxGen (Biocare Medical DC2012, Concord, CA). After heat
+treatment, endogenous peroxidase was blocked using Peroxidazed-1
+(Biocare Medical PX968M, Concord, CA). Tissues were blocked with Ro-
+dent Block M (Biocare Medical RBM961, Concord, CA) and incubated
+with primary antibody consisting of mouse anti-non-phosphorylated
+neuroﬁlaments (BioLegend SMI-32P, Dedham, MA) or control mouse
+IgG1 (BD Pharmingen 557273, San Jose, CA) at 1 μg/ml. Secondary anti-
+body containing anti-mouse IgG HRP R.T.U. (Biocare Medical MM510)
+was added and detected using 3,3′-Diaminobenzidine followed by
+counterstaining with Hematoxylin Gill's no. 1 and Tacha's Bluing Solu-
+tion. SMI-32 stained slides were used for pathological scoring of axonal
+damage.
+
+Inﬂammation, myelin loss and axonal damage were all graded by a
+pathologist blinded to treatment using a scale of 0–5 based on the ap-
+proximate percentage of tissue involved with 0 = none, 1 = minimal
+(less than 5.0%), 2 = mild (5–10%), 3 = moderate (10–25%), 4 = severe
+(25–50%), and 5 = marked (N50%).
+
+2.5. Electrophysiology
+
+Spinal motor evoked potential (SMEP) recording was performed and
+after the initiation of treatment with anti-muCD52 or vehicle. The mice
+were deeply anesthetized with ketamine/xylazine (50/2.86 mg/ml, i.p.)
+and placed on a heat blanket to maintain body temperature at 34 °C. To
+limit movement-related artifacts due to electrical stimulation-induced
+muscle twitch, the animals' four limbs were restrained with tape.
+Laminectomy was then performed to expose the C3 region of the spinal
+cord for placement of the stimulating electrode (platinum microelec-
+trode). A monopolar 27 gauge (g) needle reference electrode was
+placed under the skin above the third digit of each foot and a monopolar
+27 g needle electrode was inserted into the gastrocnemius muscle of the
+corresponding hind limb for recording. Then, another monopolar 27 g
+needle ground electrode was placed under the skin of the lower back.
+To induce SMEPs, a 100 μs pulse of constant current was generated
+by a Digitimer DS3 stimulus isolator and delivered to the spinal cord
+C3 region every 30s through the stimulating electrode. The SMEP was
+recorded from the gastrocnemius muscle of both hind limbs and ﬁltered
+through a 300 Hz–1 kHz bandpass ﬁlter. The ﬁltered signal was then
+encoded in the PowerLab data acquisition system and analyzed with
+LabChart software.
+
+The input–output functions were generated for each animal by vary-
+ing the intensity of stimulus pulses (using the amplitude dial on the
+stimulus isolator) in step increases (i.e. 0.5 mA, 1 mA, 1.5 mA, 2 mA,
+2.5 mA, 3 mA, 3.5 mA, 4 mA). The responses were recorded for 1 min
+
+Fig. 1. Characterization of a novel anti-murine CD52 antibody. (A) Parental CHO cells (shaded) or CHO cells expressing recombinant murine (mu) CD52 (open) were stained with the anti-
+muCD52 antibody. (B) Levels of muCD52 were evaluated on cellular subsets from the spleen of C57BL/6 mice. (C) Depletion of splenic populations of immune cell subsets 3 days following
+single dose (10 mg/kg) treatment with anti-muCD52 (white) or vehicle (black) (*p b 0.001, #p b 0.05). (D) Cellular repopulation of circulating CD4+ T cells, CD8+ T cells or B cells following
+treatment with 5 doses of anti-muCD52 (10 mg/kg) compared to vehicle control (dashed line).
+
+M.J. Turner et al. / Journal of Neuroimmunology 285 (2015) 4–12
+
+7
+
+at each stimulus intensity. The largest threshold SMEP evoked by the
+lowest stimulus intensity was recorded for another 5 min for further
+quantiﬁcation. The SMEP amplitude was measured between the ﬁrst
+negative and the ﬁrst positive peaks, whereas the SMEP latency was
+measured from the stimulus artifact to the ﬁrst negative peak of the
+SMEP.
+
+3. Results
+
+3.1. Development and characterization of a novel anti-muCD52 antibody
+
+To study the mechanism of action of anti-CD52 therapy in EAE
+mouse models of MS, a murine IgG2a CD52-speciﬁc monoclonal anti-
+body with depleting activity was generated. The speciﬁcity of the anti-
+body was ﬁrst assessed by binding to CHO cells genetically engineered
+to express murine CD52 (muCD52). As demonstrated in Fig. 1A, staining
+with the anti-muCD52 antibody on the CHO-muCD52 cell line resulted
+in increased mean ﬂuorescence intensity with little staining of the un-
+modiﬁed parental CHO-K1 cells, indicating the speciﬁcity of the anti-
+body for muCD52. Afﬁnity for CD52 was evaluated by surface plasmon
+resonance (SPR) and found to be sub-nanomolar for CD52 peptide
+(data not shown). We next evaluated the expression of muCD52 on
+immune cell populations including T cells (CD4+, CD8+ and Treg), B
+cells, natural killer (NK) cells and neutrophils (Fig. 1B). Murine CD52 ex-
+pression was detected on 100% of the cells in each individual popula-
+tion, with T cells demonstrating the highest levels of expression, B
+cells expressing slightly lower levels of muCD52 and low levels of ex-
+pression observed on NK cells. This expression pattern is similar to
+that observed for human CD52 in patients and human CD52 transgenic
+mice, with the exception of neutrophils which exhibited intermediate
+levels of muCD52 compared to low or undetectable levels for human
+CD52. (Elsner et al., 1996; Hu et al., 2009; Rao et al., 2012).
+
+We next investigated the ability of the anti-muCD52 antibody to me-
+diate lymphocyte depletion in vivo. Mice were injected i.v. with
+10 mg/kg anti-muCD52, and three days later the numbers of lympho-
+cytes in the spleen were quantiﬁed by ﬂow cytometry. As expected,
+CD4 and CD8 T cells demonstrated the highest level of depletion (reduc-
+tion of approximately 90%) followed by B cells and NK cells (reductions
+of 69% and 35%, respectively) (Fig. 1C). The repopulation of these cell
+types was also evaluated longitudinally in peripheral blood. In this
+context, animals were treated with 5 daily doses of anti-muCD52
+(10 mg/kg) to more closely resemble the dosing regimen used for
+alemtuzumab in MS patients. All cell types demonstrated similar repop-
+ulation kinetics with a return to baseline levels around day 100 post-
+treatment with anti-muCD52 (Fig. 1D). This pattern is slightly different
+from what is observed after alemtuzumab treatment in MS patients or
+in alemtuzumab-treated human CD52 transgenic mice where B cell re-
+population appears to occur more rapidly than T cell repopulation (Cox
+et al., 2005; Hu et al., 2009). Overall, these data demonstrate that the
+monoclonal antibody generated against muCD52 displays binding and
+depleting characteristics similar to those exhibited by alemtuzumab
+for human CD52.
+
+3.2. Reduction of disease severity by anti-muCD52 treatment in EAE mouse
+models
+
+The ability of the anti-muCD52 antibody to mediate lymphocyte
+depletion and the relatively long repopulation kinetics mimic treatment
+with alemtuzumab and afforded the opportunity to evaluate the thera-
+peutic activity of anti-muCD52 treatment in EAE mouse models of MS.
+The anti-muCD52 antibody was ﬁrst tested in the commonly used
+C57BL/6 EAE model in which disease is induced by immunization with
+myelin oligodendrocyte glycoprotein (MOG)35–55 peptide. Mice with
+early disease symptoms (mean clinical score of ~1) were treated with
+a 5-day course of 10 mg/kg anti-muCD52 or vehicle delivered s.c. on
+days 12 through 16 after immunization. Reversal of disease symptoms
+
+was observed as early as 2 days following the initiation of treatment
+with anti-muCD52 and was maintained until the end of the study
+(day 40) without any further treatment (Fig. 2A). In contrast, control
+animals treated with vehicle continued to worsen, displaying an aver-
+age disease score of ~2.5 by day 20 post-disease induction.
+
+In addition to the MOG35–55-induced disease model, C57BL/6 mice
+were also immunized with MOG1–121 peptide containing the
+
+Fig. 2. Anti-muCD52 reduces disease severity in murine EAE models of MS. C57BL/6 (A &
+B) or SJL (C) mice were immunized with MOG35–55 (A), rMOG1–121 (B), or PLP139–151 pep-
+tide (C) emulsiﬁed in complete Freund's adjuvant (CFA). Animals were treated with either
+vehicle (closed symbols) or anti-muCD52 (open symbols) from days 12–16 (denoted by
+black bars on the X axis). Animals were scored for disease severity as described in Mate-
+rials and methods. N = 10 animals/group. *p b 0.05.
+
+8
+
+M.J. Turner et al. / Journal of Neuroimmunology 285 (2015) 4–12
+
+extracellular domain of MOG (Fig. 2B). Disease in this model has been
+reported to involve the contribution of both B and T lymphocytes com-
+pared to MOG35–55 which primarily stimulates T cells (Huntington et al.,
+2006). Animals with early disease symptoms were treated with a single
+5-day course of anti-muCD52 or vehicle s.c. (days 12–16 post-EAE in-
+duction) and, in this model as well, treatment with anti-muCD52 pro-
+duced a reversal of symptoms and sustained inhibition of disease until
+the end of the study (day 40). As expected, animals receiving the vehicle
+developed signiﬁcant, persistent disability.
+
+Treatment with anti-muCD52 also provided a similar beneﬁt in the
+SJL model of relapsing remitting MS (Fig. 2C). In this model, SJL mice
+were immunized with PLP139–153 and treated with a 5-day course of
+anti-muCD52 on days 12–16 following disease induction. Treatment
+with the antibody resulted in a reversal of disease symptoms and
+prevention of relapse compared to vehicle-treated mice (Fig. 2C).
+Overall, these results demonstrate the robust nature of anti-
+muCD52 treatment in several models of EAE and parallel the long
+term control of disease observed in the majority of RRMS patients
+treated with alemtuzumab.
+
+3.3. Impact of anti-muCD52 on pathogenic T cell responses in the spleen
+and CNS
+
+To gain insight into the immunological impact of anti-CD52 treat-
+ment beyond what has been observed in the peripheral blood of MS pa-
+tients, a longitudinal study was conducted in the MOG35–55 EAE model
+to assess the numbers of CD4+ and CD8+ T cells in the spleen and
+CNS of diseased mice treated with anti-muCD52. As described above,
+C57BL/6 mice were treated with a 5 day course of anti-muCD52 anti-
+body or vehicle on days 12–16 post-immunization with MOG35–55
+peptide. Cohorts of animals were sacriﬁced on days 5, 10, 20, 30, or 40
+following disease induction. As expected, treatment with anti-
+muCD52 resulted in a reduction in the numbers of CD4 and CD8 T
+cells in the spleen (Fig. 3A, C). This reduction in cell numbers was ob-
+served for the remainder of the study (Fig. 1D). CD4 and CD8 T cell num-
+bers in the brain and spinal cord were also assessed by ﬂow cytometry
+(Fig. 3B,D). An increase in the number of inﬁltrating CD4 and CD8 T
+cells was observed in the CNS of vehicle-treated EAE mice between
+days 10 and 20 post-disease induction. The kinetics of lymphocyte
+
+Fig. 3. Anti-muCD52 treatment reduces the pathogenic T cell response in EAE. C57BL/6 mice were immunized with MOG35–55 peptide emulsiﬁed in CFA and treated with vehicle or anti-
+muCD52 on days 12–16 (black bar on X axis). Cellular populations were evaluated by ﬂow cytometry at the indicated time points. CD4+ (A, B) and CD8+ (C, D) T cells were measured in the
+spleen (A, C) or CNS (B, D). Numbers of MOG35–55 speciﬁc autoreactive T cells were quantiﬁed by ﬁrst stimulating splenocytes with MOG35–55 peptide for 4 h in vitro. CD4+ T cells express-
+ing intracellular IFNγ (E) or IL-17 (F) were then enumerated by ﬂow cytometry. N = 5 animals/group. *p b 0.001, #p b 0.05.
+
+M.J. Turner et al. / Journal of Neuroimmunology 285 (2015) 4–12
+
+9
+
+inﬁltration correlate with the onset and progression of disease symp-
+toms observed in this model (Fig. 2A). Inﬁltrating T cells were retained
+in the CNS through day 40 likely contributing to the persistence of dis-
+ease symptoms. In contrast, treatment with anti-muCD52 produced a
+sustained reduction in the number of CD4 and CD8 T cells in the CNS
+correlating with the inhibition of disease symptoms observed in treated
+mice.
+
+In addition to the assessment of total CD4+ T cells, the number of
+disease-causing MOG35–55 reactive CD4 T cells in the spleens of treated
+animals was evaluated by intracellular cytokine staining (Fig. 3E, F).
+There was a signiﬁcant reduction in the number of CD4 T cells that pro-
+duced either IFNγ or IL-17 in response to ex vivo stimulation with
+MOG35–55 peptide in anti-muCD52-treated mice compared to control
+mice. The difference was marked at day 20 when peak splenic reactivity
+occurred and was followed by a return to similarly low levels of
+cytokine-producing T cells at later time points in both groups (Fig. 3E,
+F). We were unable to study MOG35–55-induced cytokine production
+in CD4 T cells from the CNS as it was not possible to recover sufﬁcient
+numbers of cells for this analysis.
+
+Levels of in vitro cytokine secretion by unfractionated splenocytes
+stimulated with MOG35–55 peptide were also measured (Fig. 4A, B).
+Stimulation of day 20 splenocytes from vehicle-treated EAE mice result-
+ed in the release of several cytokines, most prominently IFN-γ. There
+was little or no cytokine release by splenocytes from anti-muCD52-
+treated mice.
+
+Taken together, these results indicate that administration of anti-
+muCD52 not only reduces the number of circulating T lymphocytes
+but also reduces the number of inﬁltrating T lymphocytes in the CNS
+of EAE mice and decreases the number of MOG-reactive CD4 T cells
+and overall cytokine production.
+
+3.4. Reduction of CNS inﬂammation, demyelination and axonal damage by
+anti-muCD52 therapy
+
+As demonstrated above, the therapeutic beneﬁt provided by anti-
+muCD52 treatment was associated with a reduction in pathogenic T
+cell responses and we next sought to characterize the resulting impact
+on CNS inﬂammation, demyelination and axonal damage. As in previous
+studies, mice were treated with a 5-day course of anti-muCD52 or vehi-
+cle on days 12–16 post-induction of disease with MOG35–55 peptide.
+Five days later (day 21), cervical, thoracic, and lumbar regions of the
+spinal cord from each individual animal were collected and evaluated
+histologically for levels of inﬂammation (H&E staining), degree of
+myelination (anti-MBP staining) and axonal integrity (SMI-32 staining
+of damaged non-phosphorylated neuroﬁlaments) as described in
+Materials and methods (Fig. 5). In agreement with the ﬂow cytometry
+results (Fig. 3), signiﬁcantly reduced immune cell inﬁltration was ob-
+served in all regions of the spinal cord in anti-muCD52-treated mice
+vs control mice (Fig. 5). This was accompanied by a signiﬁcant reduction
+in the degree of spinal cord demyelination and axonal damage. Collec-
+tively, these results demonstrate that treatment with anti-muCD52
+strongly inhibited the development of CNS inﬂammation and concomi-
+tant demyelination and axonal damage.
+
+3.5. Reversal of established disease and preservation of axonal function by
+anti-muCD52 treatment
+
+Electrophysiology was used as a functional assessment of the beneﬁt
+observed histologically in anti-muCD52-treated mice. In these studies,
+treatment was delayed until the mice developed more advanced
+disability and reached a disease score of 2 (Fig. 6A). Administration of
+a 5 day course of anti-muCD52 at this stage of the disease still resulted
+in a reversal of symptoms compared to vehicle-treated animals
+(Fig. 6A). To assess the functional impact of anti-muCD52 treatment
+on axonal conductance, the SMEP was evaluated in groups of mice
+prior to the start of treatment (day 0) and on day 10 after the ﬁrst
+
+dose. Fig. 6B shows the representative SMEP waveforms obtained on
+day 10 after the initiation of treatment with vehicle or anti-muCD52 com-
+pared to the waveform from normal mice evaluated in parallel. There was
+a clear impairment of axonal conductance in vehicle-treated EAE mice
+compared to normal mice with partial correction in anti-muCD52-
+treated mice (Fig. 6B). Fig. 6C shows the stimulus–response curves of
+the normal, vehicle-treated and anti-muCD52-treated mice. The curves
+graphically display the SMEP size in response to stimuli of increasing in-
+tensity. With gradual increases in stimulus intensity, increasing numbers
+of axons are progressively activated. In the normal mice, a low stimulus
+intensity (1 mA) was able to reach the maximal activation of the axons,
+whereas a higher stimulus intensity (1.5 mA) was required to activate
+all the axons in the vehicle-treated and anti-muCD52-treated groups.
+However, the SMEP in anti-muCD52-treated mice was signiﬁcantly im-
+proved in response to the same stimuli above the threshold intensity
+when compared to the vehicle-treated group. Quantitative analysis
+showed that a signiﬁcant reduction in SMEP peak amplitude in EAE
+mice (18.86 ± 3.55 μV), compared to normal mice (33.14 ± 3.06 μV),
+was already present before the start of treatment (day 0) and continued
+to worsen in EAE mice treated with vehicle (day 10) (12.00 ± 2.85 μV).
+In contrast, mice treated with anti-muCD52 did not experience further
+deterioration and largely maintained the same peak amplitude out to
+day 10 (22.75 ± 2.68 μV) (Fig. 6D). In this and another study, EAE mice
+also displayed a small increase in peak latency prior to the start of
+
+Fig. 4. Anti-muCD52 treatment reduces cytokine production by MOG-stimulated spleen
+cells in EAE. C57BL/6 mice were immunized with MOG35–55 peptide emulsiﬁed in CFA
+and treated with vehicle or anti-muCD52 from days 12–16. Cytokine expression was eval-
+uated in vitro from day 20 splenocytes following stimulation with MOG35–55 peptide or
+Ova323–339 control peptide. 48 h after stimulation, cytokine levels were determined by
+Bioplex assay (N = 5 animals/group) (*p b 0.001, #p b 0.05).
+
+10
+
+M.J. Turner et al. / Journal of Neuroimmunology 285 (2015) 4–12
+
+treatment which remained present in vehicle-treated mice while peak la-
+tency was closer to normal in anti-muCD52-treated mice (not shown).
+
+Overall, the results show a functional beneﬁt in preservation of axo-
+nal conductance in EAE mice treated with anti-muCD52 as evidenced by
+electrophysiological assessment of SMEP peak amplitude and stimulus–
+response curves.
+
+4. Discussion
+
+Studies of alemtuzumab's mechanism of action in RRMS patients
+have by necessity been largely limited to the examination of blood lym-
+phocyte populations and imaging of the CNS. EAE mouse models of
+disease were used here to allow for a more extensive and direct assess-
+ment of the effects of anti-CD52 treatment on pathogenic T cells and on
+the CNS compartment in particular.
+
+Due to the sequence disparity and lack of cross-reactivity between
+human and mouse CD52, a novel monoclonal antibody speciﬁc for mu-
+rine CD52 (anti-muCD52) was generated to investigate the effects of
+anti-CD52 therapy in mouse EAE models. Analysis of antibody binding
+by ﬂow cytometry and SPR conﬁrmed the speciﬁcity and high afﬁnity
+of the antibody for murine CD52 (Fig. 1). The level of murine CD52 ex-
+pression detected by the anti-muCD52 antibody showed a pattern sim-
+ilar to that of CD52 on human immune cells, with the highest levels of
+expression observed on T lymphocytes, slightly lower levels on B lym-
+phocytes and little expression on NK cells. One difference was the
+level of CD52 on mouse neutrophils, which was elevated compared to
+what has been observed on human neutrophils that express little or
+no CD52 (Fig. 1; Elsner et al., 1996). Nevertheless, treatment of mice
+with anti-muCD52 resulted in immune cell depletion similar to what
+has been observed in MS patients and in human CD52 transgenic mice
+treated with alemtuzumab (Cox et al., 2005; Hu et al., 2009). There
+was robust depletion of lymphocytes and the pattern of repopulation
+also paralleled alemtuzumab observations although B and T lymphocytes
+appeared to recover to baseline levels at the same rate in contrast to the
+
+more rapid repopulation of B cells compared to T cells in alemtuzumab-
+treated RRMS patients and human CD52 transgenic mice (Cox et al.,
+2005; Hu et al., 2009). Overall, the ability of anti-muCD52 to replicate
+the pattern of lymphocyte depletion followed by gradual repopulation
+supported its use in EAE mouse models.
+
+To better understand the mechanism of action of anti-CD52 treat-
+ment, the therapeutic activity of the antibody was ﬁrst tested in three
+different models of EAE reﬂecting different aspects of MS. EAE induced
+by MOG35–55 peptide in C57BL/6 mice represents a standard acute
+model of disease primarily driven by peptide-speciﬁc CD4+ cells while
+EAE induced by MOG1–121 peptide is believed to involve the contribu-
+tion of both T and B lymphocytes in the pathogenesis of the disease
+(Huntington et al., 2006; Stromnes and Goverman, 2006; Molnarﬁ
+et al., 2013). Finally, EAE induced by PLP139–151 peptide in SJL mice rep-
+resents a standard model of relapsing–remitting disease involving T cell
+reactivity and epitope spreading (McRae et al., 1995). Treatment with a
+single course of anti-muCD52 in mice with early symptoms achieved
+long term control of disease in all 3 models (Fig. 2) demonstrating efﬁ-
+cacy against the different aspects of disease pathogenesis. Additional
+studies in the MOG35–55 model also indicated that delayed administra-
+tion of anti-muCD52 when the mice attained more signiﬁcant disability
+with a disease score of 2 (full tail paralysis and hind limb paresis), was
+still efﬁcacious and resulted in the reversal of disease symptoms
+(Fig. 6). Importantly, long term monitoring of animals up to ~day 90
+in this treatment paradigm, demonstrated that control of disease was
+maintained without further retreatment in spite of complete lympho-
+cyte repopulation in the blood and lymphoid organs (Supplemental
+Fig. 1). These results are aligned with the hypothesis that initial deple-
+tion of lymphocytes followed by rebalancing during repopulation is
+part of the mechanism of action of anti-CD52 therapy.
+
+The MOG35–55 model was used to directly test whether depletion of
+pathogenic lymphocytes by anti-CD52 could in fact be linked to anti-
+inﬂammatory effects in the CNS. As expected, treatment of diseased
+mice with anti-muCD52 antibody reduced the numbers of splenic CD4
+
+Fig. 5. Anti-muCD52 treatment reduces inﬂammation and demyelination in EAE. C57BL/6 mice were unimmunized (normal) or immunized to induce EAE and treated with vehicle or anti-
+muCD52 from days 12–16 post-disease induction. Spinal cord tissue was collected 5 days following the ﬁnal dose of treatment (day 21) and stained with H&E for inﬂammation (top), anti-
+MBP for degree of myelination (middle), or anti-non-phosphorylated neuroﬁlament for axonal damage (bottom). Pathology scores for cervical, thoracic, and lumbar regions of the spinal
+cord are presented on the right. N = 5 animals/group. *p b 0.001, #p b 0.05.
+
+M.J. Turner et al. / Journal of Neuroimmunology 285 (2015) 4–12
+
+11
+
+and CD8 T cells (Fig. 3). A signiﬁcant reduction in the number of T lym-
+phocytes inﬁltrating the CNS was also observed in contrast to the
+sustained elevation in the number of CD4 and CD8 T cells in the CNS
+of vehicle-treated mice (Fig. 3). The observed reduction in the number
+of CNS-inﬁltrating T cells is most likely due to peripheral, rather than
+local, lymphocyte depletion given the generally poor CNS penetrance
+of antibodies. Intracellular cytokine staining after ex vivo stimulation
+with MOG35–55 peptide was used to more speciﬁcally assess the impact
+of anti-muCD52 treatment on MOG-reactive, disease-causing CD4+ T
+cells. The numbers of IFNγ and IL-17-producing CD4+ T cells were mea-
+sured as these cytokines have been shown to play a role in promoting
+disease in EAE as well as MS (Lock et al., 2002; Ishizu et al., 2005;
+Durelli et al., 2009; Jager et al., 2009; Kebir et al., 2009). The results con-
+ﬁrmed that treatment with anti-muCD52 did reduce the number of
+these autoreactive, pathogenic T cells (Fig. 3E). In addition, evaluation
+of inﬂammatory cytokine release by splenocytes stimulated with MOG
+peptide showed an overall reduction in cytokine production in anti-
+muCD52-treated mice (Fig. 4).
+
+These results are in agreement with the contention that treatment of
+RRMS patients with anti-CD52 can produce an anti-inﬂammatory effect
+in the CNS through depletion of pathogenic lymphocytes and alterations
+in the cytokine proﬁle. An overall decrease in CD4 and CD8 T cells has
+also been observed in the peripheral blood of RRMS patients treated
+with alemtuzumab although an assessment of the frequency of
+autoreactive T cells has not yet been conducted. Similarly, a change in
+the cytokine proﬁle of CD4+ T cells from alemtuzumab-treated patients
+towards a less inﬂammatory phenotype has been reported and postulated
+to play a role in the long term effect of the antibody (Zhang et al., 2013).
+
+Evidence from clinical studies is suggestive of a neuroprotective/
+neuroreparative beneﬁt in alemtuzumab-treated RRMS patients. An im-
+provement in disability has been observed using different clinical as-
+sessments including EDSS, MSFC, and MSFC plus Sloan scores (Coles
+et al., 2012a,b; Hartung et al., 2012; Graves et al., 2014). This improve-
+ment was maintained in the absence of ongoing treatment in most pa-
+tients (Fox et al., 2013) and was independent of the history of relapses
+i.e. not solely due to a direct anti-inﬂammatory effect (Fernández
+et al., 2013). In addition, continued slowing in the rate of brain atrophy
+was also observed without re-treatment in the majority of patients over
+a 3 year period (Arnold et al., 2014). The MOG35–55 EAE model provided
+the opportunity to directly examine the CNS compartment to explore
+this aspect. First, the impact of anti-muCD52 treatment on the CNS
+was evaluated histologically. The spinal cord is more severely affected
+than the brain in this model and comprehensive examination of the cer-
+vical, thoracic and lumbar areas showed that treatment with anti-
+muCD52 reduced the presence of inﬂammatory cell inﬁltrates (in agree-
+ment with the ﬂow cytometry data) and dramatically reduced the level
+of demyelination and axonal damage (Fig. 5). This improvement was
+observed 5 days after the ﬁnal dose of treatment (Fig. 5) as well as up
+to 24 days post-treatment (not shown). These observations are in
+agreement with an immediate beneﬁt of lymphocyte depletion follow-
+ed by an environment that favors maintenance of CNS integrity.
+
+In follow-up studies, electrophysiology was used as a functional as-
+sessment of the impact of anti-muCD52 treatment on axonal conduc-
+tance. Importantly, in these studies, treatment was delayed until the
+mice reached a disease score of 2 and exhibited abnormal SMEP with
+decreased peak amplitude, slightly higher threshold stimulus for
+
+A. 
+
+e
+r
+o
+c
+S
+ 
+e
+s
+a
+e
+s
+i
+D
+n
+a
+e
+M
+
+ 
+
+4
+
+3
+
+2
+
+1
+
+0
+
+C. 
+
+)
+
+V
+u
+(
+ 
+
+e
+d
+u
+t
+i
+l
+
+p
+m
+A
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+Day post-treatment
+
+D. 
+
+)
+
+V
+u
+(
+e
+d
+u
+t
+i
+l
+
+p
+m
+A
+
+Normal 
+
+Anti-muCD52
+
+Vehicle
+
+0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+Stimulus intensity (mA)
+
+B. 
+
+Vehicle
+
+Normal 
+
+Vehicle
+
+Anti-
+
+muCD52 
+
+Anti-
+
+muCD52 
+
+Stim
+
+10µV 
+
+1ms 
+
+Normal 
+Vehicle
+Anti-muCD52
+
+# 
+
+# 
+
+# 
+
+* 
+
+Day 0
+Before
+
+Treatment 
+
+Day 10
+Day 10 
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Fig. 6. Electrophysiological assessment of spinal conduction in anti-muCD52-treated EAE mice. (A) Mean clinical score of EAE mice treated with vehicle (n = 13) and or anti-muCD52 (n = 12)
+starting at a disease score of 2. (B) Representative SMEP waveforms obtained on day 10 after the initiation of treatment with vehicle or anti-muCD52 compared to the waveform from normal
+mice evaluated in parallel. (C) Stimulus–response curves from vehicle-treated (n = 7) and anti-muCD52-treated (n = 6) mice compared to normal mice on day 10 (n = 6). (D) SMEP peak
+amplitude in EAE mice compared to normal mice before treatment (Day 0) and on day 10 after the start of treatment with vehicle or anti-muCD52. *p b 0.001, #p b 0.05.
+
+12
+
+M.J. Turner et al. / Journal of Neuroimmunology 285 (2015) 4–12
+
+activation and a trend for increased peak latency. Reduced amplitude
+can largely be attributed to a decrease in the number and integrity of
+nerve ﬁbers while increased latency typically results from inefﬁcient
+conductance in demyelinated ﬁbers. The results indicated that, while
+the peak amplitude of the SMEP continued to deteriorate in vehicle-
+treated mice, the SMEP amplitude was maintained in anti-muCD52-
+treated mice (Fig. 6D). These results are in line with the histological
+ﬁndings showing a reduction in damaged axons (Fig. 5). There was
+also an apparent increase in latency in EAE mice compared to normal
+mice although the difference did not reach statistical signiﬁcance in all
+studies. Anti-muCD52-treated mice showed a peak latency closer to
+normal compared to vehicle-treated mice, in agreement with the re-
+duced demyelination observed histologically. However, given the
+small differences in latency, it is difﬁcult to reach a ﬁrm conclusion re-
+garding this parameter. Overall, these ﬁndings suggest that anti-
+muCD52 treatment in mice with active disease protects the CNS against
+further damage and perhaps enables endogenous repair mechanisms
+resulting in long term reversal of disease symptoms and maintenance
+of axonal conductance.
+
+Although the mechanism of action of alemtuzumab is not fully under-
+stood, the results from clinical and animal studies to date support the pre-
+mise that the therapeutic beneﬁt of the antibody involves the depletion of
+lymphocytes, including auto-reactive T cells, followed by rebalancing of
+the immune system during lymphocyte repopulation resulting in de-
+creased CNS inﬂammation and protection of CNS integrity.
+
+Supplementary data to this article can be found online at http://dx.
+
+doi.org/10.1016/j.jneuroim.2015.05.018.
+
+Acknowledgments
+
+The authors would like to thank Jianhua Huang and Carrie Garron for
+their help with the animal studies and Juanita Campos-Rivera and
+Jacqueline Saleh for ﬂow cytometry support.
+
+Conﬂicts of interest
+
+The authors are all employees of Genzyme, a Sanoﬁ company.
+
+References
+
+Arnold, D.L., Fisher, E., Cohen, J.A., Barkhof, F., Selmaj, K.W., Margolin, D.H., Palmer, J., Fox,
+E.J., 2014. Alemtuzumab improves brain MRI outcomes in patients with active relaps-
+ing–remitting multiple sclerosis: three-year follow-up of the CARE-MS studies. Neu-
+rology 83 (e35).
+
+Castillo-Trivino, T., Braithwaite, D., Bacchetti, P., Waubant, E., 2013. Rituximab in relapsing
+
+and progressive forms of multiple sclerosis: a systematic review. Plos One 8 (7).
+
+Cohen, J.A., Coles, A.J., Arnold, D.L., Confavreux, C., Fox, E.J., Hartung, H.P., Havrdova, E.,
+Selmaj, K.W., Weiner, H.L., Fisher, E., Brinar, V.V., Giovannoni, G., Stojanovic, M., Ertik,
+B.I., Lake, S.L., Margolin, D.H., Panzara, M.A., Compston, D.A., 2012. Alemtuzumab versus
+interferon beta 1a as ﬁrst-line treatment for patients with relapsing–remitting multiple
+sclerosis: a randomised controlled phase 3 trial. Lancet 380, 1819–1828.
+
+Coles, A.J., Fox, E., Vladic, A., Gazda, S.K., Brinar, V., Selmaj, K.W., Skoromets, A., Stolyarov,
+I., Bass, A., Sullivan, H., Margolin, D.H., Lake, S.L., Moran, S., Palmer, J., Smith, M.S.,
+Compston, D.A., 2012a. Alemtuzumab more effective than interferon beta-1a at 5-
+year follow-up of CAMMS223 clinical trial. Neurology 78, 1069–1078.
+
+Coles, A.J., Twyman, C.L., Arnold, D.L., Cohen, J.A., Confavreux, C., Fox, E.J., Hartung, H.P.,
+Havrdova, E., Selmaj, K.W., Weiner, H.L., Miller, T., Fisher, E., Sandbrink, R., Lake, S.L.,
+Margolin, D.H., Oyuela, P., Panzara, M.A., Compston, D.A., 2012b. Alemtuzumab for
+patients with relapsing multiple sclerosis after disease-modifying therapy: a
+randomised controlled phase 3 trial. Lancet 380, 1829–1839.
+
+Cox, A.L., Thompson, S.A., Jones, J.L., Robertson, V.H., Hale, G., Waldmann, H., Compston,
+D.A., Coles, A.J., 2005. Lymphocyte homeostasis following therapeutic lymphocyte de-
+pletion in multiple sclerosis. Eur. J. Immunol. 35, 3332–3342.
+
+Durelli, L., Conti, L., Clerico, M., Boselli, D., Contessa, G., Ripellino, P., Ferrero, B., Eid, P.,
+Novelli, F., 2009. T-helper 17 cells expand in multiple sclerosis and are inhibited by
+interferon-beta. Ann. Neurol. 65 (5), 499–509.
+
+Elsner, J., Hochstetter, R., Spiekermann, K., Kapp, A., 1996. Surface and mRNA expression
+of the CD52 antigen by human eosinophils but not by neutrophils. Blood 88 (12),
+4684–4693.
+
+Fernández, O., Arnold, D.L., Cohen, J.A., Coles, A.J., Confavreux, C., Fox, E.J., Hartung, H.P.,
+Havrdova, E., Selmaj, K., Weiner, K.H., Twyman, C.L., Miller, T., Lake, S.L., Margolin,
+D.H., Panzara, M.A., Compston, D.A.S., for the CARE-MS II investigators, 2013.
+Alemtuzumab improves disability by month 6 independent of relapse history in
+relapsing-remitting multiple sclerosis patients: CARE-MS II. J. Neurol. 260 (Suppl.:S14).
+Fox, E.J., Arnold, D.L., Cohen, J., Confavreux, C., Hartung, H.P., Havrdova, E., Selmaj, K.,
+Weiner, H., Twyman, C.L., Vladic, A., Margolin, D.H., Oyuela, P., Panzara, M.,
+Compston, D.A.S., on behalf of the CARE-MS study group, 2013. Durable efﬁcacy of
+alemtuzumab in relapsing–remitting multiple sclerosis patients who participated in
+the CARE-MS studies: 3 year follow-up. Neurology 80, S41.001.
+
+Friese, M.A., Schattling, B., Fugger, L., 2014. Mechanisms of neurodegeneration and axonal
+
+dysfunction in multiple sclerosis. Nat. Rev. Neurol. 10 (4), 225–238.
+
+Graves, J., Balcer, L.J., Palmer, J., Margolin, D.H., Galetta, S., 2014. Alemtuzumab improves
+visual outcomes vs. subcutaneous interferon beta-1a in patients with relapsing–re-
+mitting multiple sclerosis who relapsed on prior therapy: analysis from the CARE-
+MS II study. Neurology 82 (P3.158).
+
+Hale, G., Xia, M.Q., Tighe, H.P., Dyer, M.J., Waldmann, H., 1990. The CAMPATH-1 antigen
+
+(CDw52). Tissue Antigens 35, 118–127.
+
+Hartung, H.P., Arnold, D.L., Cohen, J., Coles, A.J., Confavreux, C., Fox, E.J., Havrdova, E.,
+Selmaj, K., Weiner, H., Miller, T., Twyman, C.L., Lake, S.L., Margolin, D.H., Panzara,
+M., Compston, A., 2012. Disability outcomes for alemtuzumab in RRMS patients
+who relapsed on prior therapy: CARE-MS II. J. Neurol. 259 (Suppl. 1), S1–S236.
+
+Hu, Y., Turner, M.J., Shields, J., Gale, M.S., Hutto, E., Roberts, B.L., Siders, W.M., Kaplan, J.M.,
+2009. Investigation of the mechanism of action of alemtuzumab in a human CD52
+transgenic mouse model. Immunology 128, 260–270.
+
+Huntington, N.D., Tomioka, R., Clavarino, C., Chow, A.M., Linares, D., Mana, P., Rossjohn, J.,
+Cachero, T.G., Qian, F., Kalled, S.L., Bernard, C.C., Reid, H.H., 2006. A BAFF antagonist
+suppresses experimental autoimmune encephalomyelitis by targeting cell-
+mediated and humoral immune responses. Int. Immunol. 18 (10), 1473–1485.
+
+Ishizu, T., Osoegawa, M., Mei, F.J., Kikuchi, H., Tanaka, M., Takakura, Y., Minohara, M.,
+Murai, H., Mihara, F., Taniwaki, T., Kira, J., 2005. Intrathecal activation of the IL-17/
+IL-8 axis in opticospinal multiple sclerosis. Brain 128 (5), 988–1002.
+
+Jager, A., Dardalhon, V., Sobel, R.A., Bettelli, E., Kuchroo, V.K., 2009. Th1, Th17, and Th9 ef-
+fector cells induce experimental autoimmune encephalomyelitis with different path-
+ological phenotypes. J. Immunol. 183 (11), 7169–7177.
+
+Kebir, H., Ifergan, I., Alvarez, J.I., Bernard, M., Poirier, J., Arbour, N., Duquette, P., Prat, A.,
+2009. Preferential recruitment of interferon-gamma-expressing TH17 cells in multi-
+ple sclerosis. Ann. Neurol. 66 (3), 390–402.
+
+Krumbholz, M., Derfuss, T., Hohlfeld, R., Meinl, E., 2012. B cells and antibodies in multiple
+
+sclerosis pathogenesis and therapy. Nat. Rev. Neurol. 8 (11), 613–623.
+
+Lock, C., Hermans, G., Pedotti, R., Brendolan, A., Schadt, E., Garren, H., Langer-Gould, A.,
+Strober, S., Cannella, B., Allard, J., Klonowski, P., Austin, A., Lad, N., Kaminski, N.,
+Galli, S.J., Oksenberg, J.R., Raine, C.S., Heller, R., Steinman, L., 2002. Gene-microarray
+analysis of multiple sclerosis lesions yields new targets validated in autoimmune en-
+cephalomyelitis. Nat. Med. 8 (5), 500–508.
+
+McRae, B.L., Vanderlugt, C.L., Dal Canto, M.C., Miller, S.D., 1995. Functional evidence for
+epitope spreading in the relapsing pathology of experimental autoimmune encepha-
+lomyelitis. J. Exp. Med. 182 (1), 75–85.
+
+Molnarﬁ, N., Schulze-Topphoff, U., Weber, M.S., Patarroyo, J.C., Prod'homme, T., Varrin-
+Doyer, M., Shetty, A., Linington, C., Slavin, A.J., Hidalgo, J., Jenne, D.E., Wekerle, H.,
+Sobel, R.A., Bernard, C.C., Shlomchik, M.J., Zamvil, S.S., 2013. MHC class II-dependent
+B cell APC function is required for induction of CNS autoimmunity independent of
+myelin-speciﬁc antibodies. J. Exp. Med. 210 (13), 2921–2937.
+
+Ransohoff, R.M., Haﬂer, D.A., Lucchinetti, C.F., 2015. Multiple sclerosis: a quiet revolution.
+
+Nat. Rev. Neurol. 11 (3), 135–142.
+
+Rao, S.P., Sancho, J., Campos-Rivera, J., Boutin, P.M., Severy, P.B., Weeden, T., Shankara, S.,
+Roberts, B.L., Kaplan, J.M., 2012. Human peripheral blood mononuclear cells exhibit
+heterogeneous CD52 expression levels and show differential sensitivity to
+alemtuzumab mediated cytolysis. PLoS One 7, e39416.
+
+Rothhammer, V., Heink, S., Petermann, F., Srivastava, R., Claussen, M.C., Hemmer, B., Korn,
+T., 2011. Th17 lymphocytes trafﬁc to the central nervous system independently of
+alpha4 integrin expression during EAE. J. Exp. Med. 208 (12), 2465–2476.
+
+Stromnes, I.M., Goverman, J.M., 2006. Active induction of experimental allergic encepha-
+
+lomyelitis. Nat. Protoc. 1 (4), 1810–1819.
+
+Thompson, S.A., Jones, J.L., Cox, A.L., Compston, D.A., Coles, A.J., 2010. B-cell reconstitution
+and BAFF after alemtuzumab (Campath-1H) treatment of multiple sclerosis. J. Clin.
+Immunol. 30, 99–105.
+
+Turner, M.J., Lamorte, M.J., Chretien, N., Havari, E., Roberts, B.L., Kaplan, J.M., Siders, W.M.,
+2013. Immune status following alemtuzumab treatment in human CD52 transgenic
+mice. J. Neuroimmunol. 261 (1–2), 29–36.
+
+Zhang, X., Tao, Y., Chopra, M., Ahn, M., Marcus, K.L., Choudhary, N., Zhu, H., Markovic-Plese,
+S., 2013. Differential reconstitution of T cell subsets following immunodepleting treat-
+ment with alemtuzumab (anti-CD52 monoclonal antibody) in patients with relaps-
+ing–remitting multiple sclerosis. J. Immunol. 191 (12), 5867–5874.
+
+

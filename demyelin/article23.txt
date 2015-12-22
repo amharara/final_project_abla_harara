@@ -1,0 +1,1364 @@
+ 
+Review 
+ 
+The aliens inside human DNA: HERV-W/MSRV/syncytin-1 endogenous 
+retroviruses and neurodegeneration 
+ 
+Antonina Dolei, Elena Uleri, Gabriele Ibba, Maurizio Caocci, Claudia Piu, Caterina Serra 
+ 
+Department of Biomedical Sciences, University of Sassari, Sassari, Italy 
+ 
+Abstract 
+The  human  genome  contains  remnants  of  ancestral  retroviruses  now  endogenously  transmitted,  called  human  endogenous  retroviruses 
+(HERVs). HERVs can be variably expressed, and both beneficial and detrimental effects have described. This review focuses on the MSRV 
+and syncytin-1 HERV-W elements in relationship to neurodegeneration in view of their neuro-pathogenic and immune-pathogenic properties. 
+Multiple sclerosis (MS) and a neurodegenerative disease (neuroAIDS) are reported in this review. In vivo studies in patients and controls for 
+molecular epidemiology and follow-up studies are reviewed, along with in vitro cellular studies of the effects of treatments and of molecular 
+mechanisms. 
+HERV-W/MSRV has been repeatedly found in MS patients (in blood, spinal fluid, and brain samples), and MRSV presence/load strikingly 
+parallels MS stages and active/remission phases, as well as therapy outcome. The DNA of MS patients has increased MSRVenv copies, while 
+syncytin-1 copies are unchanged in controls. Presence of MSRV in the spinal fluid predicted the worst MS progression, ten years in advance. 
+The Epstein-Barr virus (EBV) activates HERV-W/MSRV both in vitro and in vivo. With respect to neuroAIDS, the HIV transactivator of 
+transcription  (Tat)  protein  activates  HERV-W/MSRV  in  monocytes/macrophages  and  astrocytes  indirectly  by  interaction  with  TLR4  and 
+induction of TNF(cid:68). 
+HERV-W/MSRV  can  be  considered  a  biomarker  for  MS  behavior  and  therapy  outcome.  Regarding  MS  pathogenesis,  we  postulate  the 
+possibility for EBV of an initial trigger of future MS, years later, and for MSRV of a direct role of effector of neuropathogenesis during MS. 
+Additionally, HERV-W/MSR/syncytin-1 activation by HIV Tat could contribute to the HIV-related neurodegeneration. 
+ 
+Key words: endogenous retroviruses; HERV-W/MSRV/syncytin-1; multiple sclerosis; neuroAIDS. 
+ 
+J Infect Dev Ctries 2015; 9(6):577-587. doi:10.3855/jidc.6916 
+ 
+(Received 25 March 2015 – Accepted 21 May 2015) 
+ 
+Copyright © 2015 Dolei et al. This is an open-access article distributed under the Creative Commons Attribution License, which permits unrestricted use, 
+distribution, and reproduction in any medium, provided the original work is properly cited. 
+ 
+Introduction 
+
+are  now  endogenously  transmitted  and  are  hence 
+called human endogenous retroviruses (HERVs) [4-8]. 
+Apart from ~3% of coding sequences, for an estimate 
+of 20,000–25,000 genes [9], the vast majority of DNA 
+is composed of introns, pseudogenes, duplications, and 
+by at least 50% repeat sequences (including genes that 
+encode  ribosomal  components,  minisatellite  DNA, 
+HERVs,  and  probably  much  more)  [6,9,10-11]. 
+HERVs are grouped in 26–31 independently acquired 
+families  or  lineages  [12-13].  They  are  poorly  and 
+variably  expressed,  being  highly  defective,  but  a 
+handful  of  complete  proviruses  have  been  described, 
+having 
+the  classical  genome  organization  of  a 
+retrovirus, i.e., two long terminal repeat (LTR) regions 
+including  the gag  (capsidic  group-associated  antigen, 
+the  structural  matrix,  capsid,  and 
+coding 
+nucleocapsid  proteins),  pol 
+(polymerase/protease, 
+coding  for  the  reverse  transcriptase,  integrase  and 
+protease  proteins),  and env  (envelope,  coding  for  the 
+envelope surface and transmembrane proteins) genes. 
+
+for 
+
+Human  DNA  contains  a  large  amount  of  "alien" 
+material, since an average of 8% of all our DNA is of 
+retroviral  origin  [1].  It  is  well  known  that  retrovirus 
+replication  requires  provirus  integration  into  the  host 
+DNA  and 
+that  the  integrated  provirus  becomes 
+functionally  indistinguishable  from  host  sequences, 
+behaving 
+thereafter  as  a  heritable  cellular  gene 
+transmitted  to  progeny  cells.  If  the  progeny  cells  are 
+germline  cells,  this  endogenous  infection  can  be 
+through  generations.  This 
+transmitted  vertically 
+process  is  ongoing 
+in  koalas,  where  the  koala 
+retrovirus, which is associated with neoplasias, shows 
+features  of  transition  between  an  exogenous  and 
+endogenous vertically transmitted element [2-3]. This 
+phenomenon  occurred  repeatedly  in  our  progenitors, 
+with 
+reinfections,  and 
+rearrangements of the sequences. Nevertheless, similar 
+to  other  animal  species,  the  human  genome  contains 
+remnants  of many different kinds  of retroviruses that 
+
+loss,  damage, 
+
+increasing 
+
+Dolei et al. – HERV-W/MSRV/syncytin-1 and neurodegeneration   
+
+ 
+
+ 
+
+ 
+
+J Infect Dev Ctries 2015; 9(6):577-587. 
+
+time  (30–60  million  years),  all 
+
+Over 
+types  of 
+mutations occurred, and deleted or mutated versions of 
+inactive  retroelements  accumulated  in  the  genome. 
+While  some  transposable  elements  became  inactive, 
+others  retained  mobility  within the  genome.  Variably 
+inserting  in  cellular  genes,  and  differentially  within 
+allotypes  of  polymorphic  genes,  these  elements  may 
+have determined inheritable, stable gene modifications 
+[6].  Reinfection  by  replication-competent  elements, 
+complementation  in  trans,  retrotransposition  in  cis, 
+and 
+are 
+mechanisms  used  in  most  families  [12].  In  addition, 
+through their LTRs, they may supply new promoters, 
+create  new  functional  exons,  alternative  splicing 
+products  and  miRNAs  via  integration  and  adaption 
+events,  thus  contributing  to  genome  plasticity  during 
+evolution [14]. 
+
+non-HERV  machinery 
+
+copying 
+
+The  host  occasionally  takes  advantage  of  the 
+presence  of  these  ancestrally  transmitted  foreign 
+genomes  to  serve  physiological  functions;  several 
+possible  beneficial  effects  have  been  reported  [6], 
+including  embryo 
+implantation,  gene  variability, 
+alternative  splicing  and  polyadenylation,  mother’s 
+immunosuppression  to  protect  the  fetal  allograft, 
+protection  against 
+superinfection  by  exogenous 
+retroviruses,  and  involvement  in  development  and/or 
+differentiation.  Conversely,  HERVs  can  contribute  to 
+the  generation  of  inherited  diseases  by  induction  of 
+gene  instability  and  variability,  recombination,  gene 
+disruption  by 
+sequences, 
+autoimmunity,  superantigenic  stimulation,  production 
+through 
+of 
+interactions 
+and 
+activation/inactivation  of  growth  controlling  genes 
+[6,15]. 
+
+immunosuppressive 
+with 
+
+factors,  cancer 
+oncogenes, 
+
+insertion  of  HERV 
+
+Increasing  evidence  shows  links  of  HERVs  with 
+infertility, 
+some  human  diseases,  such  as  male 
+schizophrenia,  and  cancer 
+[6,10-11,16].  Several 
+studies reported expression of one or more HERVs in 
+physiological  or  pathological  conditions,  in  one  or 
+more body sites. A key problem is differentiating this 
+expression  as  the  cause  or  effect  of  a  particular 
+disease.  While  for  various  HERV  families,  only 
+expression of transcripts (and rarely of proteins) [6,15] 
+were  reported  for  the  HERV-W  family;  several 
+independent studies went further, reproducing in vitro 
+and  in  animal  models  pathogenic  mechanisms  of  the 
+linked disease. 
+The HERV-W family: MSRV and syncytin-1 
+
+The  most  studied  HERV  family  is  HERV-W. 
+There  have  been  two  milestone  discoveries  about 
+
+by 
+
+ 
+
+released 
+
+virions), 
+
+infectious 
+
+HERV-W:  the  discovery  of  its  founder  member,  the 
+multiple sclerosis (MS)-associated retrovirus (MSRV, 
+a presumably complete virus,  since it is able to form 
+extracellular, 
+by 
+leptomeningeal  cells  of  MS  patients  [16-17],  and  the 
+discovery  that  syncytin-1  (a  protein  expressed  in 
+human placenta during pregnancy), is encoded by the 
+env  gene  of  ERVWE1,  a  replication-incompetent 
+HERV-W  element  located  on  human  chromosome 
+7q21-22  [7,18]  that  has  inactivating  mutations  in  the 
+gag  and pol  genes  and is  not  able  to  form  virus-like 
+particles. In human DNA, there are multiple copies of 
+HERV-W  elements;  numbers  can  vary  [19-20],  but 
+there are about 70 gag, 100 pro, and 30 env HERV-W-
+related regions [21-22]; the family is retrotransposably 
+active  [12]  and  generates  new  recombinant  copies  in 
+cancer  cells  [23].  Full-length  HERV-Wenv  DNA 
+sequences are present on ten human chromosomes (X, 
+3, 4, 5, 7, 12, 14, 15, 17, and 18), and three additional 
+chromosomes  have  HERV-W  elements  containing 
+incomplete HERV-Wenvs spanning ≥ 80% of the gene 
+[24].  As  for  their  transcription,  only  the  ERVW-1 
+locus on chromosome 7 is transcribed in a full-length 
+env  mRNA  that  can  be  translated  in  a  complete 
+protein,  syncytin-1;  all  the  other  HERV-Wenv  genes 
+present  in  the  current  version  of  the  human  genome 
+either  are  not  transcribed,  or  originate  HERV-Wenv 
+fragments with stop codons and other gene alterations 
+[24]. 
+
+In  the  case  of  syncytin-1,  the  host  subverts  the 
+usual situation in which viruses use the cells for their 
+own  advantage 
+(replication  or  persistence);  for 
+example,  the  host  uses  these  ancestrally  transmitted 
+viral  genomes  for  pivotal  physiological  functions 
+during pregnancy. In fact, syncytin-1 is responsible for 
+the  fusion  of  fetal  trophoblasts  into  the  placental 
+syncytiotrophoblast  layer,  which  allows  for  embryo 
+implantation  [25].  Other  relevant  functions  that  have 
+been  hypothesized  are  the  powerful  transcriptional 
+regulatory  properties  of  HERV-W  LTRs  and  the 
+possible role of HERV-Wenv expression in pregnancy 
+in suppressing the maternal immune response against 
+the fetal allograft [26-27]. 
+
+None  of  the  known  stably  inserted  HERV-W 
+elements is replication competent; a study of HERV-
+W  intragenomic  spread  confirmed  that,  in  the  few 
+individuals  used  for  genome-wide  analysis, 
+the 
+sequenced  HERV-W  elements  lacked  intact  open 
+reading  frames  (ORFs)  in  all  genes  within  a  single 
+copy  [22].  Syncytin-1  originates  from  the  ERVWE1 
+element on chromosome 7; the origin of MSRV is still 
+debated [16]. Sequencing of virionic MSRV genomes 
+
+578 
+
+Dolei et al. – HERV-W/MSRV/syncytin-1 and neurodegeneration   
+
+ 
+
+ 
+
+ 
+
+J Infect Dev Ctries 2015; 9(6):577-587. 
+
+and 
+
+a 
+
+this 
+
+family 
+
+putative 
+
+the  HERV-W 
+
+identified 
+7,630-nucleotide-long 
+reconstituted  retroviral  organization  with  RU5,  gag, 
+pol,  env,  and  U3R  regions  [16].  These  sequences 
+belong  to  the  HERV-W  family  [18],  classified  in 
+(simple)  Gammaretroviruses  [13].  MSRV  might  be 
+either  an  exogenous  HERV-W,  or  a  non-ubiquitous 
+replication-competent  member,  or  a  partly  defective, 
+seldom  complemented  or 
+non-ubiquitous  copy, 
+recombined  within 
+[24]. 
+Whatever  the  origin  of  MSRV,  ~9%  of  healthy 
+Caucasians have circulating virionic MSRV/HERV-W 
+RNA [16]. 
+MSRVenv  and  syncytin-1  are  closely  related  and 
+difficult to distinguish from each other [26]. A major 
+difference  is  that  only  MSRV  is  found  as  complete 
+extracellular  virus,  while  syncytin-1  is  found  only 
+intracellularly or on the plasma membrane [16]. At the 
+protein  level,  no  antibodies  discriminating  MSRVenv 
+and  syncytin-1  are  yet  available  [28].  At  the  RNA 
+level, MSRVenv and syncytin-1 have 94% similarity; 
+we  observed  that  MSRVenv  sequences  have  a  12-
+nucleotide  insertion  in  the  trans-membrane  moiety 
+[29].  Based  on 
+insertion,  we  developed 
+discriminatory  real-time  polymerase  chain  reaction 
+(PCR)  assays  that  can  amplify  selectively  either 
+MSRVenv or syncytin-1 [29]. 
+MSRVenv  and  syncytin-1  proteins  share  several 
+biological  features,  and  are  potentially  pathogenic. 
+They  have  pro-inflammatory  and  superantigenic 
+properties,  and  have  been shown to  cause  neurotoxic 
+effects  in  vitro  and  in  human  or  transgenic  animal 
+models 
+cause 
+neuroinflammation,  neurodegeneration,  alterations  of 
+the  immune  system,  and  stress  responses;  both  have 
+been  suggested  as  co-factors  triggering  the  immuno-
+pathogenesis  of  MS.  Expression  of  HERV-
+W/MSRV/syncytin-1  occurs  in  astrocytes  of  MS 
+lesions in the brain [31-32], as  well as in endothelial 
+and microglial cells [33]. Of note, in the brains of mice 
+with  a  syncytin  construct  stereotactically  implanted 
+into  the  corpus  callosum,  oligodendrocytes  (which 
+produce the myelin sheath of the nerve) were shown to 
+be  sensitive  to  syncytin-1-mediated  release  of  redox 
+reactants  from  astrocytes  [31].  Notably,  MSRVenv 
+alone  was  shown  to  promote  experimental  allergic 
+encephalomyelitis in mice, the animal model of human 
+MS [34]. 
+MS and HERV-Ws 
+
+proteins  may 
+
+[30-31].  The 
+
+MS is  a  chronic  neurological disease that usually 
+begins  in  early  adulthood  and  leads  to  progressive 
+neurodegeneration.  It  causes  repeated  unpredictable 
+
+ 
+
+visual 
+
+bouts  of  motor  disorders,  partial  paralysis,  sensory 
+abnormalities 
+impairment,  with 
+demyelination  and  gliosis,  various  degrees  of  axonal 
+pathology,  and  episodic  or  progressive  neurological 
+disability [35]. The etiology of MS is complex but still 
+unclear.  The  immuno-pathogenic  phenomena  leading 
+to  neurodegeneration  are  thought  to  be  triggered  by 
+environmental  or  viral  factors,  operating  on  a 
+predisposing  genetic  background,  and  result  from  an 
+inflammatory  process 
+that,  among  other  effects, 
+attacks  and  destroys  oligodendrocytes,  the  cells  that 
+form the myelin sheaths around axons in the brain and 
+spinal cord.  
+
+real-time 
+
+quantitative 
+
+Among  the  HERVs  associated  with  MS,  MSRV 
+has  been  the  most  intensely  studied,  followed  by 
+syncytin-1. However, due to the sequence similarities, 
+effective  distinction  between  the  two  elements  by 
+discriminatory 
+reverse 
+transcription (RT)-PCR assays was carried out only by 
+our  group  [24,28-29,36]  and  later  on,  with  the  same 
+assay, by Perron et al. [37]. With the aid of these real-
+time PCR assays, which can amplify selectively either 
+MSRVenv or syncytin-1 [29], we found that the DNA 
+of  MS  patients  had  increased  MSRVenv  copies 
+(sixfold mean increase, p = 0.02), while the syncytin-
+1-specific assay gave almost identical mean values for 
+both patients and controls [29]. 
+
+To  date,  the  presence  of  extracellular  MSRV 
+particles  in  MS  patients  and  the  expression  of 
+MSRVenv  and  syncytin-1 
+transcripts  have  been 
+detected independently in the blood and the brain by 
+several  groups,  and  found  to  be  increased  in  both 
+healthy  and  pathological  controls  [6,15-16],  and 
+shown in Figure 1 for our Sardinian cohort.  
+
+studied  MSRV/syncytin-1 
+expression in MS patients since 1998, initially because 
+the  Italian  island  of  Sardinia  has  the  highest  MS 
+prevalence  worldwide 
+than  230/100,000 
+inhabitants)  [38].  In  the  Sardinian  cohort,  circulating 
+MSRV  was  detected  in  100%  of  patients  with  active 
+MS (but in 33% of MS patients in remitting phase, as 
+reported  in  Figure  2);  moreover,  the  presence  of 
+MSRV  particles  in  spinal fluid  was  found  to  parallel 
+temporal and clinical progression of the disease [39].  
+levels  of 
+MSRV/HERV-Wenv transcripts are similar in samples 
+from normal controls (autopsied tissues from subjects 
+with non-neurological diseases), and from pathological 
+controls 
+from  patients  with  non-MS 
+neurological diseases), without significant differences 
+between white and grey matter.  
+ 
+
+the  brain,  we  found 
+
+(tissues 
+
+(more 
+
+group 
+
+that 
+
+the 
+
+Our 
+
+has 
+
+In 
+
+ 
+
+579 
+
+Dolei et al. – HERV-W/MSRV/syncytin-1 and neurodegeneration   
+
+ 
+
+ 
+
+ 
+
+J Infect Dev Ctries 2015; 9(6):577-587. 
+
+ 
+
+ 
+
+Figure 1. Extracellular MSRV in the blood of MS patients and of healthy and pathological controls 
+
+(A)  Percentage  of  MSRV-positivity  in  healthy  blood  donors  (BD),  control  patients  with  other  neurological  diseases  (OND)  with  or  without 
+inflammation, and MS patients in active phase of disease. (B) Percentage of MSRV release in the blood of MS patients during stable and active 
+MS disease, as detected by RT-PCR assays detecting the pol and env genes (left and right panels, respectively). For details, see [39]. 
+
+Figure 2. Extracellular MSRV in the cerebrospinal fluids 
+of MS patients and of pathological controls 
+
+OND:  control  patients  with  other  neurological  diseases,  with  or 
+without inflammation, and MS patients in active phase of disease, 
+as detected by RT-PCR assay [39]. 
+
+580 
+
+Dolei et al. – HERV-W/MSRV/syncytin-1 and neurodegeneration   
+
+ 
+
+ 
+
+ 
+
+J Infect Dev Ctries 2015; 9(6):577-587. 
+
+controls). 
+
+pathological 
+
+In  brain  lesions  from  MS  patients,  the  levels  of 
+MSRV/HERV-W transcripts were increased by 20- to 
+25-fold (p = 0.014 versus healthy controls; p = 0.006 
+versus 
+By 
+immunohistochemistry,  no  HERV-Wenv  protein  was 
+detected  in  control  brains,  whereas  it  was  highly 
+expressed within MS plaques and correlated with the 
+extent  of  active  demyelination  and  inflammation.  At 
+the 
+immunostaining  was 
+detected  on  cells  resembling  both  astrocytes  and 
+microglia,  while  in  plaque  centers,  the  HERV-W 
+signal was mostly localized on hypertrophic astrocytes 
+[29]. 
+
+lesion  edge,  HERV-W 
+
+A  large  multicentric  study  of  MS  patients  and 
+neurological  and  healthy  controls  from  different 
+European areas showed that MSRV presence and load 
+in blood and spinal fluid was significantly associated 
+with  MS  in  all  ethnic  groups  (p  <  0.05  compared  to 
+neurological controls and < 0.001 compared to healthy 
+controls)  [40].  MRSV  presence/load  in  MS  patients 
+strikingly  paralleled  disease  behavior;  we  detected 
+direct parallelisms  between MSRV positivity/load (in 
+blood,  spinal  fluid,  and  brain  samples)  and  MS 
+temporal 
+as 
+active/remission  phases  (Figure  2).  MSRV  positivity 
+of spinal fluids increased with MS duration [39], and 
+its  presence  in  early  MS  was  related  to  worse 
+prognosis in the next ten years. A blind observational 
+study  of  early  MS  patients  starting  in  comparable 
+
+as  well 
+
+clinical 
+
+stages, 
+
+and 
+
+conditions  (but  differing  in  MSRV  positivity  in  the 
+spinal fluid) confirmed that the presence of MSRV in 
+the  cerebrospinal  fluid  of  early  MS  patients  was 
+associated with a significantly greater rate of disability 
+and  disease  progression,  since  after  three  [41],  six 
+[42],  and  ten  years  [43],  mean  disability,  annual 
+relapse  rate,  therapy  requirement,  and  progression  to 
+secondary-progressive MS were significantly higher in 
+patients  starting  with  MSRV-positive  spinal  fluids 
+(Figure  3).  Hence,  we  proposed  that  evaluation  of 
+plasmatic  MSRV  could  be  considered 
+the  first 
+prognostic marker for the individual patient to monitor 
+disease  progression.  Our  proposal  was  reinforced  by 
+the  study  of  patients  with  optic  neuritis,  a  disease 
+frequently  prodromic  to  MS;  in  the  blood  and  in  the 
+spinal  fluid  of  these  patients,  MSRV  positivity  was 
+significantly  higher  than  in  that  of  pathological 
+controls,  and the  conversion  to  full-blown  MS in the 
+next 20 months occurred only among MSRV-positive 
+patients [44]. 
+
+cultured 
+
+observed 
+
+peripheral 
+
+[45],  where  MSRV 
+
+A  positive  feedback  loop  on  MSRV  production 
+was 
+blood 
+mononuclear  cells  (PBMC)  from  MSRV-positive 
+individuals 
+release  was 
+upregulated  by  pro-inflammatory  cytokines  such  as 
+TNFα, IL-6, and interferon-γ, while it was inhibited by 
+the  beneficial  interferon-β  (Figure  4).  These  pro-
+inflammatory  cytokines,  in  turn,  are  overproduced  in 
+response  to  MSRV/HERV-Wenv  by  cells  from  MS 
+
+in 
+
+Figure 3. Follow-up for ten years of patients with early multiple sclerosis 
+
+Blind observational study of early MS patients starting from similar conditions, but differing in MSRV presence in the spinal fluid. (A) Early 
+MSRV detection in the spinal fluid of MS patients is associated with higher rate of disability, as measured by Kurtzke’s expanded disability status 
+scale (EDSS) score on Y-axis. MSRV-positive patients, after 10 years, (black bars) have significantly higher disability as compared with their 
+counterparts that, at time zero, were MSRV-negative (white bars; t-test, p < 0.004) and with the average EDSS at study entry (t-test, p < 0.001). 
+(B) The progression of the disease toward the secondary-progressive form of MS (SPMS) after 10 years occurs only on those patients that were 
+MSRV-negative at onset. For details, see [42]. 
+
+581 
+
+Dolei et al. – HERV-W/MSRV/syncytin-1 and neurodegeneration   
+
+ 
+
+ 
+
+ 
+
+J Infect Dev Ctries 2015; 9(6):577-587. 
+
+patients,  and  correlate  with  MS  severity  [46],  thus 
+providing a pathogenic amplification loop. 
+
+Next,  we  verified  whether  MSRV  expression 
+varies  in  MS  patients  during  therapy.  A  longitudinal 
+evaluation  of  MS  patients  during  efficacious  therapy 
+with  interferon-β  revealed  that  MSRV  viremia  fell 
+rapidly below detection limits (the earliest effect was 
+detected  48  hours  after  the  first  drug  inoculation); 
+notably, a patient, after initial clinical and virological 
+benefit,  had  MSRV  rescue,  preceding  strong  disease 
+progression  and  therapy  failure  [47].  Our  findings 
+were  confirmed  by  an  independent  follow-up  study 
+that  observed  significant  decreases  in  anti-HERV-
+Wenv  and  anti-HERV-Henv  antibody  reactivity  as  a 
+consequence of interferon-β therapy, closely linked to 
+efficacy  of  therapy/low  disease  activity  [48].  In 
+another 
+that 
+natalizumab 
+(a  humanized  monoclonal  antibody 
+indicated for MS patients who have not responded to 
+reduced 
+conventional  MS 
+MSRV/syncytin-1/HERV-W 
+which 
+
+strongly 
+expression, 
+
+longitudinal 
+
+study,  we 
+
+treatments) 
+
+showed 
+
+parallels the clinical benefit of the therapy [49]. 
+
+ 
+
+of 
+
+All the above data [32,39-45,47,49] and data from 
+other groups [37,48] strengthen our hypothesis that the 
+MSRV/syncytin/HERV-W 
+evaluation 
+expression/release  could  be  considered 
+the  first 
+prognostic marker for the individual patient to monitor 
+disease progression and therapy outcome. 
+The viral trigger of MS pathogenesis and the 
+dual virus hypothesis 
+
+Several  viruses  have  been  proposed  as  co-factors 
+of  MS  [50-51].  Among  them,  there  were  some 
+members  of the family of Herpesviridae, such as the 
+human herpesvirus  6 (HHV-6) [52], and the Epstein-
+Barr  virus 
+[53],  along  with  HERV-
+W/MSRV/syncytin-1 [16,50,54]. 
+
+(EBV) 
+
+With  respect  to  HHV-6,  meta-analyses  provided 
+some support for a link between HHV-6 and MS, but 
+none  showed  causative  relationships,  and  findings 
+across the field are non-uniform [52]. Since we found 
+significant increases of the expression of HERV-W in 
+
+Figure 4. MSRV release by PBMC from MSRV-positive donors exposed to cytokines 
+
+MSRV release in culture by mitogen-activated PBMC from MSRV-positive healthy donors that were exposed for four days to graded amounts of 
+interferon-γ (A), interferon-β (B), TNFα (C), IL-6 (D), and IL-4 (E). For details, see [44]. 
+
+582 
+
+Dolei et al. – HERV-W/MSRV/syncytin-1 and neurodegeneration   
+
+ 
+
+ 
+
+ 
+
+J Infect Dev Ctries 2015; 9(6):577-587. 
+
+MS  patients,  we  evaluated  the  expression  of  both 
+HERV-Ws  and  HHV-6  within  the  same  samples  of 
+brain and blood cells of MS patients and controls, as 
+the  mere  detection  of  HHV-6  would  not  imply  viral 
+activity.  This  is  particularly  important  for  HHV-6 
+studies,  as  the  vast  majority  of  reports  have  detected 
+virus  DNA,  and  the  need  for  studies  to  examine 
+antigen and virus mRNA expression in MS and control 
+brains to delineate the relationship between latent and 
+active  virus  and  MS  has  been  emphasized  [52].  By 
+evaluating  two  different  transcripts  for  each  virus 
+(MSRV/HERV-W  env  and  pol,  HHV-6  U94/rep, 
+which  maintains  the  latent  state,  and  DNA-pol, 
+indicative of actively replicating virus), we found that 
+MSRV/HERV-W  was  expressed  actively  in  human 
+brains and activated strongly in MS patients (up to the 
+protein 
+there  were  no  significant 
+differences between these MS patients and controls for 
+HHV-6  presence/replication  at  the  brain  or  PBMC 
+level [32]. 
+
+level),  while 
+
+More  consistent  studies 
+
+for  potential  virus 
+involvement in MS exist for EBV [53], as the risk of 
+developing  MS  is  higher  among  individuals  infected 
+with  EBV,  especially  if  the  EBV  infection  occurs  in 
+late  adolescence  or  adulthood,  when  the  infection  is 
+symptomatic.  A  meta-analysis  showed  an  association 
+between  the  appearance  of  anti-EBV  antibodies  and 
+the onset of MS 5–20 years later [55]; another paper 
+reported that the relative risk of MS for a past history 
+of  infectious  mononucleosis  (IM)  is  2.17  [56].  The 
+MS-EBV  link  remains  unclear  and  seems  to  be 
+indirect, since no studies have found evidence of EBV 
+expression  specific  to  MS,  and  currently  there  is  no 
+consensus in establishing whether there is a presence 
+of  EBV-infected  cells  in  the  central  nervous  system 
+(CNS) of MS patients [57]. Therefore, it remains to be 
+determined whether EBV continues to play a role after 
+disease initiation [24,36]. 
+In  search  of  EBV/HERV-W/MSRV/syncytin-1 
+links,  we  studied  in  vitro  the  expression  of  HERV-
+W/MSRV/syncytin-1,  with  or  without  exposure  to 
+EBV  or  to  EBV  glycoprotein350  (EBVgp350,  the 
+major  envelope  protein),  on  PBMC  from  healthy 
+volunteers  and  MS  patients,  and  on  astrocytes,  by 
+discriminatory  env-specific  real-time  RT-PCR  assays 
+and  by  flow  cytometry  [24].  We  verified  whether 
+HERV-W  might  be  activated  also 
+in 
+hospitalized  young  adults  with  IM  symptoms,  and  in 
+healthy  controls  that  were  either  EBV  negative  or 
+latently  EBV  infected  with  or  without  high  titers  of 
+anti-EBNA-1 IgG [24,36]. Briefly, the results showed 
+that 
+the  potentially 
+
+vitro  EBV 
+
+in  vivo, 
+
+activates 
+
+in 
+
+ 
+
+by 
+
+of 
+
+activation 
+
+immunopathogenic  and  neuropathogenic  HERV-
+W/MSRV/syncytin-1 in cells deriving from the blood 
+and  brain.  In  vivo  HERV-W/MSRV  activation  is 
+higher  in  blood  cells  of  IM  patients  and  in  healthy 
+controls  with high anti-EBNA-1  IgG titers. Thus, the 
+data indicate that the two main links between EBV and 
+titers)  are 
+MS  (IM  and  high  anti-EBNA-1-IgG 
+paralleled 
+the 
+potentially 
+neuropathogenic  HERV-W/MSRV.  Considering  our 
+data  and  those  of  the  literature  on  MS  pathogenesis, 
+we  postulate  the  possibility  that  EBV  is  an  initial 
+trigger of future MS, years later, and that MSRV has a 
+direct role as effector of neuropathogenesis before and 
+during MS [24,36].  
+MSRV/HERV-W/syncytin-1 
+retroviruses 
+and 
+neurodegeneration 
+
+endogenous 
+HIV-related 
+
+chronic 
+
+The  central  nervous  system  (CNS)  is  a  major 
+target  for  the  human  immunodeficiency  virus  (HIV) 
+[58-60]. HIV neuroinvasion in vivo occurs within the 
+first  month  [61],  and  this  early  compartmentalization 
+suggests  a  CNS  reservoir  for  local  virus  production 
+[62].  The  neurodegenerative  disease  (neuroAIDS) 
+progresses 
+infection,  with 
+neurocognitive,  behavioral,  and  motor  impairments 
+that  can  lead  to  full-blown  HIV-associated  dementia 
+[58].  The  mechanisms  by  which  HIV  causes 
+neurodegeneration  are  not  fully  elucidated,  and 
+include  both  host  and  viral  mechanisms  [28,63]. 
+Additional  relevant  contributions  to  neuroAIDS  are 
+caused  by  reactivation  of  bystander  latent/persistent 
+viruses  with  neurotropic  potential  such  as  EBV, 
+cytomegalovirus,  and  JC  polyomavirus,  which  can 
+result 
+in 
+immunocompromised hosts [28].  
+
+life-threatening  CNS 
+
+infections 
+
+during 
+
+in 
+
+Since 10% of healthy Caucasian release MSRV in 
+the  blood  [16],  we  wondered  whether  MSRV  and 
+syncytin-1 are activated by HIV and thus whether their 
+neuropathogenic  and  immunopathogenic  properties 
+could  contribute  to  HIV-related  neurodegeneration 
+[28].  In  fact,  rather  than  HIV  itself,  as  the  virus 
+production  is  too  low  to  explain  the  extensive  CNS 
+disease  often  observed,  mechanisms  of  amplification 
+of  toxicity  and  inflammation  in  response  to  HIV 
+infection  were  suggested  as  a  major  cause  of 
+neurological disease [64]. To this end, we exposed to 
+HIV,  or  to  its  transactivator  of  transcription  (Tat) 
+protein,  monocytes/macrophages  and  astrocytes,  i.e., 
+the cells that are thought to be more relevant for HIV-
+related neurodegeneration [28]. 
+
+583 
+
+Dolei et al. – HERV-W/MSRV/syncytin-1 and neurodegeneration   
+
+ 
+
+ 
+
+ 
+
+J Infect Dev Ctries 2015; 9(6):577-587. 
+
+that  HIV 
+
+The  results  showed 
+
+infection  and 
+exposure  to  Tat  increase  the  levels  of  MSRVenv 
+mRNAs  and  HERV-Wenv  proteins  in  astrocytes  and 
+in  blood  cells.  In  monocyte-macrophages,  Tat  also 
+induces  high  levels  of  CCR2,  CD16,  and  Toll-like 
+receptor 4 (TLR4) molecules. Interestingly, syncytin-1 
+response  to  Tat  depends  on  the  cell  context:  in 
+monocytes,  Tat  stimulates  MSRVenv  and  inhibits 
+syncytin-1,  while  in  differentiated  macrophages  and 
+primary astrocytes, Tat stimulates both elements [28]. 
+Experiments  were  performed  to  give  insights  on 
+the  mechanisms  by  which  Tat  regulates  MSRV  and 
+syncytin-1.  It  is  known  that  TNFα  is  the  most 
+abundant  proinflammatory  cytokine  in  the  brains  of 
+neuroAIDS 
+of 
+neurodegeneration, MSRV and syncytin-1 stimulation 
+
+context 
+
+patients; 
+
+in 
+
+this 
+
+through 
+
+by  the  induced  TNFα  seemed  likely.  We  found  that 
+Tat  internalization  by  exposed  cells  is  not  required 
+[28]. In primary astrocytes, Tat stimulates MSRV and 
+syncitin-1 
+interaction  with  TLR4  and 
+induction  of  TNFα,  as  reported  on  Figure  5.  The 
+indirect mechanism by which Tat activates HERV-Ws 
+by  TNFα  induction  could  be  a  new  property  of  this 
+pleiotropic  protein.  The  in  vivo  consequence  of  the 
+study  could  be  that,  through  increase  of  CD16  and 
+CCR2,  Tat  promotes  neuroinvasion  by  HIV-infected 
+monocytes/macrophages, but also by HERV-Ws, with 
+their neuropathogenic potential. Within the brain, Tat-
+induced TNFα could induce high levels of HERV-Ws, 
+in both macrophages and astrocytes, also without HIV 
+replication. 
+ 
+
+Figure 5. Cartoon of the proposed mechanism of MSRV and syncytin-1 activation by HIV Tat in human astrocytes 
+
+(1) HIV Tat bind<s the TLR4-MD2 complex on the membrane; this activates TNFα transcription, by two main pathways (NF-κB through the TRIF-
+dependent pathway and/or through a MyD88-dependent pathway). (2) The two pathways lead to proteasomal degradation of IκBs (inhibitor of κB), 
+allowing  NF-κB  translocation  into  the  nucleus.  (3)  Consequent  innate  immune  response,  with  production  of  TNFα  and  others  proinflammatory 
+cytokines.  (4)  The  released  TNFα  binds  to  TNF  receptor  (TNFR),  to  initiate  a  second  run  of  NF-κB  activation  in  a  autocrine  (not  shown)  and 
+paracrine manner. (5) The signalling pathway downstream TNFR leads to nuclear translocation of NF-κB, where it binds to the promoters of syncytin-
+1 and MSRV, hence (6) activating the production/release of the corresponding env proteins and MSRV particles. (7) Cytoplasmatic accumulation of 
+env  proteins  induces  endoplasmic  reticulum  (ER)  stress  responses;  extracellular  or  transmembrane  env  proteins  can  exert  their  properties: 
+fusogenicity, capacity to activate the neuroimmune system, to damage oligodendrocytes and interfere with myelin regeneration, etc. For details, see 
+[28].  
+Abbreviations: TLR4: toll like receptor 4; TLR4-CD14-MD2: lipopolysaccharide receptor complex, consisting of two interacting receptors (CD14 
+and TLR4) and an associated protein (MD-2); TNFα: tumor necrosis factor alpha; NFκB: nuclear factor κB; TNFR1: tumor necrosis factor receptor 1; 
+ER: endoplasmic reticulum; ROI: reactive oxygen intermediates; RNI: reactive nitrogen intermediates. 
+ *** Other receptor/endocytic-mediated Tat pathways (α5β1/α-vβ3 integrins; CD26; LRP; HSPGs). 
+
+584 
+
+Dolei et al. – HERV-W/MSRV/syncytin-1 and neurodegeneration   
+
+ 
+
+ 
+
+ 
+
+J Infect Dev Ctries 2015; 9(6):577-587. 
+
+Concluding remarks 
+
+HERVs  constitute  a  significant  part  of  our 
+genome,  and  were  passed  successfully  over  10–60 
+million years in the genome of our ancestors. Mutual 
+adaptation must have occurred, and in some cases, the 
+host  turned  to  his  own  use  some  of  these  foreign 
+genomes  to  serve  physiological  functions,  as  in  the 
+case  of  HERV-W/syncytin-1,  a  mediator  of  the 
+formation of the syncytiotrophoblast layer during early 
+pregnancy.  Over  time,  some  retroelements  may  have 
+originated  positive  genetic  variability,  but  also 
+inheritable or inducible diseases.  
+
+In  patients  with  MS,  HERV-W/MSRV  can  be 
+considered a biomarker for MS behavior and therapy 
+outcome.  As  for  MS  pathogenesis,  we  postulate  the 
+possibility that EBV is an initial trigger of future MS, 
+and  that  MSRV  has  a  direct  role  of  effector  of 
+neuropathogenesis  during  MS. 
+In  HIV-infected 
+patients, HERV-W/MSR/syncytin-1 activation by HIV 
+Tat 
+HIV-related 
+neurodegeneration. 
+
+contribute 
+
+A key problem when evaluating the expression is 
+differentiating  whether  it  is  the  cause  or  effect  of  a 
+particular disease or physiological condition. 
+
+The links of some HERVs to human diseases are 
+increasingly observed, particularly those characterized 
+by multifactorial etiology and/or dysregulated immune 
+functions, and there is hope for identifying new targets 
+for innovative therapeutic interventions. 
+ 
+Acknowledgements 
+This work was supported in part by CARITRO 2013 (AD) 
+and RAS 2013. EU was funded by a grant from CARITRO 
+2013.  
+ 
+ 
+
+could 
+
+to 
+
+ 
+
+References 
+1.  Griffiths  DJ  (2001)  Endogenous  retroviruses  in  the  human 
+reviews1017-
+
+sequence.  Genome  Biol 
+
+2: 
+
+genome 
+reviews1017.5. 
+
+3. 
+
+2.  Tarlinton RE, Meers J, Young PR (2006) Retroviral invasion 
+
+of the koala genome. Nature 442: 79-81. 
+Ishida  Y,  Zhao  K,  Greenwood  AD,  Roca  AL  (2015) 
+Proliferation of endogenous retroviruses in the early stages of 
+a host germ line invasion. Mol Biol Evol 32: 109-120. 
+
+4.  Hino  S,  Tronick  SR,  Heberling  RL,  Kalter  SS,  Hellman  A, 
+Aaronson  SA  (1977)  Endogenous  New  World  primate 
+retrovirus: interspecies antigenic determinants shared with the 
+major structural protein of type-D RNA viruses of Old World 
+monkeys. Proc Natl Acad Sci U S A 74: 5734-5738.  
+
+5.  Keshet  E,  Temin  HM  (1977)  Nucleotide  sequences  derived 
+from  pheasant  DNA  in  the  genome  of  recombinant  avian 
+leukosis viruses with subgroup F specificity. J Virol 24: 505-
+513. 
+
+6.  Dolei A (2006) Endogenous retroviruses and human disease. 
+
+Expert Rev Clin Immunol 2: 149-167. 
+
+9. 
+
+7.  Tristem M (2000) Identification and characterisation of novel 
+human  endogenous  retrovirus  families  by  phylogenetic 
+screening of the human genome mapping project database. J 
+Virol 74: 3715-3730. 
+
+8.  Pennisi E (2012) Genomics. ENCODE project writes eulogy 
+
+for junk DNA. Science 337: 1159-1161. 
+International Human Genome Sequencing Consortium (2004) 
+Finishing  the  euchromatic  sequence  of  the  human  genome. 
+Nature 431: 931-945. 
+
+10.  Nelson PN, Hooley P, Roden D, Davari Ejtehadi H, Rylance 
+P,  Warren  P,  Martin  J,  Murray  PG  (2004)  Molecular 
+Immunology  Research  Group.  Human 
+endogenous 
+retroviruses:transposable  elements  with  potential?  Clin  Exp 
+Immunol 138: 1-9. 
+
+11.  Kim  YJ,  Lee  J,  Han  K  (2012)  Transposable  Elements:  No 
+
+More 'Junk DNA'. Genomics Inform 10: 226-233. 
+
+12.  Belshaw  R,  Katzourakis  A,  Paces  J,  Burt  A,  Tristem  M 
+(2005)  High  copy  number  in  human  endogenous  retrovirus 
+families is associated with copying mechanisms in addition to 
+reinfection. Mol Biol Evol 22: 814-817. 
+
+13.  Weiss RA (2006) The discovery of endogenous retroviruses. 
+
+Retrovirology 3: 67. 
+
+14.  Kim  HS  (2012)  Genomic  impact,  chromosomal  distribution 
+and transcriptional regulation of HERV elements. Mol Cells 
+33: 539-544. 
+
+15.  Antony JM, Deslauriers AM, Bhat RK, Ellestad KK, Power C 
+retroviruses  and  multiple 
+innocent  bystanders  or  disease  determinants? 
+
+(2011)  Human  endogenous 
+sclerosis: 
+Biochim Biophys Acta 1812: 162-176. 
+
+16.  Dolei  A,  Perron  H  (2009)  The  multiple  sclerosis-associated 
+retrovirus and its HERV-W endogenous family:  a biological 
+interface  between  virology,  genetics,  and  immunology  in 
+human physiology and disease. J Neurovirol 1: 4-13. 
+
+17.  Perron H, Geny C, Laurent A, Mouriquand C, Pellat J, Perret 
+J,  Seigneurin  JM  (1989)  Leptomeningeal  cell  line  from 
+multiple sclerosis with reverse transcriptase activity and viral 
+particles. Res Virol 140: 551-561. 
+
+18.  Blond JL, Beseme F, Duret L, Bouton O, Bedin F, Perron H, 
+Mandrand B, Mallet F (1999) Molecular characterisation and 
+placental expression of HERV-W, a new human endogenous 
+retrovirus family. J Virol 73: 1175-1185.  
+
+19.  Mirsattari SM, Johnston JB, McKenna R, Del Bigio MR, Orr 
+P,  Ross  RT,  Power  C  (2001)  Aboriginals  with  multiple 
+
+585 
+
+Dolei et al. – HERV-W/MSRV/syncytin-1 and neurodegeneration   
+
+ 
+
+ 
+
+ 
+
+J Infect Dev Ctries 2015; 9(6):577-587. 
+
+sclerosis:  HLA  types  and  predominance  of  neuromyelitis 
+optica. Neurology 56: 317-323. 
+
+20.  Zawada M, Liweñ I,Pernak M, Januszkiewicz-Lewandowska 
+D,  Nowicka-Kujawska  K,  Rembowska  J,  Lewandowski  K, 
+Hertmanowska  H,  Wender  M,  Nowak  J  (2003)  MSRV  pol 
+sequence  copy  number  as  a  potential  marker  of  multiple 
+sclerosis. Pol J Pharmacol 55: 869-875.  
+
+21.  Voisset C, Bouton O, Bedin F, Duret L, Mandrand B, Mallet 
+F, Paranhos-Baccala G (2000) Chromosomal distribution and 
+coding capacity of the human endogenous retrovirus HERV-
+W family. AIDS Res Hum Retroviruses 16: 731-740.  
+
+22.  Kim HS, Kim DS, Huh JW, Ahn K, Yi JM, Lee JR, Hirai H 
+(2008) Molecular characterization of the HERV-W env gene 
+in  humans  and  primates:  expression,  FISH,  phylogeny,  and 
+evolution. Mol Cells 26: 53-60. 
+
+23.  Yi  JM,  Kim  HM,  Kim  HS  (2004)  Expression  of  human 
+endogenous  retrovirus  HERV-W  family  in  various  human 
+tissues and cancer cells. J Gen Virol 85: 1203-1210.  
+
+24.  Mameli  G,  Poddighe  L,  Mei  A,  Uleri  E,  Sotgiu  S,  Serra  C, 
+Manetti  R,  Dolei  A  (2012)  Expression  and  activation  by 
+Epstein  Barr  virus  of  human  endogenous  retroviruses-W  in 
+blood  cells  and  astrocytes:  inference  for  multiple  sclerosis. 
+PLoS One 7: e44991. 
+
+25.  Mi  S,  Lee  X,  Li  X,  Veldman  GM,  Finnerty  H,  Racie  L, 
+LaVallie  E,  Tang  XY,  Edouard  P,  Howes  S,  Keith  JC  Jr, 
+McCoy  JM  (2000)  Syncytin  is  a  captive  retroviral  envelope 
+protein  involved  in  human  placental  morphogenesis.  Nature 
+403: 785-789. 
+
+26.  Dolei A (2005) MSRV/HERV-W/syncytin and its linkage to 
+multiple  sclerosis:  the  usability  and  the  hazard  of  a  human 
+endogenous retrovirus. J Neurovirol 11: 232-235. 
+
+27.  Lokossou  AG,  Toudic  C,  Barbeau  B  (2014)  Implication  of 
+human  endogenous  retrovirus  envelope  proteins  in  placental 
+functions. Viruses 6: 4609-4627. 
+
+28.  Uleri  E,  Mei  A,  Mameli  G,  Poddighe  L,  Serra  C,  Dolei  A 
+(2014)  HIV  Tat  acts  on  endogenous  retroviruses  of  the  W 
+family and this occurs via Toll-like receptor 4: inference for 
+neuroAIDS. AIDS 28: 2659-2670.  
+
+29.  Mameli G, Poddighe L, Astone V, Delogu G, Arru G, Sotgiu 
+S, Serra C, Dolei A (2009) Novel reliable real-time PCR for 
+differential  detection  of  MSRVenv  and  syncytin-1  in  RNA 
+and  DNA  from  patients  with  multiple  sclerosis.  J  Virol 
+Methods 161: 98-106. 
+
+30.  Firouzi R, Rolland A, Michel M, Jouvin-Marche E, Hauw JJ, 
+Malcus-Vocanson C, Lazarini F, Gebuhrer L, Seigneurin JM, 
+Touraine  JL,  Sanhadji  K,  Marche  PN,  Perron  H  (2003) 
+Multiple  sclerosis-associated  retrovirus  particles  cause  T 
+lymphocyte-dependent  death  with  brain  hemorrhage 
+in 
+humanized SCID mice model. J Neurovirol 9: 79-93. 
+
+31.  Antony JM, Van Marle G, Opii W, Butterfield DA, Mallet F, 
+Yong  VW,  Wallace  JL,  Deacon  RM,  Warren  K,  Power  C 
+(2004)  Human  endogenous  retrovirus  glycoprotein-mediated 
+induction of redox reactants causes oligodendrocyte death and 
+demyelination. Nat Neurosci 7: 1088-1095. 
+
+32.  Mameli G, Astone V, Arru G, Marconi S, Lovato L, Serra C, 
+Sotgiu  S,  Bonetti  B,  Dolei  A  (2007)  Brains  and  peripheral 
+blood  mononuclear  cells  of  multiple  sclerosis  (MS)  patients 
+hyperexpress MS-associated retrovirus/HERV-W endogenous 
+retrovirus, but not Human herpesvirus 6. J Gen Virol 88: 264-
+274.  
+
+33.  Perron  H,  Lazarini  F,  Ruprecht  K,  Pechoux-Longin  C, 
+Seilhean D, Sazdovitch V, Créange A, Battail-Poirot N, Sibaï 
+G, Santoro L, Jolivet M, Darlix JL, Rieckmann P, Arzberger 
+
+T,  Hauw  JJ,  Lassmann  H  (2005)  Human  endogenous 
+retrovirus (HERV)-W ENV and GAG proteins: physiological 
+expression in human brain and pathophysiological modulation 
+in multiple sclerosis lesions. J Neurovirol 11: 23-33. 
+
+34.  Perron  H,  Dougier-Reynaud  HL,  Lomparski  C,  Popa  I, 
+Firouzi  R,  Bertrand  JB,  Marusic  S,  Portoukalian  J,  Jouvin-
+Marche  E,  Villiers  CL,  Touraine  JL,  Marche  PN  (2013) 
+innate 
+Human  endogenous 
+immunity 
+experimental 
+allergic 
+encephalomyelitis in mice. PLoS One 8: e80128. 
+
+retrovirus  protein  activates 
+promotes 
+
+35.  McQualter JL, Bernard CC (2007) Multiple sclerosis: a battle 
+
+and 
+
+between destruction and repair. J Neurochem 100: 295-306. 
+
+36.  Mameli G, Madeddu G, Mei A, Uleri E, Poddighe L, Delogu 
+LG,  Maida  I,  Babudieri  S,  Serra  C,  Manetti  R,  Mura  MS, 
+Dolei  A  (2013)  Activation  of  MSRV-type  endogenous 
+retroviruses  during  infectious  mononucleosis  and  Epstein-
+Barr  virus  latency:  the  missing  link  with  multiple  sclerosis? 
+PLoS One 8: e78474. 
+
+37.  Perron H, Germi R, Bernard C, Garcia-Montojo M, Deluen C, 
+Farinelli  L,  Faucard  R,  Veas  F,  Stefas  I,  Fabriek  BO,  Van-
+Horssen  J, Van-der-Valk P,  Gerdil  C,  Mancuso  R, Saresella 
+M, Clerici M, Marcel S, Creange A, Cavaretta R, Caputo D, 
+Arru  G,  Morand  P,  Lang  AB,  Sotgiu  S,  Ruprecht  K, 
+Rieckmann P, Villoslada P, Chofflon M, Boucraut J, Pelletier 
+J, Hartung HP (2012) Human endogenous retrovirus type W 
+envelope  expression  in  blood  and  brain  cells  provides  new 
+insights into multiple sclerosis disease. Mult Scler 18: 1721-
+1736. 
+
+38.  Sardu  C,  Cocco  E,  Mereu  A,  Massa  R,  Cuccu  A,  Marrosu 
+MG,  Contu  P  (2012)  Population  based  study  of  12 
+autoimmune  diseases  in  Sardinia,  Italy:  prevalence  and 
+comorbidity. PLoS One 7: e32487. 
+
+39.  Dolei  A,  Serra  C,  Mameli  G,  Pugliatti  M,  Sechi  G,  Cirotto 
+MC, Rosati G, Sotgiu S (2002) Multiple sclerosis-associated 
+retrovirus (MSRV) in Sardinian MS patients.  Neurology 58: 
+471-473. 
+
+40.  Arru G, Mameli G, Astone V, Serra C, Huang YM, Link H, 
+Fainardi  E,  Castellazzi  M,  Granieri  E,  Fernandez  M, 
+Villoslada P, Fois ML, Sanna A, Rosati G, Dolei A, Sotgiu S 
+(2007)  Multiple  Sclerosis 
+and  HERV-W/MSRV:  A 
+Multicentric Study. Int J Biomed Sci 3: 292-297. 
+
+41.  Sotgiu S, Serra C, Mameli G, Pugliatti M, Rosati G, Arru G, 
+Dolei A (2002) Multiple sclerosis (MS)-associated retrovirus 
+and  MS  prognosis:  an  observational  study.  Neurology  59: 
+1071-1073.  
+
+42.  Sotgiu  S,  Mameli  G,  Serra  C,  Zarbo  IR,  Arru  G,  Dolei  A 
+(2010)  Multiple 
+and 
+progressive  disability  of  multiple  sclerosis.  Mult  Scler  16: 
+1248-1251. 
+
+sclerosis-associated 
+
+retrovirus 
+
+43.  Sotgiu S, Arru G, Mameli G, Serra C, Pugliatti M, Rosati G, 
+Dolei A (2006). MSRV in early multiple sclerosis: a six-year 
+follow-up of a Sardinian cohort. Mult Scler 12: 698-703.  
+
+44.  Sotgiu S, Arru G, Söderström M, Mameli G, Serra C, Dolei A 
+
+(2006) MSRV and optic neuritis. Mult Scler 12: 357-359.  
+45.  Serra  C,  Mameli  G,  Arru  G,  Sotgiu  S,  Rosati  G,  Dolei  A 
+(2003)  In  vitro  modulation  of  the  multiple  sclerosis  (MS)-
+associated retrovirus (MSRV) by  cytokines:  implications  for 
+MS pathogenesis. J Neurovirol 9: 637-643.  
+
+46.  Rolland  A,  Jouvin-Marche  E,  Saresella  M,  Ferrante  P, 
+Cavaretta  R,  Creange  A,  Marche  P,  Perron  H  (2005) 
+Correlation  between  disease  severity  and  in  vitro  cytokine 
+production mediated by MSRV (multiple sclerosis associated 
+
+586 
+
+Dolei et al. – HERV-W/MSRV/syncytin-1 and neurodegeneration   
+
+ 
+
+ 
+
+ 
+
+J Infect Dev Ctries 2015; 9(6):577-587. 
+
+retroviral element) envelope protein in patients with multiple 
+sclerosis. J Neuroimmunol 160: 195-203.   
+
+to 
+
+47.  Mameli  G,  Serra  C,  Astone  V,  Castellazzi  M,  Poddighe  L, 
+Fainardi E, Neri W, Granieri E, Dolei A (2008) Inhibition of 
+multiple-sclerosis-associated 
+retrovirus  as  biomarker  of 
+interferon therapy. J Neurovirol 14: 73-77. 
+
+48.  Petersen T, Møller-Larsen A, Thiel S, Brudek T, Hansen TK, 
+Christensen  T  (2009)  Effects  of  interferon-beta  therapy  on 
+innate  and  adaptive 
+the  human 
+endogenous  retroviruses  HERV-H  and  HERV-W,  cytokine 
+production, and the lectin complement activation pathway in 
+multiple sclerosis. J Neuroimmunol 215: 108-116. 
+
+immune  responses 
+
+49.  Arru  G,  Leoni  S,  Pugliatti  M,  Mei  A,  Serra  C,  Delogu  LG, 
+Manetti R, Dolei A, Sotgiu S, Mameli G (2014) Natalizumab 
+inhibits the expression of human endogenous retroviruses of 
+the  W  family  in  multiple  sclerosis  patients:  a  longitudinal 
+cohort study. Mult Scler 20: 174-182. 
+
+50.  Cusick  MF,  Libbey  JE,  Fujinami  RS  (2013)  Multiple 
+sclerosis:  autoimmunity  and  viruses.  Curr  Opin  Rheumatol 
+25: 496-501. 
+
+51.  Libbey  JE,  Cusick  MF,  Fujinami  RS  (2014)  Role  of 
+pathogens  in  multiple  sclerosis.  Int  Rev  Immunol  33:  266-
+283. 
+
+52.  Leibovitch  EC,  Jacobson S  (2014)  Evidence  linking  HHV-6 
+with  multiple  sclerosis:  an  update.  Curr  Opin  Virol  9:  127-
+133. 
+
+53.  Ascherio  A  (2013)  Environmental  factors 
+
+sclerosis. Expert Rev Neurother 13 Suppl 12: 3-9.  
+
+in  multiple 
+
+54.  Dolei A, Garson JA, Arru G, Clerici M, Germi R, Marche PN, 
+Perron  H  (2014)  Multiple  sclerosis-associated  retrovirus  and 
+related  human  endogenous  retrovirus-W  in  patients  with 
+multiple sclerosis. J Neuroimmunol 266: 87-88. 
+
+55.  Santiago  O,  Gutierrez  J,  Sorlozano  A,  De  Dios  Luna  J, 
+Villegas  E,  Fernandez  O  (2010)  Relation  between  Epstein-
+Barr virus and multiple sclerosis: analytic study of scientific 
+production. Eur J Clin Microbiol Infect Dis 29: 857-866. 
+
+56.  Handel  AE,  Williamson  AJ,  Disanto  G,  Handunnetthi  L, 
+Giovannoni  G,  Ramagopalan  SV  (2010)  An  updated  meta-
+analysis  of  risk  of  multiple  sclerosis  following  infectious 
+mononucleosis. PLoS One 5: e12496. 
+
+ 
+
+57.  Pakpoor J, Giovannoni G, Ramagopalan SV (2013) Epstein-
+Barr  virus  and  multiple  sclerosis:  association  or  causation? 
+Expert Rev Neurother 13: 287-297. 
+
+58.  Shapshak  P,  Kangueane  P,  Fujimura  RK,  Commins  D, 
+Chiappelli F, Singer E, Levine AJ, Minagar A, Novembre FJ, 
+Somboonwit  C,  Nath  A,  Sinnott  JT  (2011)  Editorial 
+neuroAIDS review. AIDS 25: 123-141.  
+
+59.  Hong  S,  Banks  WA  (2015)  Role  of  the  immune  system  in 
+and  neurocognitive 
+
+HIV-associated  neuroinflammation 
+implications. Brain Behav Immun 45: 1-12.  
+
+60.  Gray  LR,  Roche  M,  Flynn  JK,  Wesselingh  SL,  Gorry  PR, 
+Churchill MJ (2014) Is the central nervous system a reservoir 
+of HIV-1? Curr Opin HIV AIDS 9: 552-558.  
+
+61.  Davis LE, Hjelle BL, Miller VE, Palmer DL, Llewellyn AL, 
+Merlin TL, Young SA, Mills RG, Wachsman W, Wiley CA 
+(1992)  Early  viral  brain  invasion  in  iatrogenic  human 
+immunodeficiency virus infection. Neurology 42: 1736-1739. 
+62.  Spudich S (2013) HIV and neurocognitive dysfunction. Curr 
+
+HIV/AIDS Rep 10: 235-243. 
+
+63.  Desplats  P,  Dumaop  W,  Smith  D,  Adame  A,  Everall  I, 
+Letendre S, Letendre S, Ellis R, Cherner M, Grant I, Masliah 
+E (2013) Molecular and pathologic insights from latent HIV-1 
+infection in the human brain. Neurology 80: 1415-1423. 
+
+64.  Eugenin EA, Berman JW (2013) Cytochrome C dysregulation 
+induced  by  HIV  infection  of  astrocytes  results  in  bystander 
+apoptosis  of  uninfected  astrocytes  by  an  IP(3)  and  calcium-
+dependent mechanism. J Neurochem 127: 644-651. 
+
+ 
+Corresponding author 
+Antonina Dolei 
+Department of Biomedical Sciences, University of Sassari 
+Viale San Pietro 43B, 07100  
+Sassari, Italy 
+Phone: +393204299685 
+Fax: +39079212345 
+Email: doleivir@uniss.it 
+ 
+Conflict  of  interests:  No  conflict  of  interests  is  declared.
+
+587 
+
+
